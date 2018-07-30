@@ -1,0 +1,115 @@
+@font-face {
+    font-family: 'kaleko_205_roundbold';
+    src: url('talbot_type_-_kaleko205round-bold-webfont.woff2') format('woff2'),
+         url('talbot_type_-_kaleko205round-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'kaleko_205_roundbold_oblique';
+    src: url('talbot_type_-_kaleko205round-boldoblique-webfont.woff2') format('woff2'),
+         url('talbot_type_-_kaleko205round-boldoblique-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'kaleko_205_roundbook';
+    src: url('talbot_type_-_kaleko205round-book-webfont.woff2') format('woff2'),
+         url('talbot_type_-_kaleko205round-book-webfont.woff') format('woff');
+    
+
+}
+
+
+
+
+@font-face {
+    font-family: 'kaleko_205_roundbook_oblique';
+    src: url('talbot_type_-_kaleko205round-bookoblique-webfont.woff2') format('woff2'),
+         url('talbot_type_-_kaleko205round-bookoblique-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'kaleko_205_roundheavy';
+    src: url('talbot_type_-_kaleko205round-heavy-webfont.woff2') format('woff2'),
+         url('talbot_type_-_kaleko205round-heavy-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'kaleko_205_roundheavy_oblique';
+    src: url('talbot_type_-_kaleko205round-heavyoblique-webfont.woff2') format('woff2'),
+         url('talbot_type_-_kaleko205round-heavyoblique-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'kaleko_205_roundlight';
+    src: url('talbot_type_-_kaleko205round-light-webfont.woff2') format('woff2'),
+         url('talbot_type_-_kaleko205round-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'kaleko_205_roundlight_oblique';
+    src: url('talbot_type_-_kaleko205round-lightoblique-webfont.woff2') format('woff2'),
+         url('talbot_type_-_kaleko205round-lightoblique-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'kaleko_205_roundthin';
+    src: url('talbot_type_-_kaleko205round-thin-webfont.woff2') format('woff2'),
+         url('talbot_type_-_kaleko205round-thin-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'kaleko_205_roundthin_oblique';
+    src: url('talbot_type_-_kaleko205round-thinoblique-webfont.woff2') format('woff2'),
+         url('talbot_type_-_kaleko205round-thinoblique-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}

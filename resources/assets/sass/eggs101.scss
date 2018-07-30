@@ -1,0 +1,155 @@
+@import "variables";
+
+.eggs101_header{
+	text-align:center;
+	margin-top:80px;
+	padding-top: 180px;
+  padding-bottom:120px;
+	background-image: url("/images/eggs101/eggs-101-header.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    .eggs101_title{
+    	color: white;
+          font-size: 80px;
+          line-height: 80px;
+          font-weight: bold;
+          margin: 40px 0;
+    }
+    .eggs101_title_body{
+    	margin:auto;
+    	width:40%;
+    	padding: 10px 10px 100px 10px;
+		color: white;
+		font-size: 26px;
+		line-height: 36.4px;
+		font-family: Open Sans,Tahoma,sans-serif;
+    }
+}
+
+.eggs101-social{
+  padding-bottom:30px;
+  a{
+    img{
+      width:42px;
+    }
+  }
+}
+
+.eggs101_subtitle{
+	font-size: 40px;
+  color:black;
+    font-weight: bold;
+    margin: 40px; 
+}
+.eggs_words{
+  color: black;
+  margin-bottom: 5500px;
+  .eggs101_body_subtitle{
+    font-size: 30px;
+    font-weight: 30px;
+    clear: both;
+    padding-top:40px;
+    padding-left:0;
+  }
+  .eggs101_body{
+    padding:10px 0;
+    font-size: 20px;
+    line-height:38px;
+    font-family: Open Sans,Tahoma,sans-serif;
+  }
+  .eggs101_img{
+    padding:50px 0;
+    img{
+      width: 100%;
+
+    }
+  }
+  .eggs101_details{
+      
+    li{
+      font-size: 20px;
+      line-height:38px;
+      font-family: Open Sans,Tahoma,sans-serif;
+      padding-bottom:10px;
+      position:relative;
+      text-align: left;
+    }
+    
+  }
+  .eggs101_body_subtitle_2{
+    font-size: 30px;
+    font-weight: 30px;
+    padding-top:0px;
+    padding-left:0;
+  }
+  .table-1{
+    padding:0;
+  }
+  .mytable{
+    border: 2px solid #ffcd32;
+    font-size: 16px;
+    line-height: 22px;
+    border-collapse: collapse !important;
+    border-radius:10px;    
+    tr{ 
+      border: 2px solid #ffcd32;
+      td{
+        font-family: Open Sans,Tahoma,sans-serif;
+        padding:18px 30px;
+      }
+      .left_td{
+        font-weight: bold;
+      }
+    }
+  }
+  #canada-food-guides{
+    color: #ffcd32;
+    &:hover{
+      color: $eggs_dark_yellow;
+    }
+  }
+  .table-header{
+    background-color: #ffcd32;
+    color:white;
+    font-size: 18px;
+    font-weight: bold;
+    line-height:24.75px;
+  }
+  
+    
+    span{
+      display: block;
+      padding:10px 0;
+    font-size: 20px;
+    line-height:38px;
+    font-family: Open Sans,Tahoma,sans-serif;
+     
+    }
+    
+      
+    
+    
+}
+
+// ol {
+//     counter-reset: item;
+//     padding:0;
+//     list-style-position:outside;
+//     list-style-type: none;
+// }
+// ol li { display: block; }
+
+// ol li:before {
+//     content: counter(item) ". ";
+//     counter-increment: item;
+//     font-weight: bold;
+// }
+
+    
+
+    
+
+	
+
+	

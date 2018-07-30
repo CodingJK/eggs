@@ -1,0 +1,135 @@
+/*body {
+  background: white;
+  min-height: 1999px;
+  font-family: kaleko_205_roundbook,Proxima Nova,Avenir Next,Avenir,sans-serif; }
+  body a:hover {
+    text-decoration: none; }
+  body a:visited {
+    text-decoration: none; }
+  body a:hover {
+    text-decoration: none; }
+  body a:link {
+    text-decoration: none; }
+
+.footer {
+  background-color: #ffcd32; }
+
+footer {
+  background-color: #ffcd32; }
+
+#eggs101 {
+  padding-top: 120px; }
+  @media screen and (min-width: 1320px) {
+    #eggs101 .header {
+      background-image: url("/images/eggs101/eggs-101-header.jpg");
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover; }
+      #eggs101 .header .header_artical {
+        padding: 180px 0;
+        width: 620px;
+        margin: auto;
+        text-align: center; }
+        #eggs101 .header .header_artical .title {
+          color: white;
+          font-size: 80px;
+          line-height: 80px;
+          font-weight: bold;
+          margin: 40px 0; }
+        #eggs101 .header .header_artical .sub_title {
+          padding: 10px 10px;
+          color: white;
+          font-size: 26px;
+          line-height: 36.4px;
+          font-family: Open Sans,Tahoma,sans-serif; }
+    #eggs101 .introduction {
+      background-color: white;
+      text-align: center;
+      margin: auto; }
+      #eggs101 .introduction .introduction_img {
+        padding-top: 150px;
+        width: 1280px;
+        margin: auto; }
+      #eggs101 .introduction .title {
+        font-size: 40px;
+        font-weight: bold;
+        margin: 40px; }
+      #eggs101 .introduction .sub_title {
+        width: 980px;
+        margin: auto; }
+        #eggs101 .introduction .sub_title p {
+          color: black;
+          font-size: 20px;
+          line-height: 38px;
+          text-align: left;
+          padding: 0 20px;
+          margin: 26px 0;
+          font-family: Open Sans,Tahoma,sans-serif; }
+      #eggs101 .introduction .btn {
+        padding: 50px 0; }
+        #eggs101 .introduction .btn a {
+          color: black;
+          font-size: 20px;
+          font-weight: bold;
+          line-height: 20px;
+          padding: 14px 38px 14px 38px;
+          border: 2px solid black;
+          border-radius: 40px;
+          color: black; }
+          #eggs101 .introduction .btn a:hover {
+            color: #ffcd32;
+            border-color: #ffcd32; }
+    #eggs101 .Top_parent {
+      background-color: white; }
+    #eggs101 .Top {
+      width: 1280px;
+      margin: auto; }
+      #eggs101 .Top a:hover .name {
+        color: #ffcd32; }
+      #eggs101 .Top #title {
+        font-size: 40px;
+        font-weight: bold;
+        margin: 10px 40px 40px 40px;
+        color: black;
+        text-align: center; }
+      #eggs101 .Top .left_img_1 {
+        padding-left: 0;
+        text-align: left; }
+      #eggs101 .Top .right_img_1 {
+        padding-right: 0;
+        text-align: right; }
+      #eggs101 .Top .name {
+        color: black;
+        font-size: 26px;
+        font-weight: bold;
+        line-height: 33.8px;
+        margin: 15px 0;
+        text-align: left; }
+        #eggs101 .Top .name:hover {
+          color: #ffcd32; }
+      #eggs101 .Top .right_name {
+        padding-left: 30px; }
+      #eggs101 .Top .viewAll_center {
+        text-align: center;
+        margin: auto; }
+      #eggs101 .Top #ViewAll {
+        font-size: 20px;
+        font-weight: bold;
+        line-height: 20px;
+        padding: 14px 38px 14px 38px;
+        border: 2px solid black;
+        border-radius: 40px;
+        color: black; }
+        #eggs101 .Top #ViewAll:hover {
+          color: #ffcd32;
+          border-color: #ffcd32; }
+    #eggs101 .descrip {
+      color: black;
+      font-size: 20px;
+      line-height: 32px;
+      text-align: left;
+      font-family: Open Sans,Tahoma,sans-serif;
+      padding-bottom: 10px; }
+    #eggs101 .right_descrip {
+      padding-left: 30px; } }
+*/

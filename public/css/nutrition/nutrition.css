@@ -1,0 +1,344 @@
+img {
+  width: 100%;
+}
+
+@media screen and (min-width: 1300px) {
+  .nutrition_content {
+    width: 1300px;
+    margin: auto;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .nutrition_header {
+    background-image: url("/images/nutrition/Eggs_nutrition.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 40px;
+  }
+
+  .nutrition_header .nutrition_header_artical {
+    padding-top: 150px;
+    padding-bottom: 200px;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+  }
+
+  .nutrition_header .nutrition_header_artical .nutrition_title {
+    color: white;
+    font-size: 40px;
+    line-height: 60px;
+  }
+
+  .nutrition_header .nutrition_header_artical .nutrition_sub_title {
+    padding: 10px 50px;
+    color: white;
+    font-size: 22px;
+    line-height: 36.4px;
+    font-family: Open Sans, Tahoma, sans-serif;
+  }
+
+  .nutrition_content .egg_nutrition_page {
+    background-color: #fd7170;
+  }
+
+  .nutrition_content .egg_nutrition_img {
+    background-image: url("/images/nutrition/eggs.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 300px;
+  }
+
+  .nutrition_content .nutrition_title {
+    text-align: center;
+    font-size: 32px;
+    line-height: 32px;
+    padding-top: 30px;
+    color: #fd7170;
+  }
+
+  .nutrition_content p {
+    padding: 20px 10px;
+    color: black;
+    font-size: 16px;
+    line-height: 20.4px;
+    font-family: Open Sans, Tahoma, sans-serif;
+  }
+
+  .nutrition_content span {
+    display: block;
+    padding-top: 50px;
+  }
+
+  .nutrition_content .nutrition_subtitle {
+    text-align: center;
+    font-size: 32px;
+    line-height: 32px;
+  }
+
+  .nutrition_content .nutrition_title_sm {
+    font-size: 24px;
+    line-height: 24px;
+  }
+
+  .nutrition_content .nutrition_title_sm_1 {
+    font-size: 24px;
+    line-height: 24px;
+  }
+
+  .nutrition_content .nutrition_title_sm_2 {
+    font-size: 18px;
+    line-height: 18px;
+    padding: 30px;
+  }
+
+  .nutrition_content .eggs_nutrition {
+    clear: both;
+  }
+
+  .nutrition_content .eggs_nutrition div {
+    padding: 30px 0;
+  }
+
+  .nutrition_content .left-panel {
+    background-color: #fd7170;
+    min-height: 300px;
+  }
+
+  .nutrition_content .Featured {
+    font-size: 20px;
+    padding: 10px 20px;
+    color: #fd7170;
+    background-color: white;
+  }
+
+  .nutrition_content .Featured:hover {
+    background-color: #fd7170;
+    color: white;
+  }
+
+  .nutrition_content .nutrient_benefit {
+    clear: both;
+    padding: 30px;
+  }
+
+  .nutrition_content .nutrient_benefit .small_title {
+    padding: 20px 0px;
+    color: black;
+    font-size: 18px;
+    line-height: 22.4px;
+    font-family: Open Sans, Tahoma, sans-serif;
+  }
+
+  .nutrition_content .table {
+    margin-top: 30px;
+    font-size: 18px;
+    border-color: #fbbb27;
+  }
+
+  .nutrition_content .table thead {
+    background-color: #fbbb27;
+  }
+
+  .nutrition_content .table th {
+    border-color: #fbbb27;
+    padding: 15px;
+  }
+
+  .nutrition_content .table .light_yellow_tr {
+    background-color: #fff7e2;
+  }
+
+  .nutrition_content .table td {
+    font-family: Open Sans, Tahoma, sans-serif;
+    border-color: #fbbb27;
+    padding: 10px 10px;
+  }
+
+  .nutrition_content .nutrition_words {
+    margin-top: 30px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .nutrition_header {
+    background-image: url("/images/nutrition/Eggs_nutrition.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 80px;
+  }
+
+  .nutrition_header .nutrition_header_artical {
+    padding-top: 250px;
+    padding-bottom: 200px;
+    width: 40%;
+    margin: auto;
+    text-align: center;
+  }
+
+  .nutrition_header .nutrition_header_artical .nutrition_title {
+    color: white;
+    font-size: 80px;
+    line-height: 80px;
+  }
+
+  .nutrition_header .nutrition_header_artical .nutrition_sub_title {
+    padding: 10px 50px;
+    color: white;
+    font-size: 26px;
+    line-height: 36.4px;
+    font-family: Open Sans, Tahoma, sans-serif;
+  }
+
+  .nutrition_content .egg_nutrition_page {
+    background-color: #fd7170;
+  }
+
+  .nutrition_content .egg_nutrition_img {
+    background-image: url("/images/nutrition/eggs.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 500px;
+  }
+
+  .nutrition_content .nutrition_title {
+    font-size: 64px;
+    line-height: 64px;
+    padding-top: 60px;
+    color: #fd7170;
+  }
+
+  .nutrition_content p {
+    padding: 50px 10px 30px 10px;
+    color: black;
+    font-size: 18px;
+    line-height: 32px;
+    font-family: Open Sans, Tahoma, sans-serif;
+  }
+
+  .nutrition_content span {
+    display: block;
+    padding-top: 50px;
+  }
+
+  .nutrition_content .nutrition_subtitle {
+    font-size: 32px;
+    line-height: 32px;
+  }
+
+  .nutrition_content .nutrition_title_sm {
+    font-size: 48px;
+    line-height: 48px;
+  }
+
+  .nutrition_content .nutrition_title_sm_1 {
+    font-size: 48px;
+    line-height: 48px;
+  }
+
+  .nutrition_content .nutrition_title_sm_2 {
+    font-size: 36px;
+    line-height: 36px;
+  }
+
+  .nutrition_content .eggs_nutrition {
+    clear: both;
+  }
+
+  .nutrition_content .eggs_nutrition div {
+    padding: 20px 0;
+  }
+
+  .nutrition_content .eggs_nutrition p {
+    padding: 10px 0;
+  }
+
+  .nutrition_content .left-panel {
+    background-color: #fd7170;
+    min-height: 500px;
+  }
+
+  .nutrition_content .Featured {
+    font-size: 20px;
+    padding: 10px 20px;
+    background-color: white;
+    color: #fd7170;
+  }
+
+  .nutrition_content .Featured:hover {
+    background-color: #fd7170;
+    color: white;
+  }
+
+  .nutrition_content .nutrient_benefit {
+    clear: both;
+    padding: 10px;
+  }
+
+  .nutrition_content .nutrient_benefit .small_title {
+    padding: 10px 0px;
+    color: black;
+    font-size: 18px;
+    line-height: 22.4px;
+    font-family: Open Sans, Tahoma, sans-serif;
+  }
+
+  .nutrition_content .table {
+    margin-top: 30px;
+    font-size: 18px;
+    border-color: #fbbb27;
+  }
+
+  .nutrition_content .table thead {
+    background-color: #fbbb27;
+  }
+
+  .nutrition_content .table th {
+    border-color: #fbbb27;
+    padding: 15px;
+  }
+
+  .nutrition_content .table .light_yellow_tr {
+    background-color: #fff7e2;
+  }
+
+  .nutrition_content .table td {
+    font-family: Open Sans, Tahoma, sans-serif;
+    border-color: #fbbb27;
+    padding: 10px 10px;
+  }
+
+  .nutrition_content .nutrition_words {
+    margin-top: 30px;
+  }
+
+  .nutrition_content .nutrition_words .worlds {
+    padding: 10px 0px;
+    color: black;
+    font-size: 18px;
+    line-height: 22.4px;
+    font-family: Open Sans, Tahoma, sans-serif;
+  }
+
+  .nutrition_content .nutrition_words .worlds a {
+    color: #ffc52f;
+  }
+
+  .nutrition_content .nutrition_words .worlds a:hover {
+    color: #fbbb27;
+  }
+
+  #canada-food-guides {
+    color: #ffcd32;
+  }
+
+  #canada-food-guides:hover {
+    color: #fbbb27;
+  }
+}
+

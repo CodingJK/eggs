@@ -1,0 +1,194 @@
+@import "variables";
+
+img{
+	width:100%;
+}
+@media screen and (min-width:1320px){
+	.babys_content{
+		width: 1300px;
+		margin:auto;
+	}
+}
+
+
+@media screen and (min-width:768px) {
+    .babys_header {
+        margin-top: 90px;
+        background-image: url("/images/babys/eggs-101-header.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding-top: 200px;
+        padding-bottom: 200px;
+
+
+        text-align: center;
+        .babys_title {
+            color: white;
+            font-size: 80px;
+            line-height: 80px;
+            padding-bottom: 50px;
+        }
+        .babys_title_body {
+            padding: 10px 50px;
+            color: white;
+            width: 60%;
+            font-size: 26px;
+            line-height: 36.4px;
+            margin: auto;
+            font-family: Open Sans, Tahoma, sans-serif;
+        }
+    }
+
+    .babys_content {
+        padding-top: 50px;
+        .babys_subtitle {
+            font-size: 64px;
+            line-height: 64px;
+
+            color: #ffc52f;
+        }
+        .babys_body {
+            color: black;
+            font-size: 18px;
+            line-height: 22.4px;
+            font-family: Open Sans, Tahoma, sans-serif;
+        }
+        .babys_img {
+            padding-top: 50px;
+            padding-bottom: 50px;
+        }
+        .babys_title_sm_2 {
+            font-size: 36px;
+            line-height: 36px;
+            padding: 30px 15px;
+        }
+
+        .babys_title_sm_3{
+        	font-size: 32px;
+            line-height: 32px;
+            padding: 20px 15px;
+        }
+        p {
+            padding: 0px 15px;
+            color: black;
+            font-size: 18px;
+            line-height: 35.4px;
+            font-family: Open Sans, Tahoma, sans-serif;
+            .mybtn {
+                font-size: 16px;
+                padding: 8px 16px;
+                background-color: #ffc52f;
+                color: white;
+                &:hover {
+                    background-color: white;
+                    color: #ffc52f;
+                }
+            }
+
+        }
+        .steps_words {
+            	color:black;
+                padding: 10px 15px;
+                font-size: 18px;
+                line-height: 35px;
+                font-family: Open Sans, Tahoma, sans-serif;
+            }
+        
+    }
+
+    .myol{
+            
+        }
+    
+}
+
+
+@media screen and (max-width:768px) {
+    .babys_header {
+        margin-top: 50px;
+        background-image: url("/images/babys/eggs-101-header.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding-top: 100px;
+        padding-bottom: 100px;
+
+
+        text-align: center;
+        .babys_title {
+            color: white;
+            font-size: 40px;
+            line-height: 40px;
+            padding-bottom: 50px;
+        }
+        .babys_title_body {
+            padding: 10px 50px;
+            color: white;
+            width: 60%;
+            font-size: 18px;
+            line-height: 22.4px;
+            margin: auto;
+            font-family: Open Sans, Tahoma, sans-serif;
+        }
+    }
+
+    .babys_content {
+        padding-top: 50px;
+        .babys_subtitle {
+            font-size: 48px;
+            line-height: 48px;
+			text-align: center;
+            color: #ffc52f;
+            padding-bottom:30px;
+        }
+        .babys_body {
+            color: black;
+            text-align: center;
+            font-size: 18px;
+            line-height: 22.4px;
+            font-family: Open Sans, Tahoma, sans-serif;
+        }
+        .babys_img {
+            padding-top: 50px;
+            padding-bottom: 50px;
+        }
+        .babys_title_sm_2 {
+            font-size: 30px;
+            line-height: 30px;
+            padding: 20px 15px;
+        }
+
+        .babys_title_sm_3{
+        	font-size: 24px;
+            line-height: 24px;
+            padding: 20px 15px;
+        }
+        p {
+            padding: 0px 15px;
+            color: black;
+            font-size: 16px;
+            line-height: 22.4px;
+            font-family: Open Sans, Tahoma, sans-serif;
+            .mybtn {
+                font-size: 14px;
+                padding: 8px 16px;
+                background-color: #ffc52f;
+                color: white;
+                &:hover {
+                    background-color: white;
+                    color: #ffc52f;
+                }
+            }
+
+        }
+        .steps_words {
+            	color:black;
+                padding: 10px 15px;
+                font-size: 16px;
+                line-height: 22.4px;
+                font-family: Open Sans, Tahoma, sans-serif;
+            }
+    }
+}
+

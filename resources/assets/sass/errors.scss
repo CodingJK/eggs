@@ -1,0 +1,65 @@
+@import "variables";
+.error404{
+	margin-top:80px;
+	padding: 90px 50px 50px 50px;
+	background-color:#ffcd32;
+	display:flex;
+	justify-content:center;
+}
+.error_body{
+	display:flex;
+	flex-direction:column ;
+	text-align:center;
+	h1{
+		font-size: 60px;
+		line-height: 78px;
+		margin: 42px 0;
+		text-align:center;
+	}
+	.error_subtilte{
+		color: #ffcd32;
+		font-size: 30px;
+		line-height: 32px;
+		margin:20px;
+	}
+	.error_body_words{
+		font-size: 20px;
+		line-height: 32px;
+		width:60%;
+		margin:auto;
+		font-family: Open Sans,Tahoma,sans-serif;
+		a{
+			color:#ffcd32;
+			&:hover{
+				color: $eggs_dark_yellow;
+			}
+		}
+
+	}
+
+
+}
+.error_try {
+	padding-top:50px;
+	text-align:center;
+    .try_title {
+        font-size: 26px;
+        line-height: 33.8px;
+    }
+    .errors_img{
+    	width:35%;
+    	margin:auto;
+    	padding:30px;
+    	display: flex;
+    	justify-content:space-around ;
+    	.error_img{
+    		a{color: black;
+	    		&:hover{
+	    			color:#ffcd32;
+	    		}
+    		}
+    		
+    	}
+
+    }
+}

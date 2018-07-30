@@ -1,0 +1,254 @@
+body {
+  background: white;
+  min-height: 1999px;
+  font-family: kaleko_205_roundbook,Proxima Nova,Avenir Next,Avenir,sans-serif; }
+  body a:hover {
+    text-decoration: none; }
+  body a:visited {
+    text-decoration: none; }
+  body a:hover {
+    text-decoration: none; }
+  body a:link {
+    text-decoration: none; }
+
+@media screen and (min-width: 1320px) {
+  #apps {
+    padding-top: 80px; }
+    #apps .mobile_only {
+      display: none; }
+    #apps .header {
+      background-image: url("/images/apps/image-apps-hero.png");
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      margin-bottom: 30px; }
+      #apps .header .header_artical {
+        padding: 220px 0;
+        width: 620px;
+        margin: auto;
+        text-align: center; }
+        #apps .header .header_artical .title {
+          color: white;
+          font-size: 80px;
+          line-height: 80px;
+          font-weight: bold;
+          margin: 40px 0; }
+    #apps .timer_parent {
+      background-color: white;
+      text-align: center; }
+      #apps .timer_parent .timer {
+        width: 1300px;
+        margin: auto; }
+        #apps .timer_parent .timer .timer_title {
+          color: black;
+          font-size: 40px;
+          line-height: 40px;
+          font-weight: bold;
+          margin: 52px 0; }
+        #apps .timer_parent .timer .descip {
+          width: 1015px;
+          line-height: 38px;
+          margin: auto;
+          font-size: 20px;
+          padding: 0 30px;
+          font-family: Open Sans,Tahoma,sans-serif; }
+        #apps .timer_parent .timer .sub_title {
+          clear: both;
+          color: black;
+          line-height: 38px;
+          margin: auto;
+          font-size: 26px;
+          font-weight: bold;
+          margin-bottom: 39px;
+          padding-top: 60px; }
+        #apps .timer_parent .timer .left {
+          text-align: right;
+          padding-right: 30px; }
+        #apps .timer_parent .timer .right {
+          text-align: left;
+          padding-left: 30px; }
+    #apps .features_parent {
+      text-align: left; }
+      #apps .features_parent .features {
+        clear: both;
+        width: 1015px;
+
+        margin: auto;
+        padding-top:80px; }
+        #apps .features_parent .features .title {
+          font-size: 30px;
+          font-weight: bold;
+          line-height: 30px;
+          margin: 30px 0; }
+        #apps .features_parent .features .details {
+          width: 887px;
+          margin: auto;
+          font-family: "Open Sans", Tahoma, sans-serif;
+          font-size: 20px;
+          line-height: 38px;
+          padding: 0 90px 8px 0; }
+        #apps .features_parent .features .sm_title {
+          width: 1015px;
+          margin: auto;
+          font-family: "Open Sans", Tahoma, sans-serif;
+          font-size: 14px;
+          line-height: 38px;
+          text-align: left; }
+    #apps .store {
+      width: 800px;
+      margin: auto;
+      padding-bottom: 80px; } }
+
+@media screen and (max-width: 768px) {
+  #apps {
+    padding-top: 80px; }
+    #apps .desk_only {
+      display: none; }
+    #apps img {
+      width: 100%; }
+    #apps .header {
+      background-image: url("/images/apps/image-apps-hero.png");
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      margin-bottom: 30px; }
+      #apps .header .header_artical {
+        margin: auto;
+        text-align: center;
+        padding: 130px 0; }
+        #apps .header .header_artical .title {
+          color: white;
+          font-size: 40px;
+          line-height: 40px;
+          font-weight: bold;
+          margin: 20px 0 20px 0;
+          padding: 32px; }
+    #apps .timer_parent {
+      background-color: white;
+      text-align: center; }
+      #apps .timer_parent .timer {
+        margin-top: 30px; }
+        #apps .timer_parent .timer .timer_title {
+          color: black;
+          font-size: 32px;
+          line-height: 32px;
+          font-weight: bold;
+          padding: 30px 0; }
+        #apps .timer_parent .timer .descip {
+          padding: 10px 40px;
+          line-height: 30.4px;
+          margin: auto;
+          font-size: 16px;
+          font-family: Open Sans,Tahoma,sans-serif; }
+        #apps .timer_parent .timer .sub_title {
+          clear:both;
+          color: black;
+          line-height: 20.8px;
+          margin: auto;
+          font-size: 20.8px;
+          font-weight: bold;
+          margin-bottom: 39px;
+          padding: 60px 40px; }
+        #apps .timer_parent .timer .left {
+          margin-bottom: 50px; }
+    #apps .features_parent {
+      text-align: left;
+      padding: 0 20px; }
+      #apps .features_parent .features .title {
+        color: black;
+        font-size: 24px;
+        font-weight: bold;
+        line-height: 24px;
+        margin: 24px 0; }
+      #apps .features_parent .features .details {
+        color: black;
+        font-family: "Open Sans", Tahoma, sans-serif;
+        font-size: 16px;
+        line-height: 30.4px;
+        padding: 6.4px; }
+      #apps .features_parent .features .sm_title {
+        font-family: "Open Sans", Tahoma, sans-serif;
+        font-size: 11.2px;
+        line-height: 21.28px;
+        text-align: left;
+        padding: 10px 20px; }
+    #apps .store {
+      padding-bottom: 80px; } }
+
+@media screen and (min-width: 767px) and (max-width: 1319px) {
+  #apps {
+    padding-top: 80px; }
+    #apps .mobile_only {
+      display: none; }
+    #apps img {
+      width: 100%; }
+    #apps .header {
+      background-image: url("/images/apps/image-apps-hero.png");
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      margin-bottom: 30px; }
+      #apps .header .header_artical {
+        margin: auto;
+        text-align: center;
+        padding: 130px 0; }
+        #apps .header .header_artical .title {
+          color: white;
+          font-size: 40px;
+          line-height: 40px;
+          font-weight: bold;
+          margin: 20px 0 20px 0;
+          padding: 32px; }
+    #apps .timer_parent {
+      background-color: white;
+      text-align: center; }
+      #apps .timer_parent .timer {
+        margin-top: 30px; }
+        #apps .timer_parent .timer .timer_title {
+          color: black;
+          font-size: 32px;
+          line-height: 32px;
+          font-weight: bold;
+          padding: 30px 0; }
+        #apps .timer_parent .timer .descip {
+          padding: 10px 40px;
+          line-height: 30.4px;
+          margin: auto;
+          font-size: 16px;
+          font-family: Open Sans,Tahoma,sans-serif; }
+        #apps .timer_parent .timer .sub_title {
+          clear: both;
+          color: black;
+          line-height: 20.8px;
+          margin: auto;
+          font-size: 20.8px;
+          font-weight: bold;
+          margin-bottom: 39px;
+          padding: 60px 40px; }
+        #apps .timer_parent .timer .left {
+          margin-bottom: 50px; }
+    #apps .features_parent {
+      text-align: left;
+      padding: 0 20px; }
+      #apps .features_parent .features .title {
+        color: black;
+        font-size: 24px;
+        font-weight: bold;
+        line-height: 24px;
+        margin: 24px 0; }
+      #apps .features_parent .features .details {
+        color: black;
+        font-family: "Open Sans", Tahoma, sans-serif;
+        font-size: 16px;
+        line-height: 30.4px;
+        padding: 6.4px; }
+      #apps .features_parent .features .sm_title {
+        font-family: "Open Sans", Tahoma, sans-serif;
+        font-size: 11.2px;
+        line-height: 21.28px;
+        text-align: left;
+        padding: 10px 20px; }
+    #apps .store {
+      padding-bottom: 80px;
+      padding-left: 50px;
+      padding-right: 50px; } }

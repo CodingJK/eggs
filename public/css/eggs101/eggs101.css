@@ -1,0 +1,137 @@
+.eggs101_header {
+  text-align: center;
+  margin-top: 80px;
+  padding-top: 180px;
+  padding-bottom: 120px;
+  background-image: url("/images/eggs101/eggs-101-header.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.eggs101_header .eggs101_title {
+  color: white;
+  font-size: 80px;
+  line-height: 80px;
+  font-weight: bold;
+  margin: 40px 0;
+}
+
+.eggs101_header .eggs101_title_body {
+  margin: auto;
+  width: 40%;
+  padding: 10px 10px 100px 10px;
+  color: white;
+  font-size: 26px;
+  line-height: 36.4px;
+  font-family: Open Sans,Tahoma,sans-serif;
+}
+
+.eggs101-social {
+  padding-bottom: 30px;
+}
+
+.eggs101-social a img {
+  width: 42px;
+}
+
+.eggs101_subtitle {
+  font-size: 40px;
+  color: black;
+  font-weight: bold;
+  margin: 40px;
+}
+
+.eggs_words {
+  color: black;
+  
+}
+
+.eggs_words .eggs101_body_subtitle {
+  font-size: 30px;
+  font-weight: 30px;
+  clear: both;
+  padding-top: 40px;
+  padding-left: 0;
+}
+
+.eggs_words .eggs101_body {
+  padding: 10px 0;
+  font-size: 20px;
+  line-height: 38px;
+  font-family: Open Sans,Tahoma,sans-serif;
+}
+
+.eggs_words .eggs101_img {
+  padding: 50px 0;
+}
+
+.eggs_words .eggs101_img img {
+  width: 100%;
+}
+
+.eggs_words .eggs101_details li {
+  font-size: 20px;
+  line-height: 38px;
+  font-family: Open Sans,Tahoma,sans-serif;
+  padding-bottom: 10px;
+  position: relative;
+  text-align: left;
+}
+
+.eggs_words .eggs101_body_subtitle_2 {
+  font-size: 30px;
+  font-weight: 30px;
+  padding-top: 0px;
+  padding-left: 0;
+}
+
+.eggs_words .table-1 {
+  padding: 0;
+}
+
+.eggs_words .mytable {
+  border: 2px solid #ffcd32;
+  font-size: 16px;
+  line-height: 22px;
+  border-collapse: collapse !important;
+  border-radius: 10px;
+}
+
+.eggs_words .mytable tr {
+  border: 2px solid #ffcd32;
+}
+
+.eggs_words .mytable tr td {
+  font-family: Open Sans,Tahoma,sans-serif;
+  padding: 18px 30px;
+}
+
+.eggs_words .mytable tr .left_td {
+  font-weight: bold;
+}
+
+.eggs_words #canada-food-guides {
+  color: #ffcd32;
+}
+
+.eggs_words #canada-food-guides:hover {
+  color: #fbbb27;
+}
+
+.eggs_words .table-header {
+  background-color: #ffcd32;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 24.75px;
+}
+
+.eggs_words span {
+  display: block;
+  padding: 10px 0;
+  font-size: 20px;
+  line-height: 38px;
+  font-family: Open Sans,Tahoma,sans-serif;
+}
+

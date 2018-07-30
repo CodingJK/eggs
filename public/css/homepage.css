@@ -1,0 +1,440 @@
+
+@media screen and (min-width: 1300px) {
+  
+  #homepage {
+    padding-top: 150px;
+    margin: auto;
+    color: white;
+    background-color: #fbbb27; }
+    #homepage #sm_screen {
+      display: none; }
+    #homepage #big_screen {
+      display: block; }
+    #homepage #desk_only {
+      display: none; }
+    #homepage #mobile_only {
+      display: none; }
+    #homepage span {
+      display: block; }
+
+    
+    #seeTheRecipes {
+      font-size: 20px;
+      font-weight: bold;
+      line-height: 20px;
+      text-align: left;
+      margin: left;
+      margin-top: 30px;
+      padding: 14px 38px 14px 38px;
+      border: 2px solid black;
+      border-radius: 40px;
+      color: black; }
+
+      #seeTheRecipes:hover {
+        color: white;
+        border-color: white; }
+    
+    
+    #homepage .BBQ_parent {
+      padding-top: 30px;
+      background-color: white; }
+    #homepage .summerBBQ {
+      width: 1300px;
+      margin: auto;
+      color: black;
+      text-align: center; }
+      #homepage .summerBBQ .title {
+        color: black;
+        font-size: 40px;
+        font-weight: bold;
+        margin: 10px 40px 40px 40px; }
+      #homepage .summerBBQ .left_img {
+        padding-left: 0; }
+        #homepage .summerBBQ .left_img:hover .recipes_img {
+          filter: saturate(1.1); }
+        #homepage .summerBBQ .left_img:hover .left_sub_title {
+          color: #ffcd32; }
+        #homepage .summerBBQ .left_img:hover .left_body {
+          color: #858585; }
+      #homepage .summerBBQ .right_img {
+        padding-right: 0; }
+        #homepage .summerBBQ .right_img:hover .recipes_img {
+          filter: saturate(1.1); }
+        #homepage .summerBBQ .right_img:hover .left_sub_title {
+          color: #ffcd32; }
+        #homepage .summerBBQ .right_img:hover .left_body {
+          color: #858585; }
+      #homepage .summerBBQ .left_sub_title {
+        color: black;
+        font-size: 26px;
+        line-height: 33.8px;
+        text-align: left;
+        padding-left: 15px;
+        margin: 26px 0; }
+        #homepage .summerBBQ .left_sub_title:hover {
+          color: #ffcd32; }
+          #homepage .summerBBQ .left_sub_title:hover .recipes_img {
+            filter: saturate(1.1); }
+          #homepage .summerBBQ .left_sub_title:hover .left_body {
+            color: #858585; }
+      #homepage .summerBBQ .left_body {
+        color: black;
+        font-size: 20px;
+        line-height: 38px;
+        text-align: left;
+        margin: 26px 0;
+        padding-left: 15px;
+        font-family: Open Sans,Tahoma,sans-serif; }
+        #homepage .summerBBQ .left_body:hover {
+          color: #858585; }
+      #homepage .summerBBQ .right_body {
+        color: black;
+        font-size: 20px;
+        line-height: 38px;
+        text-align: left;
+        margin: 26px 0;
+        padding-left: 15px;
+        font-family: Open Sans,Tahoma,sans-serif; }
+        #homepage .summerBBQ .right_body:hover {
+          color: #858585; }
+      #homepage .summerBBQ #MoreBBQ {
+        font-size: 20px;
+        font-weight: bold;
+        line-height: 20px;
+        padding: 14px 38px 14px 38px;
+        border: 2px solid black;
+        border-radius: 40px;
+        color: black; }
+        #homepage .summerBBQ #MoreBBQ:hover {
+          color: #ffcd32;
+          border-color: #ffcd32; }
+    #homepage .FeaturedRecipe_parent {
+      background-color: white; }
+    #homepage .FeaturedRecipe {
+      width: 1300px;
+      margin: auto;
+      color: black;
+      text-align: center;
+      padding-bottom: 50px; }
+      #homepage .FeaturedRecipe .title {
+        font-size: 40px;
+        font-weight: bold; }
+      #homepage .FeaturedRecipe .left_img {
+        padding-left: 0; }
+        #homepage .FeaturedRecipe .left_img:hover .recipes_img {
+          filter: saturate(1.1); }
+        #homepage .FeaturedRecipe .left_img:hover .left_sub_title {
+          color: #ffcd32; }
+        #homepage .FeaturedRecipe .left_img:hover .left_body {
+          color: #858585; }
+      #homepage .FeaturedRecipe .getTheRecipe {
+        padding-top: 50px;
+        text-align: left; }
+      #homepage .FeaturedRecipe #getTheRecipe {
+        font-size: 20px;
+        font-weight: bold;
+        line-height: 20px;
+        padding: 14px 38px 14px 38px;
+        border: 2px solid black;
+        border-radius: 40px;
+        color: black; }
+        #homepage .FeaturedRecipe #getTheRecipe:hover {
+          color: #ffcd32;
+          border-color: #ffcd32; }
+      #homepage .FeaturedRecipe .sub_title {
+        font-size: 30px;
+        line-height: 30px;
+        text-align: left;
+        font-weight: bold;
+        margin-bottom: 30px;
+        color: black; }
+        #homepage .FeaturedRecipe .sub_title:hover {
+          color: #ffcd32; }
+      #homepage .FeaturedRecipe .right_body {
+        color: black;
+        font-size: 20px;
+        line-height: 38px;
+        text-align: left;
+        margin: 26px 0;
+        font-family: Open Sans,Tahoma,sans-serif; }
+        #homepage .FeaturedRecipe .right_body:hover {
+          color: #858585; }
+    
+           }
+
+      .getTheRecipe_1 {
+        padding-top: 50px;
+        padding-bottom: 100px;
+         }
+      #getTheRecipe_1 {
+        font-size: 20px;
+        font-weight: bold;
+        line-height: 20px;
+        padding: 14px 38px 14px 38px;
+        border: 2px solid black;
+        border-radius: 40px;
+        color: black; }
+
+      #getTheRecipe_1:hover {
+          color: #ffcd32;
+          border-color: #ffcd32; }
+
+@media screen and (min-width: 769px) and (max-width: 1319px){
+  .Header{
+    padding-top: 200px;
+    margin: auto;
+    color: white;
+    background-color: #fbbb27;
+    
+    text-align: center;
+  }
+  .Header span{
+    display: block;
+
+  }
+  .home_left_body{
+    margin: auto;
+    width: 60%;
+    font-size: 24px;
+    color: black;
+    line-height: 38.64px;
+    margin-bottom: 35.2px;
+    margin-bottom: 60px;
+    padding-left: 50px;
+  }  
+  .seeTheRecipesBtn{
+    clear: both;
+    margin-top: auto;
+  }
+     #seeTheRecipes {
+      font-size: 16px;
+      font-weight: bold;
+      line-height: 20px;
+      padding: 11.2px 30px;
+      border: 2px solid black;
+      border-radius: 40px;
+      color: black;
+     
+       }
+
+      #seeTheRecipes:hover {
+            color: white;
+            border-color: white; 
+      }
+      .home_right_img{
+        padding-top: 50px;
+      }
+  .title {
+      text-align: center;
+      font-size: 32px;
+      font-weight: bold;
+      margin: 40px 40px 40px 40px; 
+  }
+
+  .left_sub_title {
+        color: black;
+        font-size: 26px;
+        line-height: 33.8px;
+        text-align: left;
+        padding-left: 15px;
+        margin: 26px 0; 
+  }
+  .left_sub_title:hover{
+    color: #ffcd32;
+  }
+  .getTheRecipe {
+    padding-top: 50px;
+    text-align: left; 
+  }
+  #getTheRecipe {
+        font-size: 20px;
+        font-weight: bold;
+        line-height: 20px;
+        padding: 14px 38px 14px 38px;
+        border: 2px solid black;
+        border-radius: 40px;
+        color: black;
+    }
+
+    #getTheRecipe:hover {
+        color: #ffcd32;
+        border-color: #ffcd32;
+    }
+
+    .sub_title {
+        font-size: 30px;
+        line-height: 38px;
+        text-align: left;
+        font-weight: bold;
+        margin-bottom: 30px;
+        color: black;
+        padding-left: 15px; }
+    .sub_title:hover {
+        color: #ffcd32; 
+    }
+
+    .right_body {
+        color: black;
+        font-size: 20px;
+        line-height: 38px;
+        text-align: left;
+        margin: 26px 0;
+        padding-left: 15px;
+        font-family: Open Sans,Tahoma,sans-serif; }
+    .right_body:hover {
+        color: #858585; 
+    }
+    .FeaturedRecipe_parent{
+      padding-bottom: 50px;
+    }
+
+    #mobile_only{
+      display: none;
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+  #big_screen{
+    display: none;
+  }
+
+  .Header{
+    padding-top: 100px;
+    margin: auto;
+    color: white;
+    background-color: #fbbb27;
+    
+    text-align: center;
+  }
+  .Header span{
+    display: block;
+
+  }
+
+  .home_left_header {
+      font-size: 40px;
+      color: white;
+      line-height: 40px;
+      margin-top: 30px;
+      margin-bottom: 30px;
+      
+  }
+
+  .home_left_body {
+    margin: auto;
+    width: 90%;
+    font-size: 17.6px;
+    color: black;
+    font-weight: 300;
+    line-height: 24.64px;
+    margin-bottom: 35.2px;
+    font-family: "Open Sans", Tahoma, sans-serif;
+    margin-bottom: 60px;
+    padding-left: 50px;
+  }
+
+     #seeTheRecipes {
+      font-size: 16px;
+      font-weight: bold;
+      line-height: 20px;
+      padding: 11.2px 30px;
+      border: 2px solid black;
+      border-radius: 40px;
+      color: black;
+      margin-left: 50px;
+       }
+
+      #seeTheRecipes:hover {
+            color: white;
+            border-color: white; 
+      }
+      .home_right_img{
+        padding-top: 50px;
+      }
+
+      .title {
+      text-align: center;
+      font-size: 32px;
+      font-weight: bold;
+      margin: 40px 40px 40px 40px; 
+  }
+
+  .left_sub_title {
+      text-align: center;
+        color: black;
+        font-size: 26px;
+        line-height: 33.8px;
+        
+        padding-left: 15px;
+        margin: 26px 0; 
+  }
+  .left_sub_title:hover{
+    color: #ffcd32;
+  }
+  .getTheRecipe {
+    padding-top: 50px;
+    text-align: center; 
+  }
+  #getTheRecipe {
+        font-size: 20px;
+        font-weight: bold;
+        line-height: 20px;
+        padding: 14px 38px 14px 38px;
+        border: 2px solid black;
+        border-radius: 40px;
+        color: black;
+    }
+
+    #getTheRecipe:hover {
+        color: #ffcd32;
+        border-color: #ffcd32;
+    }
+
+    .sub_title {
+        font-size: 30px;
+        line-height: 38px;
+        font-weight: bold;
+        margin-bottom: 30px;
+        color: black;
+        text-align: center;
+         }
+    .sub_title:hover {
+        color: #ffcd32; 
+    }
+
+    .right_body {
+        color: black;
+        font-size: 20px;
+        line-height: 38px;
+        text-align: center;
+        margin: 26px 0;
+        padding-left: 15px;
+        font-family: Open Sans,Tahoma,sans-serif; }
+    .right_body:hover {
+        color: #858585; 
+    }
+    .FeaturedRecipe_parent{
+      padding-bottom: 50px;
+    }
+
+    .getTheRecipe_2 {
+        padding-top: 50px;
+        padding-bottom: 100px;
+         }
+      #getTheRecipe_2 {
+        font-size: 20px;
+        font-weight: bold;
+        line-height: 20px;
+        padding: 14px 38px 14px 38px;
+        border: 2px solid black;
+        border-radius: 40px;
+        color: black; }
+
+      #getTheRecipe_2:hover {
+          color: #ffcd32;
+          border-color: #ffcd32; }
+
+
+}
+

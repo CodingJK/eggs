@@ -1,0 +1,292 @@
+img {
+  width: 100%;
+}
+
+#nav {
+  border-bottom: 1px solid #D3D3D3;
+}
+
+.mobile_scroll_down {
+  background-color: white !important;
+}
+
+#alert_layer {
+  background-color: white;
+  z-index: 9;
+  padding: 20px;
+  display: none;
+}
+
+#alert_layer a {
+  color: black;
+}
+
+#alert_layer .alert-link {
+  border: 2px solid white;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 20px;
+  padding: 9.6px 12.8px;
+}
+
+#alert_layer .alert-link:hover {
+  border-color: #fbbb27;
+}
+
+@media screen and (min-width: 1320px) {
+  .mobile_nav {
+    display: none;
+  }
+
+  .middle_nav {
+    display: none;
+  }
+
+  .navigation_body {
+    margin: auto;
+    width: 1320px;
+  }
+
+  .navigation_body #logo {
+    padding: 40px;
+  }
+
+  .navigation_body .nav-link {
+    display: flex;
+    justify-content: space-between;
+    height: 150px;
+    align-items: center;
+  }
+
+  .navigation_body .nav-link a {
+    font-size: 20px;
+    line-height: 24px;
+    padding: 16px 12px;
+    border: 2px solid white;
+    border-radius: 20px;
+    color: black;
+  }
+
+  .navigation_body .nav-link a:hover {
+    border-color: #fbbb27;
+    color: #fbbb27;
+  }
+
+  .navigation_body .nav-link .france {
+    color: black;
+    border-color: black;
+    padding: 10px;
+    border-radius: 100%;
+  }
+
+  .navigation_body .nav-link .punjabi {
+    color: black;
+    padding: 10px;
+    border-color: black;
+    border-radius: 100%;
+  }
+
+  .large_nav {
+    display: block;
+  }
+  .Header11 {
+    background-image: url("/images/banner/home_bg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 200px;
+    padding-bottom: 250px;
+    text-align: center;
+    min-height: 619px;
+  }
+
+  .Header1 {
+    background-image: url("/images/nutrition/Eggs_nutrition.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 200px;
+    padding-bottom: 250px;
+    text-align: center;
+    min-height: 619px;
+  }
+
+  .Header1 .header_nutrition_title {
+    color: white;
+    font-size: 60px;
+    line-height: 60px;
+  }
+
+  .Header1 .header_nutrition_sub_title {
+    padding: 10px 50px;
+    color: white;
+    font-size: 22px;
+    line-height: 36.4px;
+    font-family: Open Sans, Tahoma, sans-serif;
+  }
+
+  .Header2 {
+    background-image: url("/images/babys/eggs-101-header.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 200px;
+    padding-bottom: 250px;
+    text-align: center;
+    min-height: 619px;
+  }
+
+  .Header2 .header_nutrition_title {
+    color: white;
+    font-size: 60px;
+    line-height: 60px;
+  }
+
+  .Header2 .header_nutrition_sub_title {
+    padding: 10px 50px;
+    color: white;
+    font-size: 22px;
+    line-height: 36.4px;
+    font-family: Open Sans, Tahoma, sans-serif;
+  }
+}
+
+@media screen and (min-width: 800px) and (max-width: 1319px) {
+
+  .mobile_nav {
+    display: none;
+  }
+
+  .large_nav {
+    display: none;
+  }
+
+  .middle_nav {
+    display: block;
+    height: 150px;
+    display: flex;
+    padding-right: 30px;
+    align-items: center;
+  }
+
+  .nav-link {
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    align-items: center;
+  }
+
+  .nav-link a {
+    font-size: 20px;
+    padding: 12px 12px;
+    border: 2px solid white;
+    border-radius: 20px;
+    color: black;
+  }
+
+ 
+
+   .france {
+    color: black;
+    border-color: black;
+    padding: 10px;
+    border-radius: 100%;
+  }
+
+  .punjabi {
+    color: black;
+    padding: 10px;
+    border-color: black;
+    border-radius: 100%;
+  }
+
+  .Header {
+    min-height: 840px;
+  }
+
+  .Header11 {
+    background-image: url("/images/banner/home_bg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 300px;
+    text-align: center;
+    margin-top: 80px;
+    min-height: 760px;
+  }
+
+  .Header1 {
+    background-image: url("/images/nutrition/Eggs_nutrition.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 300px;
+    text-align: center;
+    margin-top: 80px;
+    min-height: 760px;
+  }
+
+  .Header1 .header_nutrition_title {
+    color: white;
+    font-size: 60px;
+    line-height: 60px;
+    padding-bottom: 50px;
+  }
+
+  .Header1 .header_nutrition_sub_title {
+    padding: 10px 50px;
+    color: white;
+    font-size: 22px;
+    line-height: 36.4px;
+    font-family: Open Sans, Tahoma, sans-serif;
+  }
+
+  .Header2 {
+    background-image: url("/images/babys/eggs-101-header.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 300px;
+    text-align: center;
+    margin-top: 80px;
+    min-height: 760px;
+  }
+
+  .Header2 .header_nutrition_title {
+    color: white;
+    font-size: 48px;
+    line-height: 60px;
+    padding-bottom: 50px;
+  }
+
+  .Header2 .header_nutrition_sub_title {
+    padding: 10px 50px;
+    color: white;
+    font-size: 22px;
+    line-height: 36.4px;
+    font-family: Open Sans, Tahoma, sans-serif;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .mobile_nav {
+    display: block;
+  }
+
+  .large_nav {
+    display: none;
+  }
+
+  .middle_nav {
+    display: none;
+  }
+
+  .mobile-left {
+    padding: 20px;
+  }
+
+  #mobile_logo img {
+    padding: 20px;
+  }
+}
+
