@@ -5,14 +5,6 @@
 			$(window).ready(function(){
 				$(".nav_parent").css('background-color','white');
 				$("#nav").css('background-color','white');
-				// $(".nav-justified a").css('border-color','white');
-				// $(".nav-justified a").css('color','black');
-				// $(".nav-justified a").mouseenter( function(){
-				// 	$(this).css('border-color','#ffcd32');
-				// } ).mouseleave(  function(){
-				// 	$(this).css('border-color','white');
-				// } );
-				// $(".reciptes_link").css('color','#ffcd32');
 			});
 		</script>
 
@@ -47,7 +39,6 @@
 			</div>
 			<div class="col-xs-2"></div>
 		</div>
-
 		{{-- images --}}
 		<div class="container-fuild recipes_images">
 			
@@ -86,18 +77,6 @@
 	                	<span>⅓茶匙</span>
 	                	<span>2茶匙</span>
 	                	<span>28克</span>
-	                	
-
-
-	                
-	                	
-
-
-
-
-	                	
-	                	
-	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
 	                	<span>乾魚肚</span>
@@ -109,13 +88,6 @@
 						<span>火腿茸</span>
 	                </div>
                 </div>
-
-                
-           
-
-              
-
-
 				<div class="step">
 
 					<div class='recipes_subtitle'>步驟:</div>
@@ -250,7 +222,6 @@
         		<td><b>碳水化合物</b>  </td>
         		<td class='text-right'>5 g</td>
         	</tr>
-        	
         </table>
       </div>
      
@@ -258,3 +229,4 @@
 
   </div>
 </div>
+@stop
