@@ -98,32 +98,32 @@
 					<div class='recipes_subtitle'>步驟:</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 1</div>
+						<div class="step_title col-xs-12">步驟 1</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">將雞蛋置於鍋內，倒入凍水至少浸過雞蛋1吋(2.5厘米)。加蓋用大火煮滾，然後立刻轉用中火繼續滾15分鐘</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 2</div>
+						<div class="step_title col-xs-12">步驟 2</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">撈起雞蛋用涼開水沖，剝殼備用
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 3</div>
+						<div class="step_title col-xs-12">步驟 3</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">往鍋內倒入420毫升清水，加蓋煲5分鐘，在滾水中加入蓮子、黃糖，用慢火再煲10分鐘成糖水</div>
 						<hr class='hr1'>
 					</div>
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 4</div>
+						<div class="step_title col-xs-12">步驟 4</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">將剝殼蛋放在糖水中，用中火再煲10分鐘</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 5</div>
+						<div class="step_title col-xs-12">步驟 5</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">即可享用</div>
 						<hr class='hr1'>
 					</div>

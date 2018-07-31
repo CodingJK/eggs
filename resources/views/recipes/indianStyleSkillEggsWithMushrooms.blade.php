@@ -124,27 +124,27 @@
 					<div class='recipes_subtitle'>步驟:</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 1</div>
+						<div class="step_title col-xs-12">步驟 1</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">In a large skillet, on medium heat melt ghee or butter. Add onions and cook for a couple of minutes until softened. Add mushrooms and spinach and cook for one minute. </div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 2</div>
+						<div class="step_title col-xs-12">步驟 2</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">Add garlic paste and mix in coriander, cumin, chili, turmeric and salt. Spread mushroom spinach mixture evenly in skillet.
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 3</div>
+						<div class="step_title col-xs-12">步驟 3</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">Create four small indentations in the mushroom spinach mixture for each egg, spacing them apart evenly. Crack each egg, then add to each indentation. Add a pinch of salt to taste (and chopped green chili). Cover with lid and cook on medium heat until yolks are cooked to desired softness, approximately 10-12 minutes.</div>
 						<hr class='hr1'>
 					</div>
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 4</div>
+						<div class="step_title col-xs-12">步驟 4</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">Garnish with a sprinkle of cilantro, garam masala and kashmiri mirch (or paprika).</div>
 						<hr class='hr1'>
 					</div>
@@ -152,7 +152,7 @@
 					<div class="steps col-xs-12  text-center">
 
 						<h1 class="col-xs-12"><b>Tip</b></h1>
-						<div class="col-xs-10 col-xs-offset-1 step_body">Take care not to overcook the vegetables in Step 1. This meal can be served for breakfast with chapattis (or toast) or served for an elegant Indian-style brunch.
+						<div class="col-xs-10 col-xs-offset-1 step_body">Take care not to overcook the vegetables in 步驟 1. This meal can be served for breakfast with chapattis (or toast) or served for an elegant Indian-style brunch.
 
   
 </div>

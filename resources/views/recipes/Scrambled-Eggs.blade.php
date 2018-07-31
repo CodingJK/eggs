@@ -102,27 +102,27 @@
 					<div class='recipes_subtitle'>步驟:</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 1</div>
+						<div class="step_title col-xs-12">步驟 1</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">用一個大的平底鍋或用微波爐煮熟煙肉</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 2</div>
+						<div class="step_title col-xs-12">步驟 2</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">在煮煙肉的同時，在一個中碗內將雞蛋打散攪勻，然後加粟米、洋蔥粉和胡椒粉繼續攪拌 
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 3</div>
+						<div class="step_title col-xs-12">步驟 3</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">從鍋中取出煙肉，快速切碎，加到蛋液中</div>
 						<hr class='hr1'>
 					</div>
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 4</div>
+						<div class="step_title col-xs-12">步驟 4</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">將蛋液倒入熱平底鍋，隨著蛋液凝固，輕輕用小鏟貼著鍋底及從邊緣推拌，形成大片鬆軟的蛋凝乳，炒至蛋液變粘稠但仍然鬆軟為止</div>
 						<hr class='hr1'>
 					</div>

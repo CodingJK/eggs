@@ -111,20 +111,20 @@
 					<div class='recipes_subtitle'>步驟:</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 1</div>
+						<div class="step_title col-xs-12">步驟 1</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">將蛋白與清雞湯70亳升，鹽、糖各½茶匙，和白胡椒粉¼茶匙攪勻</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 2</div>
+						<div class="step_title col-xs-12">步驟 2</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">將已攪勻的蛋白倒入小碗中，放入蟹鉗
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 3</div>
+						<div class="step_title col-xs-12">步驟 3</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">鍋中加水煮滾，放入小碗，水位應稍低於碗口，再以小至中火蒸8至9分鐘
 
 </div>
@@ -133,7 +133,7 @@
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 4</div>
+						<div class="step_title col-xs-12">步驟 4</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">即可享用
 </div>
 						<hr class='hr1'>

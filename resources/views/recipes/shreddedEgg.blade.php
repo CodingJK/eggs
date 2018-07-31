@@ -155,20 +155,20 @@
 					<div class='recipes_subtitle'>步驟:</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 1</div>
+						<div class="step_title col-xs-12">步驟 1</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body"><b>Rasam Masala: </b>Heat a skillet on medium-high. Add coriander seeds, black peppercorns, cumin seeds, fenugreek seeds and dried red chilies and toast spices for a couple of minutes. Set spices aside to cool.</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 2</div>
+						<div class="step_title col-xs-12">步驟 2</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">In a mortar and pestle or spice grinder, finely grind rasam masala. Set aside.
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 3</div>
+						<div class="step_title col-xs-12">步驟 3</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">In a medium pot heat oil on medium-high. Add mustard seeds and fry until they pop. Add curry leaves and fry for a minute. 
 
 </div>
@@ -177,7 +177,7 @@
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 4</div>
+						<div class="step_title col-xs-12">步驟 4</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">Stir in tomato and cook for a minute. Add crushed tomatoes, salt, jaggery, garlic paste, turmeric and rasam masala. Cook for a couple of minutes. Add water to thin out into a soup. Simmer for 10 minutes.
 
 </div>
@@ -186,14 +186,14 @@
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 5</div>
+						<div class="step_title col-xs-12">步驟 5</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">In a small bowl, whisk one egg with salt. In a medium skillet, heat oil on medium-high. Add egg and form a thin crepe. Cook for a couple of minutes until bottom is cooked. Flip and cook the other side. Remove egg to cutting board. When egg crepe is cool, roll into a log and cut into shreds using a sharp knife. Repeat with second egg.
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 6</div>
+						<div class="step_title col-xs-12">步驟 6</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">Spoon rasam into a bowl and arrange shredded egg on top of soup. Garnish with cilantro.
 
 </div>

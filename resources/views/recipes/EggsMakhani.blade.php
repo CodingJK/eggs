@@ -133,20 +133,20 @@
 					<div class='recipes_subtitle'>步驟:</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 1</div>
+						<div class="step_title col-xs-12">步驟 1</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">In a medium heavy-based pan, heat oil on medium-high. Add peppercorns and cardamom and fry for one minute. Add chick-pea flour and stir constantly for a couple of minutes until golden brown in colour. </div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 2</div>
+						<div class="step_title col-xs-12">步驟 2</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">Mix in crushed tomatoes and add garlic paste and ginger paste. Mix in sugar, coriander, cumin, turmeric, chili and salt. Cook for a couple of minutes.
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 3</div>
+						<div class="step_title col-xs-12">步驟 3</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">Add 1 cup of water to create a smooth sauce. Whisk if necessary to remove any lumps. Simmer for a couple of minutes on medium heat.
 
 </div>
@@ -155,7 +155,7 @@
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 4</div>
+						<div class="step_title col-xs-12">步驟 4</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">Stir in cream and add an extra ¼ cup of water to thin out sauce. Gently add hard-cooked eggs and coat with sauce. Simmer for a couple of minutes. Garnish with a sprinkle of garam masala and cilantro. Serve with basmati rice and naan.
 </div>
 						<hr class='hr1'>
@@ -173,7 +173,7 @@
 					<div class="steps col-xs-12  text-center">
 
 						<h1 class="col-xs-12"><b>Tip</b></h1>
-						<div class="col-xs-10 col-xs-offset-1 step_body">Be sure to cook chick-pea flour well during Step 1. The idea is to roast it in the pan until golden brown in colour, to release its nutty flavour.
+						<div class="col-xs-10 col-xs-offset-1 step_body">Be sure to cook chick-pea flour well during 步驟 1. The idea is to roast it in the pan until golden brown in colour, to release its nutty flavour.
  
 </div>
 						<hr class='hr1'>

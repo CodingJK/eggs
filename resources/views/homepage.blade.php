@@ -139,7 +139,7 @@
                 <div class='row'>
                     <div class='col-sm-6 left_img'>
                         <a href="/Funny-Egg-Fish">
-                            <img src='/images/recipes/Eggs-SA-13-Final-large.jpg' />
+                            <img src='/images/recipes/Eggs-SA-13-Final_home.jpg' />
                         </a>
                     </div>
                     <div class='col-sm-6 right_des'>
@@ -165,7 +165,7 @@
                 <div class='row'>
                     <div class='col-sm-6 left_img'>
                         <a href="/grandmaIndian">
-                            <img src="/images/recipes/Eggs-SA-13-Final_home.jpg" />
+                            <img src="/images/recipes/Eggs-SA-02-Final-web.jpg" />
                             
                             <div class='left_sub_title'>番茄煙肉煎蛋早餐三文治</div>
                             
@@ -184,7 +184,7 @@
         </div>
 
         <div class='col-xs-12 getTheRecipe_1 text-center'>
-            <a href="/Recipes" id='getTheRecipe_1'> View All </a>
+            <a href="/Recipes" id='getTheRecipe_1'> 瀏覽食譜 </a>
         </div>
 
     </div> 

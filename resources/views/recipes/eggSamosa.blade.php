@@ -147,20 +147,20 @@
 					<div class='recipes_subtitle'>步驟:</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 1</div>
+						<div class="step_title col-xs-12">步驟 1</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body"><b>Tangy-sweet tamarind chutney: </b>Place all ingredients in a blender or food processor and blend until smooth. Set aside.</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 2</div>
+						<div class="step_title col-xs-12">步驟 2</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">In a medium pot or pan, heat oil on medium-high. Add cumin seeds and coriander seeds and fry for one minute. 
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 3</div>
+						<div class="step_title col-xs-12">步驟 3</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">Add green peas and mix in coriander, cumin, garlic paste, chili and turmeric.
 
 </div>
@@ -169,7 +169,7 @@
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 4</div>
+						<div class="step_title col-xs-12">步驟 4</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">Fold in hard-cooked eggs, lemon juice, garam masala, cilantro and red onion. Add salt to taste. Mix to combine. Set aside for 10-15 minutes to cool mixture to room temperature.
 
 </div>
@@ -178,14 +178,14 @@
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 5</div>
+						<div class="step_title col-xs-12">步驟 5</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">Preheat oven to 400F and line a baking sheet with parchment paper.
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 6</div>
+						<div class="step_title col-xs-12">步驟 6</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">Sprinkle all-purpose flour on a board or counter surface and roll out puff pastry into two 9” squares with a ¼“ thickness. Using a sharp knife cut each square pastry sheet into three even strips (6 strips in total, each strip will make 3 samosas, yielding a total of 18 samosas). At the top of one strip add 1 tbsp. of cooled samosa filling. Fold top left corner downwards to meet right-side of pastry to create a triangle shape. Press firmly on the edges to seal the sides of the pastry and using a sharp knife cut across the bottom. Continue with remaining filling.
 
 </div>
@@ -194,7 +194,7 @@
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 7</div>
+						<div class="step_title col-xs-12">步驟 7</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">Place on baking sheet and cook for 15-20 minutes until golden brown in colour. Serve with Tangy-sweet tamarind chutney.
 
 </div>
