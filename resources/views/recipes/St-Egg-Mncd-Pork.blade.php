@@ -189,7 +189,7 @@
 
 						<h1 class="col-xs-12"><b>小貼士:</b></h1>
 						<div class="col-xs-10 col-xs-offset-1 step_body"> 瑤柱除了可以蒸軟，亦可以用水浸過夜。</div>
-						
+
 						<hr class='hr1'>
 						
 						
@@ -247,15 +247,15 @@
         <table class='table'>
         	<tr>
         		<td><b>卡路里</b></td>
-        		<td class='text-right'>398 </td>
+        		<td class='text-right'>179 </td>
         	</tr>
         	<tr>
         		<td><b>脂肪</b></td>
-        		<td class='text-right'>33 g</td>
+        		<td class='text-right'>13 g</td>
         	</tr>
         	<tr>
         		<td><b>飽和脂肪</b></td>
-        		<td class='text-right'>26 g</td>
+        		<td class='text-right'>4 g</td>
         	</tr>
         	<tr>
         		<td><b>反式脂肪</b>  </td>
@@ -263,28 +263,25 @@
         	</tr>
         	<tr>
         		<td><b>鈉</b></td>
-        		<td class='text-right'>193 mg</td>
+        		<td class='text-right'>837 mg</td>
         	</tr>
         	<tr>
         		<td><b>糖</b>  </td>
-        		<td class='text-right'>737 mg  </td>
+        		<td class='text-right'>1g  </td>
         	</tr>
         	<tr>
-        		<td><b>蛋白質/b>  </td>
+        		<td><b>蛋白質</b>  </td>
         		<td class='text-right'>13 g</td>
         	</tr>
         	<tr>
-        		<td><b>纖維/b>  </td>
-        		<td class='text-right'>3 g</td>
+        		<td><b>纖維</b>  </td>
+        		<td class='text-right'>1 g</td>
         	</tr>
         	<tr>
         		<td><b>碳水化合物</b>  </td>
-        		<td class='text-right'>7 g</td>
+        		<td class='text-right'>4 g</td>
         	</tr>
-        	<tr>
-        		<td><b>Protein</b>  </td>
-        		<td class='text-right'>10 g</td>
-        	</tr>
+        	
         </table>
       </div>
      

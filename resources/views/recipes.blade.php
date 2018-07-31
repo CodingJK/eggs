@@ -140,7 +140,7 @@
 		     		<div id='title_com'>主菜</div>
 	     			
 	     			<div class='row text-center'>
-		     			<div class='col-lg-4 col-lg-offset-2'>
+		     			<div class='col-lg-4'>
 		     				<a href="/Steamed-crab-claw-with-egg-whites">
 			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-19-Final-web.jpg' />
 			     				<div class='name ' >白玉蒸蟹鉗</div>
@@ -148,12 +148,26 @@
 		     			</div>
 
 		     			<div class='col-lg-4'>
-		     				<a href="/andayKi">
+		     				<a href="/St-Egg-Wht-Sea-Treasure">
 			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-20-Final-web.jpg' />
-			     				<div class='name ' >Anday Ki Mithai</div>
+			     				<div class='name ' >海皇扒蒸蛋白</div>
 			     			</a>
 		     			</div>
-		     			
+
+		     			<div class='col-lg-4'>
+		     				<a href="/St-Egg-Mncd-Pork">
+			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-15-Final-web.jpg' />
+			     				<div class='name ' >瑤柱肉末蒸滑蛋</div>
+			     			</a>
+		     			</div>
+		     			<div class='row'>
+		     			<div class='col-lg-4'>
+		     				<a href="/Scrmbld-Egg-Fish-Maw">
+			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-21-Final-web.jpg' />
+			     				<div class='name ' >桂花雲腿炒魚肚</div>
+			     			</a>
+		     			</div>
+		     		</div>
 
 		     			
 					 </div>
@@ -161,20 +175,25 @@
 					 <div id='title_com'>甜品</div>
 					
 					<div class='row text-center'>
-						<div class='col-lg-4 col-lg-offset-2'>
-							<a href="/Steamed-crab-claw-with-egg-whites">
-								     				<img class='recipes_img' src='/images/recipes/Eggs-SA-19-Final-web.jpg' />
-								     				<div class='name ' >白玉蒸蟹鉗</div>
+						<div class='col-lg-4'>
+							<a href="/Bld-Swtnd-Milk">
+								     				<img class='recipes_img' src='/images/recipes/Eggs-SA-22-Final-web.jpg' />
+								     				<div class='name ' >鳳凰奶露</div>
 								     			</a>
 						</div>
 					
 						<div class='col-lg-4'>
-							<a href="/andayKi">
-								     				<img class='recipes_img' src='/images/recipes/Eggs-SA-20-Final-web.jpg' />
-								     				<div class='name ' >Anday Ki Mithai</div>
+							<a href="/Syrup-Lts-Seed">
+								     				<img class='recipes_img' src='/images/recipes/Eggs-SA-23-Final-web.jpg' />
+								     				<div class='name ' >蓮子蛋茶</div>
 								     			</a>
 						</div>
-					
+						<div class='col-lg-4'>
+							<a href="/Egg-Tart">
+								     				<img class='recipes_img' src='/images/recipes/Eggs-SA-24-Final-web.jpg' />
+								     				<div class='name ' >酥皮蛋撻</div>
+								     			</a>
+						</div>
 					
 					
 					</div>
@@ -378,9 +397,9 @@
 		     			</div>
 
 		     			<div class='col-sm-4'>
-		     				<a href="/andayKi">
+		     				<a href="/St-Egg-Wht-Sea-Treasure">
 			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-20-Final-web.jpg' />
-			     				<div class='name'>Anday Ki Mithai</div>
+			     				<div class='name'>海皇扒蒸蛋白</div>
 			     			</a>
 		     			</div>
 
@@ -592,9 +611,9 @@
 		     			</div>
 
 		     			<div class='col-xs-6'>
-		     				<a href="/andayKi">
+		     				<a href="/St-Egg-Wht-Sea-Treasure">
 			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-20-Final-web.jpg' />
-			     				<div class='name'>Anday Ki Mithai</div>
+			     				<div class='name'>海皇扒蒸蛋白</div>
 			     			</a>
 		     			</div>
 

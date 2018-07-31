@@ -28,9 +28,9 @@
 			
 				
 			
-			<span class='recipe_title'>瑤柱肉末蒸滑蛋 </span>
+			<span class='recipe_title'>鳳凰奶露 </span>
 			<p class='title_body'>
-				瑤柱濃郁的味道帶出了蒸蛋的鮮味。您可用碎牛肉代替豬肉。
+				此款傳統的糖水最適合作為飯後甜點享用。
 			</p>
 
 			<div class="col-xs-8 col-xs-offset-2 text-center eggs101-social">
@@ -53,7 +53,7 @@
 			
 		
 			<div class="col-xs-12 ">
-				<img src="/images/recipes/Eggs-SA-15-Final-large.jpg" alt="">
+				<img src="/images/recipes/Eggs-SA-22-Final-large.jpg" alt="">
 			</div>
 
 			<div class="col-xs-12  text-center desc">
@@ -61,9 +61,9 @@
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
 					<li class='recipe_worlds'>份量 4</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>準備時間: 35-40 min</li>
+					<li class='recipe_worlds'>準備時間:5-7分鐘</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹調時間: 準備瑤柱60分鐘+烹煮30分鐘</li>
+					<li class='recipe_worlds'>烹調時間: 5分鐘</li>
 				</ul>
 			</div>
 
@@ -78,15 +78,13 @@
                 
  				<div class="ingredients" style='clear: both'>
 	                <div class="col-xs-6 text-right ingredients_right">
-	                	<span>4粒</span>
-	                	<span>113克</span>
-	                	<span>380亳升</span>
-	                	<span>1茶匙或適量</span>
+	                	
+	                	
+	                	<span>2隻</span>
+	                	<span>170毫升</span>
 	                	<span>1茶匙</span>
-	                	<span>1茶匙</span>
-	                	<span>¼茶匙</span>
-	                	<span>½茶匙</span>
-	                	<span>28克或適量</span>
+	                	
+	                	
 
 
 	                
@@ -100,16 +98,11 @@
 	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
-	                	<span>瑤柱</span>
-						<span>豬肉碎</span>
+	                	
 						<span>雞蛋</span>
-						<span>清雞湯</span>
-						<span>鹽</span>
+						<span>奶</span>
 						<span>糖</span>
-						<span>您喜歡的食用油</span>
-						<span>白胡椒粉</span>
-						<span>生粉</span>
-						<span>葱花</span>
+
 	                </div>
                 </div>
 
@@ -125,28 +118,27 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">置瑤柱於一碗滾水中</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">在一個小碗中攪勻蛋黃備用</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用鍋煮滾2升水，水滾後小心放入裝有瑤柱的碗，加蓋隔水蒸60分鐘，令瑤柱變軟
+						<div class="col-xs-10 col-xs-offset-1 step_body">用鍋以慢火熱奶1分鐘，加糖1茶匙再熱1分鐘，切勿滾起
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">待瑤柱變涼後拆絲備用
-</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">離火，慢慢將⅓熱奶倒入蛋黃碗中
 						<hr class='hr1'>
 					</div>
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用另一個較小的鍋煮滾1升水，放入豬肉碎灼3分鐘，撈出備用
+						<div class="col-xs-10 col-xs-offset-1 step_body">再將奶和蛋黃反注入鍋中，不斷攪拌1分鐘
 </div>
 						<hr class='hr1'>
 					</div>
@@ -154,42 +146,21 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在一個大碗內將雞蛋4隻、清雞湯280毫升，和鹽、糖各½茶匙攪勻，將蛋湯注入淺瓷碟，包上保鮮紙
+						<div class="col-xs-10 col-xs-offset-1 step_body">即可享用
 </div>
 						<hr class='hr1'>
 					</div>
 					<hr>
-
-					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 6</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將凍水2升倒入大鍋，放入淺瓷碟，用中火隔水蒸20分鐘
-</div>
-						<hr class='hr1'>
-					</div>
-					<hr>					
-
-					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 7</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">起鑊熱油1茶匙，落入第4步中灼熟的豬肉碎、第3步的瑤柱絲、清雞湯100毫升，用鹽、糖各½茶匙和白胡椒粉¼茶匙調味，煮1分鐘，用生粉½茶匙慢慢攪拌勾芡
-</div>
-						<hr class='hr1'>
-					</div>
-					<hr>	
 					
-					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 8</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">第6步的蒸蛋應已完成，去除保鮮紙，往蒸蛋上淋上第7步準備好的湯汁，撒上蔥花即可享用
-</div>
-						<hr class='hr1'>
-					</div>
-					<hr>	
+				
 					
 
 					<div class="steps col-xs-12  text-center">
 
 						<h1 class="col-xs-12"><b>小貼士:</b></h1>
-						<div class="col-xs-10 col-xs-offset-1 step_body"> 瑤柱除了可以蒸軟，亦可以用水浸過夜。</div>
-						
+						<div class="col-xs-10 col-xs-offset-1 step_body">  如您喜歡，可使用高脂奶。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body"> 如您希望奶糊更粘稠，可加熱更長時間。</div>
+
 						<hr class='hr1'>
 						
 						
@@ -247,44 +218,41 @@
         <table class='table'>
         	<tr>
         		<td><b>卡路里</b></td>
-        		<td class='text-right'>398 </td>
+        		<td class='text-right'>54 </td>
         	</tr>
         	<tr>
         		<td><b>脂肪</b></td>
-        		<td class='text-right'>33 g</td>
+        		<td class='text-right'>3.5 g</td>
         	</tr>
         	<tr>
         		<td><b>飽和脂肪</b></td>
-        		<td class='text-right'>26 g</td>
+        		<td class='text-right'>1.5 g</td>
         	</tr>
         	<tr>
         		<td><b>反式脂肪</b>  </td>
-        		<td class='text-right'>0 g</td>
+        		<td class='text-right'>0.1 g</td>
         	</tr>
         	<tr>
         		<td><b>鈉</b></td>
-        		<td class='text-right'>193 mg</td>
+        		<td class='text-right'>338 mg</td>
         	</tr>
         	<tr>
         		<td><b>糖</b>  </td>
-        		<td class='text-right'>737 mg  </td>
+        		<td class='text-right'>24 g  </td>
         	</tr>
         	<tr>
-        		<td><b>蛋白質/b>  </td>
-        		<td class='text-right'>13 g</td>
+        		<td><b>蛋白質</b>  </td>
+        		<td class='text-right'>3 g</td>
         	</tr>
         	<tr>
-        		<td><b>纖維/b>  </td>
+        		<td><b>纖維</b>  </td>
         		<td class='text-right'>3 g</td>
         	</tr>
         	<tr>
         		<td><b>碳水化合物</b>  </td>
-        		<td class='text-right'>7 g</td>
+        		<td class='text-right'>3 g</td>
         	</tr>
-        	<tr>
-        		<td><b>Protein</b>  </td>
-        		<td class='text-right'>10 g</td>
-        	</tr>
+        	
         </table>
       </div>
      
@@ -292,40 +260,3 @@
 
   </div>
 </div>
-
-
-
-
-
-
-		
-	
-	
-	
-<script>
-	$("#fb").mouseover(function(){
-		$(this).attr('src','./images/social/eggs101/egg_socialMediaIconSet_facebook-over.png');
-	});
-	$("#fb").mouseleave(function(){
-		$(this).attr('src','./images/social/eggs101/egg_socialMediaIconSet_facebook.png');
-	});
-	$("#pinterest").mouseover(function(){
-		$(this).attr('src','./images/social/eggs101/egg_socialMediaIconSet_pinterest-over.png');
-	});
-	$("#pinterest").mouseleave(function(){
-		$(this).attr('src','./images/social/eggs101/egg_socialMediaIconSet_pinterest.png');
-	});
-	$("#twitter").mouseover(function(){
-		$(this).attr('src','./images/social/eggs101/egg_socialMediaIconSet_twitter-over.png');
-	});
-	$("#twitter").mouseleave(function(){
-		$(this).attr('src','./images/social/eggs101/egg_socialMediaIconSet_twitter.png');
-	});
-	$("#back_to_recipes").mouseover(function(){
-		$("#back_to_recipes_img").attr('src','./images/icons/back_over.png');
-	});
-	$("#back_to_recipes").mouseleave(function(){
-		$("#back_to_recipes_img").attr('src','./images/icons/back.png');
-	});
-</script>	
-@stop

@@ -70,7 +70,7 @@
   <meta property="og:description"   content="Sweet Indian egg dessert with almonds, raisins, cardamom and saffron." />
   
 	@elseif(url()->current()=='http://www.egghisuperstar.com/andayKi')
-	<title>Anday Ki Mithai </title>
+	<title>海皇扒蒸蛋白 </title>
  
    <meta property="og:description" content="S Baked Indian sweet made from eggs, semolina and ghee, scented with cardamom and saffron." />
 	@else

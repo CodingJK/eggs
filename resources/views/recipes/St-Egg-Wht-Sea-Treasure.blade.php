@@ -28,14 +28,14 @@
 			
 				
 			
-			<span class='recipe_title'>瑤柱肉末蒸滑蛋 </span>
+			<span class='recipe_title'>海皇扒蒸蛋白</span>
 			<p class='title_body'>
-				瑤柱濃郁的味道帶出了蒸蛋的鮮味。您可用碎牛肉代替豬肉。
+				  這款美味的海鮮扒蒸蛋可選用各種各樣的海鮮，例如任何魚類、龍蝦、蟹肉或貝類，是一道能快速做好的佳餚。
 			</p>
 
 			<div class="col-xs-8 col-xs-offset-2 text-center eggs101-social">
 				
-				<a target="_blank" href='https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.EggHiSuperstar.com%2Fkerela&src=sdkpreparse' style='padding-right:15px'>
+				<a target="_blank" href='https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.EggHiSuperstar.com%2FandayKi&src=sdkpreparse' style='padding-right:15px'>
 					<img id='fb' src='./images/social/eggs101/egg_socialMediaIconSet_facebook.png' />
 				</a>
 				<a target="_blank" href='https://twitter.com/intent/tweet?text={{url()->current()}}' >
@@ -53,17 +53,17 @@
 			
 		
 			<div class="col-xs-12 ">
-				<img src="/images/recipes/Eggs-SA-15-Final-large.jpg" alt="">
+				<img src="/images/recipes/Eggs-SA-20-Final-large.jpg" alt="">
 			</div>
 
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量 4</li>
+					<li class='recipe_worlds'> 份量: 4位用</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>準備時間: 35-40 min</li>
+					<li class='recipe_worlds'>準備時間: 20 分鐘</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹調時間: 準備瑤柱60分鐘+烹煮30分鐘</li>
+					<li class='recipe_worlds'>烹調時間: 30 分鐘</li>
 				</ul>
 			</div>
 
@@ -78,45 +78,45 @@
                 
  				<div class="ingredients" style='clear: both'>
 	                <div class="col-xs-6 text-right ingredients_right">
-	                	<span>4粒</span>
+	                	<span>8隻</span>
+	                	<span>320亳升 </span>
+	                	<span>1茶匙</span>
+	                	<span>¾茶匙</span>
 	                	<span>113克</span>
-	                	<span>380亳升</span>
-	                	<span>1茶匙或適量</span>
-	                	<span>1茶匙</span>
-	                	<span>1茶匙</span>
+	                	<span>113克</span>
+	                	<span>28克 </span>
 	                	<span>¼茶匙</span>
 	                	<span>½茶匙</span>
-	                	<span>28克或適量</span>
-
-
-	                
+	                	<span>1茶匙</span>
+	                	<span>56克</span>
 	                	
-
-
-
-
 	                	
 	                	
 	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
-	                	<span>瑤柱</span>
-						<span>豬肉碎</span>
-						<span>雞蛋</span>
-						<span>清雞湯</span>
-						<span>鹽</span>
-						<span>糖</span>
-						<span>您喜歡的食用油</span>
-						<span>白胡椒粉</span>
-						<span>生粉</span>
-						<span>葱花</span>
+	                	<span>雞蛋 (只用蛋白)</span>
+	                	<span>清雞湯</span>
+	                	<span>鹽</span>
+	                	<span>糖</span>
+	                	<span>蝦仁</span>
+	                	<span>帶子</span>
+	                	<span>冬菇</span>
+	                	<span>白胡椒粉</span>
+	                	<span>生粉</span>
+	                	<span>魚子</span>
+	                	<span>葱花</span>
+	                	
+	                	
 	                </div>
                 </div>
+
 
                 
            
 
               
+
 
 
 				<div class="step">
@@ -125,20 +125,21 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">置瑤柱於一碗滾水中</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">在一個碗內將蛋白8份和清雞湯180毫升攪勻，加鹽½茶匙和糖¼茶匙調味，將蛋湯注入淺瓷碟，包上保鮮紙</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用鍋煮滾2升水，水滾後小心放入裝有瑤柱的碗，加蓋隔水蒸60分鐘，令瑤柱變軟
+						<div class="col-xs-10 col-xs-offset-1 step_body">用鍋煮滾1升水，放入蝦仁、帶子和冬菇灼3分鐘，撈出均切粒備用
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">待瑤柱變涼後拆絲備用
+						<div class="col-xs-10 col-xs-offset-1 step_body">將凍水2升倒入大鍋，放入第1步的淺瓷碟，用中火隔水蒸20分鐘
+
 </div>
 						<hr class='hr1'>
 					</div>
@@ -146,7 +147,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用另一個較小的鍋煮滾1升水，放入豬肉碎灼3分鐘，撈出備用
+						<div class="col-xs-10 col-xs-offset-1 step_body">在鑊中倒入清雞湯140毫升，加熱2分鐘，放入第2步中的蝦仁粒、帶子粒和冬菇粒，再煮2分鐘
 </div>
 						<hr class='hr1'>
 					</div>
@@ -154,7 +155,8 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在一個大碗內將雞蛋4隻、清雞湯280毫升，和鹽、糖各½茶匙攪勻，將蛋湯注入淺瓷碟，包上保鮮紙
+						<div class="col-xs-10 col-xs-offset-1 step_body">將用剩餘的鹽、糖，和白胡椒粉¼茶匙調味，加生粉½茶匙慢慢攪拌勾芡
+
 </div>
 						<hr class='hr1'>
 					</div>
@@ -162,38 +164,30 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 6</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將凍水2升倒入大鍋，放入淺瓷碟，用中火隔水蒸20分鐘
+						<div class="col-xs-10 col-xs-offset-1 step_body">關火後落魚子1茶匙、葱花輕輕攪匀，您的海皇湯汁準備就緒
+
 </div>
 						<hr class='hr1'>
 					</div>
-					<hr>					
+					<hr>
+
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 7</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">起鑊熱油1茶匙，落入第4步中灼熟的豬肉碎、第3步的瑤柱絲、清雞湯100毫升，用鹽、糖各½茶匙和白胡椒粉¼茶匙調味，煮1分鐘，用生粉½茶匙慢慢攪拌勾芡
+						<div class="col-xs-10 col-xs-offset-1 step_body">第3步的蒸蛋應已完成，去除保鮮紙，往碟內淋上海皇湯汁即可享用
+
 </div>
 						<hr class='hr1'>
 					</div>
-					<hr>	
-					
-					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 8</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">第6步的蒸蛋應已完成，去除保鮮紙，往蒸蛋上淋上第7步準備好的湯汁，撒上蔥花即可享用
-</div>
-						<hr class='hr1'>
-					</div>
-					<hr>	
+					<hr>			
+
 					
 
-					<div class="steps col-xs-12  text-center">
+					
 
-						<h1 class="col-xs-12"><b>小貼士:</b></h1>
-						<div class="col-xs-10 col-xs-offset-1 step_body"> 瑤柱除了可以蒸軟，亦可以用水浸過夜。</div>
-						
-						<hr class='hr1'>
-						
-						
-					</div>
+					
+
+
 				</div>
                 
 			</div>
@@ -202,9 +196,9 @@
 				<h1>相關</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Funny-Egg-Fish">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-13-Final-web.jpg' />
-			     				<div class='name'>趣味小蛋魚</div>
+		     				<a href="/Steamed-crab-claw-with-egg-whites">
+			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-19-Final-web.jpg' />
+			     				<div class='name'>白玉蒸蟹鉗</div>
 			     			</a>
 		     			</div>
 
@@ -216,10 +210,10 @@
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Foie-gras-roulade-with-egg-sheet-and-nori">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-16-Final-web.jpg' />
+		     				<a href="/Boiled-Egg-Oolong-Tea">
+			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-14-Final-web.jpg' />
 			     				<div class='name'>
-			     					紫菜鵝肝蛋皮卷
+			     					烏龍茶葉蛋
 								</div>
 			     			</a>
 		     			</div>
@@ -247,15 +241,15 @@
         <table class='table'>
         	<tr>
         		<td><b>卡路里</b></td>
-        		<td class='text-right'>398 </td>
+        		<td class='text-right'>85  </td>
         	</tr>
         	<tr>
         		<td><b>脂肪</b></td>
-        		<td class='text-right'>33 g</td>
+        		<td class='text-right'>5 g</td>
         	</tr>
         	<tr>
         		<td><b>飽和脂肪</b></td>
-        		<td class='text-right'>26 g</td>
+        		<td class='text-right'>2.5 g</td>
         	</tr>
         	<tr>
         		<td><b>反式脂肪</b>  </td>
@@ -263,29 +257,27 @@
         	</tr>
         	<tr>
         		<td><b>鈉</b></td>
-        		<td class='text-right'>193 mg</td>
+        		<td class='text-right'>31 mg</td>
         	</tr>
         	<tr>
         		<td><b>糖</b>  </td>
-        		<td class='text-right'>737 mg  </td>
+        		<td class='text-right'>26 mg  </td>
         	</tr>
         	<tr>
-        		<td><b>蛋白質/b>  </td>
-        		<td class='text-right'>13 g</td>
+        		<td><b>蛋白質</b>  </td>
+        		<td class='text-right'>9 g</td>
         	</tr>
         	<tr>
-        		<td><b>纖維/b>  </td>
-        		<td class='text-right'>3 g</td>
+        		<td><b>纖維</b>  </td>
+        		<td class='text-right'>0 g</td>
         	</tr>
         	<tr>
         		<td><b>碳水化合物</b>  </td>
-        		<td class='text-right'>7 g</td>
+        		<td class='text-right'>6 g</td>
         	</tr>
-        	<tr>
-        		<td><b>Protein</b>  </td>
-        		<td class='text-right'>10 g</td>
-        	</tr>
+        	
         </table>
+        <i>每食用份量</i>
       </div>
      
     </div>

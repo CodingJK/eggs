@@ -97,8 +97,24 @@ Route::get('EggsMakhani', function () {
 Route::get('Steamed-crab-claw-with-egg-whites', function () {
         return view('recipes.Steamed-crab-claw-with-egg-whites');
     });
-Route::get('andayKi', function () {
-        return view('recipes.andayKi');
+Route::get('St-Egg-Wht-Sea-Treasure', function () {
+        return view('recipes.St-Egg-Wht-Sea-Treasure');
+    });
+Route::get('St-Egg-Mncd-Pork', function () {
+        return view('recipes.St-Egg-Mncd-Pork');
+    });
+Route::get('Scrmbld-Egg-Fish-Maw', function () {
+        return view('recipes.Scrmbld-Egg-Fish-Maw');
+    });
+Route::get('Bld-Swtnd-Milk', function () {
+        return view('recipes.Bld-Swtnd-Milk');
+    });
+Route::get('Syrup-Lts-Seed', function () {
+        return view('recipes.Syrup-Lts-Seed');
+    });
+
+Route::get('Egg-Tart', function () {
+        return view('recipes.Egg-Tart');
     });
 
 
