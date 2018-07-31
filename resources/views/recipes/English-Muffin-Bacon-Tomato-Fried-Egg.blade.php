@@ -108,13 +108,13 @@
 					<div class='recipes_subtitle'>步驟:</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 1</div>
+						<div class="step_title col-xs-12">步驟 1</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">烤英式鬆餅，在每塊的其中一個半邊搽上牛油½茶匙(2.5毫升)，並鋪上番茄和熟煙肉</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 2</div>
+						<div class="step_title col-xs-12">步驟 2</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">用平底鍋以中火煮融剩餘的牛油，打入雞蛋。用鹽和胡椒粉調味；煎3至4分鐘至蛋白凝結(如果要兩面煎，翻轉雞蛋煎2分鐘)。將蛋置於煙肉之上即可食用 
 						Set aside.
 						</div>

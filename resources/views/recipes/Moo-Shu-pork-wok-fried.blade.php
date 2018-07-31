@@ -119,20 +119,20 @@
 					<div class='recipes_subtitle'>步驟:</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 1</div>
+						<div class="step_title col-xs-12">步驟 1</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">打蛋到碗中，攪勻</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 2</div>
+						<div class="step_title col-xs-12">步驟 2</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">在一個深鑊內落油1升，熱3-5分鐘至足夠熱。慢慢倒入蛋液並同時輕輕攪動熱油，將蛋攪成細絲，可使用漏勺。撈起蛋絲備用。如果覺得蛋絲太油，可用廚紙吸收多餘油分
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 3</div>
+						<div class="step_title col-xs-12">步驟 3</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">在鍋內倒入清水2升煮滾，放入豬肉、椰菜、木耳、紅蘿蔔、竹筍和冬菇絲灼3分鐘，撈起瀝乾水分備用
 </div>
 						<hr class='hr1'>
@@ -140,7 +140,7 @@
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 4</div>
+						<div class="step_title col-xs-12">步驟 4</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">將木須皮放入蒸籠，煮滾一鍋水後把蒸籠放入鍋中，須高於水位(鍋和蒸籠尺寸應匹配)，蒸5分鐘
 </div>
 						<hr class='hr1'>
@@ -148,7 +148,7 @@
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 5</div>
+						<div class="step_title col-xs-12">步驟 5</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">鑊中落油2茶匙加熱，將薑絲、蒜蓉入鑊爆香，放入灼過的豬肉、椰菜、木耳、紅蘿蔔、竹筍和冬菇絲，再加入蛋絲，用鹽、糖各½茶匙和老抽1茶匙調味，炒3分鐘
 						</div>
 						<hr class='hr1'>
@@ -156,7 +156,7 @@
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 6</div>
+						<div class="step_title col-xs-12">步驟 6</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">將炒好的木須肉分成8份，放入準備好的木須皮，包成半月形
 						</div>
 						<hr class='hr1'>
@@ -164,7 +164,7 @@
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 7</div>
+						<div class="step_title col-xs-12">步驟 7</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">上碟即可享用
 						</div>
 						<hr class='hr1'>

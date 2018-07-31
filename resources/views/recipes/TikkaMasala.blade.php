@@ -171,20 +171,20 @@
 					<div class='recipes_subtitle'>步驟:</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 1</div>
+						<div class="step_title col-xs-12">步驟 1</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">Lightly oil a medium-sized ovenproof casserole dish. Set aside. Preheat oven to 375°F.</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 2</div>
+						<div class="step_title col-xs-12">步驟 2</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">In a medium pot, add vegetable broth with quinoa and bring to a boil. Cover pot with lid, reduce heat to medium and simmer until liquid is absorbed, approximately 15-20 minutes. Remove quinoa to a bowl. 
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 3</div>
+						<div class="step_title col-xs-12">步驟 3</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">In the same pot, gently heat olive oil on medium heat. Add garlic and fry for one minute. Add curry powder and blend into oil. Fold in quinoa and coat well. Place curried quinoa in greased casserole dish to create a base layer for the tikka masala baked eggs.
 
 </div>
@@ -193,7 +193,7 @@
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 4</div>
+						<div class="step_title col-xs-12">步驟 4</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body"><b>Tikka Masala Sauce: </b>In a medium pot, heat oil on medium-high heat. Add onion and caramelize until golden brown, approximately 10-15 minutes. Add crushed tomatoes and stir. Mix in garlic paste, ginger paste, coriander, cumin, chili and turmeric and simmer for a couple of minutes. Stir in sugar, salt and garam masala. Add cream and mix. Thin out sauce with water. Add lemon juice.
 </div>
 						<hr class='hr1'>
@@ -201,7 +201,7 @@
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 5</div>
+						<div class="step_title col-xs-12">步驟 5</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">Using the handle of a wooden spoon, create six equally spaced holes in curried quinoa base to nest each egg into. Crack an egg into each hole. Spoon in tikka masala sauce around eggs, covering quinoa layer. Sprinkle on crumbled paneer.
 </div>
 						<hr class='hr1'>
@@ -209,7 +209,7 @@
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 6</div>
+						<div class="step_title col-xs-12">步驟 6</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">Bake in pre-heated oven for 20-25 minutes or until eggs are tender and yolks are cooked. Garnish with cilantro and a sprinkling of garam masala.
 </div>
 						<hr class='hr1'>
@@ -305,11 +305,11 @@
         		<td class='text-right'>1109 mg  </td>
         	</tr>
         	<tr>
-        		<td><b>蛋白質/b>  </td>
+        		<td><b>蛋白質</b>  </td>
         		<td class='text-right'>41 g</td>
         	</tr>
         	<tr>
-        		<td><b>纖維/b>  </td>
+        		<td><b>纖維</b>  </td>
         		<td class='text-right'>5 g</td>
         	</tr>
         	<tr>

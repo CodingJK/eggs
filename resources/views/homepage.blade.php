@@ -132,78 +132,25 @@
         </script>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         <div class='container-fluid FeaturedRecipe_parent clear-both'>
             <br><br>
             <div class='FeaturedRecipe'>
                 <div class='title'>Featured Recipe<br><br></div>
                 <div class='row'>
                     <div class='col-sm-6 left_img'>
-                        <a href="/English-Muffin-Bacon-Tomato-Fried-Egg">
-                            <img src='/images/recipes/Eggs-SA-01-Final-web.jpg' />
+                        <a href="/Funny-Egg-Fish">
+                            <img src='/images/recipes/Eggs-SA-13-Final_home.jpg' />
                         </a>
                     </div>
                     <div class='col-sm-6 right_des'>
-                        <a href="/English-Muffin-Bacon-Tomato-Fried-Egg">
-                            <div class='sub_title'>番茄煙肉煎蛋早餐三文治</div>
+                        <a href="/Funny-Egg-Fish">
+                            <div class='sub_title'>趣味小蛋魚</div>
                             <div class='right_body'>
-                                全麥英式鬆餅為這道美味充實的早餐添加了健康元素。用牛油紙包起三文治您就可在路上享用早餐了！
+                                這款雞蛋小魚是小孩和大人都會喜歡的有趣小菜。煮熟的雞蛋作為小魚的身體，切成薄片的青瓜和白蘿蔔組成魚鱗，再點綴以紅椒做出魚尾，您就會迎來一片稱讚聲！
                             </div>
                         </a>
                         <div class='col-sm-12 getTheRecipe'>
-                            <a href="/English-Muffin-Bacon-Tomato-Fried-Egg" id='getTheRecipe'> 瀏覽食譜 </a>
+                            <a href="/Funny-Egg-Fish" id='getTheRecipe'> 瀏覽食譜 </a>
                         </div>
                     </div>
                 </div>
@@ -218,7 +165,7 @@
                 <div class='row'>
                     <div class='col-sm-6 left_img'>
                         <a href="/grandmaIndian">
-                            <img src='/images/recipes/Eggs-SA-02-Final-web.jpg' />
+                            <img src="/images/recipes/Eggs-SA-02-Final-web.jpg" />
                             
                             <div class='left_sub_title'>番茄煙肉煎蛋早餐三文治</div>
                             
@@ -237,7 +184,7 @@
         </div>
 
         <div class='col-xs-12 getTheRecipe_1 text-center'>
-            <a href="/Recipes" id='getTheRecipe_1'> View All </a>
+            <a href="/Recipes" id='getTheRecipe_1'> 瀏覽食譜 </a>
         </div>
 
     </div> 

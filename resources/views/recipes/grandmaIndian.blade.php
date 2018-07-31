@@ -126,27 +126,27 @@
 				<div class="container-fuild step">
 					<div class='recipes_subtitle'>步驟:</div>
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 1</div>
+						<div class="step_title col-xs-12">步驟 1</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body"><b>Garam masala ketchup: </b> In a small bowl, add tomato ketchep and mix in garam masala (and chili powder). Set aside. </div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 2</div>
+						<div class="step_title col-xs-12">步驟 2</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body"><b>Omelette Filling: </b>Heat a medium non-stick skillet on medium-high. Melt ghee or butter and add tomato, red onion, cilantro and green chilies. Gently fry for a couple of minutes until onion is softened. Remove mixture from skillet and set aside.
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 3</div>
+						<div class="step_title col-xs-12">步驟 3</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">In a small bowl, beat one egg with fork and mix in ¼ tsp. salt and ¼ tsp. garam masala. </div>
 						<hr class='hr1'>
 					</div>
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 4</div>
+						<div class="step_title col-xs-12">步驟 4</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">In a skillet, melt 1 tsp. of ghee or butter. Add egg mixture and spread evenly in skillet to create a thin egg crepe-like omelette. Cook for a few minutes until golden brown and omelette is cooked. Sprinkle on a ¼ amount of cooked tomato and onion mixture. Roll omelette into a log. Continue with remaining eggs. 
 
 Serve with Garam Masala Ketchup.
@@ -237,11 +237,11 @@ Serve with Garam Masala Ketchup.
         		<td class='text-right'>597 mg  </td>
         	</tr>
         	<tr>
-        		<td><b>蛋白質/b>  </td>
+        		<td><b>蛋白質</b>  </td>
         		<td class='text-right'>14 g</td>
         	</tr>
         	<tr>
-        		<td><b>纖維/b>  </td>
+        		<td><b>纖維</b>  </td>
         		<td class='text-right'>1 g</td>
         	</tr>
         	<tr>

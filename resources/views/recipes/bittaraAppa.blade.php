@@ -127,41 +127,41 @@
 					<div class='recipes_subtitle'>步驟:</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 1</div>
+						<div class="step_title col-xs-12">步驟 1</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">In a large bowl, mix yeast with warm water and set aside for 10 minutes to allow yeast to activate.</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 2</div>
+						<div class="step_title col-xs-12">步驟 2</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">Add rice flour and whisk until smooth. Set aside in warm place for 2 hours.
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 3</div>
+						<div class="step_title col-xs-12">步驟 3</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">Whisk in coconut milk, sugar and salt. Set aside for another 2 hours.</div>
 						<hr class='hr1'>
 					</div>
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 4</div>
+						<div class="step_title col-xs-12">步驟 4</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">Whisk in 1 egg to finish hopper batter. Thin out batter with a tablespoon of water if mixture has become very thick. Consistency should be thinner than a pancake batter.
 </div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 5</div>
+						<div class="step_title col-xs-12">步驟 5</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">Heat a small non-stick kadai or wok with ½ tsp. of oil on medium-high heat. Add ¼ cup of hopper batter in centre of kadai and swirl around so batter spreads evenly, thinning at the edges. Cover with lid and cook on medium heat for a minute until the centre of hopper is partially cooked.
 </div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 6</div>
+						<div class="step_title col-xs-12">步驟 6</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">Crack 1 egg in the centre of hopper. Add salt and pepper to taste. Cover with lid and cook on medium-low heat for a few minutes, or until egg yolk is cooked to desired doneness. Garnish with cilantro (optional). Continue with remaining batter and eggs.
 </div>
 						<hr class='hr1'>
@@ -250,11 +250,11 @@
         		<td class='text-right'>181 mg  </td>
         	</tr>
         	<tr>
-        		<td><b>蛋白質/b>  </td>
+        		<td><b>蛋白質</b>  </td>
         		<td class='text-right'>12 g</td>
         	</tr>
         	<tr>
-        		<td><b>纖維/b>  </td>
+        		<td><b>纖維</b>  </td>
         		<td class='text-right'>0 g</td>
         	</tr>
         	<tr>

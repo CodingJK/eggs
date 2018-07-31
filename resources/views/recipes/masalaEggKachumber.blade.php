@@ -148,20 +148,20 @@
 					<div class='recipes_subtitle'>步驟:</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 1</div>
+						<div class="step_title col-xs-12">步驟 1</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">Combine Kachumber Salad ingredients together in a bowl.</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 2</div>
+						<div class="step_title col-xs-12">步驟 2</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body"><b>Dressing: </b>In a small bowl, combine dressing ingredients together and add to Kachumber Salad, coating well. Cover and refrigerate.
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 3</div>
+						<div class="step_title col-xs-12">步驟 3</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">In a non-stick skillet, add oil on medium heat. Sprinkle in coriander, garlic paste, paprika, cumin and salt. Gently place hard-cooked eggs in skillet and coat evenly with oil and spices. Once coated, allow eggs to cool to room temperature.
 
 </div>
@@ -170,7 +170,7 @@
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 4</div>
+						<div class="step_title col-xs-12">步驟 4</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">Place kachumber salad on a platter and arrange masala eggs on top of salad. Garnish with a sprinkle of garam masala and cilantro.
 
 </div>
@@ -261,11 +261,11 @@
         		<td class='text-right'>670 mg  </td>
         	</tr>
         	<tr>
-        		<td><b>蛋白質/b>  </td>
+        		<td><b>蛋白質</b>  </td>
         		<td class='text-right'>13 g</td>
         	</tr>
         	<tr>
-        		<td><b>纖維/b>  </td>
+        		<td><b>纖維</b>  </td>
         		<td class='text-right'>2 g</td>
         	</tr>
         	<tr>

@@ -108,20 +108,20 @@
 					<div class='recipes_subtitle'>步驟:</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 1</div>
+						<div class="step_title col-xs-12">步驟 1</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">In a small bowl, remove egg yolks. With a fork, mash egg yolks and combine with mayonnaise, honey mustard, curry powder, red onion, salt and green chili. </div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 2</div>
+						<div class="step_title col-xs-12">步驟 2</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">Refill egg whites with yolk mixture. Garnish with red onion and cilantro.
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 3</div>
+						<div class="step_title col-xs-12">步驟 3</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">On a plate or platter, layer sev and “nest eggs” on top for presentation. Option to garnish each egg with sev as well. Serve immediately or cover and store in refrigerator for up to 2 days.</div>
 						<hr class='hr1'>
 					</div>
@@ -206,11 +206,11 @@
         		<td class='text-right'>169 mg  </td>
         	</tr>
         	<tr>
-        		<td><b>蛋白質/b>  </td>
+        		<td><b>蛋白質</b>  </td>
         		<td class='text-right'>6 g</td>
         	</tr>
         	<tr>
-        		<td><b>纖維/b>  </td>
+        		<td><b>纖維</b>  </td>
         		<td class='text-right'>2 g</td>
         	</tr>
         	<tr>

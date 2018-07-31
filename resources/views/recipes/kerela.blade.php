@@ -124,20 +124,20 @@
 					<div class='recipes_subtitle'>步驟:</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 1</div>
+						<div class="step_title col-xs-12">步驟 1</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">置瑤柱於一碗滾水中</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 2</div>
+						<div class="step_title col-xs-12">步驟 2</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">用鍋煮滾2升水，水滾後小心放入裝有瑤柱的碗，加蓋隔水蒸60分鐘，令瑤柱變軟
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 3</div>
+						<div class="step_title col-xs-12">步驟 3</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">待瑤柱變涼後拆絲備用
 </div>
 						<hr class='hr1'>
@@ -145,7 +145,7 @@
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 4</div>
+						<div class="step_title col-xs-12">步驟 4</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">用另一個較小的鍋煮滾1升水，放入豬肉碎灼3分鐘，撈出備用
 </div>
 						<hr class='hr1'>
@@ -153,7 +153,7 @@
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 5</div>
+						<div class="step_title col-xs-12">步驟 5</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">在一個大碗內將雞蛋4隻、清雞湯280毫升，和鹽、糖各½茶匙攪勻，將蛋湯注入淺瓷碟，包上保鮮紙
 </div>
 						<hr class='hr1'>
@@ -161,7 +161,7 @@
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 6</div>
+						<div class="step_title col-xs-12">步驟 6</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">將凍水2升倒入大鍋，放入淺瓷碟，用中火隔水蒸20分鐘
 </div>
 						<hr class='hr1'>
@@ -169,7 +169,7 @@
 					<hr>					
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 7</div>
+						<div class="step_title col-xs-12">步驟 7</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">起鑊熱油1茶匙，落入第4步中灼熟的豬肉碎、第3步的瑤柱絲、清雞湯100毫升，用鹽、糖各½茶匙和白胡椒粉¼茶匙調味，煮1分鐘，用生粉½茶匙慢慢攪拌勾芡
 </div>
 						<hr class='hr1'>
@@ -177,7 +177,7 @@
 					<hr>	
 					
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 8</div>
+						<div class="step_title col-xs-12">步驟 8</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">第6步的蒸蛋應已完成，去除保鮮紙，往蒸蛋上淋上第7步準備好的湯汁，撒上蔥花即可享用
 </div>
 						<hr class='hr1'>
@@ -270,11 +270,11 @@
         		<td class='text-right'>737 mg  </td>
         	</tr>
         	<tr>
-        		<td><b>蛋白質/b>  </td>
+        		<td><b>蛋白質</b>  </td>
         		<td class='text-right'>13 g</td>
         	</tr>
         	<tr>
-        		<td><b>纖維/b>  </td>
+        		<td><b>纖維</b>  </td>
         		<td class='text-right'>3 g</td>
         	</tr>
         	<tr>

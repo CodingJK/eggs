@@ -124,20 +124,20 @@
 					<div class='recipes_subtitle'>步驟:</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 1</div>
+						<div class="step_title col-xs-12">步驟 1</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">在一個碗內將蛋白8份和清雞湯180毫升攪勻，加鹽½茶匙和糖¼茶匙調味，將蛋湯注入淺瓷碟，包上保鮮紙</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 2</div>
+						<div class="step_title col-xs-12">步驟 2</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">用鍋煮滾1升水，放入蝦仁、帶子和冬菇灼3分鐘，撈出均切粒備用
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 3</div>
+						<div class="step_title col-xs-12">步驟 3</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">將凍水2升倒入大鍋，放入第1步的淺瓷碟，用中火隔水蒸20分鐘
 
 </div>
@@ -146,7 +146,7 @@
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 4</div>
+						<div class="step_title col-xs-12">步驟 4</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">在鑊中倒入清雞湯140毫升，加熱2分鐘，放入第2步中的蝦仁粒、帶子粒和冬菇粒，再煮2分鐘
 </div>
 						<hr class='hr1'>
@@ -154,7 +154,7 @@
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 5</div>
+						<div class="step_title col-xs-12">步驟 5</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">將用剩餘的鹽、糖，和白胡椒粉¼茶匙調味，加生粉½茶匙慢慢攪拌勾芡
 
 </div>
@@ -163,7 +163,7 @@
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 6</div>
+						<div class="step_title col-xs-12">步驟 6</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">關火後落魚子1茶匙、葱花輕輕攪匀，您的海皇湯汁準備就緒
 
 </div>
@@ -173,7 +173,7 @@
 
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 7</div>
+						<div class="step_title col-xs-12">步驟 7</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">第3步的蒸蛋應已完成，去除保鮮紙，往碟內淋上海皇湯汁即可享用
 
 </div>

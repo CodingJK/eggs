@@ -5,14 +5,6 @@
 			$(window).ready(function(){
 				$(".nav_parent").css('background-color','white');
 				$("#nav").css('background-color','white');
-				// $(".nav-justified a").css('border-color','white');
-				// $(".nav-justified a").css('color','black');
-				// $(".nav-justified a").mouseenter( function(){
-				// 	$(this).css('border-color','#ffcd32');
-				// } ).mouseleave(  function(){
-				// 	$(this).css('border-color','white');
-				// } );
-				// $(".reciptes_link").css('color','#ffcd32');
 			});
 		</script>
 
@@ -47,7 +39,6 @@
 			</div>
 			<div class="col-xs-2"></div>
 		</div>
-
 		{{-- images --}}
 		<div class="container-fuild recipes_images">
 			
@@ -86,18 +77,6 @@
 	                	<span>⅓茶匙</span>
 	                	<span>2茶匙</span>
 	                	<span>28克</span>
-	                	
-
-
-	                
-	                	
-
-
-
-
-	                	
-	                	
-	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
 	                	<span>乾魚肚</span>
@@ -109,32 +88,25 @@
 						<span>火腿茸</span>
 	                </div>
                 </div>
-
-                
-           
-
-              
-
-
 				<div class="step">
 
 					<div class='recipes_subtitle'>步驟:</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 1</div>
+						<div class="step_title col-xs-12">步驟 1</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">魚肚在室溫下浸泡過夜使其變軟，軟後切細粒備用</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 2</div>
+						<div class="step_title col-xs-12">步驟 2</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">打蛋入一個大碗，加魚肚粒、銀芽，鹽、糖各⅓茶匙攪勻
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 3</div>
+						<div class="step_title col-xs-12">步驟 3</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">起鑊熱油2茶匙，倒入上個步驟的蛋液輕攪，以慢火炒3分鐘
 </div>
 						<hr class='hr1'>
@@ -142,7 +114,7 @@
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 4</div>
+						<div class="step_title col-xs-12">步驟 4</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">上碟後撒上火腿茸即可
 </div>
 						<hr class='hr1'>
@@ -250,7 +222,6 @@
         		<td><b>碳水化合物</b>  </td>
         		<td class='text-right'>5 g</td>
         	</tr>
-        	
         </table>
       </div>
      
@@ -258,3 +229,4 @@
 
   </div>
 </div>
+@stop
