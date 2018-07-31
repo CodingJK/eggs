@@ -10,13 +10,20 @@
       text-align: center;
   }
 
+  #recipes .header .title{
+        color: white;
+      font-size: 80px;
+      line-height: 80px;
+      font-weight: bold;
+      margin: 40px 0;
+  }
+
     #recipes .header .header_artical .sub_title {
-          padding: 10px 10px;
-          color: white;
-          font-size: 20px;
-          line-height: 28px;
-          font-weight: 400;
-          font-family: Open Sans,Tahoma,sans-serif; }
+    margin: auto;
+    
+    color: white;
+    font-size: 26px;
+    line-height: 36.4px;}
     #recipes {
       padding-top: 0; 
     }
