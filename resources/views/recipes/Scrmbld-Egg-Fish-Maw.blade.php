@@ -59,7 +59,7 @@
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量 4</li>
+					<li class='recipe_worlds'>份量：4位用</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
 					<li class='recipe_worlds'>準備時間: 提前一天浸發魚肚</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>

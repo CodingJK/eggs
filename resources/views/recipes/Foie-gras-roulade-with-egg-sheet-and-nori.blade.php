@@ -21,7 +21,7 @@
 			
 				
 			
-			<span class='recipe_title'>紫菜鵝肝蛋皮卷Rice </span>
+			<span class='recipe_title'>紫菜鵝肝蛋皮卷 </span>
 			<p class='title_body'>
 				您可在下次宴會時準備這款極具創意的精緻前菜。雞蛋令味道濃郁的鵝肝添上細滑口感。您可能需要去一趟高級食品商場，但您肯定會享受整個過程。美味前菜再與甜酒配搭，讓精彩的夜晚有個美好開始！
 			</p>
