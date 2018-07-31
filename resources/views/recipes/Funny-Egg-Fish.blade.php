@@ -168,7 +168,7 @@
 		     			<div class='col-sm-4 col-xs-12'>
 		     				<a href="/Moo-Shu-pork-wok-fried">
 			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-15-Final-web.jpg' />
-			     				<div class='name'>金絲木須肉夾餅 Rice</div>
+			     				<div class='name'>金絲木須肉夾餅</div>
 			     			</a>
 		     			</div>
 
