@@ -236,7 +236,7 @@
         		<td class='text-right'>6克</td>
         	</tr>
         	<tr>
-        		<td><b>纖維/b>  </td>
+        		<td><b>纖維</b>  </td>
         		<td class='text-right'>0克</td>
         	</tr>
         	<tr>
