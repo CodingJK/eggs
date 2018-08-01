@@ -117,6 +117,39 @@ Route::get('Egg-Tart', function () {
         return view('recipes.Egg-Tart');
     });
 
+Route::get('Wk-Frd-Lbstr-Egg-Rainbow', function () {
+        return view('recipes.Wk-Frd-Lbstr-Egg-Rainbow');
+    });
+
+Route::get('Chiu-Chow-Omeletd', function () {
+        return view('recipes.Chiu-Chow-Omeletd');
+    });
+
+Route::get('Blck-Bn-Shrmp-Egg-White', function () {
+        return view('recipes.Blck-Bn-Shrmp-Egg-White');
+    });
+
+Route::get('Duo-Egg-Pearl', function () {
+        return view('recipes.Duo-Egg-Pearl');
+    });
+
+    Route::get('Billnr-Frd-Rice', function () {
+        return view('recipes.Billnr-Frd-Rice');
+    });
+
+    Route::get('Gldn-Omlet', function () {
+        return view('recipes.Gldn-Omlet');
+    });
+
+    Route::get('Sclp-Egg-Wht-Frd-Rice', function () {
+        return view('recipes.Sclp-Egg-Wht-Frd-Rice');
+    });
+
+    Route::get('Basic-Souffle', function () {
+        return view('recipes.Basic-Souffle');
+    });
+
+
 
 
 

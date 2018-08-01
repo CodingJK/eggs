@@ -164,7 +164,7 @@
                 
                 <div class='row'>
                     <div class='col-sm-6 left_img'>
-                        <a href="/grandmaIndian">
+                        <a href="/English-Muffin-Bacon-Tomato-Fried-Egg">
                             <img src="/images/recipes/Eggs-SA-02-Final-web.jpg" />
                             
                             <div class='left_sub_title'>番茄煙肉煎蛋早餐三文治</div>
