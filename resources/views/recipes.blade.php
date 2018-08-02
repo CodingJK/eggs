@@ -8,7 +8,6 @@
 				$(".reciptes_link").css('color','#ffcd32');
 
 			});
-			
 		</script>
 	</script>
 	<div id='recipes'>
@@ -22,9 +21,6 @@
 		      		</div>
 		      	</div>	
 		    </div>
-		    
-
-
 	    	<div class='container-fluid Picnic_parent'>
 
 				<div class='complete_parent'>
@@ -233,7 +229,7 @@
 						</div>
 						<br /><br /><br />
 						<div class='row viewAll_center'>
-							<a href="http://www.eggs.ca/recipes" id='ViewAll'> View All </a>
+							<a href="http://www.eggs.ca/recipes" id='ViewAll'> 瀏覽食譜 </a>
 						</div>
 						<br /><br /><br />
 					</div>
@@ -241,17 +237,6 @@
 				</div>
 	    	</div>
 		</div>
-
-	
-
-	   
-
-
-
-	     	
-
-			
-	      
     </div>
 	
 	

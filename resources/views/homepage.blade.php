@@ -2,39 +2,19 @@
 @section('content')
         <script>
             $(window).ready(function(){
-                $(".nav-link a").css('border-color','#fbbb27');
-                $(".nav-link a").css('color','black');
-                $(".france").css('border-color','black');
-                $(".punjabi").css('border-color','black');
+                $('.links a').css('border','2px solid #fbbb27');  
                 $("#nav").css('background-color','#fbbb27');
-                $("#nav").css('border-color','#fbbb27');
-                $(".nav-link a").mouseenter( function(){
-                    $(this).css('border-color','white');
+                $('.links a').hover(function(){
+                    $(this).css('border','2px solid white');
                     $(this).css('color','white');
-                } ).mouseleave(  function(){
-                    $(this).css('border-color','#fbbb27');
+                },function(){
+                    $(this).css('border','2px solid #fbbb27'); 
                     $(this).css('color','black');
-                } );
-
-                $(".france").mouseenter( function(){
-                    $(this).css('border-color','white');
-                    $(this).css('color','white');
-                } ).mouseleave(  function(){
-                    $(this).css('border-color','black');
-                    $(this).css('color','black');
-                } );
-
-                $(".punjabi").mouseenter( function(){
-                    $(this).css('border-color','white');
-                    $(this).css('color','white');
-                } ).mouseleave(  function(){
-                    $(this).css('border-color','black');
-                    $(this).css('color','black');
-                } );
+                    $('.lang').css('border','2px solid black');
+                });   
+               
+                $('.lang').css('border','2px solid black');
             });
-
-            
-             
         </script>
 
         <script>
@@ -42,43 +22,29 @@
             var pixs = $(document).scrollTop();
             if(pixs>50){
                 $("#nav").css('background-color','white');
-                $("#nav").css('border-color','#D3D3D3');
-
-                $(".nav-link a").css('border-color','white');
-                $(".nav-link a").css('color','black');
-
-                $(".france").css('border-color','black');
-                $(".punjabi").css('border-color','black');
-                $(".nav-link a").mouseenter( function(){
-                    $(this).css('border-color','#fbbb27');
-                    $(this).css('color','#fbbb27');
-                } ).mouseleave(  function(){
-                    $(this).css('border-color','white');
+                $('.links a').css('border','2px solid white');  
+                $('.links a').hover(function(){
+                    $(this).css('border','2px solid #fbbb27');
                     $(this).css('color','black');
-                } );
-
+                },function(){
+                    $(this).css('border','2px solid white'); 
+                    $(this).css('color','black');
+                    $('.lang').css('border','2px solid black');
+                });   
+                $('.lang').css('border','2px solid black');
             }else{
-              
+              $("#nav").css('background-color','#fbbb27');
+                $('.links a').css('border','2px solid #fbbb27');  
+                $('.links a').hover(function(){
+                    $(this).css('border','2px solid white');
+                    $(this).css('color','black');
+                },function(){
+                    $(this).css('border','2px solid #fbbb27'); 
+                    $(this).css('color','black');
+                    $('.lang').css('border','2px solid black');
+                });   
+                $('.lang').css('border','2px solid black');
             } 
-
-            if(pixs<=50){
-                $("#nav").css('background-color','#fbbb27');
-                $("#nav").css('border-color','#fbbb27');
-                $(".nav-link a").css('border-color','#fbbb27');
-                $(".nav-link a").css('color','black');
-
-                $(".france").css('border-color','black');
-                $(".punjabi").css('border-color','black');
-                $(".nav-link a").mouseenter( function(){
-                    $(this).css('border-color','white');
-                    $(this).css('color','white');
-                } ).mouseleave(  function(){
-                    $(this).css('border-color','#fbbb27');
-                    $(this).css('color','black');
-                } );
-            }else{
-              
-            }
     });
 
     </script>
@@ -90,12 +56,9 @@
                 <a href="/Recipes">
                     <div class='row Header11'>
                         <div class='header_nutrition_title'></div>
-                        <div class='header_nutrition_sub_title'>
-                            
-                        </div>
+                        <div class='header_nutrition_sub_title'></div>
                     </div>
                 </a>
-                
             </div>
             
             <div class="item">
@@ -103,9 +66,9 @@
                 <div class='row Header1'>
                     <div class='header_nutrition_title'>營養價值</div>
                     <div class='header_nutrition_sub_title'>
-                            雞蛋不單止美味，而且營養十分豐富，是蛋白質的極佳來源，
-                            能提供人體所需的重要營養素。現在就來了解為甚麼您應把雞蛋作為日常飲食的一部分，
-                            以及了解如何為您自己、小孩甚至家中長者保持健康的生活方式。
+                        雞蛋不單止美味，而且營養十分豐富，是蛋白質的極佳來源，
+                        能提供人體所需的重要營養素。現在就來了解為甚麼您應把雞蛋作為日常飲食的一部分，
+                        以及了解如何為您自己、小孩甚至家中長者保持健康的生活方式。
                     </div>
                 </div>
             </a>
@@ -191,72 +154,62 @@
 
 
     <div id='mobile_only'>
-        <div class='row Header'>
-            <div class='container'>
-                <span class='home_left_header'> </span>
-                <span class='home_left_body'>With 14 important vitamins and nutrients and no added hormones and steroids, egg is our numberone superstar!</span>
-                <a href="/Recipes" id='seeTheRecipes'> See the recipes </a>
+        <div class='mobile_header'>
+            <div class='getTheRecipe_1 text-center'>
+                <a href="/Recipes" id='getTheRecipe_1'> 瀏覽食譜 </a>
             </div>
-            <div class='container home_right_img col-xs-6 col-xs-offset-3'>
-                <img src='/images/banner/logo.png' />
-            </div>
-            <div class="col-xs-3"></div>
         </div>
-
-
-        
-        <div class='container-fluid FeaturedRecipe_parent'>
+        <div class='FeaturedRecipe_parent clear-both'>
             <div class='FeaturedRecipe'>
                 <div class='title'>Featured Recipe<br><br></div>
-                <div class='row'>
-                    <div class='col-sm-6 left_img'>
-                        <a href="/English-Muffin-Bacon-Tomato-Fried-Egg">
-                            <img src='/images/recipes/Eggs-SA-01-Final-web.jpg' />
-                        </a>
+                
+                <div class=' '>
+                    <a href="/Funny-Egg-Fish">
+                        <img src='/images/recipes/Eggs-SA-13-Final_home.jpg' />
+                    </a>
+                </div>
+                
+                <a href="/Funny-Egg-Fish">
+                    <div class='sub_title'>趣味小蛋魚</div>
+                    <div class='right_body'>
+                        這款雞蛋小魚是小孩和大人都會喜歡的有趣小菜。煮熟的雞蛋作為小魚的身體，切成薄片的青瓜和白蘿蔔組成魚鱗，再點綴以紅椒做出魚尾，您就會迎來一片稱讚聲！
                     </div>
+                </a>
+                <div class='col-sm-12 getTheRecipe'>
+                    <a href="/Funny-Egg-Fish" id='getTheRecipe'> 瀏覽食譜 </a>
+                </div>
+            </div>
+        </div>
+    
+        
+        <div class='BBQ_parent'>
+            <div class=" summerBBQ">
+        
+                <div class='title'>早餐</div>
+        
+                <div class=''>
                     <div class=''>
                         <a href="/English-Muffin-Bacon-Tomato-Fried-Egg">
-                            <div class='sub_title'>Anda Burger – Masala Fried Egg Burger</div>
-                            <div class='right_body'>A Pakistani roadside favourite of a masala fried egg with a hint of chilies and garam masala on a toasted soft bun with lettuce, tomato, onion with a delicious cilantro-mint mayo. Great as a breakfast sandwich, lunch, or a snack.
-                            </div>
-                        </a>
-                        <div class='getTheRecipe'>
-                            <a href="/English-Muffin-Bacon-Tomato-Fried-Egg" id='getTheRecipe'> Get the Recipe </a>
-                        </div>
+                                    <img src="/images/recipes/Eggs-SA-02-Final-web.jpg" />
+                                    
+                                    <div class='left_sub_title'>番茄煙肉煎蛋早餐三文治</div>
+                                    
+                                </a>
                     </div>
-                </div>
-            </div>
-        </div>
-
-        <div class='BBQ_parent'>
-            <div class="row summerBBQ">
-                
-                <div class='title'>Breakfast, Brunch and Lunch</div>
-                
-                <div class=''>
-                    <div class='container'>
-                        <a href="/grandmaIndian">
-                            <img src='/images/recipes/Eggs-SA-02-Final-web.jpg' />
-                            
-                            <div class='left_sub_title'>Grandma’s Indian-style Omelette   </div>
-                            
-                        </a>
-                    </div>
-                    <div class='container'>
+                    <div class=''>
                         <a href="/Scrambled-Eggs">
-                            <img src='/images/recipes/Eggs-SA-17-Final-web.jpg' />
-                            
-                            <div class='left_sub_title'>粟米煙肉炒蛋</div>
-                        </a>
-                        
+                                    <img src='/images/recipes/Eggs-SA-17-Final-web.jpg' />
+                                    
+                                    <div class='left_sub_title'>粟米煙肉炒蛋</div>
+                                </a>
                     </div>
-                    
+        
                 </div>
             </div>
         </div>
-
-        <div class='col-xs-12 getTheRecipe_2 text-center'>
-            <a href="/Recipes" id='getTheRecipe_2'> View All </a>
+        
+        <div class='col-xs-12 getTheRecipe_1 text-center'>
+            <a href="/Recipes" id='getTheRecipe_1'> 瀏覽食譜 </a>
         </div>
         
     </div>   

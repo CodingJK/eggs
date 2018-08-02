@@ -53,7 +53,7 @@
 
 			<div class="nutrient_benefit">
 				<div class="small_title">每53克食用份量的營養成分： </div>
-				<div class='col-xs-6 col-lg-4' style='padding-left: 0;' >
+				<div class='col-xs-12 col-lg-4' style='padding-left: 0;' >
 				<table class="table table-bordered " >
 					<tbody>
 						<tr class='light_yellow_tr'>

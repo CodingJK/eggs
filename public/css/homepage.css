@@ -435,6 +435,19 @@
           color: #ffcd32;
           border-color: #ffcd32; }
 
+      
+      .mobile_header{
+        margin-top: 80px;
+        min-height: 340px;
+        background-image: url("/images/banner/home_bg.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        text-align: center;
+        padding-top: 240px;
+        background-color: #fbbb27;
+      }
+
 
 }
 

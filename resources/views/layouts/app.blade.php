@@ -5,81 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="theme-color" content="#000000">
     <!-- Global Site Tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-106914447-1"></script>
-<script>
+   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106914447-1"></script>
+   <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments)};
   gtag('js', new Date());
-
   gtag('config', 'UA-106914447-1');
 </script>
+    <title>Home | egghisuperstar.com</title>
 
-
-  @if(url()->current() =='http://www.egghisuperstar.com/English-Muffin-Bacon-Tomato-Fried-Egg')
-	<title>English-Muffin-Bacon-Tomato-Fried-Egg</title>
-	@elseif(url()->current()=='http://www.egghisuperstar.com/grandmaIndian')
-	<title>Grandma’s Indian-style Omelette</title>
-	@elseif(url()->current()=='http://www.egghisuperstar.com/indianStyleSkillEggsWithMushrooms')
-	<title>Indian-style Skillet Eggs with Mushrooms, Spinach and Onion</title>
-   <meta property="og:description"   content="Masala skillet eggs with cremini mushrooms, spinach and onion, garnished with cilantro and garam masala." />
-	@elseif(url()->current()=='http://www.egghisuperstar.com/Scrambled-Eggs')
-	<title>粟米煙肉炒蛋 </title>
-	@elseif(url()->current()=='http://www.egghisuperstar.com/bittaraAppa')
-	<title>Bittara Appa – Sri Lankan Egg Hoppers</title>
-	@elseif(url()->current()=='http://www.egghisuperstar.com/fish-bisque-egg-white')
-	<title>芙蓉斑片羮</title>
-	@elseif(url()->current()=='http://www.egghisuperstar.com/mushroom-truffle-and-egg')
-	<title>蘑菇蛋花松露清湯</title>
-	@elseif(url()->current()=='http://www.egghisuperstar.com/Birds-Nest-Egg-Peral')
-	<title>紅燒燕液盞</title>
-  <meta property="og:description"   content="Hard-cooked egg chick-pea flour fritters served with a bright, herby coriander mint chutney." />
-	@elseif(url()->current()=='http://www.egghisuperstar.com/devilledEggs')
-	<title>Indian-style Devilled Eggs Nested on Crunchy Sev </title>
-  <meta property="og:description"   content="Creamy curried devilled eggs appetizer with garam masala, cilantro and red onion nested on crunchy sev." />
-	@elseif(url()->current()=='http://www.egghisuperstar.com/masalaEggKachumber')
-	<title>Masala Egg Kachumber Salad</title>
-  <meta property="og:description"   content="Masala hard-cooked eggs topped on kachumber, a typical Indian-style salad of cucumber, tomato, radish and red onion." />
-	@elseif(url()->current()=='http://www.egghisuperstar.com/eggSamosa')
-	<title>Egg Samosa Puffs with Tangy-sweet tamarind chutney</title>
-  <meta property="og:description"   content="Masala hard-cooked eggs topped on kachumber, a typical Indian-style salad of cucumber, tomato, radish and red onion." />
-	@elseif(url()->current()=='http://www.egghisuperstar.com/shreddedEgg')
-	<title>Shredded Egg Rasam – Spicy Tomato Soup</title>
-  <meta property="og:description"   content="Shredded eggs topping a South Indian spicy tomato soup scented with mustard seeds and curry leaves." />
-	@elseif(url()->current()=='http://www.egghisuperstar.com/Funny-Egg-Fish')
-	<title>趣味小蛋魚</title>
-  <meta property="og:description"   content="Tomato and onion curry scented with Bengali five spice, with hard-cooked eggs and potatoes." />
-	@elseif(url()->current()=='http://www.egghisuperstar.com/Boiled-Egg-Oolong-Tea')
-	<title>烏龍茶葉蛋</title>
-  
-  <meta property="og:description"   content="A Bengali specialty of egg omelette with vegetables, cilantro and onion wrapped in a Paratha roll." />
-	@elseif(url()->current()=='http://www.egghisuperstar.com/Moo-Shu-pork-wok-fried')
-	<title>金絲木須肉夾餅 </title>
-  
-  <meta property="og:description"   content="Hard-cooked eggs immersed in a delicious South Indian-style coconut milk curry sauce scented with curry leaves." />
-	@elseif(url()->current()=='http://www.egghisuperstar.com/Foie-gras-roulade-with-egg-sheet-and-nori')
-	<title>紫菜鵝肝蛋皮卷Rice</title>
-	@elseif(url()->current()=='http://www.egghisuperstar.com/TikkaMasala')
-	<title>Tikka Masala Baked Eggs on Curried Garlic Quinoa with Crumbled Paneer</title>
-  <meta property="og:description"   content="Baked egg casserole with curried garlic quinoa in a delicious tangy Tikka Masala sauce garnished with crumbled paneer." />
-	@elseif(url()->current()=='http://www.egghisuperstar.com/EggsMakhani')
-	<title>Eggs Makhani</title>
-  
-  <meta property="og:description"   content="Eggs in a delicious, creamy North Indian Makhani "Butter" Curry Sauce." />
-	@elseif(url()->current()=='http://www.egghisuperstar.com/Steamed-crab-claw-with-egg-whites')
-	<title>白玉蒸蟹鉗</title>
-  <meta property="og:description"   content="Sweet Indian egg dessert with almonds, raisins, cardamom and saffron." />
-  
-	@elseif(url()->current()=='http://www.egghisuperstar.com/andayKi')
-	<title>海皇扒蒸蛋白 </title>
- 
-   <meta property="og:description" content="S Baked Indian sweet made from eggs, semolina and ghee, scented with cardamom and saffron." />
-	@else
-
-	<title>Home | egghisuperstar.com</title>
-
-	@endif
-
-    
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json">
 
     <link rel="shortcut icon" href="{{url('/favicon.ico')}}">
@@ -141,134 +75,79 @@
   </head>
   <body>
 
-    <nav class="navbar-fixed-top" id='nav'>
-        <div class='large_nav'>
-          <div class='navigation_body'>
-            <div class='col-lg-2' id='logo'>
-              <a href='/' >
-                <img src='./images/logo.png'/>
-              </a>
-            </div>
-            <div class='container col-lg-10'>
-              <div class='nav-link '>
-                <div>
-                  <a href='/Recipes' class='reciptes_link'>食譜</a>
-                </div>
-                <div>
-                  <a href='/Eggs101' class='eggs101_link'>雞蛋小知識</a>
-                </div>
-                <div class='text-center'>
-                  <a href='/Nutrition' class='nutrition_link '>營養價值</a>
-                </div>
-                <div class='text-center' style='min-width: 150px;'>
-                  <a href='/Eggforbabies' class='eggforbabies_link'>寶寶與雞蛋</a>
-                </div>
-                <div>
-                  <a href='/Apps' class='apps_link'>推廣</a>
-                </div>
-                <div >
-                  <a href='http://www.lesoeufs.ca/' class='france'><b> Fr </b></a>
-                </div>
-                <div >
-                  <a href='https://www.eggs.ca/' class='punjabi'><b> En </b></a>
-                </div>
+    <nav class="navbar-fixed-top " id='nav'>
+      {{-- desk top nav large --}}
+        <div class='large_nav container'>
+            <a href="/" >
+              <div id='logo'>
               </div>
-            </div>
-           
-          </div>
-        </div>
-
-        <div class='middle_nav'>
-            <div class='col-sm-2' id='middle_nav_logo'>
-              <a href='/' >
-                <img src='./images/logo.png'/>
-              </a>
-            </div>
-            <div class='col-sm-10 nav-link'>
-              <div>
+            </a>
+            <div class='navigation_body links'>
                 <a href='/Recipes' class='reciptes_link'>食譜</a>
-              </div>
-              
-              <div >
-                <a href='/Nutrition' class='nutrition_link text-right'>營養價值</a>
-              </div>
-
-              <div >
-                <a href='/Apps' class='apps_link text-right'>推廣</a>
-              </div>
-            
-              <div >
-                <a href='/Eggforbabies' class='eggforbabies_link '>寶寶與雞蛋</a>
-              </div>
-              <div>
-                <a href='/Eggs101' class='eggs101_link'>雞蛋小知識</a>
-              </div>
-              <div>
-                <a href='http://www.lesoeufs.ca/' class='france'>Fr</a>
-              </div>
-              
-              <div>
-                <a href='https://www.eggs.ca/' class='punjabi'><b>En</b></a>
-              </div>
+                <a href='/Eggs101'  class='eggs101_link'>雞蛋小知識</a>
+                <a href='/Nutrition'  class='nutrition_link'>營養價值</a>
+                <a href='/Eggforbabies' class='eggforbabies_link'>寶寶與雞蛋</a>
+                <a href='/Apps' class='apps_link'>推廣</a>
+                <a href='http://www.lesoeufs.ca/' class='lang'><b> Fr </b></a>
+                <a href='https://www.eggs.ca/' class='lang'><b> En </b></a>
             </div>
-            
-            
+        </div>
+        {{-- middle nav --}}
+        <div class='middle_nav container-fluid'>
+          <a href="/">
+            <div id='mid_logo'>
+            </div>
+          </a>
+          <div class='navigation_body links'>
+            <a href='/Recipes' class='reciptes_link'>食譜</a>
+            <a href='/Eggs101' class='eggs101_link'>雞蛋小知識</a>
+            <a href='/Nutrition' class='nutrition_link'>營養價值</a>
+            <a href='/Eggforbabies' class='eggforbabies_link'>寶寶與雞蛋</a>
+            <a href='/Apps' class='apps_link'>推廣</a>
+            <a href='http://www.lesoeufs.ca/' class='lang'><b> Fr </b></a>
+            <a href='https://www.eggs.ca/' class='lang'><b> En </b></a>
           </div>
-           
-       
+        </div>
+        {{-- mobile navigation --}}
 
 
+        <div class='mobile_nav navbar-fixed-top'>
+          <div class="col-xs-4">
+            <button class='btn btn-default ' id='call_alert'>三</button>
+          </div>
 
-{{-- mobile navigation --}}
-        <div class='mobile_nav'>
-          <div class=''>
-            <div class='col-xs-4 mobile-left'>
-              <button class='btn' id='call_alert'>
-                <span class='glyphicon glyphicon-align-justify'></span>
-              </button>
-              
+          
           <div class='navbar-fixed-top' id='alert_layer'>
-              <div class="col-xs-2 text-center" ><button class="btn btn-clear" id='close-alert'>X</button></div>
-              <div class="col-xs-8">
-                <div class="col-xs-6 text-center alert-link"><a href="/Recipes">食譜</a></div>
-                <div class="col-xs-6 text-center alert-link"><a href="/Eggforbabies">寶寶與雞蛋</a></div>
-                <div class="col-xs-6 text-center alert-link"><a href="/Eggs101">雞蛋小知識</a></div>
-                <div class="col-xs-6 text-center alert-link"><a href="/Apps">推廣</a></div>
-                <div class="col-xs-6 text-center alert-link"><a href="/Nutrition">營養價值</a></div>
-                <div class="col-xs-6 text-center "></div>
-              </div>
-              <div class="col-xs-2">
-                
-              </div>
-
-            
-          </div>
-          <script>
-            $("#call_alert").click(function(){
-              $("#alert_layer").show();
-            });
-
-            $("#close-alert").click(function(){
-              $("#alert_layer").hide();
-            });
-
-          </script>
-        </div>
-            
-            <div class='col-xs-4 mobile-center text-center'>
-              <a href='/' id='mobile_logo'><img src='./images/logo.png' class='mobile-logo' /></a>
+            <div class="text-center col-xs-2"><button class="btn btn-clear" id='close-alert'>X</button></div>
+            <div class="col-xs-8">
+              <div class="col-xs-12 text-center alert-link"><a href="/Recipes">食譜</a></div>
+              <div class="col-xs-12 text-center alert-link"><a href="/Eggforbabies">寶寶與雞蛋</a></div>
+              <div class="col-xs-12 text-center alert-link"><a href="/Eggs101">雞蛋小知識</a></div>
+              <div class="col-xs-12 text-center alert-link"><a href="/Apps">推廣</a></div>
+              <div class="col-xs-12 text-center alert-link"><a href="/Nutrition">營養價值</a></div>
+              <div class="col-xs-12 text-center "></div>
             </div>
-            <div class='col-xs-4 mobile-right'>
-              </div>
+            <script>
+              $("#call_alert").click(function(){ $("#alert_layer").show(); }); 
+                        $("#close-alert").click(function(){ $("#alert_layer").hide();
+                        });
+            </script>
           </div>
-        </div>
 
-        
-</nav>
-
-       @yield('content') 
-
-
+          <a href='/' class=' col-xs-4 mobile-logo'>
+            
+          </a>
+          <div class='col-xs-4'>
+            
+          </div>
+      </div>
+  </nav>
+    
+  
+  
+  
+  
+  <div>       @yield('content') </div>
 <footer class='clear-top'>
   <div class='container-fluid' id='mobile-footer-sm'>
     <div class='col-xs-12'>
@@ -537,25 +416,20 @@
   </body>
   <script>
     $(window).on('scroll', function () {
+      
         var pixs = $(document).scrollTop();
         if(pixs>50){
-          $( "#logo" ).animate({padding:'30'}, 300, function() {  
-              }); 
-          $(".middle_nav").animate({height:'120'}, 300, function() { });
-          $(".large_nav").animate({height:'120'}, 300, function() { });
-          $(".nav-link").animate({height:'120'}, 300, function() { });
-          
+          $(".links").css('height','120px');
+          $("#logo").css('height','120px');
+          $("#mid_logo").css('height','120px');
         }else{
-          
-          $( "#logo" ).animate({padding:'30'}, 300, function() {  
-              }); 
-          $(".middle_nav").animate({height:'150'}, 300, function() { });
-          $(".large_nav").animate({height:'150'}, 300, function() { });
-          $(".nav-link").animate({height:'150'}, 300, function() { });
-          
-          
+          $(".links").css('height','150px');
+          $("#logo").css('height','150px');
+          $("#mid_logo").css('height','150px');
         } 
 
+
+       
         
     });
 

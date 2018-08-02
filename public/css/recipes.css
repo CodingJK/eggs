@@ -177,50 +177,30 @@
     #ViewAll:hover {
         color: #ffcd32;
         border-color: #ffcd32; 
+    }
 }
 @media screen and (max-width: 768px) {
-
-    #recipes .header {
+  #recipes .header {
       background-image: url("/images/recipes/recipes-main-header.jpg");
       background-position: center;
       background-repeat: no-repeat;
-      background-size: cover; }
-
-    #recipes .header .header_artical .sub_title {
-          padding: 10px 10px;
-          color: white;
-          font-size: 20px;
-          line-height: 28px;
-          font-weight: 400;
-          font-family: Open Sans,Tahoma,sans-serif; }
-    #recipes {
-      padding-top: 0; 
+      background-size: cover;
+      text-align: center;
+  } 
+    .header_artical{
+      padding: 0 20px 40px 20px;
     }
-    .recipes_mobile_only .header .header_artical{
-      background-image: url("/images/recipes/recipes-main-header.jpg");
-      background-position: center;
-      background-repeat: no-repeat;
-      background-size: cover; 
-      padding-top:80px;
-      padding-bottom: 80px;
+    .header_artical .title{
       color: white;
-      min-height: 400px;
+      font-size: 24px;
       
     }
-
-    .header .title {
-      text-align: center;
-          color: white;
-          font-size: 40px;
-          line-height: 40px;
-          font-weight: bold;
-          margin: 40px 0; 
+    .header_artical .sub_title{
+      color: white;
+      font-size: 18px;
     }
-    .header_artical .recipes_artical{
-      font-size: 20px;
-      line-height: 28px;
 
-    }
+    
     #title_com {
         font-size: 32px;
         font-weight: bold;
@@ -255,5 +235,6 @@
         color: black; }
     #ViewAll:hover {
         color: #ffcd32;
-        border-color: #ffcd32; } 
+        border-color: #ffcd32; 
+    }
 }

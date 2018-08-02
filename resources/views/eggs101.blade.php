@@ -7,7 +7,6 @@
 
 				$(".eggs101_link").css('color','#ffcd32');
 
-
 			});
 		</script>
 		<style>

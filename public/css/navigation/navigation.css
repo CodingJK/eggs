@@ -1,94 +1,67 @@
-img {
-  width: 100%;
+.container{
+  width: 1300px;
 }
 
-#nav {
-  border-bottom: 1px solid #D3D3D3;
-}
 
-.mobile_scroll_down {
-  background-color: white !important;
-}
 
-#alert_layer {
-  background-color: white;
-  z-index: 9;
-  padding: 20px;
-  display: none;
-}
+@media screen and (min-width: 1300px) {
+  .large_nav{
+    display: flex;
+  }
 
-#alert_layer a {
-  color: black;
-}
-
-#alert_layer .alert-link {
-  border: 2px solid white;
-  border-radius: 8px;
-  font-size: 14px;
-  font-weight: 20px;
-  padding: 9.6px 12.8px;
-}
-
-#alert_layer .alert-link:hover {
-  border-color: #fbbb27;
-}
-
-@media screen and (min-width: 1320px) {
+  .middle_nav{
+    display: none;
+  }
+  #nav{
+    border-bottom: 1px solid black;
+  }
   .mobile_nav {
     display: none;
   }
 
-  .middle_nav {
-    display: none;
-  }
-
-  .navigation_body {
-    margin: auto;
-    width: 1320px;
-  }
-
-  .navigation_body #logo {
-    padding: 40px;
-  }
-
-  .navigation_body .nav-link {
+  .links{
+    margin-left: 5%;
     display: flex;
     justify-content: space-between;
     height: 150px;
     align-items: center;
+    width: 75%;
   }
 
-  .navigation_body .nav-link a {
+  
+
+  #logo{
+    width: 150px;
+    height: 150px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url('/images/logo.png');
+    
+
+  }
+
+  .links a{
     font-size: 20px;
     line-height: 24px;
     padding: 16px 12px;
     border: 2px solid white;
     border-radius: 20px;
     color: black;
+    
   }
-
-  .navigation_body .nav-link a:hover {
+  .links a:hover {
     border-color: #fbbb27;
     color: #fbbb27;
   }
 
-  .navigation_body .nav-link .france {
+ .links .lang{
     color: black;
-    border-color: black;
+    border:2px solid black;
     padding: 10px 11px;
     border-radius: 100%;
   }
 
-  .navigation_body .nav-link .punjabi {
-    color: black;
-    padding: 10px;
-    border-color: black;
-    border-radius: 100%;
-  }
-
-  .large_nav {
-    display: block;
-  }
   .Header11 {
     background-image: url("/images/banner/home_bg.jpg");
     background-position: center;
@@ -147,61 +120,69 @@ img {
     color: white;
     font-size: 22px;
     line-height: 36.4px;
-    font-family: Open Sans, Tahoma, sans-serif;
+    
   }
 }
 
-@media screen and (min-width: 800px) and (max-width: 1319px) {
-
-  .mobile_nav {
+@media screen and (min-width: 850px) and (max-width: 1300px) {
+  .mobile_nav{
     display: none;
   }
-
-  .large_nav {
+  .large_nav{
     display: none;
   }
-
-  .middle_nav {
+  .middle_nav{
     display: block;
-    height: 150px;
     display: flex;
-    padding-right: 30px;
-    align-items: center;
+   
   }
 
-  .nav-link {
+  #mid_nav{
+    border-bottom: 1px solid black;
+  }
+  
+
+  .links{
+    margin-left: 5%;
     display: flex;
     justify-content: space-between;
-    height: 100px;
+    height: 150px;
     align-items: center;
+    width: 75%;
   }
 
-  .nav-link a {
-    font-size: 20px;
-    padding: 12px 12px;
+  
+
+  #mid_logo{
+    width: 150px;
+    height: 150px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url('/images/logo.png');
+    
+
+  }
+
+  .links a{
+    font-size: 18px;
+    line-height: 20px;
+    padding: 16px 12px;
     border: 2px solid white;
     border-radius: 20px;
     color: black;
+    
+  }
+  .links a:hover {
+    border-color: #fbbb27;
+    color: #fbbb27;
   }
 
- 
-
-   .france {
+ .links .lang{
     color: black;
-    border-color: black;
-    padding: 10px;
+    border:2px solid black;
+    padding: 10px 11px;
     border-radius: 100%;
-  }
-
-  .punjabi {
-    color: black;
-    padding: 10px;
-    border-color: black;
-    border-radius: 100%;
-  }
-
-  .Header {
-    min-height: 840px;
   }
 
   .Header11 {
@@ -209,10 +190,10 @@ img {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    padding-top: 300px;
+    padding-top: 200px;
+    padding-bottom: 250px;
     text-align: center;
-    margin-top: 80px;
-    min-height: 760px;
+    min-height: 619px;
   }
 
   .Header1 {
@@ -220,17 +201,16 @@ img {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    padding-top: 300px;
+    padding-top: 200px;
+    padding-bottom: 250px;
     text-align: center;
-    margin-top: 80px;
-    min-height: 760px;
+    min-height: 619px;
   }
 
   .Header1 .header_nutrition_title {
     color: white;
     font-size: 60px;
     line-height: 60px;
-    padding-bottom: 50px;
   }
 
   .Header1 .header_nutrition_sub_title {
@@ -246,17 +226,16 @@ img {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    padding-top: 300px;
+    padding-top: 200px;
+    padding-bottom: 250px;
     text-align: center;
-    margin-top: 80px;
-    min-height: 760px;
+    min-height: 619px;
   }
 
   .Header2 .header_nutrition_title {
     color: white;
-    font-size: 48px;
+    font-size: 60px;
     line-height: 60px;
-    padding-bottom: 50px;
   }
 
   .Header2 .header_nutrition_sub_title {
@@ -266,27 +245,57 @@ img {
     line-height: 36.4px;
     font-family: Open Sans, Tahoma, sans-serif;
   }
+  
 }
 
-@media screen and (max-width: 800px) {
-  .mobile_nav {
+@media screen and (max-width: 850px) {
+
+  .large_nav, .middle_nav{
+    display: none;
+  }
+
+  .mobile_nav{
     display: block;
   }
 
-  .large_nav {
+  #alert_layer {
+    background-color: white;
+    z-index: 9;
+    padding: 20px;
     display: none;
   }
 
-  .middle_nav {
-    display: none;
+  #alert_layer a {
+    color: black;
   }
 
-  .mobile-left {
-    padding: 20px;
+  #alert_layer .alert-link {
+    border: 2px solid white;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 20px;
+    padding: 9.6px 12.8px;
   }
 
-  #mobile_logo img {
-    padding: 20px;
+  #alert_layer .alert-link:hover {
+    border-color: #fbbb27;
   }
+
+  .mobile_nav{
+    height: 80px;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    width: 100%;
+  }
+
+  .mobile-logo{
+    background-size: contain;
+    background-image: url('/images/logo.png');
+    background-repeat: no-repeat;
+    height: 80px;
+    background-position: center;
+  }
+  
 }
 
