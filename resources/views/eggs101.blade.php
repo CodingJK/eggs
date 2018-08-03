@@ -36,16 +36,16 @@
 				<a href='https://www.pinterest.ca/eggs/' style='padding-left:15px'>
 					<img id='pinterest'  src='./images/social/eggs101/egg_socialMediaIconSet_pinterest.png' />
 				</a> --}}
-				<h4>
+				<h3>
 					您在選購雞蛋時可能並無多加考慮。但讀完這篇簡介後，您肯定會想為什麼沒有早點多了解雞蛋！
-				</h4>
+				</h3>
 			</div>
 			<div class="col-xs-2">
 				
 			</div>
 
 			<div class='col-xs-12 eggs_img'>
-				<img src='/images/eggs101/eggs-white.jpg'/>
+				<img style="width:56%;" src='/images/eggs101/eggs-white.jpg' class="img-responsive center-block"/>
 			</div>
 			
 		</div>
@@ -80,7 +80,7 @@
 
 			<div class="col-xs-12 col-md-8 col-md-offset-2 ">
 				<div class="col-md-10 col-md-offset-1 eggs101_img">
-					<img src="./images/eggs101/egg-anatomy-EN.jpg" alt="">
+					<img src="./images/eggs101/egg-sizes2.jpg" alt="">
 				</div>
 				<div class="col-md-1"> </div>
 			</div>
@@ -110,7 +110,7 @@
 			</div>
 
 			<div class="col-xs-12 col-md-8 col-md-offset-2 ">
-				<div class="col-md-10 col-md-offset-1 eggs101_img">
+				<div class="col-md-10 col-md-offset-1 eggs101_img" style='margin-top:-60px;'>
 					<h3>雞蛋的計量方式：</h3>
 					<ul class='eggs101_details'>
 						<li>1隻大蛋=3茶匙(45毫升)</li>

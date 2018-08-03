@@ -171,6 +171,11 @@
 					<div class='worlds'>
 						欲知更多有助您了解及管理膽固醇的資料，請瀏覽: <a href="eggfarmers.ca" target='_blank'>aneggadayisok.ca</a>.
 					</div>
+					<br>
+					<div class="nutrition_title_sm_2">雞蛋過敏</div>
+					<div class='worlds'>
+						對雞蛋過敏在成人當中十分罕見，最常見於2至7歲的兒童。研究顯示，大多數兒童往往在幾年內就不再對雞蛋過敏，然而，嚴重的雞蛋過敏可能是終生性的。雞蛋過敏是由其中的一種蛋白質引起，該蛋白質可觸發免疫系統產生一種不正常反應。雞蛋含有兩個致敏部分：蛋黃及蛋白。過敏反應根據個人情況及蛋的進食量而有所不同，可以是輕微亦可能足以致命。
+					</div>
 				</div>
 			</div>
 			

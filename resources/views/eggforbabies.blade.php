@@ -23,7 +23,7 @@
 		<div class="babys_content">
 				
 				<div class='babys_words clear-both'>
-					<p>T由加拿大衛生部(Health Canada)、加拿大兒科學會(Canadian Pediatric Society)、
+					<p>由加拿大衛生部(Health Canada)、加拿大兒科學會(Canadian Pediatric Society)、
 						加拿大營養師協會(Dietitians of Canada)和加拿大母乳餵養委員會(Breastfeeding Committee
 					for Canada)聯合推出的最新嬰兒餵食指南指出，建議在寶寶滿6個月或剛開始進食固體食物時，
 					引入全蛋餵食。所以您可放心在寶寶吃的食物泥和粥裏加入雞蛋了！</p>
@@ -33,13 +33,12 @@
 
 
 				<div class="babys_words clear-both" >
-					<div class="babys_title_sm_2">您知道嗎？ </div>
+					
+					<div class="babys_title_sm_2">您知道吗？ </div>
 					<p>現在您可從寶寶6個月大開始餵食全蛋，可有助預防雞蛋過敏。</p>
-					<p>由加拿大衛生部(Health Canada)、加拿大兒科學會(Canadian Pediatric Society)、加拿大營養師協會(Dietitians of Canada)和加拿大母乳餵養委員會(Breastfeeding Committee
-					for Canada)聯合推出的最新嬰兒餵食指南指出，建議在寶寶滿6個月或剛開始進食固體食物時，引入全蛋餵食。<br><br>
-						
-					</p>
-
+					<br>
+					
+					<p>專家不再推薦等到寶寶滿12個月時，才引進常見引起過敏的食物。而實際上，研究表明盡早開始餵食全蛋能有效降低嬰兒對雞蛋產生過敏的風險。</p>
 
 					<div class="babys_title_sm_2">給寶寶餵食雞蛋的更多重要理由</div>
 					<p>
@@ -75,7 +74,7 @@
 						<li class='steps_words'>母乳或配方奶2茶匙</li>
 					</ul>
 
-					<p><b>Prep and Cook:</b></p>
+					<p><b>準備和烹調:</b></p>
 
 					<ol>
 						<li class='steps_words'>將雞蛋打入碗中攪勻，加入母乳或配方奶攪拌至完全混合</li>
