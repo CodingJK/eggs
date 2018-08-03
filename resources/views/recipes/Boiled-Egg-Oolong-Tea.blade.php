@@ -59,7 +59,7 @@
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量 4位用 (每位1隻)</li>
+					<li class='recipe_worlds'>份量: 4位用 (每位1隻)</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
 					<li class='recipe_worlds'>準備時間: 10分鐘</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
@@ -100,6 +100,7 @@
 	                	<span>糖</span>
 	                </div>
                 </div>
+          
 
 				<div class="step">
 
@@ -153,12 +154,23 @@
 						<hr class='hr1'>
 					</div>
 					<hr>
+					<div class="steps col-xs-12  text-center">
 
+						<h1 class="col-xs-12"><b>小貼士：</b></h1>
+						<div class="col-xs-10 col-xs-offset-1 step_body">若浸在茶湯內的時間比5小時長，雞蛋的味道和香味會更濃，顏色亦會更深。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">若在敲裂煮熟的雞蛋時不易操作，可墊一條毛巾。</div>
+						
+
+						<hr class='hr1'>
+						
+					</div>
 
 					
 				</div>
-                
-			</div>
+				
+            </div>    
+		
+			
 			
 			<div class="col-xs-12 text-center related">
 				<h1>相關</h1>

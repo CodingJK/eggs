@@ -61,9 +61,9 @@
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
 					<li class='recipe_worlds'>份量: 6位用</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>準備時間:: 5 min</li>
+					<li class='recipe_worlds'>準備時間: 5 分鐘</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹調時間:: 12 min</li>
+					<li class='recipe_worlds'>烹調時間: 12 分鐘</li>
 				</ul>
 			</div>
 

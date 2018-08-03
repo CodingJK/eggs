@@ -155,7 +155,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將用剩餘的鹽、糖，和白胡椒粉¼茶匙調味，加生粉½茶匙慢慢攪拌勾芡
+						<div class="col-xs-10 col-xs-offset-1 step_body">用剩餘的鹽、糖，和白胡椒粉¼茶匙調味，加生粉½茶匙慢慢攪拌勾芡
 
 </div>
 						<hr class='hr1'>
@@ -241,15 +241,15 @@
         <table class='table'>
         	<tr>
         		<td><b>卡路里</b></td>
-        		<td class='text-right'>85  </td>
+        		<td class='text-right'>108  </td>
         	</tr>
         	<tr>
         		<td><b>脂肪</b></td>
-        		<td class='text-right'>5 g</td>
+        		<td class='text-right'>1 g</td>
         	</tr>
         	<tr>
         		<td><b>飽和脂肪</b></td>
-        		<td class='text-right'>2.5 g</td>
+        		<td class='text-right'>0.1 g</td>
         	</tr>
         	<tr>
         		<td><b>反式脂肪</b>  </td>
@@ -257,23 +257,23 @@
         	</tr>
         	<tr>
         		<td><b>鈉</b></td>
-        		<td class='text-right'>31 mg</td>
+        		<td class='text-right'>1020 mg</td>
         	</tr>
         	<tr>
         		<td><b>糖</b>  </td>
-        		<td class='text-right'>26 mg  </td>
+        		<td class='text-right'>2 mg  </td>
         	</tr>
         	<tr>
         		<td><b>蛋白質</b>  </td>
-        		<td class='text-right'>9 g</td>
+        		<td class='text-right'>18 g</td>
         	</tr>
         	<tr>
         		<td><b>纖維</b>  </td>
-        		<td class='text-right'>0 g</td>
+        		<td class='text-right'>1 g</td>
         	</tr>
         	<tr>
         		<td><b>碳水化合物</b>  </td>
-        		<td class='text-right'>6 g</td>
+        		<td class='text-right'>5 g</td>
         	</tr>
         	
         </table>

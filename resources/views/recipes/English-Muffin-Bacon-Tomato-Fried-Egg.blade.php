@@ -65,11 +65,11 @@
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量: 2</li>
+					<li class='recipe_worlds'>份量: 2位用</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>準備時間:: 5 min</li>
+					<li class='recipe_worlds'>準備時間: 5 分鐘</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹調時間:: 5 min</li>
+					<li class='recipe_worlds'>烹調時間: 5 分鐘</li>
 				</ul>
 			</div>
 
@@ -116,7 +116,6 @@
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 2</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">用平底鍋以中火煮融剩餘的牛油，打入雞蛋。用鹽和胡椒粉調味；煎3至4分鐘至蛋白凝結(如果要兩面煎，翻轉雞蛋煎2分鐘)。將蛋置於煙肉之上即可食用 
-						Set aside.
 						</div>
 							<hr class='hr1'>
 					</div>
@@ -169,7 +168,7 @@
     <div class="modal-content nutrition_facts">
       
         <button type="button"  class="close close_X" data-dismiss="modal">&times;</button>
-        <h1 class="modal-title">每食用份量</h1>
+        <h1 class="modal-title">營養成分</h1>
       
       <div class="modal-body">
         <table class='table'>
@@ -210,6 +209,7 @@
         		<td class='text-right'>37克</td>
         	</tr>
         </table>
+         <i>每食用份量</i>
       </div>
      
     </div>

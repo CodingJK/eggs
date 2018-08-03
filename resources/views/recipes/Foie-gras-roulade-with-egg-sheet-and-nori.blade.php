@@ -52,7 +52,7 @@
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量 4位用 (每位1件)</li>
+					<li class='recipe_worlds'>份量： 4位用 (每位1件)</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
 					<li class='recipe_worlds'>準備時間: 25分鐘</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
@@ -236,7 +236,7 @@
         	</tr>
         	<tr>
         		<td><b>糖</b>  </td>
-        		<td class='text-right'>390 mg  </td>
+        		<td class='text-right'>0 mg  </td>
         	</tr>
         	<tr>
         		<td><b>蛋白質</b>  </td>
@@ -252,6 +252,7 @@
         	</tr>
         	
         </table>
+        <i>每食用份量</i>
       </div>
      
     </div>

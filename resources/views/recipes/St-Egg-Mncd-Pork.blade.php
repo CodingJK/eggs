@@ -59,9 +59,9 @@
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量 4位用</li>
+					<li class='recipe_worlds'>份量: 4位用</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>準備時間: 35-40 min</li>
+					<li class='recipe_worlds'>準備時間: 35-40 分鐘</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
 					<li class='recipe_worlds'>烹調時間: 準備瑤柱60分鐘+烹煮30分鐘</li>
 				</ul>
@@ -80,6 +80,7 @@
 	                <div class="col-xs-6 text-right ingredients_right">
 	                	<span>4粒</span>
 	                	<span>113克</span>
+	                	<span>4隻</span>
 	                	<span>380亳升</span>
 	                	<span>1茶匙或適量</span>
 	                	<span>1茶匙</span>
@@ -251,38 +252,39 @@
         	</tr>
         	<tr>
         		<td><b>脂肪</b></td>
-        		<td class='text-right'>13 g</td>
+        		<td class='text-right'>13 克</td>
         	</tr>
         	<tr>
         		<td><b>飽和脂肪</b></td>
-        		<td class='text-right'>4 g</td>
+        		<td class='text-right'>4 克</td>
         	</tr>
         	<tr>
         		<td><b>反式脂肪</b>  </td>
-        		<td class='text-right'>0 g</td>
+        		<td class='text-right'>0 克</td>
         	</tr>
         	<tr>
         		<td><b>鈉</b></td>
-        		<td class='text-right'>837 mg</td>
+        		<td class='text-right'>837 毫克</td>
         	</tr>
         	<tr>
         		<td><b>糖</b>  </td>
-        		<td class='text-right'>1g  </td>
+        		<td class='text-right'>1 克</td>
         	</tr>
         	<tr>
         		<td><b>蛋白質</b>  </td>
-        		<td class='text-right'>13 g</td>
+        		<td class='text-right'>13 克</td>
         	</tr>
         	<tr>
         		<td><b>纖維</b>  </td>
-        		<td class='text-right'>1 g</td>
+        		<td class='text-right'>1 克</td>
         	</tr>
         	<tr>
         		<td><b>碳水化合物</b>  </td>
-        		<td class='text-right'>4 g</td>
+        		<td class='text-right'>4 克</td>
         	</tr>
         	
         </table>
+        <i>每食用份量</i>
       </div>
      
     </div>

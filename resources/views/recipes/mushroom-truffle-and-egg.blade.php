@@ -61,9 +61,9 @@
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
 					<li class='recipe_worlds'>份量: 4位用</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>準備時間: 35 分鐘</li>
+					<li class='recipe_worlds'>準備時間: 10 分鐘</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹調時間: 20 分鐘</li>
+					<li class='recipe_worlds'>烹調時間: 10 分鐘</li>
 				</ul>
 			</div>
 
@@ -239,6 +239,7 @@
         	</tr>
         	
         </table>
+         <i>每食用份量</i>
       </div>
      
     </div>

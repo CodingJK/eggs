@@ -192,37 +192,38 @@
         	</tr>
         	<tr>
         		<td><b>脂肪</b></td>
-        		<td class='text-right'>8 g</td>
+        		<td class='text-right'>8 克</td>
         	</tr>
         	<tr>
         		<td><b>飽和脂肪</b></td>
-        		<td class='text-right'>2 g</td>
+        		<td class='text-right'>2 克</td>
         	</tr>
         	<tr>
         		<td><b>反式脂肪</b>  </td>
-        		<td class='text-right'>0 g</td>
+        		<td class='text-right'>0 克</td>
         	</tr>
         	<tr>
         		<td><b>鈉</b></td>
-        		<td class='text-right'>338 mg</td>
+        		<td class='text-right'>338 毫克</td>
         	</tr>
         	<tr>
         		<td><b>糖</b>  </td>
-        		<td class='text-right'>4 g  </td>
+        		<td class='text-right'>4 克</td>
         	</tr>
         	<tr>
         		<td><b>蛋白質</b>  </td>
-        		<td class='text-right'>13 g</td>
+        		<td class='text-right'>13 克</td>
         	</tr>
         	<tr>
         		<td><b>纖維</b>  </td>
-        		<td class='text-right'>2 g</td>
+        		<td class='text-right'>2 克</td>
         	</tr>
         	<tr>
         		<td><b>碳水化合物</b>  </td>
-        		<td class='text-right'>5 g</td>
+        		<td class='text-right'>5 克</td>
         	</tr>
         </table>
+         <i>每食用份量</i>
       </div>
      
     </div>

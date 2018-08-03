@@ -240,6 +240,7 @@
         		<td class='text-right'>4克</td>
         	</tr>
         </table>
+          <i>每食用份量</i>
       </div>
      
     </div>
