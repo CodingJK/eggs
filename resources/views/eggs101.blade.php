@@ -145,7 +145,8 @@
 
 				<div class="col-md-10 col-md-offset-1 eggs101_body" >蛋盒能保護雞蛋，還能防止它們經蛋殼上數千個小氣孔吸收雪櫃中其他食物的強烈氣味。而且，蛋盒上印有的「最佳食用日期」可提醒您留心新鮮度。除此之外，雞蛋較大的一端應保持朝上放置，如同最初包裝在盒內一樣。這樣能令蛋黃一直處於中心位置。</div>
 				<div class="col-md-1"></div>
-
+			</div>
+			<div class="col-xs-12 col-md-8 col-md-offset-2 ">
 				<div class="col-md-10 col-md-offset-1 eggs101_body_subtitle_2">食品科學</div>
 				<div class="col-md-1"></div>
 				<div class="col-md-10 col-md-offset-1" style='padding-left:0'>
@@ -161,7 +162,7 @@
 
 				<div class="col-md-10 col-md-offset-1 eggs101_body">展開的蛋白質露出疏水及親水兩種屬性的端口，繼而重新排列，組成新的鍵結，以使疏水端抓住空氣，親水端抓住水，於是形成附著氣泡的蛋白質分子網狀結構。若過度加熱蛋白質或打入過多空氣，鍵結將收緊並擠出水分，令雞蛋變乾、變硬及有彈性。</div>
 				<div class="col-md-1"></div>
-
+			</div>
 
 				{{-- <div class="col-md-10 col-md-offset-1 eggs101_body">
 					<div class="table-1 col-xs-5">

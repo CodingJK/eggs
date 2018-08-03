@@ -45,7 +45,7 @@
 			
 		
 			<div class="col-xs-12 ">
-				<img src="/images/recipes/Eggs-SA-15-Final-large.jpg" alt="">
+				<img src="/images/recipes/Eggs-SA-27-Final-web.jpg" alt="">
 			</div>
 
 			<div class="col-xs-12  text-center desc">

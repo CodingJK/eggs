@@ -168,7 +168,7 @@
 
 					<div class="steps col-xs-12  text-center">
 
-						<h1 class="col-xs-12">步驟 7</h1>
+						<div class="step_title col-xs-12">步驟 7</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">用大鍋燒滾2升水，置入蒸架再放入湯匙，加蓋隔水蒸5分鐘</div>
 						<hr class='hr1'>
 						
@@ -176,7 +176,7 @@
 
 					<div class="steps col-xs-12  text-center">
 
-						<h1 class="col-xs-12">步驟 8</h1>
+						<div class="step_title col-xs-12">步驟 8</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">蛋液會結成蛋盞，從湯匙取出備用</div>
 						<hr class='hr1'>
 						
@@ -184,7 +184,7 @@
 
 					<div class="steps col-xs-12  text-center">
 
-						<h1 class="col-xs-12">步驟 9</h1>
+						<div class="step_title col-xs-12">步驟 9</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">用鍋燒滾1升水，放入白菜苗滾3分鐘取出</div>
 						<hr class='hr1'>
 						
@@ -192,7 +192,7 @@
 
 					<div class="steps col-xs-12  text-center">
 
-						<h1 class="col-xs-12">步驟 10</h1>
+						<div class="step_title col-xs-12">步驟 10</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">將第9步的白菜苗放入砂鍋中，放入第8步的蛋盞，加杞子，再注入第2步的500毫升濃湯，用鹽、糖各½茶匙調味</div>
 						<hr class='hr1'>
 						
@@ -200,7 +200,7 @@
 
 					<div class="steps col-xs-12  text-center">
 
-						<h1 class="col-xs-12">步驟 11</h1>
+						<div class="step_title col-xs-12">步驟 11</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">將砂鍋置於爐上燒滾(約3分鐘)即可享用</div>
 						<hr class='hr1'>
 						
