@@ -165,7 +165,7 @@
 
 					<div class="steps col-xs-12  text-center">
 
-						<h1 class="col-xs-12">步驟 7</h1>
+						<div class="step_title col-xs-12">步驟 7</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">在西蘭花圈外伴上煮熟的龍蝦鉗和身即可享用</div>
 						<hr class='hr1'>
 						

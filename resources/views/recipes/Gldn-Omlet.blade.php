@@ -46,7 +46,7 @@
 			
 		
 			<div class="col-xs-12 ">
-				<img src="/images/recipes/Eggs-SA-012-Final-large.jpg" alt="">
+				<img src="/images/recipes/Eggs-SA-011-Final-large.jpg" alt="">
 			</div>
 
 			<div class="col-xs-12  text-center desc">
@@ -152,8 +152,8 @@
 					<div class="steps col-xs-12  text-center">
 
 						<h1 class="col-xs-12"><b>小貼士：</b></h1>
-						<div class="col-xs-10 col-xs-offset-1 step_body">如果您有453克冷飯可直接使用</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">米和水的比例根據您所使用的米而有所不同</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">如果您有453克冷飯可直接使用。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">米和水的比例根據您所使用的米而有所不同。</div>
 
 						<hr class='hr1'>
 						
@@ -207,15 +207,15 @@
         <table class='table'>
         	<tr>
         		<td><b>卡路里</b></td>
-        		<td class='text-right'>183 </td>
+        		<td class='text-right'>308 </td>
         	</tr>
         	<tr>
         		<td><b>脂肪</b></td>
-        		<td class='text-right'>4克</td>
+        		<td class='text-right'>12克</td>
         	</tr>
         	<tr>
         		<td><b>飽和脂肪</b></td>
-        		<td class='text-right'>0.3克
+        		<td class='text-right'>2.5克
 </td>
         	</tr>
         	<tr>
@@ -225,7 +225,7 @@
         	</tr>
         	<tr>
         		<td><b>鈉</b></td>
-        		<td class='text-right'>355毫克
+        		<td class='text-right'>441毫克
 </td>
         	</tr>
         	<tr>
@@ -235,17 +235,17 @@
         	</tr>
         	<tr>
         		<td><b>蛋白質</b>  </td>
-        		<td class='text-right'>6克
+        		<td class='text-right'>17克
 </td>
         	</tr>
         	<tr>
         		<td><b>纖維</b>  </td>
-        		<td class='text-right'>1克
+        		<td class='text-right'>2克
 </td>
         	</tr>
         	<tr>
         		<td><b>碳水化合物</b></td>
-        		<td class='text-right'>30克</td>
+        		<td class='text-right'>33克</td>
         	</tr>
         	
         </table>

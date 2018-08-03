@@ -99,7 +99,7 @@
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
 	                	
-						<span>雞蛋</span>
+						<span>雞蛋（只用蛋黃）</span>
 						<span>奶</span>
 						<span>糖</span>
 
@@ -222,35 +222,35 @@
         	</tr>
         	<tr>
         		<td><b>脂肪</b></td>
-        		<td class='text-right'>3.5 g</td>
+        		<td class='text-right'>3.5 克</td>
         	</tr>
         	<tr>
         		<td><b>飽和脂肪</b></td>
-        		<td class='text-right'>1.5 g</td>
+        		<td class='text-right'>1.5 克</td>
         	</tr>
         	<tr>
         		<td><b>反式脂肪</b>  </td>
-        		<td class='text-right'>0.1 g</td>
+        		<td class='text-right'>0.1 克</td>
         	</tr>
         	<tr>
         		<td><b>鈉</b></td>
-        		<td class='text-right'>338 mg</td>
+        		<td class='text-right'>338 毫克</td>
         	</tr>
         	<tr>
         		<td><b>糖</b>  </td>
-        		<td class='text-right'>24 g  </td>
+        		<td class='text-right'>24 克</td>
         	</tr>
         	<tr>
         		<td><b>蛋白質</b>  </td>
-        		<td class='text-right'>3 g</td>
+        		<td class='text-right'>3 克</td>
         	</tr>
         	<tr>
         		<td><b>纖維</b>  </td>
-        		<td class='text-right'>3 g</td>
+        		<td class='text-right'>3 克</td>
         	</tr>
         	<tr>
         		<td><b>碳水化合物</b>  </td>
-        		<td class='text-right'>3 g</td>
+        		<td class='text-right'>3 克</td>
         	</tr>
         	
         </table>
