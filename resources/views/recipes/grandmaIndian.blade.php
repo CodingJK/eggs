@@ -253,6 +253,7 @@ Serve with Garam Masala Ketchup.
         		<td class='text-right'>7 g</td>
         	</tr>
         </table>
+         <i>每食用份量</i>
       </div>
      
     </div>

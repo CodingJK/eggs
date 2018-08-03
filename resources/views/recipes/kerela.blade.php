@@ -286,6 +286,7 @@
         		<td class='text-right'>10 g</td>
         	</tr>
         </table>
+         <i>每食用份量</i>
       </div>
      
     </div>
