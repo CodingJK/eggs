@@ -260,3 +260,30 @@
 
   </div>
 </div>
+<script>
+	$("#fb").mouseover(function(){
+		$(this).attr('src','./images/social/eggs101/egg_socialMediaIconSet_facebook-over.png');
+	});
+	$("#fb").mouseleave(function(){
+		$(this).attr('src','./images/social/eggs101/egg_socialMediaIconSet_facebook.png');
+	});
+	$("#pinterest").mouseover(function(){
+		$(this).attr('src','./images/social/eggs101/egg_socialMediaIconSet_pinterest-over.png');
+	});
+	$("#pinterest").mouseleave(function(){
+		$(this).attr('src','./images/social/eggs101/egg_socialMediaIconSet_pinterest.png');
+	});
+	$("#twitter").mouseover(function(){
+		$(this).attr('src','./images/social/eggs101/egg_socialMediaIconSet_twitter-over.png');
+	});
+	$("#twitter").mouseleave(function(){
+		$(this).attr('src','./images/social/eggs101/egg_socialMediaIconSet_twitter.png');
+	});
+	$("#back_to_recipes").mouseover(function(){
+		$("#back_to_recipes_img").attr('src','./images/icons/back_over.png');
+	});
+	$("#back_to_recipes").mouseleave(function(){
+		$("#back_to_recipes_img").attr('src','./images/icons/back.png');
+	});
+</script>	
+@stop
