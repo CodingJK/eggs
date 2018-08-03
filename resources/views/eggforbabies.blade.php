@@ -34,7 +34,7 @@
 
 				<div class="babys_words clear-both" >
 					
-					<div class="babys_title_sm_2">您知道吗？ </div>
+					<div class="babys_title_sm_2">您知道嗎？ </div>
 					<p>現在您可從寶寶6個月大開始餵食全蛋，可有助預防雞蛋過敏。</p>
 					<br>
 					
