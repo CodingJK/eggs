@@ -62,4 +62,9 @@ class CampaignController extends Controller
     public function admin(){
         return view('auth.login');
     }
+
+    public function allCandidates(){
+        $candidates = Candidate::paginate(18);
+        return view('campaign.allCandidates',compact('candidates'));
+    }
 }

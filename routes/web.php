@@ -150,15 +150,21 @@ Route::get('Duo-Egg-Pearl', function () {
     });
 
     // campaign admin panel
-    Route::get('/campaignAdmin','CampaignController@admin');
+    Route::get('/login','CampaignController@admin');
+
+    Route::get('allCandidates','CampaignController@allCandidates');
 
     // campaign stage 1
     Route::get('/campaign','CampaignController@index');
 
     Route::post('/newCandidate','CampaignController@newCandidate');
 
-    // campaign admin panel
+    
 
 
 
 
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
