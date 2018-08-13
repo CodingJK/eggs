@@ -149,6 +149,15 @@ Route::get('Duo-Egg-Pearl', function () {
         return view('recipes.Basic-Souffle');
     });
 
+    // campaign admin panel
+    Route::get('/campaignAdmin','CampaignController@admin');
+
+    // campaign stage 1
+    Route::get('/campaign','CampaignController@index');
+
+    Route::post('/newCandidate','CampaignController@newCandidate');
+
+    // campaign admin panel
 
 
 
