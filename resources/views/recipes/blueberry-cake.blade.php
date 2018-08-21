@@ -20,9 +20,9 @@
 			
 				
 			
-			<span class='recipe_title'>基本梳乎厘</span>
+			<span class='recipe_title'>藍莓蛋糕</span>
 			<p class='title_body'>
-					外層酥脆，內裏鬆軟，梳乎厘內裏可填滿您喜歡的餡料。雖然它以難度頗高著稱，但其實製作過程簡單。嘗試加入芝士、蟹肉、蔬菜及其他更多材料，做一頓豐盛的晚餐吧！
+					Jill和Sharon的這款蛋糕，賣相美觀，做法簡單。新斯科舍省野生藍莓，灑上紅糖肉桂，脆脆口感令層次更加豐富。配以淡忌廉或雪糕，香軟滋味沒法擋。
 			</p>
 
 			<div class="col-xs-8 col-xs-offset-2 text-center eggs101-social">
@@ -45,17 +45,17 @@
 			
 		
 			<div class="col-xs-12 ">
-				<img src="/images/recipes/Eggs-SA-013-Final-large.jpg" alt="">
+				<img src="/images/recipes/Blueberry-Cake-big.jpg" alt="">
 			</div>
 
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量: 4位用</li>
+					<li class='recipe_worlds'>份量: 12位用</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>準備時間: 10分鐘</li>
+					<li class='recipe_worlds'>準備時間: 20分鐘</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹調時間: 20分鐘</li>
+					<li class='recipe_worlds'>烹調時間: 40分鐘</li>
 				</ul>
 			</div>
 
@@ -69,100 +69,102 @@
            
                 
  				<div class="ingredients" style='clear: both'>
+ 					<div class='recipes_subtitle'>配料</div>
 	                <div class="col-xs-6 text-right ingredients_right">
-	                	<span>2茶匙(30毫升) </span>
-	                	<span>2茶匙(30毫升)</span>
-	                	<span>½茶匙(2.5毫升)</span>
-	                	<span>少許</span>
-	                	<span>¾杯(175毫升)</span>
-	                	<span>6隻，其中2隻只用蛋白</span>
-	                	<span>¼茶匙(1.25毫升)</span>
+	                	<span>1杯（250毫升）</span>
+						<span>1茶匙（5毫升）</span>
+						<span>2湯匙（30毫升）</span>
+
 	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
-	                	<span>牛油</span>
-	                	<span>中筋麵粉</span>
-	                	<span>鹽</span>
-	                	<span>胡椒粉 </span>
-	                	<span>牛奶(1%)</span>
-	                	<span>雞蛋</span>
-	                	<span>塔塔粉
-</span>
+	                	<span>紅糖</span>
+	                	<span>肉桂粉</span>
+	                	<span>加熱融化牛油</span>
 	                	
 	                </div>
                 </div>
+
+                <div class="ingredients" style='clear: both'>
+ 					<div class='recipes_subtitle'>蛋糕</div>
+	                <div class="col-xs-6 text-right ingredients_right">
+	                	<span>1/2杯（125毫升）</span>
+						<span>1杯（250毫升）</span>
+						<span>2隻</span>
+						<span>1茶匙（5毫升）</span>
+						<span>2杯（500毫升）</span>
+						<span>2茶匙（10毫升）</span>
+						<span>3/4茶匙（4毫升）</span>
+						<span>2/3杯（170毫升）</span>
+						<span>2杯（500毫升）</span>
+
+
+	                	
+	                </div>
+	                <div class="col-xs-6 text-left ingredients_left">
+	                	<span>軟化牛油</span>
+	                	<span>砂糖</span>
+	                	<span>雞蛋</span>
+	                	<span>呍呢拿</span>
+	                	<span>多用途麵粉</span>
+	                	<span>發酵粉</span>
+	                	<span>鹽</span>
+	                	<span>牛奶（1%脂肪）</span>
+	                	<span>野生新鮮或急凍藍莓</span>
+	                	
+	                </div>
+                </div>
+
 
                 
 
 
 				<div class="step">
 
-					<div class='recipes_subtitle'>步驟:</div>
+					<div class='recipes_subtitle'>配料步驟:</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">預熱焗爐至華氏375度(攝氏190度)</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">用細碗將紅糖和肉桂粉混合，加入牛油輕輕攪勻。放置備用。</div>
+						<hr class='hr1'>
+					</div>
+
+					<div class='recipes_subtitle'>蛋糕步驟:</div>
+
+					<div class="steps col-xs-12  text-center">
+						<div class="step_title col-xs-12">步驟 1</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">在9 x 13吋（23 x 33厘米）烤盤上薄薄搽上一層油，撒上少量麵粉，備用。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用小火在中號鍋融化牛油，加入麵粉、鹽和胡椒粉攪拌。煮的同時不斷攪動，直至麵糊細滑多泡，立刻倒入牛奶。繼續攪動直至麵糊滾起而且細滑粘稠
+						<div class="col-xs-10 col-xs-offset-1 step_body">在大碗中用電動攪拌機攪勻牛油和砂糖。加入雞蛋和呍呢拿，混合拌勻。
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">把蛋黃和蛋白分開。將蛋黃充分打散，並加入¼杯(50毫升)剛才的暖麵糊到蛋黃裏</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">在中型碗中將麵粉、發酵粉和鹽攪拌均勻。將三分之一的麵糊加入蛋液中攪勻。繼續交換拌入麵糊和牛奶，直至全部混合。加入藍莓，用手輕輕攪拌麵糊混合。將麵糊倒入已準備好的烤盤中。在麵糊上均勻撒上配料。</div>
 						<hr class='hr1'>
 					</div>
-
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將蛋黃糊與剩餘的麵糊充分混合。如有需要，可加入切碎的餡料至麵糊中攪勻(請參考不同做法)。待麵糊稍微變涼備用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">放入已預熱至350˚F（180˚C）的焗爐中，焗40-45分鐘。用牙籤插入蛋糕中間，取出時牙籤乾淨，沒有黏附麵糊即可取出。</div>
 						<hr class='hr1'>
 					</div>
-
-					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">步驟 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在一個大碗打蛋白和塔塔粉，打至硬挺但不乾。將部分蛋白糊混到蛋黃糊中使其顏色變淡，再輕輕地將蛋黃糊加到蛋白糊中徹底混合</div>
-						<hr class='hr1'>
-					</div>
-
-					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">步驟 6</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">小心地把麵糊4杯(1升)倒入梳乎厘焗模或焗盤中</div>
-						<hr class='hr1'>
-					</div>
-
-					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">步驟 7</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在預熱至華氏375度(攝氏190度)的焗爐中焗20至25分鐘，至膨脹及稍微變黃，即可享用</div>
-						<hr class='hr1'>
-					</div>
-
 					
 					<hr>
 
-					<div class="steps col-xs-12  text-center">
-
-						<h1 class="col-xs-12"><b>不同做法：</b></h1>
-						<div class="col-xs-10 col-xs-offset-1 step_body">芝士梳乎厘：加入磨碎的瑞士芝士1杯(250毫升)及蔥花2茶匙(30毫升)至麵糊中攪勻</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">蟹肉梳乎厘：加入罐頭蟹肉1罐(6安士/170克)、乾百里香½茶匙(2毫升)、咖喱粉½茶匙(2毫升)，及蒜鹽¼茶匙(1毫升)至麵糊中攪勻</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">蔬菜梳乎厘：加入煮熟的紅蘿蔔絲1杯(250毫升)、磨碎的車打芝士½杯(125毫升)，及刁草乾¼茶匙(1毫升)至麵糊中攪勻</div>
-
-						<hr class='hr1'>
-						
-					</div>
+					
 
 					<div class="steps col-xs-12  text-center">
 
 						<h1 class="col-xs-12"><b>小貼士：</b></h1>
-						<div class="col-xs-10 col-xs-offset-1 step_body">不要將蛋黃一次過加入到熱的麵糊中，因為可能會因凝結得太快而結塊。</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">冷雞蛋的蛋白和蛋黃更易分開。</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">可使用小漏斗分開蛋白和蛋黃。在一個量杯上放漏斗。打蛋入漏斗，蛋白將流到量杯而蛋黃會留在漏斗內。</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">如需為梳乎厘圍上一圈「護欄」，可剪一塊雙重厚度，4吋(10厘米) 寬的錫紙，長度足以環繞模具一圈，並留有至少3吋(8厘米)重疊部分。將其繞在模具外並用繩子固定。錫紙應伸出模具邊緣之上2至3吋(5至8厘米)。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">可選用果仁代替野生藍莓，炮製另一番滋味。用1/4杯（50毫升）多用途麵粉代替1/3杯（75毫升）糖，加入1/2杯（125毫升）杏仁碎或核桃碎即可。</div>
+						
+						
 
 						<hr class='hr1'>
 						
@@ -216,46 +218,46 @@
         <table class='table'>
         	<tr>
         		<td><b>卡路里</b></td>
-        		<td class='text-right'>168
+        		<td class='text-right'>330
  </td>
         	</tr>
         	<tr>
         		<td><b>脂肪</b></td>
-        		<td class='text-right'>12克</td>
+        		<td class='text-right'>11克</td>
         	</tr>
         	<tr>
         		<td><b>飽和脂肪</b></td>
-        		<td class='text-right'>5.5克
+        		<td class='text-right'>6克
 </td>
         	</tr>
         	<tr>
         		<td><b>反式脂肪</b>  </td>
-        		<td class='text-right'>0克
+        		<td class='text-right'>0.4克
 </td>
         	</tr>
         	<tr>
         		<td><b>鈉</b></td>
-        		<td class='text-right'>462毫克
+        		<td class='text-right'>316毫克
 </td>
         	</tr>
         	<tr>
         		<td><b>糖</b>  </td>
-        		<td class='text-right'>2克
+        		<td class='text-right'>38克
 </td>
         	</tr>
         	<tr>
         		<td><b>蛋白質</b>  </td>
-        		<td class='text-right'>10克
+        		<td class='text-right'>4克
 </td>
         	</tr>
         	<tr>
         		<td><b>纖維</b>  </td>
-        		<td class='text-right'>0克
+        		<td class='text-right'>1克
 </td>
         	</tr>
         	<tr>
         		<td><b>碳水化合物</b></td>
-        		<td class='text-right'>7克</td>
+        		<td class='text-right'>4克</td>
         	</tr>
         	
         </table>

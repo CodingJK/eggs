@@ -20,9 +20,9 @@
 			
 				
 			
-			<span class='recipe_title'>基本梳乎厘</span>
+			<span class='recipe_title'>越式雞蛋生菜沙律卷配甜辣醬</span>
 			<p class='title_body'>
-					外層酥脆，內裏鬆軟，梳乎厘內裏可填滿您喜歡的餡料。雖然它以難度頗高著稱，但其實製作過程簡單。嘗試加入芝士、蟹肉、蔬菜及其他更多材料，做一頓豐盛的晚餐吧！
+					沙律米紙卷是越南餐廳的馳名頭盤，加入雞蛋即可炮製出方便快捷的營養午餐。
 			</p>
 
 			<div class="col-xs-8 col-xs-offset-2 text-center eggs101-social">
@@ -45,7 +45,7 @@
 			
 		
 			<div class="col-xs-12 ">
-				<img src="/images/recipes/Eggs-SA-013-Final-large.jpg" alt="">
+				<img src="/images/recipes/Egg-and-Veggie-Salad-Rolls-with-Sweet-Heat-Dipping-Sauce.jpg" alt="">
 			</div>
 
 			<div class="col-xs-12  text-center desc">
@@ -69,30 +69,59 @@
            
                 
  				<div class="ingredients" style='clear: both'>
+ 					<div class='recipes_subtitle'>沙律卷</div>
 	                <div class="col-xs-6 text-right ingredients_right">
-	                	<span>2茶匙(30毫升) </span>
-	                	<span>2茶匙(30毫升)</span>
-	                	<span>½茶匙(2.5毫升)</span>
-	                	<span>少許</span>
-	                	<span>¾杯(175毫升)</span>
-	                	<span>6隻，其中2隻只用蛋白</span>
-	                	<span>¼茶匙(1.25毫升)</span>
+	                	
+	                	<span>8隻</span>
+	                	<span>8張</span>
+	                	<span>4片</span>
+	                	<span>1杯（250毫升）</span>
+	                	<span>1/4條</span>
+	                	<span>1/2個</span>
+	                	<span>16塊</span>
 	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
-	                	<span>牛油</span>
-	                	<span>中筋麵粉</span>
-	                	<span>鹽</span>
-	                	<span>胡椒粉 </span>
-	                	<span>牛奶(1%)</span>
-	                	<span>雞蛋</span>
-	                	<span>塔塔粉
-</span>
+	                	
+	                	<span>雞蛋(全熟)</span>
+	                	<span>圓米紙*</span>
+	                	<span>西生菜(切一半) </span>
+	                	<span>米粉(煮熟)</span>
+	                	<span>青瓜(切絲)</span>
+						<span>紅甜椒(切絲)</span>
+						<span>羅勒葉和/或薄荷葉</span>
 	                	
 	                </div>
                 </div>
 
-                
+                <div class="ingredients" style='clear: both'>
+ 					<div class='recipes_subtitle'>醬汁</div>
+	                <div class="col-xs-6 text-right ingredients_right">
+	                	
+	                	<span>1/4杯（60毫升）</span>
+	                	<span>3湯匙（45毫升）</span>
+	                	<span>1/4杯（60毫升）</span>
+	                	<span>少量</span>
+	                	
+	                </div>
+	                <div class="col-xs-6 text-left ingredients_left">
+	                	
+	                	<span>熱水</span>
+						<span>糖</span>
+						<span>米醋</span>
+						<span>辣醬，如印尼辣椒醬或是拉差</span>
+	                	
+	                </div>
+                </div>
+
+
+
+
+
+
+
+
+
 
 
 				<div class="step">
@@ -101,68 +130,48 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">預熱焗爐至華氏375度(攝氏190度)</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">雞蛋剝殼切成四塊薯角狀。製作前預備好所有材料。鋪一條乾淨的茶巾在檯面上。將熱水倒入一個平底盤或餅盤中。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用小火在中號鍋融化牛油，加入麵粉、鹽和胡椒粉攪拌。煮的同時不斷攪動，直至麵糊細滑多泡，立刻倒入牛奶。繼續攪動直至麵糊滾起而且細滑粘稠
+						<div class="col-xs-10 col-xs-offset-1 step_body">米紙放入熱水浸泡至軟身，鋪在毛巾上待涼。將半片西生菜放在米紙中間，再放上米粉、青瓜、紅甜椒和2片羅勒葉和/或薄荷葉。
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">把蛋黃和蛋白分開。將蛋黃充分打散，並加入¼杯(50毫升)剛才的暖麵糊到蛋黃裏</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">將四塊雞蛋鋪在上面排成一行（可能略微重疊）。將米紙捲緊餡料，收起米紙邊。秘訣：如果覺得鬆動，可以用多一張米捲上。用其餘的米紙重複以上步驟。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將蛋黃糊與剩餘的麵糊充分混合。如有需要，可加入切碎的餡料至麵糊中攪勻(請參考不同做法)。待麵糊稍微變涼備用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">醬汁：攪拌熱水和糖至融化。隨個人喜好加入米醋和辣醬調味。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在一個大碗打蛋白和塔塔粉，打至硬挺但不乾。將部分蛋白糊混到蛋黃糊中使其顏色變淡，再輕輕地將蛋黃糊加到蛋白糊中徹底混合</div>
-						<hr class='hr1'>
-					</div>
-
-					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">步驟 6</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">小心地把麵糊4杯(1升)倒入梳乎厘焗模或焗盤中</div>
-						<hr class='hr1'>
-					</div>
-
-					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">步驟 7</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在預熱至華氏375度(攝氏190度)的焗爐中焗20至25分鐘，至膨脹及稍微變黃，即可享用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">將沙律卷切開一半，伴以醬汁食用。</div>
 						<hr class='hr1'>
 					</div>
 
 					
+
+					
 					<hr>
 
-					<div class="steps col-xs-12  text-center">
-
-						<h1 class="col-xs-12"><b>不同做法：</b></h1>
-						<div class="col-xs-10 col-xs-offset-1 step_body">芝士梳乎厘：加入磨碎的瑞士芝士1杯(250毫升)及蔥花2茶匙(30毫升)至麵糊中攪勻</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">蟹肉梳乎厘：加入罐頭蟹肉1罐(6安士/170克)、乾百里香½茶匙(2毫升)、咖喱粉½茶匙(2毫升)，及蒜鹽¼茶匙(1毫升)至麵糊中攪勻</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">蔬菜梳乎厘：加入煮熟的紅蘿蔔絲1杯(250毫升)、磨碎的車打芝士½杯(125毫升)，及刁草乾¼茶匙(1毫升)至麵糊中攪勻</div>
-
-						<hr class='hr1'>
-						
-					</div>
+				
 
 					<div class="steps col-xs-12  text-center">
 
 						<h1 class="col-xs-12"><b>小貼士：</b></h1>
-						<div class="col-xs-10 col-xs-offset-1 step_body">不要將蛋黃一次過加入到熱的麵糊中，因為可能會因凝結得太快而結塊。</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">冷雞蛋的蛋白和蛋黃更易分開。</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">可使用小漏斗分開蛋白和蛋黃。在一個量杯上放漏斗。打蛋入漏斗，蛋白將流到量杯而蛋黃會留在漏斗內。</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">如需為梳乎厘圍上一圈「護欄」，可剪一塊雙重厚度，4吋(10厘米) 寬的錫紙，長度足以環繞模具一圈，並留有至少3吋(8厘米)重疊部分。將其繞在模具外並用繩子固定。錫紙應伸出模具邊緣之上2至3吋(5至8厘米)。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">* 米紙在各大超市和亞洲食品店均有售。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">將沙律卷用濕紙巾包裹，放置活動封口膠袋或有蓋食物盒中冷藏不超過一日。</div>
+						
 
 						<hr class='hr1'>
 						
@@ -216,46 +225,46 @@
         <table class='table'>
         	<tr>
         		<td><b>卡路里</b></td>
-        		<td class='text-right'>168
+        		<td class='text-right'>324
  </td>
         	</tr>
         	<tr>
         		<td><b>脂肪</b></td>
-        		<td class='text-right'>12克</td>
+        		<td class='text-right'>11克</td>
         	</tr>
         	<tr>
         		<td><b>飽和脂肪</b></td>
-        		<td class='text-right'>5.5克
+        		<td class='text-right'>3克
 </td>
         	</tr>
         	<tr>
         		<td><b>反式脂肪</b>  </td>
-        		<td class='text-right'>0克
+        		<td class='text-right'>0.1克
 </td>
         	</tr>
         	<tr>
         		<td><b>鈉</b></td>
-        		<td class='text-right'>462毫克
+        		<td class='text-right'>359毫克
 </td>
         	</tr>
         	<tr>
         		<td><b>糖</b>  </td>
-        		<td class='text-right'>2克
+        		<td class='text-right'>11克
 </td>
         	</tr>
         	<tr>
         		<td><b>蛋白質</b>  </td>
-        		<td class='text-right'>10克
+        		<td class='text-right'>15克
 </td>
         	</tr>
         	<tr>
         		<td><b>纖維</b>  </td>
-        		<td class='text-right'>0克
+        		<td class='text-right'>1克
 </td>
         	</tr>
         	<tr>
         		<td><b>碳水化合物</b></td>
-        		<td class='text-right'>7克</td>
+        		<td class='text-right'>42克</td>
         	</tr>
         	
         </table>

@@ -20,9 +20,9 @@
 			
 				
 			
-			<span class='recipe_title'>基本梳乎厘</span>
+			<span class='recipe_title'>法式焦糖燉蛋</span>
 			<p class='title_body'>
-					外層酥脆，內裏鬆軟，梳乎厘內裏可填滿您喜歡的餡料。雖然它以難度頗高著稱，但其實製作過程簡單。嘗試加入芝士、蟹肉、蔬菜及其他更多材料，做一頓豐盛的晚餐吧！
+					焦糖燉蛋是法國最歷史悠久的甜點之一，賣相高尚, 味道香濃軟滑。用來宴客，毫不失禮。可在前一晚提早預備。
 			</p>
 
 			<div class="col-xs-8 col-xs-offset-2 text-center eggs101-social">
@@ -45,17 +45,17 @@
 			
 		
 			<div class="col-xs-12 ">
-				<img src="/images/recipes/Eggs-SA-013-Final-large.jpg" alt="">
+				<img src="/images/recipes/Creme-Caramel-big.jpg" alt="">
 			</div>
 
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量: 4位用</li>
+					<li class='recipe_worlds'>份量: 6位用</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>準備時間: 10分鐘</li>
+					<li class='recipe_worlds'>準備時間: 15分鐘</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹調時間: 20分鐘</li>
+					<li class='recipe_worlds'>烹調時間: 50分鐘</li>
 				</ul>
 			</div>
 
@@ -70,27 +70,29 @@
                 
  				<div class="ingredients" style='clear: both'>
 	                <div class="col-xs-6 text-right ingredients_right">
-	                	<span>2茶匙(30毫升) </span>
-	                	<span>2茶匙(30毫升)</span>
-	                	<span>½茶匙(2.5毫升)</span>
-	                	<span>少許</span>
-	                	<span>¾杯(175毫升)</span>
-	                	<span>6隻，其中2隻只用蛋白</span>
-	                	<span>¼茶匙(1.25毫升)</span>
+	                <span>3/4杯（175毫升）</span>
+					<span>2湯匙（30毫升）</span>
+					<span>2杯（500毫升）</span>
+					<span>2茶匙（10毫升）</span>
+					<span>適量</span>
+					<span>3隻</span>
+					<span>2隻</span>
+
 	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
-	                	<span>牛油</span>
-	                	<span>中筋麵粉</span>
+	                	<span>砂糖(分成兩份)</span>
+	                	<span>粟米糖漿</span>
+	                	<span>均質牛奶</span>
+	                	<span>呍呢拿精</span>
 	                	<span>鹽</span>
-	                	<span>胡椒粉 </span>
-	                	<span>牛奶(1%)</span>
-	                	<span>雞蛋</span>
-	                	<span>塔塔粉
-</span>
-	                	
+	                	<span>雞蛋(室溫)</span>
+	                	<span>蛋黃</span>
 	                </div>
                 </div>
+
+
+
 
                 
 
@@ -101,72 +103,51 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">預熱焗爐至華氏375度(攝氏190度)</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">
+預熱焗爐至325°F（170°C）。在小型厚底平底鍋中，混合1/4杯（60毫升）水、1/4杯（60毫升）糖和粟米糖漿，不時旋轉，煮2-3分鐘或直至砂糖完全溶解。轉至中高火，繼續旋轉，不攪拌，煮6分鐘或直至深金黃色。將1茶匙（5毫升）舀入六個6安士（175毫升）甜品碗中。
+</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用小火在中號鍋融化牛油，加入麵粉、鹽和胡椒粉攪拌。煮的同時不斷攪動，直至麵糊細滑多泡，立刻倒入牛奶。繼續攪動直至麵糊滾起而且細滑粘稠
+						<div class="col-xs-10 col-xs-offset-1 step_body">在平底鍋用中火燉煮牛奶、剩餘的砂糖、呍呢拿精和鹽，直至微沸。同一時間，用大碗攪拌混合雞蛋和蛋黃。不斷攪拌，加入1/2杯（125毫升）熱牛奶，繼續攪拌直至均勻。慢慢拌入剩餘的奶糊，用細網過篩。倒入甜品碗中，覆蓋焦糖。
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">把蛋黃和蛋白分開。將蛋黃充分打散，並加入¼杯(50毫升)剛才的暖麵糊到蛋黃裏</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">將甜品碗放在大型烤盤上。小心將適量熱水倒入盤中，及至甜品碗高度的一半。放入焗爐的中層，焗35-40分鐘或至剛好凝固。將一把1吋（2.5厘米）長刀插入中間，如無黏附物即可取出。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將蛋黃糊與剩餘的麵糊充分混合。如有需要，可加入切碎的餡料至麵糊中攪勻(請參考不同做法)。待麵糊稍微變涼備用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">將甜品碗移到架上待涼。蓋住並冷藏約4小時。</div>
 						<hr class='hr1'>
 					</div>
-
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在一個大碗打蛋白和塔塔粉，打至硬挺但不乾。將部分蛋白糊混到蛋黃糊中使其顏色變淡，再輕輕地將蛋黃糊加到蛋白糊中徹底混合</div>
-						<hr class='hr1'>
-					</div>
-
-					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">步驟 6</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">小心地把麵糊4杯(1升)倒入梳乎厘焗模或焗盤中</div>
-						<hr class='hr1'>
-					</div>
-
-					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">步驟 7</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在預熱至華氏375度(攝氏190度)的焗爐中焗20至25分鐘，至膨脹及稍微變黃，即可享用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">用刀尖沿著甜品碗邊劃一圈，將布甸取出上碟。</div>
 						<hr class='hr1'>
 					</div>
 
 					
 					<hr>
-
-					<div class="steps col-xs-12  text-center">
-
-						<h1 class="col-xs-12"><b>不同做法：</b></h1>
-						<div class="col-xs-10 col-xs-offset-1 step_body">芝士梳乎厘：加入磨碎的瑞士芝士1杯(250毫升)及蔥花2茶匙(30毫升)至麵糊中攪勻</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">蟹肉梳乎厘：加入罐頭蟹肉1罐(6安士/170克)、乾百里香½茶匙(2毫升)、咖喱粉½茶匙(2毫升)，及蒜鹽¼茶匙(1毫升)至麵糊中攪勻</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">蔬菜梳乎厘：加入煮熟的紅蘿蔔絲1杯(250毫升)、磨碎的車打芝士½杯(125毫升)，及刁草乾¼茶匙(1毫升)至麵糊中攪勻</div>
-
-						<hr class='hr1'>
-						
-					</div>
-
 					<div class="steps col-xs-12  text-center">
 
 						<h1 class="col-xs-12"><b>小貼士：</b></h1>
-						<div class="col-xs-10 col-xs-offset-1 step_body">不要將蛋黃一次過加入到熱的麵糊中，因為可能會因凝結得太快而結塊。</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">冷雞蛋的蛋白和蛋黃更易分開。</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">可使用小漏斗分開蛋白和蛋黃。在一個量杯上放漏斗。打蛋入漏斗，蛋白將流到量杯而蛋黃會留在漏斗內。</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">如需為梳乎厘圍上一圈「護欄」，可剪一塊雙重厚度，4吋(10厘米) 寬的錫紙，長度足以環繞模具一圈，並留有至少3吋(8厘米)重疊部分。將其繞在模具外並用繩子固定。錫紙應伸出模具邊緣之上2至3吋(5至8厘米)。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">可選用鮮莓做裝飾。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">可選用楓糖精代替呍呢拿精。</div>
+						
 
 						<hr class='hr1'>
 						
 					</div>
+					
+
+					
 				</div>
                 
 			</div>
@@ -216,36 +197,36 @@
         <table class='table'>
         	<tr>
         		<td><b>卡路里</b></td>
-        		<td class='text-right'>168
+        		<td class='text-right'>230
  </td>
         	</tr>
         	<tr>
         		<td><b>脂肪</b></td>
-        		<td class='text-right'>12克</td>
+        		<td class='text-right'>7克</td>
         	</tr>
         	<tr>
         		<td><b>飽和脂肪</b></td>
-        		<td class='text-right'>5.5克
+        		<td class='text-right'>3克
 </td>
         	</tr>
         	<tr>
         		<td><b>反式脂肪</b>  </td>
-        		<td class='text-right'>0克
+        		<td class='text-right'>0.1克
 </td>
         	</tr>
         	<tr>
         		<td><b>鈉</b></td>
-        		<td class='text-right'>462毫克
+        		<td class='text-right'>125毫克
 </td>
         	</tr>
         	<tr>
         		<td><b>糖</b>  </td>
-        		<td class='text-right'>2克
+        		<td class='text-right'>35克
 </td>
         	</tr>
         	<tr>
         		<td><b>蛋白質</b>  </td>
-        		<td class='text-right'>10克
+        		<td class='text-right'>7克
 </td>
         	</tr>
         	<tr>
@@ -255,7 +236,7 @@
         	</tr>
         	<tr>
         		<td><b>碳水化合物</b></td>
-        		<td class='text-right'>7克</td>
+        		<td class='text-right'>35克</td>
         	</tr>
         	
         </table>

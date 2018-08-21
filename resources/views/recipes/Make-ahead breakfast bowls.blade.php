@@ -20,9 +20,9 @@
 			
 				
 			
-			<span class='recipe_title'>基本梳乎厘</span>
+			<span class='recipe_title'>懶人早餐</span>
 			<p class='title_body'>
-					外層酥脆，內裏鬆軟，梳乎厘內裏可填滿您喜歡的餡料。雖然它以難度頗高著稱，但其實製作過程簡單。嘗試加入芝士、蟹肉、蔬菜及其他更多材料，做一頓豐盛的晚餐吧！
+					晚上預備好炒雞蛋和香腸，隔日一叮即可享用，擠出更多時間應付忙碌日程。
 			</p>
 
 			<div class="col-xs-8 col-xs-offset-2 text-center eggs101-social">
@@ -45,7 +45,7 @@
 			
 		
 			<div class="col-xs-12 ">
-				<img src="/images/recipes/Eggs-SA-013-Final-large.jpg" alt="">
+				<img src="/images/recipes/Make-Ahead-Breakfast-Bowls-big.jpg" alt="">
 			</div>
 
 			<div class="col-xs-12  text-center desc">
@@ -53,9 +53,9 @@
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
 					<li class='recipe_worlds'>份量: 4位用</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>準備時間: 10分鐘</li>
+					<li class='recipe_worlds'>準備時間: 15分鐘</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹調時間: 20分鐘</li>
+					<li class='recipe_worlds'>烹調時間: 5分鐘</li>
 				</ul>
 			</div>
 
@@ -70,29 +70,33 @@
                 
  				<div class="ingredients" style='clear: both'>
 	                <div class="col-xs-6 text-right ingredients_right">
-	                	<span>2茶匙(30毫升) </span>
-	                	<span>2茶匙(30毫升)</span>
-	                	<span>½茶匙(2.5毫升)</span>
-	                	<span>少許</span>
-	                	<span>¾杯(175毫升)</span>
-	                	<span>6隻，其中2隻只用蛋白</span>
-	                	<span>¼茶匙(1.25毫升)</span>
-	                	
+	                	<span>1個</span>
+	                	<span>2茶匙（10毫升）</span>
+	                	<span>約1/4茶匙（1.25毫升）</span>
+	                	<span>8隻</span>
+	                	<span>2湯匙（30毫升）</span>
+	                	<span>4條</span>
+	                	<span>1杯（250毫升）</span>
+	                	<span>1杯（250毫升）</span>
+	                	<span>1/4茶匙（1.25 毫升）</span>
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
-	                	<span>牛油</span>
-	                	<span>中筋麵粉</span>
-	                	<span>鹽</span>
-	                	<span>胡椒粉 </span>
-	                	<span>牛奶(1%)</span>
-	                	<span>雞蛋</span>
-	                	<span>塔塔粉
-</span>
+	                	<span>熟牛油果(切一半，去核去皮)</span>
+						<span>青檸汁</span>
+						<span>鹽和胡椒粉</span>
+						<span>雞蛋</span>
+						<span>牛油</span>
+						<span>早餐香腸(煮熟壓碎)</span>
+						<span>蕃茄(切粒)</span>
+						<span>車打芝士碎</span>
+						<span>辣椒粉（隨個人喜好添加）</span>
 	                	
 	                </div>
                 </div>
 
                 
+
+
 
 
 				<div class="step">
@@ -101,68 +105,40 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">預熱焗爐至華氏375度(攝氏190度)</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">混合牛油果、青檸汁、鹽和胡椒粉，放置備用。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用小火在中號鍋融化牛油，加入麵粉、鹽和胡椒粉攪拌。煮的同時不斷攪動，直至麵糊細滑多泡，立刻倒入牛奶。繼續攪動直至麵糊滾起而且細滑粘稠
+						<div class="col-xs-10 col-xs-offset-1 step_body">將雞蛋、1/4杯（60 毫升）水和1/4茶匙（1毫升）鹽和胡椒粉攪勻。在大型平底鍋用中火燒熱牛油，倒入蛋液，輕輕攪拌3-5分鐘或至凝固蓬鬆，放涼。
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">把蛋黃和蛋白分開。將蛋黃充分打散，並加入¼杯(50毫升)剛才的暖麵糊到蛋黃裏</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">將炒雞蛋分成4份，放入微波爐適用的食物盒。鋪上香腸、牛油果蓉、蕃茄和芝士。撒上辣椒粉（隨個人口味添加）。密封並冷藏不超過24小時。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將蛋黃糊與剩餘的麵糊充分混合。如有需要，可加入切碎的餡料至麵糊中攪勻(請參考不同做法)。待麵糊稍微變涼備用</div>
-						<hr class='hr1'>
-					</div>
-
-					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">步驟 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在一個大碗打蛋白和塔塔粉，打至硬挺但不乾。將部分蛋白糊混到蛋黃糊中使其顏色變淡，再輕輕地將蛋黃糊加到蛋白糊中徹底混合</div>
-						<hr class='hr1'>
-					</div>
-
-					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">步驟 6</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">小心地把麵糊4杯(1升)倒入梳乎厘焗模或焗盤中</div>
-						<hr class='hr1'>
-					</div>
-
-					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">步驟 7</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在預熱至華氏375度(攝氏190度)的焗爐中焗20至25分鐘，至膨脹及稍微變黃，即可享用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">放入微波爐高溫加熱1分鐘或至熟透即可享用。</div>
 						<hr class='hr1'>
 					</div>
 
 					
+					
 					<hr>
 
-					<div class="steps col-xs-12  text-center">
-
-						<h1 class="col-xs-12"><b>不同做法：</b></h1>
-						<div class="col-xs-10 col-xs-offset-1 step_body">芝士梳乎厘：加入磨碎的瑞士芝士1杯(250毫升)及蔥花2茶匙(30毫升)至麵糊中攪勻</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">蟹肉梳乎厘：加入罐頭蟹肉1罐(6安士/170克)、乾百里香½茶匙(2毫升)、咖喱粉½茶匙(2毫升)，及蒜鹽¼茶匙(1毫升)至麵糊中攪勻</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">蔬菜梳乎厘：加入煮熟的紅蘿蔔絲1杯(250毫升)、磨碎的車打芝士½杯(125毫升)，及刁草乾¼茶匙(1毫升)至麵糊中攪勻</div>
-
-						<hr class='hr1'>
-						
-					</div>
+					
 
 					<div class="steps col-xs-12  text-center">
 
 						<h1 class="col-xs-12"><b>小貼士：</b></h1>
-						<div class="col-xs-10 col-xs-offset-1 step_body">不要將蛋黃一次過加入到熱的麵糊中，因為可能會因凝結得太快而結塊。</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">冷雞蛋的蛋白和蛋黃更易分開。</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">可使用小漏斗分開蛋白和蛋黃。在一個量杯上放漏斗。打蛋入漏斗，蛋白將流到量杯而蛋黃會留在漏斗內。</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">如需為梳乎厘圍上一圈「護欄」，可剪一塊雙重厚度，4吋(10厘米) 寬的錫紙，長度足以環繞模具一圈，並留有至少3吋(8厘米)重疊部分。將其繞在模具外並用繩子固定。錫紙應伸出模具邊緣之上2至3吋(5至8厘米)。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">可選用煙肉、火腿或黑豆(素食)代替香腸。。</div>
+						
 
 						<hr class='hr1'>
 						
@@ -216,26 +192,26 @@
         <table class='table'>
         	<tr>
         		<td><b>卡路里</b></td>
-        		<td class='text-right'>168
+        		<td class='text-right'>490
  </td>
         	</tr>
         	<tr>
         		<td><b>脂肪</b></td>
-        		<td class='text-right'>12克</td>
+        		<td class='text-right'>41克</td>
         	</tr>
         	<tr>
         		<td><b>飽和脂肪</b></td>
-        		<td class='text-right'>5.5克
+        		<td class='text-right'>15克
 </td>
         	</tr>
         	<tr>
         		<td><b>反式脂肪</b>  </td>
-        		<td class='text-right'>0克
+        		<td class='text-right'>0.5克
 </td>
         	</tr>
         	<tr>
         		<td><b>鈉</b></td>
-        		<td class='text-right'>462毫克
+        		<td class='text-right'>650毫克
 </td>
         	</tr>
         	<tr>
@@ -245,17 +221,17 @@
         	</tr>
         	<tr>
         		<td><b>蛋白質</b>  </td>
-        		<td class='text-right'>10克
+        		<td class='text-right'>24克
 </td>
         	</tr>
         	<tr>
         		<td><b>纖維</b>  </td>
-        		<td class='text-right'>0克
+        		<td class='text-right'>2克
 </td>
         	</tr>
         	<tr>
         		<td><b>碳水化合物</b></td>
-        		<td class='text-right'>7克</td>
+        		<td class='text-right'>6克</td>
         	</tr>
         	
         </table>
