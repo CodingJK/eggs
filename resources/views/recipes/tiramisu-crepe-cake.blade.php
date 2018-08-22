@@ -74,12 +74,12 @@
  					<div class='recipes_subtitle'>班戟</div>
 	                <div class="col-xs-6 text-right ingredients_right">
 	                	
-					<span>3杯（750毫升）</span>
-					<span>2 1/4杯（565毫升）</span>
+					<span>3杯(750毫升)</span>
+					<span>2 1/4杯(565毫升)</span>
 					<span>6隻</span>
-					<span>1/4杯（60毫升）</span>
-					<span>1/4茶匙（1.25毫升）</span>
-					<span>2湯匙（30毫升）</span>
+					<span>1/4杯(60毫升)</span>
+					<span>1/4茶匙(1.25毫升)</span>
+					<span>2湯匙(30毫升)</span>
 
 	                	
 	                </div>
@@ -99,12 +99,12 @@
  					<div class='recipes_subtitle'>餡料</div>
 	                <div class="col-xs-6 text-right ingredients_right">
 	                	<span>3隻</span>
-						<span>2湯匙（30毫升）</span>
-						<span>2湯匙（30毫升）</span>
-						<span>1/4杯（60毫升）</span>
-						<span>1/4杯（60毫升）</span>
-						<span>1/4茶匙（1.25毫升）</span>
-						<span>1桶（450克）</span>
+						<span>2湯匙(30毫升)</span>
+						<span>2湯匙(30毫升)</span>
+						<span>1/4杯(60毫升)</span>
+						<span>1/4杯(60毫升)</span>
+						<span>1/4茶匙(1.25毫升)</span>
+						<span>1桶(450克)</span>
 
 
 	                	
@@ -124,9 +124,9 @@
  					<div class='recipes_subtitle'>裝飾</div>
 	                <div class="col-xs-6 text-right ingredients_right">
 	                	
-						<span>1/4杯（60毫升）</span>
-						<span>2湯匙（30毫升）</span>
-						<span>1湯匙（15毫升）</span>
+						<span>1/4杯(60毫升)</span>
+						<span>2湯匙(30毫升)</span>
+						<span>1湯匙(15毫升)</span>
 
 	                	
 	                </div>
@@ -144,24 +144,24 @@
 
 				<div class="step">
 
-					<div class='recipes_subtitle'>班戟步驟:</div>
+					<div class='recipes_subtitle'>班戟:</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在攪拌機中，將牛奶、麵粉、雞蛋、已煮融的牛油和鹽混合，攪拌至順滑。靜置至少30分鐘（麵糊應該呈厚忌廉狀；可加少量水稀釋）。
+						<div class="col-xs-10 col-xs-offset-1 step_body">在攪拌機中，將牛奶、麵粉、雞蛋、已煮融的牛油和鹽混合，攪拌至順滑。靜置至少30分鐘(麵糊應該呈厚忌廉狀；可加少量水稀釋)。
 							<hr class='hr1'>
 </div>
 						<div class="step_title col-xs-12">步驟 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">中火加熱10吋（25厘米）防黏平底鍋，掃上一層薄油。將1/3杯（75毫升）麵糊倒入鍋中，旋轉覆蓋鍋底。煎60-90秒或至薄邊微微捲曲。翻轉再煎30秒或至熟透。用剩餘麵糊重複，按需掃上油。移至焗爐紙，徹底放涼。
+						<div class="col-xs-10 col-xs-offset-1 step_body">中火加熱10吋(25厘米)防黏平底鍋，掃上一層薄油。將1/3杯(75毫升)麵糊倒入鍋中，旋轉覆蓋鍋底。煎60-90秒或至薄邊微微捲曲。翻轉再煎30秒或至熟透。用剩餘麵糊重複，按需掃上油。移至焗爐紙，徹底放涼。
 </div>
 						<hr class='hr1'>
 					</div>
 
-					<div class='recipes_subtitle'>餡料步驟:</div>
+					<div class='recipes_subtitle'>餡料:</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將耐熱碗放入裝有微沸水的平底鍋中，加入蛋黃、砂糖和特濃咖啡攪拌約5分鐘，或直至熱度、厚度和柔軟度適中。拿起攪拌器具時，麵糊應呈絲帶狀（避免過度烹煮，令麵糊凝固）。熄火，徹底放涼。
+						<div class="col-xs-10 col-xs-offset-1 step_body">將耐熱碗放入裝有微沸水的平底鍋中，加入蛋黃、砂糖和特濃咖啡攪拌約5分鐘，或直至熱度、厚度和柔軟度適中。拿起攪拌器具時，麵糊應呈絲帶狀(避免過度烹煮，令麵糊凝固)。熄火，徹底放涼。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -173,11 +173,11 @@
 						</div>
 							<hr class='hr1'>
 					</div>
-					<div class='recipes_subtitle'>製作步驟:</div>
+					<div class='recipes_subtitle'>製作:</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">混合咖啡甜酒和特濃咖啡，拌勻。將一塊班戟平放在碟上，塗抹2湯匙（30毫升）餡料。薄薄掃上一層特濃咖啡水。用剩餘的班戟重複，逐層堆疊。冷藏至少2小時。灑上可可粉後切成厚件即可上碟。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">混合咖啡甜酒和特濃咖啡，拌勻。將一塊班戟平放在碟上，塗抹2湯匙(30毫升)餡料。薄薄掃上一層特濃咖啡水。用剩餘的班戟重複，逐層堆疊。冷藏至少2小時。灑上可可粉後切成厚件即可上碟。</div>
 						<hr class='hr1'>
 					</div>
 
@@ -188,7 +188,7 @@
 					<div class="steps col-xs-12  text-center">
 
 						<h1 class="col-xs-12"><b>小貼士：</b></h1>
-						<div class="col-xs-10 col-xs-offset-1 step_body">可選用特濃咖啡和1湯匙（15毫升）糖代替咖啡甜酒。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">可選用特濃咖啡和1湯匙(15毫升)糖代替咖啡甜酒。</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">可選用朱古力特濃咖啡豆做裝飾。</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">班戟可提前2至3日製作備用。</div>
 
@@ -203,26 +203,24 @@
 				<h1>相關</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/mushroom-truffle-and-egg">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-07-Final-web.jpg' />
-			     				<div class='name'>蘑菇蛋花松露清湯</div>
-			     			</a>
+		     				<a href="/maple-walnut-tarts">
+														<img class='recipes_img' src='/images/recipes/Maple-Walnut-Tarts-small_r.jpg' />
+														<div class='name ' >楓糖核桃撻</div>
+													</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Birds-Nest-Egg-Peral">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-08-Final-web.jpg' />
-			     				<div class='name'>紅燒燕液盞</div>
-			     			</a>
+		     				<a href="/blueberry-cake">
+														<img class='recipes_img' src='/images/recipes/Blueberry-Cake-small_r.jpg' />
+														<div class='name ' >藍莓蛋糕</div>
+													</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/masalaEggKachumber">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-10-Final-web.jpg' />
-			     				<div class='name'>
-			     					Masala Egg Kachumber Salad
-								</div>
-			     			</a>
+		     				<a href="/Egg-Tart">
+														<img class='recipes_img' src='/images/recipes/Eggs-SA-24-Final-web.jpg' />
+														<div class='name ' >酥皮蛋撻</div>
+													</a>
 		     			</div>
 				</div>		
 			</div>

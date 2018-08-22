@@ -74,13 +74,13 @@
 	                	
 	                	
 						<span>8塊</span>
-						<span>3/4杯（175毫升）</span>
-						<span>1/2杯（125毫升）</span>
-						<span>2湯匙（30毫升）</span>
-						<span>3湯匙（45毫升）</span>
-						<span>1湯匙（15毫升）</span>
+						<span>3/4杯(175毫升)</span>
+						<span>1/2杯(125毫升)</span>
+						<span>2湯匙(30毫升)</span>
+						<span>3湯匙(45毫升)</span>
+						<span>1湯匙(15毫升)</span>
 						<span>4隻</span>
-						<span>1/4杯（60毫升）</span>
+						<span>1/4杯(60毫升)</span>
 						<span>2條</span>
 
 
@@ -120,7 +120,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">混合牛奶、麵粉和油，攪勻至幼滑。將黑豆醬和中國辣醬放入兩個碗中，每碗加2茶匙（10毫升）水，放置備用。
+						<div class="col-xs-10 col-xs-offset-1 step_body">混合牛奶、麵粉和油，攪勻至幼滑。將黑豆醬和中國辣醬放入兩個碗中，每碗加2茶匙(10毫升)水，放置備用。
 						</div>
 							<hr class='hr1'>
 					</div>
@@ -162,26 +162,24 @@
 				<h1>相關</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/mushroom-truffle-and-egg">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-07-Final-web.jpg' />
-			     				<div class='name'>蘑菇蛋花松露清湯</div>
-			     			</a>
+		     				<a href="/Chiu-Chow-Omeletd">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-26-Final-web.jpg' />
+									<div class='name ' >潮式煎蠔餅</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Birds-Nest-Egg-Peral">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-08-Final-web.jpg' />
-			     				<div class='name'>紅燒燕液盞</div>
-			     			</a>
+		     				<a href="/Basic-Souffle">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-013-Final-web.jpg' />
+									<div class='name ' >基本梳乎厘</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/masalaEggKachumber">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-10-Final-web.jpg' />
-			     				<div class='name'>
-			     					Masala Egg Kachumber Salad
-								</div>
-			     			</a>
+		     				<a href="/okonomiyaki">
+									<img class='recipes_img' src='/images/recipes/Okonomiyaki-small_r.jpg' />
+									<div class='name ' >大阪燒</div>
+								</a>
 		     			</div>
 				</div>		
 			</div>

@@ -51,7 +51,7 @@
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量： 4位用</li>
+					<li class='recipe_worlds'>份量: 4位用</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
 					<li class='recipe_worlds'>準備時間: 10分鐘</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
@@ -70,14 +70,14 @@
                 
  				<div class="ingredients" style='clear: both'>
 	                <div class="col-xs-6 text-right ingredients_right">
-	                	<span>1杯（250毫升） </span>
+	                	<span>1杯(250毫升)</span>
 	                	<span>2隻</span>
 	                	<span>1隻</span>
-	                	<span>1/2杯（125毫升）</span>
-	                	<span>1/4杯（60毫升）</span>
-	                	<span>1 1/2茶匙（7.5 毫升）/span>
-	                	<span>1/2茶匙（2.5毫升）</span>
-	                	<span>1/4茶匙（1.25毫升）</span>
+	                	<span>1/2杯(125毫升)</span>
+	                	<span>1/4杯(60毫升)</span>
+	                	<span>1 1/2茶匙(7.5 毫升)</span>
+	                	<span>1/2茶匙(2.5毫升)</span>
+	                	<span>1/4茶匙(1.25毫升)</span>
 	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
@@ -87,11 +87,35 @@
 						<span>杏仁奶</span>
 						<span>芥花籽油(分成兩份)</span>
 						<span>發酵粉</span>
-						<span>呍呢拿精</span>
+						<span>香草精</span>
 						<span>肉桂粉</span>
 	                	
 	                </div>
                 </div>
+                <div class="ingredients" style='clear: both'>
+                	<div class='recipes_subtitle'>配料(隨個人喜好添加)</div>
+	                <div class="col-xs-6 text-right ingredients_right">
+	                	<span>&nbsp;</span>
+	                	<span>&nbsp;</span>
+	                	<span>&nbsp;</span>
+	                	<span>&nbsp;</span>
+	                	<span>&nbsp;</span>
+	                	<span>&nbsp;</span>
+	                	
+	                	
+	                </div>
+	                <div class="col-xs-6 text-left ingredients_left">
+	                	<span>希臘式原味純乳酪</span>
+						<span>杏仁牛油</span>
+						<span>蜜糖</span>
+						<span>士多啤梨或紅桑莓果醬</span>
+						<span>蘋果粒</span>
+						<span>啤梨粒</span>
+	                	
+	                </div>
+                </div>
+
+
 
 
 
@@ -105,13 +129,13 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將燕麥、雞蛋、香蕉、杏仁奶、1湯匙（15毫升）油、發酵粉、呍呢拿精和肉桂粉放入攪拌機中，攪拌至幼滑糊狀。靜置10分鐘備用。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">將燕麥、雞蛋、香蕉、杏仁奶、1湯匙(15毫升)油、發酵粉、香草精和肉桂粉放入攪拌機中，攪拌至幼滑糊狀。靜置10分鐘備用。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用中火預熱大型防黏平底鍋或烤盤，搽一層薄油。每個班戟用大約1/4杯（60毫升）班戟糊，適度隔開倒入，慢煎，反轉一次，煎3-5分鐘或至表層微乾金黃。每次倒入班戟漿前抹一抹鍋，按需掃上油。
+						<div class="col-xs-10 col-xs-offset-1 step_body">用中火預熱大型防黏平底鍋或烤盤，搽一層薄油。每個班戟用大約1/4杯(60毫升)班戟糊，適度隔開倒入，慢煎，反轉一次，煎3-5分鐘或至表層微乾金黃。每次倒入班戟漿前抹一抹鍋，按需掃上油。
 						</div>
 							<hr class='hr1'>
 					</div>
@@ -132,7 +156,7 @@
 
 						<h1 class="col-xs-12"><b>小貼士：</b></h1>
 						<div class="col-xs-10 col-xs-offset-1 step_body">可用普通牛奶代替杏仁奶。</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將煎好的班戟放入焗爐保溫，避免餅身變硬</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">將煎好的班戟放入焗爐保溫，避免餅身變硬。</div>
 						
 
 						<hr class='hr1'>
@@ -146,26 +170,24 @@
 				<h1>相關</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/mushroom-truffle-and-egg">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-07-Final-web.jpg' />
-			     				<div class='name'>蘑菇蛋花松露清湯</div>
-			     			</a>
+		     				<a href="/breakfast-in-a-mug">
+									<img class='recipes_img' src='/images/recipes/breakfast-in-a-mug-small_r.jpg' />
+									<div class='name'>杯子早餐</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Birds-Nest-Egg-Peral">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-08-Final-web.jpg' />
-			     				<div class='name'>紅燒燕液盞</div>
-			     			</a>
+		     				<a href="/spicy-avocado-eggs-on-toast">
+									<img class='recipes_img' src='/images/recipes/Spicy-Avocado-Eggs-on-Toast-Small_r.jpg' />
+									<div class='name'>辣牛油果多士</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/masalaEggKachumber">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-10-Final-web.jpg' />
-			     				<div class='name'>
-			     					Masala Egg Kachumber Salad
-								</div>
-			     			</a>
+		     				<a href="/ham-and-cheese-omelette-roll-ups">
+									<img class='recipes_img' src='/images/recipes/Ham-and-Cheese-Omelette-Roll-Ups-small_r.jpg' />
+									<div class='name'>芝士火腿奄列蛋卷</div>
+								</a>
 		     			</div>
 				</div>		
 			</div>

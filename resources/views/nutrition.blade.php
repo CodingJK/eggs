@@ -13,9 +13,8 @@
 			<div class='nutrition_header_artical'>
 				<div class='nutrition_title'>營養價值</div>
 				<div class='nutrition_sub_title'>
-					雞蛋不單止美味，而且營養十分豐富，是蛋白質的極佳來源，能提供人體所需的重要營養素。
-					現在就來了解為甚麼您應把雞蛋作為日常飲食的一部分，以及了解如何為您自己、
-					小孩甚至家中長者保持健康的生活方式。
+					 雞蛋是營養最豐富的天然食品之一。一隻大號雞蛋僅含70卡路里，卻飽含大量營養。
+
 				 </div>
 			</div>	
 		</div>

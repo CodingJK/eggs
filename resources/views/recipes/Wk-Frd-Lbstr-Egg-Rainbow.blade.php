@@ -59,7 +59,7 @@
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量： 4位用</li>
+					<li class='recipe_worlds'>份量: 4位用</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
 					<li class='recipe_worlds'>準備時間: 20-25分鐘</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
@@ -178,26 +178,24 @@
 				<h1>相關</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Funny-Egg-Fish">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-13-Final-web.jpg' />
-			     				<div class='name'>趣味小蛋魚</div>
-			     			</a>
+		     				<a href="/Chiu-Chow-Omeletd">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-26-Final-web.jpg' />
+									<div class='name ' >潮式煎蠔餅</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/EggsMakhani">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-18-Final-web.jpg' />
-			     				<div class='name'>Eggs Makhani</div>
-			     			</a>
+		     				<a href="/Duo-Egg-Pearl">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-009-Final-web.jpg' />
+									<div class='name ' >豬骨濃湯菜苗伴鴛鴦蛋</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Boiled-Egg-Oolong-Tea">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-14-Final-web.jpg' />
-			     				<div class='name'>
-			     					烏龍茶葉蛋
-								</div>
-			     			</a>
+		     				<a href="/okonomiyaki">
+									<img class='recipes_img' src='/images/recipes/Okonomiyaki-small_r.jpg' />
+									<div class='name ' >大阪燒</div>
+								</a>
 		     			</div>
 				</div>		
 			</div>

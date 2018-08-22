@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="theme-color" content="#000000">
     <!-- Global Site Tag (gtag.js) - Google Analytics -->
+
    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106914447-1"></script>
    <script>
   window.dataLayer = window.dataLayer || [];
@@ -151,8 +152,8 @@
 <footer class='clear-top'>
   <div class='container-fluid' id='mobile-footer-sm'>
     <div class='col-xs-12'>
-      <h2>Fresh recipes in your inbox every month!</h2>
-      
+        <h2>Fresh recipes in your inbox every month !</h2>
+       
       <h2>Follow on Social Media</h2>
       <div>
         <ul class="col-xs-12">
@@ -214,7 +215,7 @@
   <div class='container-fluid' id='mobile-footer-big'>
     <div class='col-xs-12'>
       <h2>Fresh recipes in your inbox every month!</h2>
-      
+       
       <h2>Follow on Social Media</h2>
       <div>
         <ul class="col-xs-8 col-xs-offset-2">
@@ -273,6 +274,7 @@
       <div class='col-sm-7 left'>
         <span>Fresh recipes in your inbox every month!</span>
       </div>
+       
       <div class='col-sm-5  right'>
         <span>Follow on Social Media</span>
       </div>
@@ -345,6 +347,74 @@
       <div class='col-lg-12'>
         <div class='col-lg-7 left'>
           <span>Fresh recipes in your inbox every month!</span>
+        </div>
+        <!-- button -->
+        <div class='col-lg-7 left'>
+          <button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#newsletter">Subscribe to the eggs.ca newsletter</button>
+          <div class="modal fade" id="newsletter" tabindex="-1" role="dialog" aria-labelledby="newsletterLabel" aria-hidden="true">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                  <div class="modal-header">
+                       <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                       <h4 class="modal-title" id="newsletterLabel"> Subscribe</h4>
+                  </div>
+                  <div class="modal-body">
+                    <div class='container-fuild text-center'>
+                      <div class="field">
+                        <label>Email</label>
+                        <input type="text" name="NewEmail" class="text full" id="SubscribeForm_SubscribeForm_NewEmail" required="required" aria-required="true" placeholder="Your Email Address">
+                      </div>
+                      <div class="field">
+                        <select name="Province" class="text full ui-dropdown" id="SubscribeForm_SubscribeForm_Province" required="required" aria-required="true" data-trigger-label="Where do you live?">
+                            <option value="" selected="selected">Where do you live?</option>
+        
+                            <option value="BC">British Columbia</option>
+                          
+                            <option value="AB">Alberta</option>
+                          
+                            <option value="SK">Saskatchewan</option>
+                          
+                            <option value="MB">Manitoba</option>
+                          
+                            <option value="ON">Ontario</option>
+                          
+                            <option value="QC">Quebec</option>
+                          
+                            <option value="NB">New Brunswick</option>
+                          
+                            <option value="NS">Nova Scotia</option>
+                          
+                            <option value="PE">Prince Edward Island</option>
+                          
+                            <option value="NL">Newfoundland and Labrador</option>
+                          
+                            <option value="YT">Yukon Territory</option>
+                          
+                            <option value="NT">Northwest Territories</option>
+                          
+                            <option value="NU">Nunavut</option>
+                          
+                            <option value="Other">Other</option>
+                        </select>
+                      </div>
+                    </div>
+
+                  </div>
+                  <div class="modal-footer" >
+                    <div class='container-fuild text-center'>
+                      <button type="button" class="btn btn-default" data-dismiss="modal">
+                        close
+                      </button>
+                      <button type="button" class="btn btn-primary">
+                        submit
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+
         </div>
         <div class='col-lg-5  right'>
           <span>Follow on Social Media</span>
@@ -475,7 +545,7 @@
       $(this).attr('src','./images/social/egg_socialMediaIconSet_twitter.png');
     });
 
-
+    $(function () { $('#newsletter').modal('hide')});
 
 
 </script>

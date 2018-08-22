@@ -118,7 +118,7 @@
 						
 						<span>適量</span>
 						
-						<span>20克刁草(切碎)</span>
+						<span>20克</span>
 
 
 	                	
@@ -148,8 +148,8 @@
 
 				<div class="step">
 
-					<div class='recipes_subtitle'>三文魚脆脆餅步驟:</div>
-
+					<div class='recipes_subtitle'>步驟:</div>
+					<div class='recipes_subtitle'>三文魚脆脆餅:</div>
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 1</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">將牛奶和牛油煮滾，加入麵粉煮2分鐘。</div>
@@ -165,7 +165,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將麵糊倒在焗爐紙上，用375°F（190°C）焗8-10分鐘。麵餅會像一個泡芙一樣膨脹。取出放涼。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">將麵糊倒在焗爐紙上，用375°F(190°C)焗8-10分鐘。麵餅會像一個泡芙一樣膨脹。取出放涼。</div>
 						<hr class='hr1'>
 					</div>
 
@@ -182,7 +182,7 @@
 
 				<div class="step">
 
-					<div class='recipes_subtitle'>刁草忌廉芝士步驟:</div>
+					<div class='recipes_subtitle'>刁草忌廉芝士:</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 1</div>
@@ -226,26 +226,24 @@
 				<h1>相關</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/mushroom-truffle-and-egg">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-07-Final-web.jpg' />
-			     				<div class='name'>蘑菇蛋花松露清湯</div>
-			     			</a>
+		     				<a href="/scallion-and-corn-pancake">
+									<img class='recipes_img' src='/images/recipes/Scallion-and-Corn-Pancake-small_r.jpg' />
+									<div class='name'>香蔥粟米薄餅</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Birds-Nest-Egg-Peral">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-08-Final-web.jpg' />
-			     				<div class='name'>紅燒燕液盞</div>
-			     			</a>
+		     				<a href="/curried-egg-and-potato-salad">
+									<img class='recipes_img' src='/images/recipes/Curry-Egg-and-Potato-Salad-small_r.jpg' />
+									<div class='name'>咖哩薯仔蛋沙律</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/masalaEggKachumber">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-10-Final-web.jpg' />
-			     				<div class='name'>
-			     					Masala Egg Kachumber Salad
-								</div>
-			     			</a>
+		     				<a href="/egg-and-veggie-salad-rolls-with-sweet-heat-dipping-sauce">
+									<img class='recipes_img' src='/images/recipes/Egg-and-Veggie-Salad-Rolls-with-Sweet-Heat-Dipping-Sauce-small_r.jpg' />
+									<div class='name'>越式雞蛋生菜沙律卷配甜辣醬</div>
+								</a>
 		     			</div>
 				</div>		
 			</div>

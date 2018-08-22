@@ -74,14 +74,14 @@
 	                <div class="col-xs-6 text-right ingredients_right">
 	                	
 	                	
-					<span>2湯匙（30毫升）</span>
+					<span>2湯匙(30毫升)</span>
 					<span>3-4個</span>
-					<span>1杯（250毫升）</span>
-					<span>1湯匙（15毫升）</span>
+					<span>1杯(250毫升)</span>
+					<span>1湯匙(15毫升)</span>
 					<span>2粒</span>
-					<span>1茶匙（5毫升）</span>
-					<span>2杯（500毫升）</span>
-					<span>2湯匙（30毫升）</span>
+					<span>1茶匙(5毫升)</span>
+					<span>2杯(500毫升)</span>
+					<span>2湯匙(30毫升)</span>
 					<span>2條</span>
 
 	                	
@@ -107,8 +107,8 @@
 	                	
 					
 						
-					<span>2湯匙（30毫升）</span>
-					<span>6湯匙（90毫升）</span>
+					<span>2湯匙(30毫升)</span>
+					<span>6湯匙(90毫升)</span>
 					<span>2隻</span>
 
 
@@ -184,26 +184,24 @@
 				<h1>相關</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/mushroom-truffle-and-egg">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-07-Final-web.jpg' />
-			     				<div class='name'>蘑菇蛋花松露清湯</div>
-			     			</a>
+		     				<a href="/Gldn-Omlet">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-011-Final-web.jpg' />
+									<div class='name ' >黃金蝦仁蛋包飯</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Birds-Nest-Egg-Peral">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-08-Final-web.jpg' />
-			     				<div class='name'>紅燒燕液盞</div>
-			     			</a>
+		     				<a href="/Billnr-Frd-Rice">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-010-Final-web.jpg' />
+									<div class='name ' >闊佬炒飯</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/masalaEggKachumber">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-10-Final-web.jpg' />
-			     				<div class='name'>
-			     					Masala Egg Kachumber Salad
-								</div>
-			     			</a>
+		     				<a href="/Sclp-Egg-Wht-Frd-Rice">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-012-Final-web.jpg' />
+									<div class='name ' >薑蓉帶子蛋白炒飯</div>
+								</a>
 		     			</div>
 				</div>		
 			</div>

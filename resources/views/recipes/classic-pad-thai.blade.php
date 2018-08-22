@@ -72,25 +72,25 @@
  					
 	                <div class="col-xs-6 text-right ingredients_right">
 	                	
-	                	<span>8安士（230克）</span>
-						<span>1/3杯（75毫升）</span>
-						<span>3湯匙（45毫升）</span>
-						<span>3湯匙（45毫升）</span>
-						<span>2湯匙（30毫升）</span>
-						<span>1湯匙（15毫升）</span>
-						<span>2茶匙（10毫升）</span>
+	                	<span>8安士(230克)</span>
+						<span>1/3杯(75毫升)</span>
+						<span>3湯匙(45毫升)</span>
+						<span>3湯匙(45毫升)</span>
+						<span>2湯匙(30毫升)</span>
+						<span>1湯匙(15毫升)</span>
+						<span>2茶匙(10毫升)</span>
 						<span>3粒</span>
-						<span>1湯匙（15毫升）</span>
-						<span>1茶匙（5毫升）</span>
-						<span>6湯匙（90毫升）</span>
-						<span>將1/2磅（0.3千克）</span>
-						<span>6盎司（175克）</span>
-						<span>1/4茶匙（1.25毫升）</span>
+						<span>1湯匙(15毫升)</span>
+						<span>1茶匙(5毫升)</span>
+						<span>6湯匙(90毫升)</span>
+						<span>將1/2磅(0.3千克)</span>
+						<span>6盎司(175克)</span>
+						<span>1/4茶匙(1.25毫升)</span>
 						<span>4隻</span>
-						<span>1杯（250毫升）</span>
+						<span>1杯(250毫升)</span>
 						<span>2條</span>
-						<span>1/2杯（125毫升）</span>
-						<span>1/2杯（125毫升）</span>
+						<span>1/2杯(125毫升)</span>
+						<span>1/2杯(125毫升)</span>
 						<span>4塊</span>
 						<span>8條</span>
 
@@ -153,13 +153,14 @@
 					
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">加入隔夜飯和咖哩粉，炒2分鐘。加入豉油、醋和糖，將飯炒2-在炒鍋或大型防黏平底鍋中，用中高火燒熱2湯匙（30毫升）油。將蝦仁炒1-2分鐘至粉紅色。盛起備用。
+						<div class="col-xs-10 col-xs-offset-1 step_body">在炒鍋或大型防黏平底鍋中，用中高火燒熱2湯匙(30毫升)油。將蝦仁炒1-2分鐘至粉紅色。盛起備用。
+
 						</div>
 							<hr class='hr1'>
 					</div>
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">加入2湯匙（30毫升）油、豆腐和鹽入鍋。將豆腐炒1-2分鐘至金黃色。盛起備用。
+						<div class="col-xs-10 col-xs-offset-1 step_body">加入2湯匙(30毫升)油、豆腐和鹽入鍋。將豆腐炒1-2分鐘至金黃色。盛起備用。
 
 						</div>
 							<hr class='hr1'>
@@ -201,26 +202,24 @@
 				<h1>相關</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/mushroom-truffle-and-egg">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-07-Final-web.jpg' />
-			     				<div class='name'>蘑菇蛋花松露清湯</div>
-			     			</a>
+		     				<a href="/spinach-and-mushroom-soba-noodle-soup">
+									<img class='recipes_img' src='/images/recipes/Spinach-and-Mushroom-Soba-Noodle-Soup-small_r.jpg' />
+									<div class='name ' >菠菜蘑菇蕎麥湯麵</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Birds-Nest-Egg-Peral">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-08-Final-web.jpg' />
-			     				<div class='name'>紅燒燕液盞</div>
-			     			</a>
+		     				<a href="/spaghetti-carbonara">
+									<img class='recipes_img' src='/images/recipes/Spaghetti-Carbonara-small_r.jpg' />
+									<div class='name ' >卡邦尼意粉</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/masalaEggKachumber">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-10-Final-web.jpg' />
-			     				<div class='name'>
-			     					Masala Egg Kachumber Salad
-								</div>
-			     			</a>
+		     				<a href="/mushroom-fried-rice-with-crispy-egg">
+									<img class='recipes_img' src='/images/recipes/Mushroom-Fried-Rice-with-Crispy-Egg-small_r.jpg' />
+									<div class='name ' >蘑菇脆香煎蛋炒飯</div>
+								</a>
 		     			</div>
 				</div>		
 			</div>

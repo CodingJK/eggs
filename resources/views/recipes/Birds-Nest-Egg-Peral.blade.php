@@ -54,9 +54,9 @@
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
 					<li class='recipe_worlds'>份量 : 4位用</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>準備時間: 10 分鐘</li>
+					<li class='recipe_worlds'>準備時間: 10分鐘</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹調時間: 8 分鐘</li>
+					<li class='recipe_worlds'>烹調時間: 8分鐘</li>
 				</ul>
 			</div>
 
@@ -183,12 +183,10 @@
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/devilledEggs">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-09-Final-web.jpg' />
-			     				<div class='name'>
-			     					Indian-style Devilled Eggs 
-								</div>
-			     			</a>
+		     				<a href="/Duo-Egg-Pearl">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-009-Final-web.jpg' />
+									<div class='name ' >豬骨濃湯菜苗伴鴛鴦蛋</div>
+								</a>
 		     			</div>
 				</div>		
 			</div>

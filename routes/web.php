@@ -209,6 +209,22 @@ Route::get('Duo-Egg-Pearl', function () {
     Route::get('mushroom-fried-rice-with-crispy-egg', function () {
         return view('recipes.mushroom-fried-rice-with-crispy-egg');
     });
+    Route::get('spaghetti-carbonara', function () {
+        return view('recipes.spaghetti-carbonara');
+    });
+    Route::get('cedar-plank-salmon-with-nicoise-relish', function () {
+        return view('recipes.cedar-plank-salmon-with-nicoise-relish');
+    });
+    Route::get('poached-egg-over-roasted-asparagus', function () {
+        return view('recipes.poached-egg-over-roasted-asparagus');
+    });
+    Route::get('grilled-eggs-in-portobello-mushrooms', function () {
+        return view('recipes.grilled-eggs-in-portobello-mushrooms');
+    });
+    Route::get('baked-eggs-extraordinaire', function () {
+        return view('recipes.baked-eggs-extraordinaire');
+    });
+   
    
     
 

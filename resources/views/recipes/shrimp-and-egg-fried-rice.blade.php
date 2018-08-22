@@ -75,19 +75,19 @@
 	                	
 						
 						<span>4隻</span>
-						<span>1/4茶匙（1.25毫升）</span>
-						<span>1/4茶匙（1.25毫升）</span>
-						<span>3湯匙（45毫升）</span>
-						<span>1/2磅（0.3千克）</span>
+						<span>1/4茶匙(1.25毫升)</span>
+						<span>1/4茶匙(1.25毫升)</span>
+						<span>3湯匙(45毫升)</span>
+						<span>1/2磅(0.3千克)</span>
 						<span>2粒</span>
 						<span>3條</span>
-						<span>2杯（500毫升）</span>
-						<span>1茶匙（5毫升）</span>
-						<span>2湯匙（30毫升）</span>
-						<span>1湯匙（15毫升）</span>
-						<span>1/4茶匙（1.25毫升）</span>
-						<span>1/2杯（125毫升）</span>
-						<span>2湯匙（30毫升）</span>
+						<span>2杯(500毫升)</span>
+						<span>1茶匙(5毫升)</span>
+						<span>2湯匙(30毫升)</span>
+						<span>1湯匙(15毫升)</span>
+						<span>1/4茶匙(1.25毫升)</span>
+						<span>1/2杯(125毫升)</span>
+						<span>2湯匙(30毫升)</span>
 
 
 
@@ -100,7 +100,7 @@
 	                	<span>鹽</span>
 	                	<span>胡椒粉</span>
 	                	<span>芥花籽油</span>
-	                	<span>剝殼急凍蝦，解凍去尾（31至40隻）</span>
+	                	<span>剝殼急凍蝦，解凍去尾(31至40隻)</span>
 	                	<span>蒜頭(切碎)</span>
 	                	<span>香蔥(切段)</span>
 	                	<span>長米（隔夜飯）</span>
@@ -123,7 +123,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將雞蛋和鹽、胡椒粉攪勻。在炒鍋或大平底鍋中，用中火燒熱1湯匙（15毫升）油，倒入蛋液，攪拌炒3-4分鐘或至開始凝固蓬鬆。盛起上碟。
+						<div class="col-xs-10 col-xs-offset-1 step_body">將雞蛋和鹽、胡椒粉攪勻。在炒鍋或大平底鍋中，用中火燒熱1湯匙(15毫升)油，倒入蛋液，攪拌炒3-4分鐘或至開始凝固蓬鬆。盛起上碟。
 
 
 </div>
@@ -169,26 +169,24 @@
 				<h1>相關</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/mushroom-truffle-and-egg">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-07-Final-web.jpg' />
-			     				<div class='name'>蘑菇蛋花松露清湯</div>
-			     			</a>
+		     				<a href="/Billnr-Frd-Rice">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-010-Final-web.jpg' />
+									<div class='name ' >闊佬炒飯</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Birds-Nest-Egg-Peral">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-08-Final-web.jpg' />
-			     				<div class='name'>紅燒燕液盞</div>
-			     			</a>
+		     				<a href="/Gldn-Omlet">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-011-Final-web.jpg' />
+									<div class='name ' >黃金蝦仁蛋包飯</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/masalaEggKachumber">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-10-Final-web.jpg' />
-			     				<div class='name'>
-			     					Masala Egg Kachumber Salad
-								</div>
-			     			</a>
+		     				<a href="/Sclp-Egg-Wht-Frd-Rice">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-012-Final-web.jpg' />
+									<div class='name ' >薑蓉帶子蛋白炒飯</div>
+								</a>
 		     			</div>
 				</div>		
 			</div>

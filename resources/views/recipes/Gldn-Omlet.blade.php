@@ -52,7 +52,7 @@
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					 <li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量： 4位用</li>
+					<li class='recipe_worlds'>份量: 4位用</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
 					<li class='recipe_worlds'>準備時間: 10分鐘</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
@@ -166,26 +166,24 @@
 				<h1>相關</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/mushroom-truffle-and-egg">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-07-Final-web.jpg' />
-			     				<div class='name'>蘑菇蛋花松露清湯</div>
-			     			</a>
+		     				<a href="/shrimp-and-egg-fried-rice">
+									<img class='recipes_img' src='/images/recipes/Shrimp-and-Egg-Fried-Rice-small_r.jpg' />
+									<div class='name ' >蝦仁滑蛋炒飯</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Birds-Nest-Egg-Peral">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-08-Final-web.jpg' />
-			     				<div class='name'>紅燒燕液盞</div>
-			     			</a>
+		     				<a href="/Sclp-Egg-Wht-Frd-Rice">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-012-Final-web.jpg' />
+									<div class='name ' >薑蓉帶子蛋白炒飯</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/masalaEggKachumber">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-10-Final-web.jpg' />
-			     				<div class='name'>
-			     					Masala Egg Kachumber Salad
-								</div>
-			     			</a>
+		     				<a href="/Billnr-Frd-Rice">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-010-Final-web.jpg' />
+									<div class='name ' >闊佬炒飯</div>
+								</a>
 		     			</div>
 				</div>		
 			</div>

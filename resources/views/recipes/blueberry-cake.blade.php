@@ -71,9 +71,9 @@
  				<div class="ingredients" style='clear: both'>
  					<div class='recipes_subtitle'>配料</div>
 	                <div class="col-xs-6 text-right ingredients_right">
-	                	<span>1杯（250毫升）</span>
-						<span>1茶匙（5毫升）</span>
-						<span>2湯匙（30毫升）</span>
+	                	<span>1杯(250毫升)</span>
+						<span>1茶匙(5毫升)</span>
+						<span>2湯匙(30毫升)</span>
 
 	                	
 	                </div>
@@ -88,15 +88,15 @@
                 <div class="ingredients" style='clear: both'>
  					<div class='recipes_subtitle'>蛋糕</div>
 	                <div class="col-xs-6 text-right ingredients_right">
-	                	<span>1/2杯（125毫升）</span>
-						<span>1杯（250毫升）</span>
+	                	<span>1/2杯(125毫升)</span>
+						<span>1杯(250毫升)</span>
 						<span>2隻</span>
-						<span>1茶匙（5毫升）</span>
-						<span>2杯（500毫升）</span>
-						<span>2茶匙（10毫升）</span>
-						<span>3/4茶匙（4毫升）</span>
-						<span>2/3杯（170毫升）</span>
-						<span>2杯（500毫升）</span>
+						<span>1茶匙(5毫升)</span>
+						<span>2杯(500毫升)</span>
+						<span>2茶匙(10毫升)</span>
+						<span>3/4茶匙(4毫升)</span>
+						<span>2/3杯(170毫升)</span>
+						<span>2杯(500毫升)</span>
 
 
 	                	
@@ -121,15 +121,15 @@
 
 				<div class="step">
 
-					<div class='recipes_subtitle'>配料步驟:</div>
+					<div class='recipes_subtitle'>配料:</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用細碗將紅糖和肉桂粉混合，加入牛油輕輕攪勻。放置備用。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">用細碗將紅糖和肉桂粉混合,加入牛油輕輕攪勻。放置備用。</div>
 						<hr class='hr1'>
 					</div>
 
-					<div class='recipes_subtitle'>蛋糕步驟:</div>
+					<div class='recipes_subtitle'>蛋糕:</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 1</div>
@@ -151,7 +151,7 @@
 					</div>
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">放入已預熱至350˚F（180˚C）的焗爐中，焗40-45分鐘。用牙籤插入蛋糕中間，取出時牙籤乾淨，沒有黏附麵糊即可取出。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">放入已預熱至350˚F(180˚C)的焗爐中，焗40-45分鐘。用牙籤插入蛋糕中間，取出時牙籤乾淨，沒有黏附麵糊即可取出。</div>
 						<hr class='hr1'>
 					</div>
 					
@@ -162,7 +162,7 @@
 					<div class="steps col-xs-12  text-center">
 
 						<h1 class="col-xs-12"><b>小貼士：</b></h1>
-						<div class="col-xs-10 col-xs-offset-1 step_body">可選用果仁代替野生藍莓，炮製另一番滋味。用1/4杯（50毫升）多用途麵粉代替1/3杯（75毫升）糖，加入1/2杯（125毫升）杏仁碎或核桃碎即可。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">可選用果仁代替野生藍莓，炮製另一番滋味。用1/4杯(50毫升)多用途麵粉代替1/3杯(75毫升)糖，加入1/2杯(125毫升)杏仁碎或核桃碎即可。</div>
 						
 						
 
@@ -177,26 +177,24 @@
 				<h1>相關</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/mushroom-truffle-and-egg">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-07-Final-web.jpg' />
-			     				<div class='name'>蘑菇蛋花松露清湯</div>
-			     			</a>
+		     				<a href="/tiramisu-crepe-cake">
+														<img class='recipes_img' src='/images/recipes/Tiramisu-Crepe-Cake-small_r.jpg' />
+														<div class='name ' >提拉米蘇千層蛋糕</div>
+													</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Birds-Nest-Egg-Peral">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-08-Final-web.jpg' />
-			     				<div class='name'>紅燒燕液盞</div>
-			     			</a>
+		     				<a href="/maple-walnut-tarts">
+														<img class='recipes_img' src='/images/recipes/Maple-Walnut-Tarts-small_r.jpg' />
+														<div class='name ' >楓糖核桃撻</div>
+													</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/masalaEggKachumber">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-10-Final-web.jpg' />
-			     				<div class='name'>
-			     					Masala Egg Kachumber Salad
-								</div>
-			     			</a>
+		     				<a href="/Egg-Tart">
+														<img class='recipes_img' src='/images/recipes/Eggs-SA-24-Final-web.jpg' />
+														<div class='name ' >酥皮蛋撻</div>
+													</a>
 		     			</div>
 				</div>		
 			</div>

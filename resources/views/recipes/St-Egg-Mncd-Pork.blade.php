@@ -203,26 +203,24 @@
 				<h1>相關</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Funny-Egg-Fish">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-13-Final-web.jpg' />
-			     				<div class='name'>趣味小蛋魚</div>
-			     			</a>
+		     				<a href="/Blck-Bn-Shrmp-Egg-White">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-008-Final-web.jpg' />
+									<div class='name ' >廣東蛋花蝦龍糊</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/TikkaMasala">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-17-Final-web.jpg' />
-			     				<div class='name'>Tikka Masala Baked Eggs on Curried Garlic	Quinoa with Crumbled Paneer</div>
-			     			</a>
+		     				<a href="/Duo-Egg-Pearl">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-009-Final-web.jpg' />
+									<div class='name ' >豬骨濃湯菜苗伴鴛鴦蛋</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Foie-gras-roulade-with-egg-sheet-and-nori">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-16-Final-web.jpg' />
-			     				<div class='name'>
-			     					紫菜鵝肝蛋皮卷
-								</div>
-			     			</a>
+		     				<a href="/St-Egg-Wht-Sea-Treasure">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-20-Final-web.jpg' />
+									<div class='name ' >海皇扒蒸蛋白</div>
+								</a>
 		     			</div>
 				</div>		
 			</div>

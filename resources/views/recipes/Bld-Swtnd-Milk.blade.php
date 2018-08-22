@@ -59,7 +59,7 @@
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量：4位用</li>
+					<li class='recipe_worlds'>份量: 4位用</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
 					<li class='recipe_worlds'>準備時間:5-7分鐘</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
@@ -173,26 +173,24 @@
 				<h1>相關</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Funny-Egg-Fish">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-13-Final-web.jpg' />
-			     				<div class='name'>趣味小蛋魚</div>
-			     			</a>
+		     				<a href="/Syrup-Lts-Seed">
+														<img class='recipes_img' src='/images/recipes/Eggs-SA-23-Final-web.jpg' />
+														<div class='name ' >蓮子蛋茶</div>
+													</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/TikkaMasala">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-17-Final-web.jpg' />
-			     				<div class='name'>Tikka Masala Baked Eggs on Curried Garlic	Quinoa with Crumbled Paneer</div>
-			     			</a>
+		     				<a href="/Egg-Tart">
+														<img class='recipes_img' src='/images/recipes/Eggs-SA-24-Final-web.jpg' />
+														<div class='name ' >酥皮蛋撻</div>
+													</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Foie-gras-roulade-with-egg-sheet-and-nori">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-16-Final-web.jpg' />
-			     				<div class='name'>
-			     					紫菜鵝肝蛋皮卷
-								</div>
-			     			</a>
+		     				<a href="/maple-walnut-tarts">
+														<img class='recipes_img' src='/images/recipes/Maple-Walnut-Tarts-small_r.jpg' />
+														<div class='name ' >楓糖核桃撻</div>
+													</a>
 		     			</div>
 				</div>		
 			</div>

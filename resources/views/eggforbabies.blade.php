@@ -15,9 +15,9 @@
 		</script>
 
 		<div class='babys_header'>
-				<div class='babys_title'>Did you know?</div>
+				<div class='babys_title'>您知道嗎？</div>
 				<div class='babys_title_body'>
-					Now it’s ok to feed your baby the whole egg starting at 6 months. It could help prevent an egg allergy.
+					現在您可從寶寶6個月大開始餵食全蛋，可有助預防雞蛋過敏。
 				</div>
 		</div>
 		<div class="babys_content">

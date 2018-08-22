@@ -51,7 +51,7 @@
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量： 4位用</li>
+					<li class='recipe_worlds'>份量: 4位用</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
 					<li class='recipe_worlds'>準備時間: 5分鐘</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
@@ -103,7 +103,7 @@
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 1</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">
-將雞蛋、4茶匙（20毫升）水、鹽和胡椒攪勻。將一半牛油放入10吋（25厘米）防黏平底鍋用中火加熱。倒入一半蛋液，輕輕旋轉盡量攤平。
+將雞蛋、4茶匙(20毫升)水、鹽和胡椒攪勻。將一半牛油放入10吋(25厘米)防黏平底鍋用中火加熱。倒入一半蛋液，輕輕旋轉盡量攤平。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -144,26 +144,24 @@
 				<h1>相關</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/mushroom-truffle-and-egg">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-07-Final-web.jpg' />
-			     				<div class='name'>蘑菇蛋花松露清湯</div>
-			     			</a>
+		     				<a href="/spicy-avocado-eggs-on-toast">
+									<img class='recipes_img' src='/images/recipes/Spicy-Avocado-Eggs-on-Toast-Small_r.jpg' />
+									<div class='name'>辣牛油果多士</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Birds-Nest-Egg-Peral">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-08-Final-web.jpg' />
-			     				<div class='name'>紅燒燕液盞</div>
-			     			</a>
+		     				<a href="/Make-ahead breakfast bowls">
+									<img class='recipes_img' src='/images/recipes/Make-Ahead-Breakfast-Bowls-small.jpg' />
+									<div class='name'>懶人早餐</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/masalaEggKachumber">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-10-Final-web.jpg' />
-			     				<div class='name'>
-			     					Masala Egg Kachumber Salad
-								</div>
-			     			</a>
+		     				<a href="/Scrambled-Eggs">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-04-Final-web.jpg' />
+									<div class='name'>粟米煙肉炒蛋</div>
+								</a>
 		     			</div>
 				</div>		
 			</div>

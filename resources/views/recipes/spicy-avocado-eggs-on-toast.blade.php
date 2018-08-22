@@ -51,7 +51,7 @@
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量： 4位用</li>
+					<li class='recipe_worlds'>份量: 4位用</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
 					<li class='recipe_worlds'>準備時間: 5分鐘</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
@@ -70,13 +70,13 @@
                 
  				<div class="ingredients" style='clear: both'>
 	                <div class="col-xs-6 text-right ingredients_right">
-	                	<span> 1湯匙（15毫升） </span>
+	                	<span> 1湯匙(15毫升) </span>
 	                	<span> 6隻 </span>
-	                	<span> 1/4茶匙（1.25毫升）</span>
+	                	<span> 1/4茶匙(1.25毫升)</span>
 	                	<span> 1個 </span>
-	                	<span> 2湯匙（30毫升）</span>
+	                	<span> 2湯匙(30毫升)</span>
 	                	<span> 4塊 </span>
-	                	<span> 2茶匙（10毫升）</span>
+	                	<span> 2茶匙(10毫升)</span>
 	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
@@ -130,7 +130,7 @@
 						<h1 class="col-xs-12"><b>小貼士：</b></h1>
 						<div class="col-xs-10 col-xs-offset-1 step_body">在烘好的英式鬆餅或烤餅塗上牛油，放上炒蛋，更加香噴噴。
 </div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">可用粟米片或是拉差辣醬代替辣椒油
+						<div class="col-xs-10 col-xs-offset-1 step_body">可用粟米片或是拉差辣醬代替辣椒油。
 </div>					
 						<div class="col-xs-10 col-xs-offset-1 step_body">將墨西哥薄餅舖上炒蛋和新鮮芝麻菜，捲起即可攜帶出門。
 
@@ -146,26 +146,24 @@
 				<h1>相關</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/mushroom-truffle-and-egg">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-07-Final-web.jpg' />
-			     				<div class='name'>蘑菇蛋花松露清湯</div>
-			     			</a>
+		     				<a href="/Make-ahead breakfast bowls">
+									<img class='recipes_img' src='/images/recipes/Make-Ahead-Breakfast-Bowls-small.jpg' />
+									<div class='name'>懶人早餐</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Birds-Nest-Egg-Peral">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-08-Final-web.jpg' />
-			     				<div class='name'>紅燒燕液盞</div>
-			     			</a>
+		     				<a href="/ham-and-cheese-omelette-roll-ups">
+									<img class='recipes_img' src='/images/recipes/Ham-and-Cheese-Omelette-Roll-Ups-small_r.jpg' />
+									<div class='name'>芝士火腿奄列蛋卷</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/masalaEggKachumber">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-10-Final-web.jpg' />
-			     				<div class='name'>
-			     					Masala Egg Kachumber Salad
-								</div>
-			     			</a>
+		     				<a href="/English-Muffin-Bacon-Tomato-Fried-Egg">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-02-Final-web.jpg' />
+									<div class='name'>番茄煙肉煎蛋早餐三文治</div>
+								</a>
 		     			</div>
 				</div>		
 			</div>

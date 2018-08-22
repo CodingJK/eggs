@@ -71,14 +71,14 @@
  				<div class="ingredients" style='clear: both'>
 	                <div class="col-xs-6 text-right ingredients_right">
 	                	<span>1個</span>
-	                	<span>2茶匙（10毫升）</span>
-	                	<span>約1/4茶匙（1.25毫升）</span>
+	                	<span>2茶匙(10毫升)</span>
+	                	<span>約1/4茶匙(1.25毫升)</span>
 	                	<span>8隻</span>
-	                	<span>2湯匙（30毫升）</span>
+	                	<span>2湯匙(30毫升)</span>
 	                	<span>4條</span>
-	                	<span>1杯（250毫升）</span>
-	                	<span>1杯（250毫升）</span>
-	                	<span>1/4茶匙（1.25 毫升）</span>
+	                	<span>1杯(250毫升)</span>
+	                	<span>1杯(250毫升)</span>
+	                	<span>1/4茶匙(1.25 毫升)</span>
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
 	                	<span>熟牛油果(切一半，去核去皮)</span>
@@ -111,14 +111,14 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將雞蛋、1/4杯（60 毫升）水和1/4茶匙（1毫升）鹽和胡椒粉攪勻。在大型平底鍋用中火燒熱牛油，倒入蛋液，輕輕攪拌3-5分鐘或至凝固蓬鬆，放涼。
+						<div class="col-xs-10 col-xs-offset-1 step_body">將雞蛋、1/4杯(60毫升)水和1/4茶匙(1毫升)鹽和胡椒粉攪勻。在大型平底鍋用中火燒熱牛油，倒入蛋液，輕輕攪拌3-5分鐘或至凝固蓬鬆，放涼。
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將炒雞蛋分成4份，放入微波爐適用的食物盒。鋪上香腸、牛油果蓉、蕃茄和芝士。撒上辣椒粉（隨個人口味添加）。密封並冷藏不超過24小時。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">將炒雞蛋分成4份，放入微波爐適用的食物盒。鋪上香腸、牛油果蓉、蕃茄和芝士。撒上辣椒粉(隨個人口味添加)。密封並冷藏不超過24小時。</div>
 						<hr class='hr1'>
 					</div>
 
@@ -137,7 +137,7 @@
 					<div class="steps col-xs-12  text-center">
 
 						<h1 class="col-xs-12"><b>小貼士：</b></h1>
-						<div class="col-xs-10 col-xs-offset-1 step_body">可選用煙肉、火腿或黑豆(素食)代替香腸。。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">可選用煙肉、火腿或黑豆(素食)代替香腸。</div>
 						
 
 						<hr class='hr1'>
@@ -151,26 +151,24 @@
 				<h1>相關</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/mushroom-truffle-and-egg">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-07-Final-web.jpg' />
-			     				<div class='name'>蘑菇蛋花松露清湯</div>
-			     			</a>
+		     				<a href="/breakfast-in-a-mug">
+									<img class='recipes_img' src='/images/recipes/breakfast-in-a-mug-small_r.jpg' />
+									<div class='name'>杯子早餐</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Birds-Nest-Egg-Peral">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-08-Final-web.jpg' />
-			     				<div class='name'>紅燒燕液盞</div>
-			     			</a>
+		     				<a href="/ham-and-cheese-omelette-roll-ups">
+									<img class='recipes_img' src='/images/recipes/Ham-and-Cheese-Omelette-Roll-Ups-small_r.jpg' />
+									<div class='name'>芝士火腿奄列蛋卷</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/masalaEggKachumber">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-10-Final-web.jpg' />
-			     				<div class='name'>
-			     					Masala Egg Kachumber Salad
-								</div>
-			     			</a>
+		     				<a href="/banana-oat-pancakes">
+									<img class='recipes_img' src='/images/recipes/Banana-Oat-Pancakes-small_r.jpg' />
+									<div class='name'>香蕉燕麥班戟</div>
+								</a>
 		     			</div>
 				</div>		
 			</div>

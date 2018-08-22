@@ -74,11 +74,11 @@
 	                	
 	                	
 					
-						<span>3/4杯（175毫升）</span>
-						<span>1/2茶匙（2.5毫升）</span>
-						<span>1/2杯（125毫升）</span>
+						<span>3/4杯(175毫升)</span>
+						<span>1/2茶匙(2.5毫升)</span>
+						<span>1/2杯(125毫升)</span>
 						<span>4隻</span>
-						<span>3杯（750毫升）</span>
+						<span>3杯(750毫升)</span>
 						<span>2條</span>
 						<span>4片</span>
 						<span>1/4杯</span>
@@ -98,7 +98,7 @@
 	                	<span>椰菜(切絲)</span>
 	                	<span>香蔥(切碎)</span>
 	                	<span>煙肉(煮熟後壓碎)</span>
-	                	<span>（60毫升）芥花籽油</span>
+	                	<span>(60毫升)芥花籽油</span>
 
 	                </div>
                 </div>
@@ -108,14 +108,14 @@
 	                	
 	                	
 					
-						<span>2杯（500毫升）</span>
+						<span>2杯(500毫升)</span>
 						<span>1條</span>
-						<span>2杯（500毫升）</span>
-						<span>3湯匙（45毫升）</span>
-						<span>3湯匙（45毫升）</span>
-						<span>3湯匙（45毫升）</span>
-						<span>1湯匙（15毫升）</span>
-						<span>1湯匙（15毫升）</span>
+						<span>2杯(500毫升)</span>
+						<span>3湯匙(45毫升)</span>
+						<span>3湯匙(45毫升)</span>
+						<span>3湯匙(45毫升)</span>
+						<span>1湯匙(15毫升)</span>
+						<span>1湯匙(15毫升)</span>
 
 
 
@@ -156,7 +156,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在防黏平底鍋中，中高溫燒熱1湯匙（15毫升）油。倒入1/2杯（125毫升）麵糊，用鍋鏟輕輕按下壓平。煮3-4分鐘或至底部變啡色，翻轉煎多3-4分鐘。用剩餘麵糊重複以上步驟，按需加更多油。
+						<div class="col-xs-10 col-xs-offset-1 step_body">在防黏平底鍋中，中高溫燒熱1湯匙(15毫升)油。倒入1/2杯(125毫升)麵糊，用鍋鏟輕輕按下壓平。煮3-4分鐘或至底部變啡色，翻轉煎多3-4分鐘。用剩餘麵糊重複以上步驟，按需加更多油。
 
 						</div>
 							<hr class='hr1'>
@@ -202,26 +202,24 @@
 				<h1>相關</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/mushroom-truffle-and-egg">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-07-Final-web.jpg' />
-			     				<div class='name'>蘑菇蛋花松露清湯</div>
-			     			</a>
+		     				<a href="/Basic-Souffle">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-013-Final-web.jpg' />
+									<div class='name ' >基本梳乎厘</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Birds-Nest-Egg-Peral">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-08-Final-web.jpg' />
-			     				<div class='name'>紅燒燕液盞</div>
-			     			</a>
+		     				<a href="/Chiu-Chow-Omeletd">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-26-Final-web.jpg' />
+									<div class='name ' >潮式煎蠔餅</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/masalaEggKachumber">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-10-Final-web.jpg' />
-			     				<div class='name'>
-			     					Masala Egg Kachumber Salad
-								</div>
-			     			</a>
+		     				<a href="/chinese-crepes">
+									<img class='recipes_img' src='/images/recipes/chinese-crepes-small_r.jpg' />
+									<div class='name ' >中式薄餅</div>
+								</a>
 		     			</div>
 				</div>		
 			</div>

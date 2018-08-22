@@ -70,15 +70,15 @@
                 
  				<div class="ingredients" style='clear: both'>
 	                <div class="col-xs-6 text-right ingredients_right">
-	                <span>2湯匙（30毫升）</span>
-					<span>1茶匙（5毫升）</span>
-					<span>3/4杯（175毫升)</span>
+	                <span>2湯匙(30毫升)</span>
+					<span>1茶匙(5毫升)</span>
+					<span>3/4杯(175毫升)</span>
 
 	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
 	                	<span>加熱融化牛油或植物牛油</span>
-	                	<span>呍呢拿精</span>
+	                	<span>呍呢拿精 </span>
 	                	<span>核桃碎</span>
 	                </div>
                 </div>
@@ -95,13 +95,13 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">預熱焗爐至425°F（220°C）。用中型碗將雞蛋、糖漿、紅糖、牛油和呍呢拿精混合攪勻。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">預熱焗爐至425°F(220°C)。用中型碗將雞蛋、糖漿、紅糖、牛油和香草精混合攪勻。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在每個撻皮中放入1湯匙（15毫升）核桃。倒入楓糖漿。放入已經預熱至425°F（220°C）的焗爐中，焗至金黃色，餡料隆起凝固，放涼約18分鐘。
+						<div class="col-xs-10 col-xs-offset-1 step_body">在每個撻皮中放入1湯匙(15毫升)核桃。倒入楓糖漿。放入已經預熱至425°F(220°C)的焗爐中，焗至金黃色，餡料隆起凝固，放涼約18分鐘。
 						</div>
 							<hr class='hr1'>
 					</div>
@@ -127,26 +127,24 @@
 				<h1>相關</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/mushroom-truffle-and-egg">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-07-Final-web.jpg' />
-			     				<div class='name'>蘑菇蛋花松露清湯</div>
-			     			</a>
+		     				<a href="/Egg-Tart">
+														<img class='recipes_img' src='/images/recipes/Eggs-SA-24-Final-web.jpg' />
+														<div class='name ' >酥皮蛋撻</div>
+													</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Birds-Nest-Egg-Peral">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-08-Final-web.jpg' />
-			     				<div class='name'>紅燒燕液盞</div>
-			     			</a>
+		     				<a href="/blueberry-cake">
+														<img class='recipes_img' src='/images/recipes/Blueberry-Cake-small_r.jpg' />
+														<div class='name ' >藍莓蛋糕</div>
+													</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/masalaEggKachumber">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-10-Final-web.jpg' />
-			     				<div class='name'>
-			     					Masala Egg Kachumber Salad
-								</div>
-			     			</a>
+		     				<a href="/tiramisu-crepe-cake">
+														<img class='recipes_img' src='/images/recipes/Tiramisu-Crepe-Cake-small_r.jpg' />
+														<div class='name ' >提拉米蘇千層蛋糕</div>
+													</a>
 		     			</div>
 				</div>		
 			</div>

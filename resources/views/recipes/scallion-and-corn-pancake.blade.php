@@ -22,7 +22,7 @@
 			
 			<span class='recipe_title'>香蔥粟米薄餅</span>
 			<p class='title_body'>
-					Chef Marysol Foucault教你用雞蛋炮製大廚級異國風味！這款薄餅是宴請摯親好友的下午茶心意之選。
+					Chef Marysol Foucault 教你用雞蛋炮製大廚級異國風味！這款薄餅是宴請摯親好友的下午茶心意之選。
 			</p>
 
 			<div class="col-xs-8 col-xs-offset-2 text-center eggs101-social">
@@ -72,16 +72,16 @@
  					<div class='recipes_subtitle'>薄餅</div>
 	                <div class="col-xs-6 text-right ingredients_right">
 	                	
-	                	<span>1杯（250毫升）</span>
+	                	<span>1杯(250毫升)</span>
 	                	<span>1個</span>
-	                	<span>1杯（250毫升）</span>
-	                	<span>1/4杯（60毫升）</span>
-	                	<span>2茶匙（10毫升）</span>
+	                	<span>1杯(250毫升)</span>
+	                	<span>1/4杯(60毫升)</span>
+	                	<span>2茶匙(10毫升)</span>
 	                	<span>2隻</span>
 	                	<span>8條</span>
-	                	<span>1杯（250毫升）</span>
+	                	<span>1杯(250毫升)</span>
 						<span>適量</span>
-						<span>1/2杯（125毫升）</span>
+						<span>1/2杯(125毫升)</span>
 
 	                	
 	                	
@@ -105,12 +105,12 @@
 			<div class="ingredients" style='clear: both'>
  					<div class='recipes_subtitle'>配料</div>
 	                <div class="col-xs-6 text-right ingredients_right">
-	                	<span>1 1/2杯（375毫升）</span>
+	                	<span>1 1/2杯(375毫升)</span>
 						<span>1個</span>
-						<span>1/3杯（75毫升)</span>
-						<span>2湯匙（30毫升）</span>
-						<span>1杯（250毫升）</span>
-						<span>1/2杯（125毫升）</span>
+						<span>1/3杯(75毫升)</span>
+						<span>2湯匙(30毫升)</span>
+						<span>1杯(250毫升)</span>
+						<span>1/2杯(125毫升)</span>
 
 	                	
 	                	
@@ -158,7 +158,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用平底鍋高火燒熱油。將一大匙麵糊倒入熱油中。每個薄餅的直徑應大概1吋（2.5厘米）。煎至金黃酥脆，每邊煎1-2分鐘。用鏟盛起放在吸水紙上，保溫或上碟前重新加熱。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">用平底鍋高火燒熱油。將一大匙麵糊倒入熱油中。每個薄餅的直徑應大概1吋(2.5厘米)。煎至金黃酥脆，每邊煎1-2分鐘。用鏟盛起放在吸水紙上，保溫或上碟前重新加熱。</div>
 						<hr class='hr1'>
 					</div>
 
@@ -189,26 +189,26 @@
 				<h1>相關</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/mushroom-truffle-and-egg">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-07-Final-web.jpg' />
-			     				<div class='name'>蘑菇蛋花松露清湯</div>
-			     			</a>
+		     				<a href="/Moo-Shu-pork-wok-fried">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-27-Final-web.jpg' />
+									<div class='name'>
+										金絲木須肉夾餅
+									</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Birds-Nest-Egg-Peral">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-08-Final-web.jpg' />
-			     				<div class='name'>紅燒燕液盞</div>
-			     			</a>
+		     				<a href="/smoked-salmon-fritters-with-dill-cream-cheese">
+									<img class='recipes_img' src='/images/recipes/Smoked-Salmon-Fritters-with-Dill-Cream-Cheese-small_r.jpg' />
+									<div class='name'>刁草忌廉芝士三文魚脆脆餅</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/masalaEggKachumber">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-10-Final-web.jpg' />
-			     				<div class='name'>
-			     					Masala Egg Kachumber Salad
-								</div>
-			     			</a>
+		     				<a href="/egg-and-veggie-salad-rolls-with-sweet-heat-dipping-sauce">
+									<img class='recipes_img' src='/images/recipes/Egg-and-Veggie-Salad-Rolls-with-Sweet-Heat-Dipping-Sauce-small_r.jpg' />
+									<div class='name'>越式雞蛋生菜沙律卷配甜辣醬</div>
+								</a>
 		     			</div>
 				</div>		
 			</div>

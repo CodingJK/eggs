@@ -147,25 +147,23 @@
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
 		     				<a href="/English-Muffin-Bacon-Tomato-Fried-Egg">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-01-Final-web.jpg' />
-			     				<div class='name'>番茄煙肉煎蛋早餐三文治</div>
-			     			</a>
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-02-Final-web.jpg' />
+									<div class='name'>番茄煙肉煎蛋早餐三文治</div>
+							</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/bittaraAppa">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-05-Final-web.jpg' />
-			     				<div class='name'>Bittara Appa – Sri Lankan Egg Hoppers</div>
-			     			</a>
+		     				<a href="/ham-and-cheese-omelette-roll-ups">
+									<img class='recipes_img' src='/images/recipes/Ham-and-Cheese-Omelette-Roll-Ups-small_r.jpg' />
+									<div class='name'>芝士火腿奄列蛋卷</div>
+							</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/grandmaIndian">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-02-Final-web.jpg' />
-			     				<div class='name'>
-			     					Grandma’s Indian-style Omelette
-								</div>
-			     			</a>
+		     				<a href="/spicy-avocado-eggs-on-toast">
+									<img class='recipes_img' src='/images/recipes/Spicy-Avocado-Eggs-on-Toast-Small_r.jpg' />
+									<div class='name'>辣牛油果多士</div>
+							</a>
 		     			</div>
 				</div>		
 			</div>

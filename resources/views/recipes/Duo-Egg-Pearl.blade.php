@@ -59,7 +59,7 @@
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量： 4位用</li>
+					<li class='recipe_worlds'>份量: 4位用</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
 					<li class='recipe_worlds'>準備時間: 25分鐘</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
@@ -216,26 +216,24 @@
 				<h1>相關</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Funny-Egg-Fish">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-13-Final-web.jpg' />
-			     				<div class='name'>趣味小蛋魚</div>
-			     			</a>
+		     				<a href="/Steamed-crab-claw-with-egg-whites">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-19-Final-web.jpg' />
+									<div class='name ' >白玉蒸蟹鉗</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/EggsMakhani">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-18-Final-web.jpg' />
-			     				<div class='name'>Eggs Makhani</div>
-			     			</a>
+		     				<a href="/St-Egg-Mncd-Pork">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-15-Final-web.jpg' />
+									<div class='name ' >瑤柱肉末蒸滑蛋</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Boiled-Egg-Oolong-Tea">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-14-Final-web.jpg' />
-			     				<div class='name'>
-			     					烏龍茶葉蛋
-								</div>
-			     			</a>
+		     				<a href="/Blck-Bn-Shrmp-Egg-White">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-008-Final-web.jpg' />
+									<div class='name ' >廣東蛋花蝦龍糊</div>
+								</a>
 		     			</div>
 				</div>		
 			</div>

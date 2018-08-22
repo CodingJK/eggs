@@ -73,13 +73,13 @@
 	                <div class="col-xs-6 text-right ingredients_right">
 	                	
 	                	<span>6隻</span>
-						<span>1/2杯（125毫升）</span>
-						<span>1/4杯（60毫升）</span>
-						<span>1茶匙（5毫升）</span>
-						<span>2湯匙（30毫升）</span>
-						<span>1/2茶匙（2.5毫升）</span>
-						<span></span>
-						<span></span>
+						<span>1/2杯(125毫升)</span>
+						<span>1/4杯(60毫升)</span>
+						<span>1茶匙(5毫升)</span>
+						<span>2湯匙(30毫升)</span>
+						<span>1/2茶匙(2.5毫升)</span>
+						<span>&nbsp;</span>
+						<span>&nbsp;</span>
 
 
 
@@ -89,7 +89,7 @@
 	                <div class="col-xs-6 text-left ingredients_left">
 	                	
 	                	<span>雞蛋(全熟去殼，打直切一半)</span>
-	                	<span>熟龍蝦（切塊，預留12小塊用作裝飾）</span>
+	                	<span>熟龍蝦(切塊，預留12小塊用作裝飾)</span>
 	                	<span>蛋黃醬</span>
 	                	<span>蜜糖芥末醬</span>
 	                	<span>韭菜(切碎)</span>
@@ -142,26 +142,24 @@
 				<h1>相關</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/mushroom-truffle-and-egg">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-07-Final-web.jpg' />
-			     				<div class='name'>蘑菇蛋花松露清湯</div>
-			     			</a>
+		     				<a href="/Funny-Egg-Fish">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-13-Final-web.jpg' />
+									<div class='name'>趣味小蛋魚</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Birds-Nest-Egg-Peral">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-08-Final-web.jpg' />
-			     				<div class='name'>紅燒燕液盞</div>
-			     			</a>
+		     				<a href="/Boiled-Egg-Oolong-Tea">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-14-Final-web.jpg' />
+									<div class='name'>烏龍茶葉蛋</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/masalaEggKachumber">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-10-Final-web.jpg' />
-			     				<div class='name'>
-			     					Masala Egg Kachumber Salad
-								</div>
-			     			</a>
+		     				<a href="/curried-egg-and-potato-salad">
+									<img class='recipes_img' src='/images/recipes/Curry-Egg-and-Potato-Salad-small_r.jpg' />
+									<div class='name'>咖哩薯仔蛋沙律</div>
+								</a>
 		     			</div>
 				</div>		
 			</div>

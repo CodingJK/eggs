@@ -200,19 +200,17 @@
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/TikkaMasala">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-17-Final-web.jpg' />
-			     				<div class='name'>Tikka Masala Baked Eggs on Curried Garlic	Quinoa with Crumbled Paneer</div>
-			     			</a>
+		     				<a href="/Foie-gras-roulade-with-egg-sheet-and-nori">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-16-Final-web.jpg' />
+									<div class='name'>紫菜鵝肝蛋皮卷</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Foie-gras-roulade-with-egg-sheet-and-nori">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-16-Final-web.jpg' />
-			     				<div class='name'>
-			     					紫菜鵝肝蛋皮卷
-								</div>
-			     			</a>
+		     				<a href="/egg-and-veggie-salad-rolls-with-sweet-heat-dipping-sauce">
+									<img class='recipes_img' src='/images/recipes/Egg-and-Veggie-Salad-Rolls-with-Sweet-Heat-Dipping-Sauce-small_r.jpg' />
+									<div class='name'>越式雞蛋生菜沙律卷配甜辣醬</div>
+								</a>
 		     			</div>
 				</div>		
 			</div>

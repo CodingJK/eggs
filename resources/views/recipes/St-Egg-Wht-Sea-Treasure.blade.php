@@ -203,19 +203,17 @@
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/TikkaMasala">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-17-Final-web.jpg' />
-			     				<div class='name'>Tikka Masala Baked Eggs on Curried Garlic	Quinoa with Crumbled Paneer</div>
-			     			</a>
+		     				<a href="/St-Egg-Mncd-Pork">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-15-Final-web.jpg' />
+									<div class='name ' >瑤柱肉末蒸滑蛋</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Boiled-Egg-Oolong-Tea">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-14-Final-web.jpg' />
-			     				<div class='name'>
-			     					烏龍茶葉蛋
-								</div>
-			     			</a>
+		     				<a href="/Blck-Bn-Shrmp-Egg-White">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-008-Final-web.jpg' />
+									<div class='name ' >廣東蛋花蝦龍糊</div>
+								</a>
 		     			</div>
 				</div>		
 			</div>

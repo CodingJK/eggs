@@ -45,17 +45,14 @@
 			
 		
 			<div class="col-xs-12 ">
-				<img src="/images/recipes/Egg-and-Veggie-Salad-Rolls-with-Sweet-Heat-Dipping-Sauce.jpg" alt="">
+				<img src="/images/recipes/egg-and-veggie-salad-rolls-with-sweet-heat-dipping-sauce.jpg" alt="">
 			</div>
 
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
 					<li class='recipe_worlds'>份量: 4位用</li>
-					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>準備時間: 10分鐘</li>
-					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹調時間: 20分鐘</li>
+					
 				</ul>
 			</div>
 
@@ -75,7 +72,7 @@
 	                	<span>8隻</span>
 	                	<span>8張</span>
 	                	<span>4片</span>
-	                	<span>1杯（250毫升）</span>
+	                	<span>1杯(250毫升)</span>
 	                	<span>1/4條</span>
 	                	<span>1/2個</span>
 	                	<span>16塊</span>
@@ -98,9 +95,9 @@
  					<div class='recipes_subtitle'>醬汁</div>
 	                <div class="col-xs-6 text-right ingredients_right">
 	                	
-	                	<span>1/4杯（60毫升）</span>
-	                	<span>3湯匙（45毫升）</span>
-	                	<span>1/4杯（60毫升）</span>
+	                	<span>1/4杯(60毫升)</span>
+	                	<span>3湯匙(45毫升)</span>
+	                	<span>1/4杯(60毫升)</span>
 	                	<span>少量</span>
 	                	
 	                </div>
@@ -143,7 +140,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將四塊雞蛋鋪在上面排成一行（可能略微重疊）。將米紙捲緊餡料，收起米紙邊。秘訣：如果覺得鬆動，可以用多一張米捲上。用其餘的米紙重複以上步驟。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">將四塊雞蛋鋪在上面排成一行(可能略微重疊)。將米紙捲緊餡料，收起米紙邊。秘訣：如果覺得鬆動，可以用多一張米捲上。用其餘的米紙重複以上步驟。</div>
 						<hr class='hr1'>
 					</div>
 
@@ -184,26 +181,26 @@
 				<h1>相關</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/mushroom-truffle-and-egg">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-07-Final-web.jpg' />
-			     				<div class='name'>蘑菇蛋花松露清湯</div>
-			     			</a>
+		     				<a href="/smoked-salmon-fritters-with-dill-cream-cheese">
+									<img class='recipes_img' src='/images/recipes/Smoked-Salmon-Fritters-with-Dill-Cream-Cheese-small_r.jpg' />
+									<div class='name'>刁草忌廉芝士三文魚脆脆餅</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Birds-Nest-Egg-Peral">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-08-Final-web.jpg' />
-			     				<div class='name'>紅燒燕液盞</div>
-			     			</a>
+		     				<a href="/curried-egg-and-potato-salad">
+									<img class='recipes_img' src='/images/recipes/Curry-Egg-and-Potato-Salad-small_r.jpg' />
+									<div class='name'>咖哩薯仔蛋沙律</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/masalaEggKachumber">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-10-Final-web.jpg' />
-			     				<div class='name'>
-			     					Masala Egg Kachumber Salad
-								</div>
-			     			</a>
+		     				<a href="/Moo-Shu-pork-wok-fried">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-27-Final-web.jpg' />
+									<div class='name'>
+										金絲木須肉夾餅
+									</div>
+								</a>
 		     			</div>
 				</div>		
 			</div>

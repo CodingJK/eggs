@@ -136,19 +136,17 @@
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/bittaraAppa">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-05-Final-web.jpg' />
-			     				<div class='name'>Bittara Appa – Sri Lankan Egg Hoppers</div>
+		     				<a href="/breakfast-in-a-mug">
+			     				<img class='recipes_img' src='/images/recipes/breakfast-in-a-mug-small_r.jpg' />
+			     				<div class='name'>杯子早餐</div>
 			     			</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/grandmaIndian">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-02-Final-web.jpg' />
-			     				<div class='name'>
-			     					Grandma’s Indian-style Omelette
-								</div>
-			     			</a>
+		     				<a href="/spicy-avocado-eggs-on-toast">
+									<img class='recipes_img' src='/images/recipes/Spicy-Avocado-Eggs-on-Toast-Small_r.jpg' />
+									<div class='name'>辣牛油果多士</div>
+							</a>
 		     			</div>
 				</div>		
 			</div>

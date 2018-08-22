@@ -75,14 +75,14 @@
 	                	<span>4個</span>
 	                	<span>6隻</span>
 	                	<span>2個</span>
-	                	<span>2/3杯（170毫升）</span>
-	                	<span>1/3杯（75毫升）</span>
-	                	<span>1/3杯（75毫升）</span>
-	                	<span>1/4杯（60毫升）</span>
-	                	<span>1湯匙（15毫升）</span>
-	                	<span>2茶匙（10毫升）</span>
-	                	<span>1/8茶匙（0.5毫升）</span>
-	                	<span>1/4茶匙（1.25毫升）</span>
+	                	<span>2/3杯(170毫升)</span>
+	                	<span>1/3杯(75毫升)</span>
+	                	<span>1/3杯(75毫升)</span>
+	                	<span>1/4杯(60毫升)</span>
+	                	<span>1湯匙(15毫升)</span>
+	                	<span>2茶匙(10毫升)</span>
+	                	<span>1/8茶匙(0.5毫升)</span>
+	                	<span>1/4茶匙(1.25毫升)</span>
 	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
@@ -161,7 +161,7 @@
 					<div class="steps col-xs-12  text-center">
 
 						<h1 class="col-xs-12"><b>小貼士：</b></h1>
-						<div class="col-xs-10 col-xs-offset-1 step_body">可選用1湯匙（15毫升）新鮮刁草碎、香芹或芫茜代替咖哩粉。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">可選用1湯匙(15毫升)新鮮刁草碎、香芹或芫茜代替咖哩粉。</div>
 						
 						
 
@@ -176,26 +176,26 @@
 				<h1>相關</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/mushroom-truffle-and-egg">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-07-Final-web.jpg' />
-			     				<div class='name'>蘑菇蛋花松露清湯</div>
-			     			</a>
+		     				<a href="/Moo-Shu-pork-wok-fried">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-27-Final-web.jpg' />
+									<div class='name'>
+										金絲木須肉夾餅
+									</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Birds-Nest-Egg-Peral">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-08-Final-web.jpg' />
-			     				<div class='name'>紅燒燕液盞</div>
-			     			</a>
+		     				<a href="/lobster-devilled-eggs">
+									<img class='recipes_img' src='/images/recipes/Lobster-Devilled-Eggs-small_r.jpg' />
+									<div class='name'>龍蝦魔鬼蛋</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/masalaEggKachumber">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-10-Final-web.jpg' />
-			     				<div class='name'>
-			     					Masala Egg Kachumber Salad
-								</div>
-			     			</a>
+		     				<a href="/Funny-Egg-Fish">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-13-Final-web.jpg' />
+									<div class='name'>趣味小蛋魚</div>
+								</a>
 		     			</div>
 				</div>		
 			</div>

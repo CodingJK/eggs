@@ -73,16 +73,16 @@
 	                <div class="col-xs-6 text-right ingredients_right">
 	                	
 	                	
-					<span>4安士（115克）</span>
-					<span>1.5茶匙（5毫升）</span>
-					<span>1湯匙（15毫升）</span>
-					<span>2杯（500毫升）</span>
-					<span>2茶匙（10毫升）</span>
-					<span>4杯（1升）</span>
-					<span>2杯（500毫升）</span>
+					<span>4安士(115克)</span>
+					<span>1.5茶匙(5毫升)</span>
+					<span>1湯匙(15毫升)</span>
+					<span>2杯(500毫升)</span>
+					<span>2茶匙(10毫升)</span>
+					<span>4杯(1升)</span>
+					<span>2杯(500毫升)</span>
 					<span>2隻</span>
-					<span>1/4杯（60毫升）</span>
-					<span>額外配菜（隨喜好加入）</span>
+					<span>1/4杯(60毫升)</span>
+					<span>額外配菜(隨喜好加入)</span>
 
 
 
@@ -155,26 +155,24 @@
 				<h1>相關</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/mushroom-truffle-and-egg">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-07-Final-web.jpg' />
-			     				<div class='name'>蘑菇蛋花松露清湯</div>
-			     			</a>
+		     				<a href="/classic-pad-thai">
+									<img class='recipes_img' src='/images/recipes/Classic-Pad-Thai-small_r.jpg' />
+									<div class='name ' >泰式炒河</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Birds-Nest-Egg-Peral">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-08-Final-web.jpg' />
-			     				<div class='name'>紅燒燕液盞</div>
-			     			</a>
+		     				<a href="/spaghetti-carbonara">
+									<img class='recipes_img' src='/images/recipes/Spaghetti-Carbonara-small_r.jpg' />
+									<div class='name ' >卡邦尼意粉</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/masalaEggKachumber">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-10-Final-web.jpg' />
-			     				<div class='name'>
-			     					Masala Egg Kachumber Salad
-								</div>
-			     			</a>
+		     				<a href="/mushroom-fried-rice-with-crispy-egg">
+									<img class='recipes_img' src='/images/recipes/Mushroom-Fried-Rice-with-Crispy-Egg-small_r.jpg' />
+									<div class='name ' >蘑菇脆香煎蛋炒飯</div>
+								</a>
 		     			</div>
 				</div>		
 			</div>
