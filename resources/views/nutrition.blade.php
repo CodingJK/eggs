@@ -12,7 +12,7 @@
       	<div class='container-fuild nutrition_header'>
 			<div class='nutrition_header_artical'>
 				<div class='nutrition_title'>營養價值</div>
-				<div class='nutrition_sub_title'>
+				<div class='nutrition_sub_title' style="margin-top: 30px;">
 					 雞蛋是營養最豐富的天然食品之一。一隻大號雞蛋僅含70卡路里，卻飽含大量營養。
 
 				 </div>

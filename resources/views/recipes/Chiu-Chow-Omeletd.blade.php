@@ -102,7 +102,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用一小鍋加蓋煮滾1升水，一滾立即離火
+						<div class="col-xs-10 col-xs-offset-1 step_body">用一小鍋加蓋煮滾1升水，一滾立即離火。
 
 </div>
 						<hr class='hr1'>
@@ -110,26 +110,26 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將蠔肉浸入滾水中10分鐘，然後取出放上砧板切粒
+						<div class="col-xs-10 col-xs-offset-1 step_body">將蠔肉浸入滾水中10分鐘，然後取出放上砧板切粒。
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將蛋打進一個大碗，加入蠔肉粒、蔥花，鹽、糖各⅓茶匙攪勻</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">將蛋打進一個大碗，加入蠔肉粒、蔥花，鹽、糖各⅓茶匙攪勻。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用慢火燒鑊，落油2茶匙，倒入上個步驟的蠔粒蛋液煎成餅，每面煎2分鐘</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">用慢火燒鑊，落油2茶匙，倒入上個步驟的蠔粒蛋液煎成餅，每面煎2分鐘。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">翻轉到碟上伴芫茜即可享用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">翻轉到碟上伴芫茜即可享用。</div>
 						<hr class='hr1'>
 					</div>
 

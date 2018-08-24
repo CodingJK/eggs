@@ -13,7 +13,7 @@
     display: none;
   }
   #nav{
-    border-bottom: 1px solid black;
+    border-bottom:1px solid #f3f5f6;
   }
   .mobile_nav {
     display: none;
@@ -63,7 +63,7 @@
   }
 
   .Header11 {
-    background-image: url("/images/banner/home_bg.jpg");
+    background-image: url("/images/banner/egg-nutrition-banner-A.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -99,7 +99,7 @@
   }
 
   .Header2 {
-    background-image: url("/images/babys/eggs-101-header.jpg");
+    background-image: url("/images/babys/mom_baby.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -138,11 +138,12 @@
   }
 
   #mid_nav{
-    border-bottom: 1px solid black;
+   border-bottom:1px solid #f3f5f6;
   }
   
 
   .links{
+    
     margin-left: 5%;
     display: flex;
     justify-content: space-between;
@@ -154,8 +155,8 @@
   
 
   #mid_logo{
-    width: 150px;
-    height: 150px;
+    width: 130px;
+    height: 130px;
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -165,7 +166,8 @@
   }
 
   .links a{
-    font-size: 18px;
+    
+    font-size: 26px;
     line-height: 20px;
     padding: 16px 12px;
     border: 2px solid white;
@@ -186,7 +188,7 @@
   }
 
   .Header11 {
-    background-image: url("/images/banner/home_bg.jpg");
+    background-image: url("/images/banner/egg-nutrition-banner-A.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -222,7 +224,7 @@
   }
 
   .Header2 {
-    background-image: url("/images/babys/eggs-101-header.jpg");
+    background-image: url("/images/babys/mom_baby.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -293,7 +295,7 @@
     background-size: contain;
     background-image: url('/images/logo.png');
     background-repeat: no-repeat;
-    height: 80px;
+    height: 44.58px;
     background-position: center;
   }
   

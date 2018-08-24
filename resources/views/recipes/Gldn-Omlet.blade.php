@@ -105,7 +105,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用杯量¾杯米放入電飯煲，米和水的比例為1:2，用同一隻杯量2倍的水倒入電飯煲。飯煮熟後待其變涼放過夜
+						<div class="col-xs-10 col-xs-offset-1 step_body">用杯量¾杯米放入電飯煲，米和水的比例為1:2，用同一隻杯量2倍的水倒入電飯煲。飯煮熟後待其變涼放過夜。
 
 </div>
 						<hr class='hr1'>
@@ -113,38 +113,38 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用鍋煮滾1升水，放入蝦仁、西蘭花和芥蘭粒灼3分鐘，撈出備用
+						<div class="col-xs-10 col-xs-offset-1 step_body">用鍋煮滾1升水，放入蝦仁、西蘭花和芥蘭粒灼3分鐘，撈出備用。
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將蛋打進一個大碗攪勻，蛋液分兩等份倒入兩個較小的碗備用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">將蛋打進一個大碗攪勻，蛋液分兩等份倒入兩個較小的碗備用。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">起鑊落2茶匙生油，落一碗第3步的蛋液、第1步的飯、第2步煮熟的蝦仁和芥蘭粒，慢火炒5分鐘</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">起鑊落2茶匙生油，落一碗第3步的蛋液、第1步的飯、第2步煮熟的蝦仁和芥蘭粒，慢火炒5分鐘。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用鹽、糖各½茶匙為上一步驟的炒飯調味，落蔥花，再炒1分鐘充分混合，取出備用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">用鹽、糖各½茶匙為上一步驟的炒飯調味，落蔥花，再炒1分鐘充分混合，取出備用。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 6</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">起鑊落2茶匙生油，落入第3步的另一碗蛋液，煎2分鐘成蛋餅，慢慢在上面加入第5步的炒飯，加完後將蛋餅翻轉，使飯被蛋餅包裹</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">起鑊落2茶匙生油，落入第3步的另一碗蛋液，煎2分鐘成蛋餅，慢慢在上面加入第5步的炒飯，加完後將蛋餅翻轉，使飯被蛋餅包裹。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 7</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">上碟後伴上西蘭花即可享用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">上碟後伴上西蘭花即可享用。</div>
 						<hr class='hr1'>
 					</div>
 					<hr>

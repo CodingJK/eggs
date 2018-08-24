@@ -124,20 +124,20 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">打蛋落碗，攪勻備用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">打蛋落碗，攪勻備用。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用鍋燒滾1升水，放入蝦仁灼1至2分鐘，撈出備用
+						<div class="col-xs-10 col-xs-offset-1 step_body">用鍋燒滾1升水，放入蝦仁灼1至2分鐘，撈出備用。
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">燒鑊落油1茶匙，放入豬肉碎炒2分鐘備用
+						<div class="col-xs-10 col-xs-offset-1 step_body">燒鑊落油1茶匙，放入豬肉碎炒2分鐘備用。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -145,7 +145,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">燒熱同一隻鑊，落油1茶匙，加蒜蓉、薑蓉各½茶匙，黑豉汁1½ 茶匙爆香
+						<div class="col-xs-10 col-xs-offset-1 step_body">燒熱同一隻鑊，落油1茶匙，加蒜蓉、薑蓉各½茶匙，黑豉汁1½ 茶匙爆香。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -153,7 +153,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">倒入清雞湯200毫升至鑊中，加入第2步煮熟的蝦仁、第3步的炒豬肉，用鹽、糖各½茶匙調味，煮1分鐘，再用生粉28克勾芡
+						<div class="col-xs-10 col-xs-offset-1 step_body">倒入清雞湯200毫升至鑊中，加入第2步煮熟的蝦仁、第3步的炒豬肉，用鹽、糖各½茶匙調味，煮1分鐘，再用生粉28克勾芡。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -161,7 +161,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 6</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">離火，慢慢繞圈倒入第1步的蛋液，輕輕攪成蛋花
+						<div class="col-xs-10 col-xs-offset-1 step_body">離火，慢慢繞圈倒入第1步的蛋液，輕輕攪成蛋花。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -176,7 +176,7 @@
 					<div class="steps col-xs-12  text-center">
 
 						<div class="step_title col-xs-12">步驟 7</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">上碟落葱花即可享用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">上碟落葱花即可享用。</div>
 						<hr class='hr1'>
 						
 					</div>

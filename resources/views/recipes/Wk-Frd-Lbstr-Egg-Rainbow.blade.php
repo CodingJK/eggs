@@ -114,20 +114,20 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用大鍋煮滾4升水，放入龍蝦灼5分鐘</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">用大鍋煮滾4升水，放入龍蝦灼5分鐘。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">龍蝦灼熟後用剪刀剪下頭和身，剪開龍蝦尾背部的殼，一路剪至尾端，取出肉切成6至8件。敲裂龍蝦鉗，從龍蝦身剝下頭殼，然後將龍蝦身切成6至8件，每件連住1隻腳，備用 
+						<div class="col-xs-10 col-xs-offset-1 step_body">龍蝦灼熟後用剪刀剪下頭和身，剪開龍蝦尾背部的殼，一路剪至尾端，取出肉切成6至8件。敲裂龍蝦鉗，從龍蝦身剝下頭殼，然後將龍蝦身切成6至8件，每件連住1隻腳，備用。
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">西蘭花切細件，用一個小鍋煮滾1升水，放入西蘭花灼5分鐘，撈出備用
+						<div class="col-xs-10 col-xs-offset-1 step_body">西蘭花切細件，用一個小鍋煮滾1升水，放入西蘭花灼5分鐘，撈出備用。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -135,7 +135,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在一個大碗內充分攪勻蛋白、半脂奶和鹽、糖各½茶匙
+						<div class="col-xs-10 col-xs-offset-1 step_body">在一個大碗內充分攪勻蛋白、半脂奶和鹽、糖各½茶匙。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -143,7 +143,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用中火燒鑊，落油2茶匙，倒入第4步的蛋白和奶，輕輕炒1分鐘，再落龍蝦尾肉炒多1分鐘
+						<div class="col-xs-10 col-xs-offset-1 step_body">用中火燒鑊，落油2茶匙，倒入第4步的蛋白和奶，輕輕炒1分鐘，再落龍蝦尾肉炒多1分鐘。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -151,7 +151,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 6</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在一個圓形或橢圓形的碟上圍上西蘭花圈，放上第5步的龍蝦尾和蛋白奶
+						<div class="col-xs-10 col-xs-offset-1 step_body">在一個圓形或橢圓形的碟上圍上西蘭花圈，放上第5步的龍蝦尾和蛋白奶。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -166,7 +166,7 @@
 					<div class="steps col-xs-12  text-center">
 
 						<div class="step_title col-xs-12">步驟 7</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在西蘭花圈外伴上煮熟的龍蝦鉗和身即可享用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">在西蘭花圈外伴上煮熟的龍蝦鉗和身即可享用。</div>
 						<hr class='hr1'>
 						
 					</div>

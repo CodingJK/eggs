@@ -103,32 +103,32 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用杯量¾杯米放入電飯煲，米和水的比例為1:2，用同一隻杯量2倍的水倒入電飯煲。飯煮熟後待其變涼放過夜</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">用杯量¾杯米放入電飯煲，米和水的比例為1:2，用同一隻杯量2倍的水倒入電飯煲。飯煮熟後待其變涼放過夜。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用鍋煮滾1升水，放入帶子和芥蘭灼3分鐘，撈出切粒備用
+						<div class="col-xs-10 col-xs-offset-1 step_body">用鍋煮滾1升水，放入帶子和芥蘭灼3分鐘，撈出切粒備用。
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">起鑊落生油2茶匙，用慢火炒蛋白2分鐘備用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">起鑊落生油2茶匙，用慢火炒蛋白2分鐘備用。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用同一隻鑊，落生油1茶匙，加薑蓉炒半分鐘，再加第1步的飯和第2步的芥蘭粒，用慢火炒5分鐘</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">用同一隻鑊，落生油1茶匙，加薑蓉炒半分鐘，再加第1步的飯和第2步的芥蘭粒，用慢火炒5分鐘。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">加入第3步的炒蛋白、第2步的帶子粒和蔥花，用鹽、糖各½茶匙調味，炒至食材充分混合(約3分鐘)即可享用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">加入第3步的炒蛋白、第2步的帶子粒和蔥花，用鹽、糖各½茶匙調味，炒至食材充分混合(約3分鐘)即可享用。</div>
 						<hr class='hr1'>
 					</div>
 

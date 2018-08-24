@@ -110,45 +110,45 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在8隻中式湯匙內搽上生油</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">在8隻中式湯匙內搽上生油。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將蛋白在一個碗內攪勻，再倒入湯匙，每隻湯匙加入燕窩14克，和芫茜葉1片
+						<div class="col-xs-10 col-xs-offset-1 step_body">將蛋白在一個碗內攪勻，再倒入湯匙，每隻湯匙加入燕窩14克，和芫茜葉1片。
 						</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在一個大鍋中煮滾2升水，放入蒸架，在上面排放湯匙，用中到大火加蓋隔水蒸5分鐘</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">在一個大鍋中煮滾2升水，放入蒸架，在上面排放湯匙，用中到大火加蓋隔水蒸5分鐘。</div>
 						<hr class='hr1'>
 					</div>
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">蛋液會結成蛋盞，從湯匙取出放一碟子上備用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">蛋液會結成蛋盞，從湯匙取出放一碟子上備用。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將清雞湯850毫升在鍋內煮滾3分鐘，加入燕窩226克(區別於第2步用到的燕窩)</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">將清雞湯850毫升在鍋內煮滾3分鐘，加入燕窩226克(區別於第2步用到的燕窩)。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 6</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">加入鹽、糖各½茶匙，再滾半分鐘，用生粉56克勾芡攪1分鐘，湯就此完成</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">加入鹽、糖各½茶匙，再滾半分鐘，用生粉56克勾芡攪1分鐘，湯就此完成。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 7</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將完成的湯倒入4個湯碟，每湯碟放第4步完成的蛋白燕盞2隻，撒上火腿茸即可享用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">將完成的湯倒入4個湯碟，每湯碟放第4步完成的蛋白燕盞2隻，撒上火腿茸即可享用。</div>
 						<hr class='hr1'>
 					</div>
 

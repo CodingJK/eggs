@@ -4,6 +4,7 @@
             $(window).ready(function(){
                 $('.links a').css('border','2px solid #fbbb27');  
                 $("#nav").css('background-color','#fbbb27');
+                $("#nav").css('border-color','transparent');
                 $('.links a').hover(function(){
                     $(this).css('border','2px solid white');
                     $(this).css('color','white');
@@ -14,6 +15,7 @@
                 });   
                
                 $('.lang').css('border','2px solid black');
+                 $('.lang').css('border','2px solid black');
             });
         </script>
 
@@ -22,6 +24,7 @@
             var pixs = $(document).scrollTop();
             if(pixs>50){
                 $("#nav").css('background-color','white');
+                $("#nav").css('border-color','#f3f5f6');
                 $('.links a').css('border','2px solid white');  
                 $('.links a').hover(function(){
                     $(this).css('border','2px solid #fbbb27');
@@ -32,8 +35,10 @@
                     $('.lang').css('border','2px solid black');
                 });   
                 $('.lang').css('border','2px solid black');
+                  $('.lang').css('border','2px solid black');
             }else{
               $("#nav").css('background-color','#fbbb27');
+              $("#nav").css('border-color','transparent');
                 $('.links a').css('border','2px solid #fbbb27');  
                 $('.links a').hover(function(){
                     $(this).css('border','2px solid white');
@@ -44,6 +49,7 @@
                     $('.lang').css('border','2px solid black');
                 });   
                 $('.lang').css('border','2px solid black');
+                  $('.lang').css('border','2px solid black');
             } 
     });
 
@@ -65,10 +71,8 @@
                 <a href="/Nutrition">
                 <div class='row Header1'>
                     <div class='header_nutrition_title'>營養價值</div>
-                    <div class='header_nutrition_sub_title'>
-                        雞蛋不單止美味，而且營養十分豐富，是蛋白質的極佳來源，
-                        能提供人體所需的重要營養素。現在就來了解為甚麼您應把雞蛋作為日常飲食的一部分，
-                        以及了解如何為您自己、小孩甚至家中長者保持健康的生活方式。
+                    <div class='header_nutrition_sub_title' style="margin:50px 300px;">
+                        雞蛋是營養最豐富的天然食品之一。一隻大號雞蛋僅含70卡路里，卻飽含大量營養。
                     </div>
                 </div>
             </a>
@@ -76,12 +80,9 @@
             <div class="item">
                 <a href="/Eggforbabies">
                     <div class='row Header2'>
-                        <div class='header_nutrition_title'>寶寶與雞蛋</div>
-                        <div class='header_nutrition_sub_title'>
-                            由加拿大衛生部(Health Canada)、加拿大兒科學會(Canadian Pediatric Society)、
-                            加拿大營養師協會(Dietitians of Canada)和加拿大母乳餵養委員會(Breastfeeding Committee
-                            for Canada)聯合推出的最新嬰兒餵食指南指出，建議在寶寶滿6個月或剛開始進食固體食物時，
-                            引入全蛋餵食。所以您可放心在寶寶吃的食物泥和粥裏加入雞蛋了！
+                        <div class='header_nutrition_title'>您知道嗎？</div>
+                        <div class='header_nutrition_sub_title' style="margin:50px 300px;">
+                            現在您可從寶寶6個月大開始餵食全蛋，可有助預防雞蛋過敏。
                         </div>
                     </div>
                 </a>
@@ -98,7 +99,7 @@
         <div class='container-fluid FeaturedRecipe_parent clear-both'>
             <br><br>
             <div class='FeaturedRecipe'>
-                <div class='title'>Featured Recipe<br><br></div>
+                <div class='title'>精選食譜<br><br></div>
                 <div class='row'>
                     <div class='col-sm-6 left_img'>
                         <a href="/Funny-Egg-Fish">
@@ -136,7 +137,7 @@
                     </div>
                     <div class='col-sm-6 right_img'>
                         <a href="/Scrambled-Eggs">
-                            <img src='/images/recipes/Eggs-SA-17-Final-web.jpg' />
+                            <img src='/images/recipes/Eggs-SA-04-Final-web.jpg' />
                             
                             <div class='left_sub_title'>粟米煙肉炒蛋</div>
                         </a>
@@ -198,7 +199,7 @@
                     </div>
                     <div class=''>
                         <a href="/Scrambled-Eggs">
-                                    <img src='/images/recipes/Eggs-SA-17-Final-web.jpg' />
+                                    <img src='/images/recipes/Eggs-SA-04-Final-web.jpg' />
                                     
                                     <div class='left_sub_title'>粟米煙肉炒蛋</div>
                                 </a>

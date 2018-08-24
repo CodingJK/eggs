@@ -106,48 +106,48 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">取蛋白在碗內攪勻備用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">取蛋白在碗內攪勻備用。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">蘑菇切成薄片備用
+						<div class="col-xs-10 col-xs-offset-1 step_body">蘑菇切成薄片備用。
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在一個小鍋內將清雞湯850毫升加蓋煮滾3分鐘</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">在一個小鍋內將清雞湯850毫升加蓋煮滾3分鐘。</div>
 						<hr class='hr1'>
 					</div>
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">放入蘑菇片，用糖、鹽各½茶匙調味，再滾1分鐘
+						<div class="col-xs-10 col-xs-offset-1 step_body">放入蘑菇片，用糖、鹽各½茶匙調味，再滾1分鐘。
 </div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">離火後倒入蛋白打圈輕攪
+						<div class="col-xs-10 col-xs-offset-1 step_body">離火後倒入蛋白打圈輕攪。
 						</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 6</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將湯倒入4個碗中
+						<div class="col-xs-10 col-xs-offset-1 step_body">將湯倒入4個碗中。
 						</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 7</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">每碗放松露油½茶匙，再放葱花和松露片1片即可享用
+						<div class="col-xs-10 col-xs-offset-1 step_body">每碗放松露油½茶匙，再放葱花和松露片1片即可享用。
 						</div>
 						<hr class='hr1'>
 					</div>

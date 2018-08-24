@@ -71,12 +71,12 @@
  				<div class="ingredients" style='clear: both'>
 	                <div class="col-xs-6 text-right ingredients_right">
 	                	<span> 1片 </span>
-	                	<span> 2湯匙 (30毫升) </span>
-	                	<span> 2湯匙 (30毫升) </span>
-	                	<span> 2湯匙 (30毫升) </span>
-	                	<span> 1湯匙 (15毫升)</span>
+	                	<span> 2湯匙(30毫升) </span>
+	                	<span> 2湯匙(30毫升) </span>
+	                	<span> 2湯匙(30毫升) </span>
+	                	<span> 1湯匙(15毫升)</span>
 	                	<span> 1隻 </span>
-	                	<span> 2湯匙 (30毫升)</span>
+	                	<span> 2湯匙(30毫升)</span>
 	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">

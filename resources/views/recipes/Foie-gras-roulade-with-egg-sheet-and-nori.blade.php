@@ -104,20 +104,20 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在碗內輕輕將雞蛋打散</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">在碗內輕輕將雞蛋打散。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">製作蛋皮——使用一個大平底鍋，用中到大火加熱2-3分鐘，加油2茶匙。倒入蛋液，使之在鍋面平均攤開，形成大小與壽司紫菜相若的薄皮，煎3分鐘後待其變涼。共做2張蛋皮，備用 
+						<div class="col-xs-10 col-xs-offset-1 step_body">製作蛋皮——使用一個大平底鍋，用中到大火加熱2-3分鐘，加油2茶匙。倒入蛋液，使之在鍋面平均攤開，形成大小與壽司紫菜相若的薄皮，煎3分鐘後待其變涼。共做2張蛋皮，備用。
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將鵝肝切成小條狀，撒上鹽和黑胡椒粉各¼茶匙調味
+						<div class="col-xs-10 col-xs-offset-1 step_body">將鵝肝切成小條狀，撒上鹽和黑胡椒粉各¼茶匙調味。
 
 </div>
 						<hr class='hr1'>
@@ -126,7 +126,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用中火熱平底鍋，煎鵝肝1分鐘，再將其放在一張廚紙上吸走多餘的油，待其變涼備用
+						<div class="col-xs-10 col-xs-offset-1 step_body">用中火熱平底鍋，煎鵝肝1分鐘，再將其放在一張廚紙上吸走多餘的油，待其變涼備用。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -134,7 +134,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">放平一張蛋皮，鋪上一張紫菜，再一張蛋皮
+						<div class="col-xs-10 col-xs-offset-1 step_body">放平一張蛋皮，鋪上一張紫菜，再一張蛋皮。
 						</div>
 						<hr class='hr1'>
 					</div>
@@ -142,7 +142,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 6</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將鵝肝排在蛋皮的一端，輕輕壓緊捲成卷，再以保鮮紙包裹
+						<div class="col-xs-10 col-xs-offset-1 step_body">將鵝肝排在蛋皮的一端，輕輕壓緊捲成卷，再以保鮮紙包裹。
 						</div>
 						<hr class='hr1'>
 					</div>
@@ -150,7 +150,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 7</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">待其變涼至室溫 (約30分鐘)，去除保鮮紙後再切成小塊，即可享用
+						<div class="col-xs-10 col-xs-offset-1 step_body">待其變涼至室溫 (約30分鐘)，去除保鮮紙後再切成小塊，即可享用。
 						</div>
 						<hr class='hr1'>
 					</div>

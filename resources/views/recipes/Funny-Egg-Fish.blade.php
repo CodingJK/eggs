@@ -111,20 +111,20 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">製作魚身：沿著每隻雞蛋的一條長邊切走一小片，令魚身可以立起</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">製作魚身：沿著每隻雞蛋的一條長邊切走一小片，令魚身可以立起。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">從紅椒切4個1吋(2.5厘米)長的「V」型做成魚尾。將白蘿蔔和青瓜薄片對半切或切成四瓣來模仿魚鱗
+						<div class="col-xs-10 col-xs-offset-1 step_body">從紅椒切4個1吋(2.5厘米)長的「V」型做成魚尾。將白蘿蔔和青瓜薄片對半切或切成四瓣來模仿魚鱗。
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用蛋黃醬當膠水，將青瓜和蘿蔔魚鱗貼在每隻蛋上，覆蓋魚背的三分之二，並在較窄的一端留出空間作為面部。從黑橄欖切出小方塊放在面部做眼。在雞蛋的另一端切個小口插入紅椒尾
+						<div class="col-xs-10 col-xs-offset-1 step_body">用蛋黃醬當膠水，將青瓜和蘿蔔魚鱗貼在每隻蛋上，覆蓋魚背的三分之二，並在較窄的一端留出空間作為面部。從黑橄欖切出小方塊放在面部做眼。在雞蛋的另一端切個小口插入紅椒尾。
 
 </div>
 						<hr class='hr1'>
@@ -133,7 +133,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在雞蛋周圍放一圈生菜絲做出海草的效果
+						<div class="col-xs-10 col-xs-offset-1 step_body">在雞蛋周圍放一圈生菜絲做出海草的效果。
 
 </div>
 						<hr class='hr1'>

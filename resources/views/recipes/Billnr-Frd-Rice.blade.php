@@ -109,38 +109,38 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用杯量¾杯米放入電飯煲，米和水的比例為1:2，用同一隻杯量2倍的水倒入電飯煲。飯煮熟後待其變涼放過夜</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">用杯量¾杯米放入電飯煲，米和水的比例為1:2，用同一隻杯量2倍的水倒入電飯煲。飯煮熟後待其變涼放過夜。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">置瑤柱於一碗滾水中，用鍋煮滾2升水，小心將碗放入鍋中，加蓋隔水蒸60分鐘，使瑤柱變軟，待其變涼後拆絲備用
+						<div class="col-xs-10 col-xs-offset-1 step_body">置瑤柱於一碗滾水中，用鍋煮滾2升水，小心將碗放入鍋中，加蓋隔水蒸60分鐘，使瑤柱變軟，待其變涼後拆絲備用。
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">起鑊落生油2茶匙，用慢火炒蛋白2分鐘備用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">起鑊落生油2茶匙，用慢火炒蛋白2分鐘備用。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用同一隻鑊落油1茶匙，放入第1步的冷飯、第2步的瑤柱絲和芥蘭粒，慢火炒4分鐘</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">用同一隻鑊落油1茶匙，放入第1步的冷飯、第2步的瑤柱絲和芥蘭粒，慢火炒4分鐘。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">加入第3步的炒蛋白、蔥花，用鹽、糖各½茶匙調味，再炒勻1分鐘</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">加入第3步的炒蛋白、蔥花，用鹽、糖各½茶匙調味，再炒勻1分鐘。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 6</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">上碟即可享用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">上碟即可享用。</div>
 						<hr class='hr1'>
 					</div>
 					<hr>
