@@ -188,7 +188,7 @@
 
 						
 						</div>
-
+						<hr>
 						<div id='title_com'>主菜</div>
 						
 						<div class='row text-center'>
@@ -350,7 +350,7 @@
 							
 						</div>
 
-						
+						<hr>
 						
 						<div id='title_com'>甜品</div>
 						

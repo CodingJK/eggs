@@ -4,16 +4,17 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="theme-color" content="#000000">
-    <!-- Global Site Tag (gtag.js) - Google Analytics -->
-
-   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106914447-1"></script>
-   <script>
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-79368805-1"></script>
+<script>
   window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments)};
+  function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'UA-106914447-1');
+
+  gtag('config', 'UA-79368805-1');
 </script>
-    <title>Home | egghisuperstar.com</title>
+
+    <title>Home | EggsAreGood.ca</title>
 
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json">
 
