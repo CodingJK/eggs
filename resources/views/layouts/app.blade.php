@@ -91,7 +91,7 @@
                 <a href='/Apps' class='apps_link' style='font-weight:bold;'>推廣</a>
                 <a href='http://www.lesoeufs.ca/' class='lang'><b> Fr </b></a>
                 <a href='https://www.eggs.ca/' class='lang'><b> En </b></a>
-                <a href='https://www.eggs.ca/' class='lang'><b> 简 </b></a>
+                <a href='http://www.eggsaregood.ca/SC/' class='lang'><b> 简 </b></a>
             </div>
         </div>
         {{-- middle nav --}}
@@ -108,7 +108,7 @@
             <a href='/Apps' class='apps_link' style='font-weight:bold;'>推廣</a>
             <a href='http://www.lesoeufs.ca/' class='lang'><b> Fr </b></a>
             <a href='https://www.eggs.ca/' class='lang'><b> En </b></a>
-            <a href='https://www.eggs.ca/' class='lang'><b> 简 </b></a>
+            <a href='http://www.eggsaregood.ca/SC/' class='lang'><b> 简 </b></a>
           </div>
         </div>
         {{-- mobile navigation --}}
