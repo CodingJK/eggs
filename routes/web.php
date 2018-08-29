@@ -24,6 +24,8 @@ Route::get('/Nutrition','EggsController@nutrition');
 Route::get('/Eggforbabies','EggsController@eggforbabies');
 
 
+
+
 Route::get('English-Muffin-Bacon-Tomato-Fried-Egg', function () {
         return view('recipes.English-Muffin-Bacon-Tomato-Fried-Egg');
     });
@@ -224,7 +226,24 @@ Route::get('Duo-Egg-Pearl', function () {
     Route::get('baked-eggs-extraordinaire', function () {
         return view('recipes.baked-eggs-extraordinaire');
     });
-   
+    Route::get('breakfast', function () {
+        return view('recipes.breakfast');
+    });
+    Route::get('soup', function () {
+        return view('recipes.soup');
+    });
+    Route::get('appetizers', function () {
+        return view('recipes.appetizers');
+    });
+    Route::get('main', function () {
+        return view('recipes.main');
+    });
+     Route::get('dessert', function () {
+        return view('recipes.dessert');
+    });
+   Route::get('newest', function () {
+        return view('recipes.newest');
+    });
    
     
 

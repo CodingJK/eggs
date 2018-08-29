@@ -54,9 +54,13 @@
 
     
     <style>
+      @import url('https://fonts.googleapis.com/earlyaccess/notosanssc.css');
+      * {
+      font-family: 'Noto Sans SC', sans-serif !important; }
       @import url('https://fonts.googleapis.com/earlyaccess/notosanstc.css');
       * {
       font-family: 'Noto Sans TC', sans-serif !important; }
+
     </style>
   
     {{-- jquery --}}
@@ -89,10 +93,12 @@
                 <a href='/Eggs101'  class='eggs101_link' style='font-weight:bold;'>雞蛋小知識</a>
                 <a href='/Nutrition'  class='nutrition_link' style='font-weight:bold;'>營養價值</a>
                 <a href='/Eggforbabies' class='eggforbabies_link' style='font-weight:bold;'>寶寶與雞蛋</a>
-                <a href='/Apps' class='apps_link' style='font-weight:bold;'>推廣</a>
-                <a href='http://www.lesoeufs.ca/' class='lang'><b> Fr </b></a>
-                <a href='https://www.eggs.ca/' class='lang'><b> En </b></a>
-                <a href='http://www.eggsaregood.ca/SC/' class='lang'><b> 简 </b></a>
+                <a href='/Apps' class='apps_link' style='font-weight:bold;'>應用程序</a>
+               
+                 
+                <a href='http://www.lesoeufs.ca/' class='lang' style='margin-left:auto'><b> 简体中文 </b></a>
+                <a href='https://www.eggs.ca/' class='lang'><b> English </b></a>
+                <a href='http://www.eggsaregood.ca/SC/' class='lang' style='margin-right:-100px;'><b> French </b></a>
             </div>
         </div>
         {{-- middle nav --}}
@@ -106,10 +112,10 @@
             <a href='/Eggs101' class='eggs101_link' style='font-weight:bold;'>雞蛋小知識</a>
             <a href='/Nutrition' class='nutrition_link' style='font-weight:bold;'>營養價值</a>
             <a href='/Eggforbabies' class='eggforbabies_link' style='font-weight:bold;'>寶寶與雞蛋</a>
-            <a href='/Apps' class='apps_link' style='font-weight:bold;'>推廣</a>
-            <a href='http://www.lesoeufs.ca/' class='lang'><b> Fr </b></a>
-            <a href='https://www.eggs.ca/' class='lang'><b> En </b></a>
-            <a href='http://www.eggsaregood.ca/SC/' class='lang'><b> 简 </b></a>
+            <a href='/Apps' class='apps_link' style='font-weight:bold;'>應用程序</a>
+            <a href='http://www.lesoeufs.ca/' class='lang' style='margin-left:auto'><b> 简体中文 </b></a>
+                <a href='https://www.eggs.ca/' class='lang'><b> English </b></a>
+                <a href='http://www.eggsaregood.ca/SC/' class='lang' style='margin-right:-100px;'><b> French </b></a>
           </div>
         </div>
         {{-- mobile navigation --}}
@@ -129,7 +135,7 @@
               <div class="col-xs-12 text-center alert-link"><a href="/Nutrition" style='font-weight:bold;'>營養價值</a></div>
               <div class="col-xs-12 text-center alert-link"><a href="/Eggforbabies" style='font-weight:bold;'>寶寶與雞蛋</a></div>
               
-              <div class="col-xs-12 text-center alert-link"><a href="/Apps" style='font-weight:bold;'>推廣</a></div>
+              <div class="col-xs-12 text-center alert-link"><a href="/Apps" style='font-weight:bold;'>應用程序</a></div>
               <div class="col-xs-12 text-center "></div>
             </div>
             <script>
@@ -352,74 +358,6 @@
         <div class='col-lg-7 left'>
           <span>每月透過電郵收到新鮮食譜！(英文)</span>
         </div>
-        <!-- button -->
-        <!-- <div class='col-lg-7 left'>
-          <button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#newsletter">Subscribe to the eggs.ca newsletter</button>
-          <div class="modal fade" id="newsletter" tabindex="-1" role="dialog" aria-labelledby="newsletterLabel" aria-hidden="true">
-            <div class="modal-dialog">
-              <div class="modal-content">
-                  <div class="modal-header">
-                       <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-                       <h4 class="modal-title" id="newsletterLabel"> Subscribe</h4>
-                  </div>
-                  <div class="modal-body">
-                    <div class='container-fuild text-center'>
-                      <div class="field">
-                        <label>Email</label>
-                        <input type="text" name="NewEmail" class="text full" id="SubscribeForm_SubscribeForm_NewEmail" required="required" aria-required="true" placeholder="Your Email Address">
-                      </div>
-                      <div class="field">
-                        <select name="Province" class="text full ui-dropdown" id="SubscribeForm_SubscribeForm_Province" required="required" aria-required="true" data-trigger-label="Where do you live?">
-                            <option value="" selected="selected">Where do you live?</option>
-        
-                            <option value="BC">British Columbia</option>
-                          
-                            <option value="AB">Alberta</option>
-                          
-                            <option value="SK">Saskatchewan</option>
-                          
-                            <option value="MB">Manitoba</option>
-                          
-                            <option value="ON">Ontario</option>
-                          
-                            <option value="QC">Quebec</option>
-                          
-                            <option value="NB">New Brunswick</option>
-                          
-                            <option value="NS">Nova Scotia</option>
-                          
-                            <option value="PE">Prince Edward Island</option>
-                          
-                            <option value="NL">Newfoundland and Labrador</option>
-                          
-                            <option value="YT">Yukon Territory</option>
-                          
-                            <option value="NT">Northwest Territories</option>
-                          
-                            <option value="NU">Nunavut</option>
-                          
-                            <option value="Other">Other</option>
-                        </select>
-                      </div>
-                    </div>
-
-                  </div>
-                  <div class="modal-footer" >
-                    <div class='container-fuild text-center'>
-                      <button type="button" class="btn btn-default" data-dismiss="modal">
-                        close
-                      </button>
-                      <button type="button" class="btn btn-primary">
-                        submit
-                      </button>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-
-        </div> -->
         <div class='col-lg-5  right'>
           <span>關注社交媒體專頁(英文)</span>
         </div>

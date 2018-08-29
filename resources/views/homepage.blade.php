@@ -2,20 +2,21 @@
 @section('content')
         <script>
             $(window).ready(function(){
-                $('.links a').css('border','2px solid #fbbb27');  
+                $('.links a').css('border','2px solid #ffbc27');  
                 $("#nav").css('background-color','#fbbb27');
                 $("#nav").css('border-color','transparent');
+                
                 $('.links a').hover(function(){
                     $(this).css('border','2px solid white');
                     $(this).css('color','white');
                 },function(){
                     $(this).css('border','2px solid #fbbb27'); 
                     $(this).css('color','black');
-                    $('.lang').css('border','2px solid black');
+                    
                 });   
                
-                $('.lang').css('border','2px solid black');
-                 $('.lang').css('border','2px solid black');
+                
+                
             });
         </script>
 
@@ -32,10 +33,10 @@
                 },function(){
                     $(this).css('border','2px solid white'); 
                     $(this).css('color','black');
-                    $('.lang').css('border','2px solid black');
+                    
                 });   
-                $('.lang').css('border','2px solid black');
-                  $('.lang').css('border','2px solid black');
+               
+                  
             }else{
               $("#nav").css('background-color','#fbbb27');
               $("#nav").css('border-color','transparent');
@@ -46,10 +47,10 @@
                 },function(){
                     $(this).css('border','2px solid #fbbb27'); 
                     $(this).css('color','black');
-                    $('.lang').css('border','2px solid black');
+                     
                 });   
-                $('.lang').css('border','2px solid black');
-                  $('.lang').css('border','2px solid black');
+                
+                   
             } 
     });
 
@@ -80,7 +81,7 @@
             <div class="item">
                 <a href="/Eggforbabies">
                     <div class='row Header2'>
-                        <div class='header_nutrition_title'>您知道嗎？</div>
+                        <div class='header_nutrition_title'>寶寶與雞蛋</div>
                         <div class='header_nutrition_sub_title' style="margin:50px 300px;">
                             現在您可從寶寶6個月大開始餵食全蛋，可有助預防雞蛋過敏。
                         </div>
@@ -101,21 +102,26 @@
             <div class='FeaturedRecipe'>
                 <div class='title'>精選食譜<br><br></div>
                 <div class='row'>
-                    <div class='col-sm-6 left_img'>
-                        <a href="/Funny-Egg-Fish">
-                            <img src='/images/recipes/Eggs-SA-13-Final_home.jpg' />
+                    <div class='col-sm-6 '>
+                        <a href="/Steamed-crab-claw-with-egg-whites">
+                            <img src='/images/recipes/Eggs-SA-19-Final-web.jpg' />
                         </a>
-                    </div>
-                    <div class='col-sm-6 right_des'>
-                        <a href="/Funny-Egg-Fish">
-                            <div class='sub_title'>趣味小蛋魚</div>
-                            <div class='right_body'>
-                                這款雞蛋小魚是小孩和大人都會喜歡的有趣小菜。煮熟的雞蛋作為小魚的身體，切成薄片的青瓜和白蘿蔔組成魚鱗，再點綴以紅椒做出魚尾，您就會迎來一片稱讚聲！
-                            </div>
-                        </a>
-                        <div class='col-sm-12 getTheRecipe'>
-                            <a href="/Funny-Egg-Fish" id='getTheRecipe'> 瀏覽食譜 </a>
+                         <div class='sub_title'>白玉蒸蟹鉗</div>
+                         <div class='right_body'>
+                                這道菜結合了蒸蟹的鮮美和蛋白的嫩滑。一些人認為蛋白才是這道菜的精髓，若其烹調時間恰到好處，將帶來無「蟹」可擊的細膩口感。
                         </div>
+                    </div>
+                    <div class='col-sm-6'>
+                        <a href="/Gldn-Omlet">
+                            <img src='/images/recipes/Eggs-SA-011-Final-web.jpg' />
+                        </a>
+                         <div class='sub_title'>黃金蝦仁蛋包飯</div>
+                         <div class='right_body'>
+                                我們提供了一個享用炒飯的獨特方式。您可將此做法用於任何炒飯，效果同樣出色。簡單的翻鑊使蛋餅翻轉可呈現金黃色的外觀。
+                        </div>
+                       <!--  <div class='col-sm-12 getTheRecipe'>
+                            <a href="/Funny-Egg-Fish" id='getTheRecipe'> 瀏覽食譜 </a>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -124,23 +130,44 @@
         <div class='BBQ_parent'>
             <div class="row summerBBQ">
                 
-                <div class='title'>早餐</div>
+                <div class='title'><b>全部中文食譜</b> </div>
                 
                 <div class='row'>
-                    <div class='col-sm-6 left_img'>
-                        <a href="/English-Muffin-Bacon-Tomato-Fried-Egg">
-                            <img src="/images/recipes/Eggs-SA-02-Final-web.jpg" />
-                            
-                            <div class='left_sub_title'>番茄煙肉煎蛋早餐三文治</div>
-                            
-                        </a>
+                   <div class='col-sm-6 col-lg-4'>
+                                <a href="/breakfast">
+                                    <img class='recipes_img' src='/images/recipes/Eggs-SA-02-Final-web.jpg' />
+                                    <div class='name'>早餐</div>
+                                </a>
                     </div>
-                    <div class='col-sm-6 right_img'>
-                        <a href="/Scrambled-Eggs">
-                            <img src='/images/recipes/Eggs-SA-04-Final-web.jpg' />
-                            
-                            <div class='left_sub_title'>粟米煙肉炒蛋</div>
-                        </a>
+                    <div class='col-sm-6 col-lg-4'>
+                                <a href="/soup">
+                                    <img class='recipes_img' src='/images/recipes/Eggs-SA-07-Final-web.jpg' />
+                                    <div class='name'>湯</div>
+                                </a>
+                    </div>
+                    <div class='col-sm-6 col-lg-4'>
+                                <a href="/appetizers">
+                                    <img class='recipes_img' src='/images/recipes/Eggs-SA-16-Final-web.jpg' />
+                                    <div class='name'>小食/前菜 </div>
+                                </a>
+                    </div>
+                    <div class='col-sm-6 col-lg-4'>
+                                <a href="/main">
+                                    <img class='recipes_img' src='/images/recipes/Eggs-SA-26-Final-web.jpg' />
+                                    <div class='name'>主菜</div>
+                                </a>
+                    </div>
+                    <div class='col-sm-6 col-lg-4'>
+                               <a href="/dessert">
+                                <img class='recipes_img' src='/images/recipes/Eggs-SA-22-Final-web.jpg' />
+                                    <div class='name'>甜品</div>
+                                </a>
+                    </div>
+                    <div class='col-sm-6 col-lg-4'>
+                                <a href="/newest">
+                                    <img class='recipes_img' src='/images/recipes/Classic-Pad-Thai-small_r.jpg' />
+                                    <div class='name'>最新食譜 </div>
+                                </a>
                     </div>
                     
                 </div>
