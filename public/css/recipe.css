@@ -1,3 +1,5 @@
+ 
+
 img {
   width: 100%;
 }
@@ -34,6 +36,7 @@ img {
   }
 
   .header ul .recipes_back {
+    font-family: 'Noto Sans TC';
     font-size: 24px;
     font-weight: bold;
     padding-top: 8px;
@@ -41,6 +44,7 @@ img {
   }
 
   .header .recipe_title {
+    font-family: 'Noto Sans TC';
     font-size: 60px;
     line-height: 60px;
     margin-top: 50px;
@@ -54,7 +58,10 @@ img {
     line-height: 32px;
     margin-top: 30px;
     margin-bottom: 30px;
-    font-family: Open Sans,Tahoma,sans-serif;
+    font-family: 'Noto Sans TC';
+    /*font-family: Open Sans,Tahoma,sans-serif;*/
+  
+
   }
 
   .recipes_images img {
@@ -62,6 +69,7 @@ img {
   }
 
   .desc {
+     font-family: 'Noto Sans TC';
     font-size: 16px;
     line-height: 16px;
   }
@@ -82,12 +90,14 @@ img {
   }
 
   .desc ul .recipe_worlds {
+     font-family: 'Noto Sans TC';
     padding-top: 55px;
     padding-right: 50px;
     padding-left: 30px;
   }
 
   .recipe_details .recipes_subtitle {
+     font-family: 'Noto Sans TC';
     clear: both;
     color: black;
     font-size: 50px;
@@ -95,6 +105,7 @@ img {
   }
 
   .recipe_details .recipe_nutrition {
+     font-family: 'Noto Sans TC';
     font-size: 20px;
     font-weight: bold;
     line-height: 20px;
@@ -116,6 +127,7 @@ img {
   }
 
   .recipe_details .ingredients {
+    font-family: 'Noto Sans TC';
     clear: both;
     font-size: 20px;
     line-height: 22px;
@@ -123,26 +135,31 @@ img {
   }
 
   .recipe_details .ingredients .ingredients_right {
+     font-family: 'Noto Sans TC';
     font-weight: bold;
   }
 
   .recipe_details .ingredients span {
+     font-family: 'Noto Sans TC';
     display: block;
     padding-bottom: 10px;
-    font-family: Open Sans,Tahoma,sans-serif;
+    /*font-family: Open Sans,Tahoma,sans-serif;*/
   }
 
   .recipe_details .step {
+     font-family: 'Noto Sans TC';
     clear: both;
     margin-top: 50px;
   }
 
   .recipe_details .step .recipes_subtitle {
+     font-family: 'Noto Sans TC';
     font-size: 40px;
     padding: 40px 10px;
   }
 
   .recipe_details .step .step_title {
+     font-family: 'Noto Sans TC';
     color: #fbbb27;
     font-size: 30px;
   }
@@ -150,18 +167,22 @@ img {
   .recipe_details .step .step_body {
     font-size: 20px;
     line-height: 36px;
-    font-family: Open Sans,Tahoma,sans-serif;
+   /* font-family: Open Sans,Tahoma,sans-serif;*/
+    font-family: 'Noto Sans TC';
   }
 
   .recipe_details .step .step_body b {
-    font-family: Open Sans,Tahoma,sans-serif;
+    /*font-family: Open Sans,Tahoma,sans-serif;*/
+     font-family: 'Noto Sans TC';
   }
 
   .recipe_details .step .steps {
+     font-family: 'Noto Sans TC';
     padding-bottom: 50px;
   }
 
   .recipe_details .step .steps .hr1 {
+     font-family: 'Noto Sans TC';
     border-top: none;
     border-bottom: 1px solid #F5F5F5;
     width: 100%;
@@ -169,10 +190,12 @@ img {
   }
 
   .related {
+     font-family: 'Noto Sans TC';
     padding-bottom: 50px;
   }
 
   .related .name {
+     font-family: 'Noto Sans TC';
     color: black;
     font-size: 24px;
     text-align: left;
@@ -183,27 +206,32 @@ img {
   }
 
   #myModal .nutrition_facts {
+     font-family: 'Noto Sans TC';
     padding: 40px;
   }
 
   #myModal .nutrition_facts .close {
+     font-family: 'Noto Sans TC';
     font-size: 24px;
     font-weight: bold;
     color: black;
   }
 
   #myModal .nutrition_facts h1 {
+     font-family: 'Noto Sans TC';
     font-size: 50px;
   }
 
   #myModal .nutrition_facts table {
+     font-family: 'Noto Sans TC';
     font-size: 20px;
     border-top: none;
     border-bottom: 1px solid #d3d3d3;
   }
 
   #myModal .nutrition_facts table tr td {
-    font-family: Open Sans,Tahoma,sans-serif;
+     font-family: 'Noto Sans TC';
+   /* font-family: Open Sans,Tahoma,sans-serif;*/
   }
 }
 
@@ -213,6 +241,7 @@ img {
   }
 
   .header .title_body {
+     font-family: 'Noto Sans TC';
     width: 100%;
   }
 
@@ -234,12 +263,14 @@ img {
   }
 
   .header ul .recipes_back {
+    font-family: 'Noto Sans TC';
     font-size: 24px;
     padding-top: 8px;
     padding-left: 10px;
   }
 
   .header .recipe_title {
+    font-family: 'Noto Sans TC';
     font-size: 38px;
     line-height: 38px;
     margin-top: 20px;
@@ -253,7 +284,8 @@ img {
     line-height: 25px;
     margin-top: 30px;
     margin-bottom: 30px;
-    font-family: Open Sans,Tahoma,sans-serif;
+    /*font-family: Open Sans,Tahoma,sans-serif;*/
+    font-family: 'Noto Sans TC';
   }
 
   .recipes_images img {
@@ -263,6 +295,7 @@ img {
   .desc {
     font-size: 16px;
     line-height: 16px;
+    font-family: 'Noto Sans TC';
   }
 
   .desc ul {
@@ -270,22 +303,28 @@ img {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
+    flex-direction: row;
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
     -ms-flex-wrap: wrap;
         flex-wrap: wrap;
-    margin: auto;
+   
   }
 
   .desc ul li img {
-    width: 66px;
+    width: 44px;
+    
   }
 
   .desc ul .recipe_worlds {
-    padding-top: 55px;
+    font-family: 'Noto Sans TC';
+    padding-top: 30px;
     padding-right: 50px;
-    padding-left: 30px;
+    padding-left: 50px;
+    margin-left:50px;
+    margin-right: 50px;
+    
   }
 
   .recipe_details .recipes_subtitle {
@@ -293,6 +332,7 @@ img {
     clear: both;
     font-size: 40px;
     padding: 40px 10px;
+    font-family: 'Noto Sans TC';
   }
 
   .recipe_details .recipe_nutrition {
@@ -303,6 +343,7 @@ img {
     border: 2px solid #ffcd32;
     border-radius: 40px;
     color: #ffcd32;
+    font-family: 'Noto Sans TC';
   }
 
   .recipe_details .recipe_nutrition:hover {
@@ -315,48 +356,58 @@ img {
     font-size: 16px;
     line-height: 18px;
     padding-bottom: 30px;
+    font-family: 'Noto Sans TC';
   }
 
   .recipe_details .ingredients .ingredients_right {
     font-weight: bold;
+    font-family: 'Noto Sans TC';
   }
 
   .recipe_details .ingredients span {
     display: block;
     padding-bottom: 10px;
-    font-family: Open Sans,Tahoma,sans-serif;
+    /*font-family: Open Sans,Tahoma,sans-serif;*/
+    font-family: 'Noto Sans TC';
   }
 
   .recipe_details .step {
     clear: both;
     margin-top: 50px;
+    font-family: 'Noto Sans TC';
   }
 
   .recipe_details .step .recipes_subtitle {
     font-size: 32px;
     padding: 40px 10px;
+    font-family: 'Noto Sans TC';
   }
 
   .recipe_details .step .step_title {
     color: #fbbb27;
     font-size: 30px;
+    font-family: 'Noto Sans TC';
   }
 
   .recipe_details .step .step_body {
     font-size: 16px;
     line-height: 30px;
-    font-family: Open Sans,Tahoma,sans-serif;
+    /*font-family: Open Sans,Tahoma,sans-serif;*/
+    font-family: 'Noto Sans TC';
   }
 
   .recipe_details .step .step_body b {
-    font-family: Open Sans,Tahoma,sans-serif;
+   /* font-family: Open Sans,Tahoma,sans-serif;*/
+   font-family: 'Noto Sans TC';
   }
 
   .recipe_details .step .steps {
+    font-family: 'Noto Sans TC';
     padding-bottom: 50px;
   }
 
   .recipe_details .step .steps .hr1 {
+    font-family: 'Noto Sans TC';
     padding-top: 10px;
     color: yellow;
     width: 100%;
@@ -364,12 +415,14 @@ img {
 
   .related {
     padding-bottom: 50px;
+    font-family: 'Noto Sans TC';
   }
 
   .related .name {
     color: black;
     font-size: 24px;
     text-align: center;
+    font-family: 'Noto Sans TC';
   }
 
   .related .name:hover {
@@ -377,6 +430,7 @@ img {
   }
 
   #myModal .nutrition_facts {
+    font-family: 'Noto Sans TC';
     padding: 32px;
   }
 
@@ -384,20 +438,24 @@ img {
     font-size: 24px;
     font-weight: bold;
     color: black;
+    font-family: 'Noto Sans TC';
   }
 
   #myModal .nutrition_facts h1 {
     font-size: 38px;
+    font-family: 'Noto Sans TC';
   }
 
   #myModal .nutrition_facts table {
     font-size: 16px;
     border-top: none;
     border-bottom: 1px solid #d3d3d3;
+    font-family: 'Noto Sans TC';
   }
 
   #myModal .nutrition_facts table tr td {
-    font-family: Open Sans,Tahoma,sans-serif;
+    /*font-family: Open Sans,Tahoma,sans-serif;*/
+    font-family: 'Noto Sans TC';
   }
 }
 

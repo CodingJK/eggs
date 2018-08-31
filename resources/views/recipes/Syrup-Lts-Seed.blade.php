@@ -110,13 +110,15 @@
 					</div>
 
 					<div class="steps col-xs-12  text-center">
+						<br>
 						<div class="step_title col-xs-12">步驟 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">往鍋內倒入420毫升清水，加蓋煲5分鐘，在滾水中加入蓮子、黃糖，用慢火再煲10分鐘成糖水。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">往鍋內倒入420毫升清水，加蓋煲5分鐘，在滾水中加入蓮子、黃糖，用慢火再煲10分鐘成糖水。
 						<hr class='hr1'>
 					</div>
-					<hr>
+					
 
 					<div class="steps col-xs-12  text-center">
+						<br>
 						<div class="step_title col-xs-12">步驟 4</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">將剝殼蛋放在糖水中，用中火再煲10分鐘。</div>
 						<hr class='hr1'>

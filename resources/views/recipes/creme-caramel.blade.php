@@ -84,7 +84,7 @@
 	                	<span>砂糖(分成兩份)</span>
 	                	<span>粟米糖漿</span>
 	                	<span>均質牛奶</span>
-	                	<span>呍呢拿精</span>
+	                	<span>香草精</span>
 	                	<span>鹽</span>
 	                	<span>雞蛋(室溫)</span>
 	                	<span>蛋黃</span>
@@ -111,7 +111,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在平底鍋用中火燉煮牛奶、剩餘的砂糖、 呍呢拿精和鹽，直至微沸。同一時間，用大碗攪拌混合雞蛋和蛋黃。不斷攪拌，加入1/2杯(125毫升)熱牛奶，繼續攪拌直至均勻。慢慢拌入剩餘的奶糊，用細網過篩。倒入甜品碗中，覆蓋焦糖。
+						<div class="col-xs-10 col-xs-offset-1 step_body">在平底鍋用中火燉煮牛奶、剩餘的砂糖、 香草精和鹽，直至微沸。同一時間，用大碗攪拌混合雞蛋和蛋黃。不斷攪拌，加入1/2杯(125毫升)熱牛奶，繼續攪拌直至均勻。慢慢拌入剩餘的奶糊，用細網過篩。倒入甜品碗中，覆蓋焦糖。
 						</div>
 							<hr class='hr1'>
 					</div>
@@ -139,7 +139,7 @@
 
 						<h1 class="col-xs-12"><b>小貼士：</b></h1>
 						<div class="col-xs-10 col-xs-offset-1 step_body">可選用鮮莓做裝飾。</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">可選用楓糖精代替呍呢拿精。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">可選用楓糖精代替香草精。</div>
 						
 
 						<hr class='hr1'>

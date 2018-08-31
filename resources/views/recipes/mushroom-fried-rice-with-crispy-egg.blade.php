@@ -51,12 +51,18 @@
 
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
+					<div>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
 					<li class='recipe_worlds'>份量: 2位用</li>
+					</div>
+					<div>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
 					<li class='recipe_worlds'>準備時間: 25分鐘</li>
+				</div>
+				<div>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
 					<li class='recipe_worlds'>烹調時間: 12分鐘</li>
+				</div>
 				</ul>
 			</div>
 

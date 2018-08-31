@@ -22,7 +22,7 @@
 			
 			<span class='recipe_title'>楓糖核桃撻</span>
 			<p class='title_body'>
-					巧妙地將香脆核桃、楓糖漿、紅糖和呍呢拿精焦糖化，自家制甜而不膩的酥脆甜點。作為飯後甜品或下午茶點均可。
+					巧妙地將香脆核桃、楓糖漿、紅糖和香草精焦糖化，自家制甜而不膩的酥脆甜點。作為飯後甜品或下午茶點均可。
 			</p>
 
 			<div class="col-xs-8 col-xs-offset-2 text-center eggs101-social">
@@ -78,7 +78,7 @@
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
 	                	<span>加熱融化牛油或植物牛油</span>
-	                	<span>呍呢拿精 </span>
+	                	<span>香草精 </span>
 	                	<span>核桃碎</span>
 	                </div>
                 </div>

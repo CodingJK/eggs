@@ -3,7 +3,7 @@
         <script>
             $(window).ready(function(){
                 $('.links a').css('border','2px solid #ffbc27');  
-                $("#nav").css('background-color','#fbbb27');
+                $("#nav").css('background-color','#fbbc27');
                 $("#nav").css('border-color','transparent');
                 
                 $('.links a').hover(function(){
@@ -71,8 +71,8 @@
             <div class="item">
                 <a href="/Nutrition">
                 <div class='row Header1'>
-                    <div class='header_nutrition_title'>營養價值</div>
-                    <div class='header_nutrition_sub_title' style="margin:50px 300px;">
+                    <div class='header_nutrition_title'  style="font-family: Noto Sans TC;">營養價值</div>
+                    <div class='header_nutrition_sub_title' style="margin:50px 300px; font-family: Noto Sans TC;">
                         雞蛋是營養最豐富的天然食品之一。一隻大號雞蛋僅含70卡路里，卻飽含大量營養。
                     </div>
                 </div>
@@ -81,8 +81,8 @@
             <div class="item">
                 <a href="/Eggforbabies">
                     <div class='row Header2'>
-                        <div class='header_nutrition_title'>寶寶與雞蛋</div>
-                        <div class='header_nutrition_sub_title' style="margin:50px 300px;">
+                        <div class='header_nutrition_title' style="font-family: Noto Sans TC;">寶寶與雞蛋</div>
+                        <div class='header_nutrition_sub_title' style="margin:50px 300px; font-family: Noto Sans TC;">
                             現在您可從寶寶6個月大開始餵食全蛋，可有助預防雞蛋過敏。
                         </div>
                     </div>
@@ -100,14 +100,14 @@
         <div class='container-fluid FeaturedRecipe_parent clear-both'>
             <br><br>
             <div class='FeaturedRecipe'>
-                <div class='title'>精選食譜<br><br></div>
+                <div class='title' style="font-family: Noto Sans TC;">精選食譜<br><br></div>
                 <div class='row'>
                     <div class='col-sm-6 '>
                         <a href="/Steamed-crab-claw-with-egg-whites">
                             <img src='/images/recipes/Eggs-SA-19-Final-web.jpg' />
                         </a>
-                         <div class='sub_title'>白玉蒸蟹鉗</div>
-                         <div class='right_body'>
+                         <div class='sub_title' style="font-family: Noto Sans TC;">白玉蒸蟹鉗</div>
+                         <div class='right_body' style="font-family: Noto Sans TC;">
                                 這道菜結合了蒸蟹的鮮美和蛋白的嫩滑。一些人認為蛋白才是這道菜的精髓，若其烹調時間恰到好處，將帶來無「蟹」可擊的細膩口感。
                         </div>
                     </div>
@@ -115,8 +115,8 @@
                         <a href="/Gldn-Omlet">
                             <img src='/images/recipes/Eggs-SA-011-Final-web.jpg' />
                         </a>
-                         <div class='sub_title'>黃金蝦仁蛋包飯</div>
-                         <div class='right_body'>
+                         <div class='sub_title' style="font-family: Noto Sans TC;">黃金蝦仁蛋包飯</div>
+                         <div class='right_body' style="font-family: Noto Sans TC;">
                                 我們提供了一個享用炒飯的獨特方式。您可將此做法用於任何炒飯，效果同樣出色。簡單的翻鑊使蛋餅翻轉可呈現金黃色的外觀。
                         </div>
                        <!--  <div class='col-sm-12 getTheRecipe'>
@@ -130,43 +130,43 @@
         <div class='BBQ_parent'>
             <div class="row summerBBQ">
                 
-                <div class='title'><b>全部中文食譜</b> </div>
+                <div class='title' style="font-family: Noto Sans TC;"><b>全部中文食譜</b> </div>
                 
                 <div class='row'>
                    <div class='col-sm-6 col-lg-4'>
                                 <a href="/breakfast">
                                     <img class='recipes_img' src='/images/recipes/Eggs-SA-02-Final-web.jpg' />
-                                    <div class='name'>早餐</div>
+                                    <div class='name' style="font-family: Noto Sans TC;">早餐</div>
                                 </a>
                     </div>
                     <div class='col-sm-6 col-lg-4'>
                                 <a href="/soup">
                                     <img class='recipes_img' src='/images/recipes/Eggs-SA-07-Final-web.jpg' />
-                                    <div class='name'>湯</div>
+                                    <div class='name' style="font-family: Noto Sans TC;">湯</div>
                                 </a>
                     </div>
                     <div class='col-sm-6 col-lg-4'>
                                 <a href="/appetizers">
                                     <img class='recipes_img' src='/images/recipes/Eggs-SA-16-Final-web.jpg' />
-                                    <div class='name'>小食/前菜 </div>
+                                    <div class='name' style="font-family: Noto Sans TC;">小食/前菜 </div>
                                 </a>
                     </div>
                     <div class='col-sm-6 col-lg-4'>
                                 <a href="/main">
                                     <img class='recipes_img' src='/images/recipes/Eggs-SA-26-Final-web.jpg' />
-                                    <div class='name'>主菜</div>
+                                    <div class='name' style="font-family: Noto Sans TC;">主菜</div>
                                 </a>
                     </div>
                     <div class='col-sm-6 col-lg-4'>
                                <a href="/dessert">
                                 <img class='recipes_img' src='/images/recipes/Eggs-SA-22-Final-web.jpg' />
-                                    <div class='name'>甜品</div>
+                                    <div class='name' style="font-family: Noto Sans TC;">甜品</div>
                                 </a>
                     </div>
                     <div class='col-sm-6 col-lg-4'>
                                 <a href="/newest">
                                     <img class='recipes_img' src='/images/recipes/Classic-Pad-Thai-small_r.jpg' />
-                                    <div class='name'>最新食譜 </div>
+                                    <div class='name' style="font-family: Noto Sans TC;">最新食譜 </div>
                                 </a>
                     </div>
                     
@@ -175,7 +175,7 @@
         </div>
 
         <div class='col-xs-12 getTheRecipe_1 text-center'>
-            <a href="/Recipes" id='getTheRecipe_1'> 瀏覽食譜 </a>
+            <a href="/Recipes" id='getTheRecipe_1' style="font-family: Noto Sans TC;"> 瀏覽食譜 </a>
         </div>
 
     </div> 
@@ -184,27 +184,37 @@
     <div id='mobile_only'>
         <div class='mobile_header'>
             <div class='getTheRecipe_1 text-center'>
-                <a href="/Recipes" id='getTheRecipe_1'> 瀏覽食譜 </a>
+                <a href="/Recipes" id='getTheRecipe_1' style="font-family: Noto Sans TC;"> 瀏覽食譜 </a>
             </div>
         </div>
         <div class='FeaturedRecipe_parent clear-both'>
             <div class='FeaturedRecipe'>
-                <div class='title'>Featured Recipe<br><br></div>
-                
-                <div class=' '>
-                    <a href="/Funny-Egg-Fish">
-                        <img src='/images/recipes/Eggs-SA-13-Final_home.jpg' />
-                    </a>
-                </div>
-                
-                <a href="/Funny-Egg-Fish">
-                    <div class='sub_title'>趣味小蛋魚</div>
-                    <div class='right_body'>
-                        這款雞蛋小魚是小孩和大人都會喜歡的有趣小菜。煮熟的雞蛋作為小魚的身體，切成薄片的青瓜和白蘿蔔組成魚鱗，再點綴以紅椒做出魚尾，您就會迎來一片稱讚聲！
+                <div class='title' style="font-family: Noto Sans TC;">精選食譜<br><br></div>
+                <div class='row'>
+                    <div class='col-sm-6 '>
+                        <a href="/Steamed-crab-claw-with-egg-whites">
+                            <img src='/images/recipes/Eggs-SA-19-Final-web.jpg' />
+                        </a>
+                         <div class='sub_title'  style="font-family: Noto Sans TC;" >白玉蒸蟹鉗</div>
+                         <div class='right_body'  style="font-family: Noto Sans TC;">
+                                這道菜結合了蒸蟹的鮮美和蛋白的嫩滑。一些人認為蛋白才是這道菜的精髓，若其烹調時間恰到好處，將帶來無「蟹」可擊的細膩口感。
+                        </div>
                     </div>
-                </a>
+                    <div class='col-sm-6'>
+                        <a href="/Gldn-Omlet">
+                            <img src='/images/recipes/Eggs-SA-011-Final-web.jpg' />
+                        </a>
+                         <div class='sub_title'  style="font-family: Noto Sans TC;">黃金蝦仁蛋包飯</div>
+                         <div class='right_body'  style="font-family: Noto Sans TC;">
+                                我們提供了一個享用炒飯的獨特方式。您可將此做法用於任何炒飯，效果同樣出色。簡單的翻鑊使蛋餅翻轉可呈現金黃色的外觀。
+                        </div>
+                       <!--  <div class='col-sm-12 getTheRecipe'>
+                            <a href="/Funny-Egg-Fish" id='getTheRecipe'> 瀏覽食譜 </a>
+                        </div> -->
+                    </div>
+                </div>
                 <div class='col-sm-12 getTheRecipe'>
-                    <a href="/Funny-Egg-Fish" id='getTheRecipe'> 瀏覽食譜 </a>
+                    <a href="/Funny-Egg-Fish" id='getTheRecipe' style="font-family: Noto Sans TC;"> 瀏覽食譜 </a>
                 </div>
             </div>
         </div>
@@ -213,31 +223,52 @@
         <div class='BBQ_parent'>
             <div class=" summerBBQ">
         
-                <div class='title'>早餐</div>
-        
-                <div class=''>
-                    <div class=''>
-                        <a href="/English-Muffin-Bacon-Tomato-Fried-Egg">
-                                    <img src="/images/recipes/Eggs-SA-02-Final-web.jpg" />
-                                    
-                                    <div class='left_sub_title'>番茄煙肉煎蛋早餐三文治</div>
-                                    
+                <div class='title'style="font-family: Noto Sans TC;"><b>全部中文食譜</b> </div>
+                
+                <div class='row'>
+                   <div class='col-sm-6 col-lg-4'>
+                                <a href="/breakfast">
+                                    <img class='recipes_img' src='/images/recipes/Eggs-SA-02-Final-web.jpg' />
+                                    <div class='name' style="font-family: Noto Sans TC;">早餐</div>
                                 </a>
                     </div>
-                    <div class=''>
-                        <a href="/Scrambled-Eggs">
-                                    <img src='/images/recipes/Eggs-SA-04-Final-web.jpg' />
-                                    
-                                    <div class='left_sub_title'>粟米煙肉炒蛋</div>
+                    <div class='col-sm-6 col-lg-4'>
+                                <a href="/soup">
+                                    <img class='recipes_img' src='/images/recipes/Eggs-SA-07-Final-web.jpg' />
+                                    <div class='name' style="font-family: Noto Sans TC;">湯</div>
                                 </a>
                     </div>
-        
+                    <div class='col-sm-6 col-lg-4'>
+                                <a href="/appetizers">
+                                    <img class='recipes_img' src='/images/recipes/Eggs-SA-16-Final-web.jpg' />
+                                    <div class='name' style="font-family: Noto Sans TC;">小食/前菜 </div>
+                                </a>
+                    </div>
+                    <div class='col-sm-6 col-lg-4'>
+                                <a href="/main">
+                                    <img class='recipes_img' src='/images/recipes/Eggs-SA-26-Final-web.jpg' />
+                                    <div class='name' style="font-family: Noto Sans TC;">主菜</div>
+                                </a>
+                    </div>
+                    <div class='col-sm-6 col-lg-4'>
+                               <a href="/dessert">
+                                <img class='recipes_img' src='/images/recipes/Eggs-SA-22-Final-web.jpg' />
+                                    <div class='name' style="font-family: Noto Sans TC;">甜品</div>
+                                </a>
+                    </div>
+                    <div class='col-sm-6 col-lg-4'>
+                                <a href="/newest">
+                                    <img class='recipes_img' src='/images/recipes/Classic-Pad-Thai-small_r.jpg' />
+                                    <div class='name' style="font-family: Noto Sans TC;">最新食譜 </div>
+                                </a>
+                    </div>
+                    
                 </div>
             </div>
         </div>
         
         <div class='col-xs-12 getTheRecipe_1 text-center'>
-            <a href="/Recipes" id='getTheRecipe_1'> 瀏覽食譜 </a>
+            <a href="/Recipes" id='getTheRecipe_1' style="font-family: Noto Sans TC;"> 瀏覽食譜 </a>
         </div>
         
     </div>   

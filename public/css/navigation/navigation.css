@@ -63,12 +63,13 @@
   }
 
   .Header11 {
-    background-image: url("/images/banner/egg-nutrition-banner-A.jpg");
+    background-image: url("/images/banner/egg-nutrition-banner-A.png");
+    background-color: #fbbc27;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 200px;
-    padding-bottom: 250px;
+    padding-bottom: 465.5px;
     text-align: center;
     min-height: 619px;
   }
@@ -150,6 +151,7 @@
     height: 150px;
     align-items: center;
     width: 75%;
+   
   }
 
   
@@ -168,7 +170,7 @@
   .links a{
     
     font-size: 26px;
-    line-height: 20px;
+    line-height: 30px;
     padding: 16px 12px;
     border: 2px solid white;
     border-radius: 20px;

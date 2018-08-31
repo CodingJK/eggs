@@ -22,22 +22,22 @@
 		</div>
 		<div class="babys_content">
 				
-				<div class='babys_words clear-both'>
-					<p>由加拿大衛生部(Health Canada)、加拿大兒科學會(Canadian Pediatric Society)、
-						加拿大營養師協會(Dietitians of Canada)和加拿大母乳餵養委員會(Breastfeeding Committee
-					for Canada)聯合推出的最新嬰兒餵食指南指出，建議在寶寶滿6個月或剛開始進食固體食物時，
-					引入全蛋餵食。所以您可放心在寶寶吃的食物泥和粥裏加入雞蛋了！</p>
-				</div>
+				
 				
 				
 
 
 				<div class="babys_words clear-both" >
 					
-					<div class="babys_title_sm_2">您知道嗎？ </div>
+					<div class="babys_title_sm_2 text-center" style="margin-top:-35px;margin-bottom:20px; ">您知道嗎？ </div>
 					<p>現在您可從寶寶6個月大開始餵食全蛋，可有助預防雞蛋過敏。</p>
-					<br>
 					
+					
+					<p>由加拿大衛生部(Health Canada)、加拿大兒科學會(Canadian Pediatric Society)、
+						加拿大營養師協會(Dietitians of Canada)和加拿大母乳餵養委員會(Breastfeeding Committee
+					for Canada)聯合推出的最新嬰兒餵食指南指出，建議在寶寶滿6個月或剛開始進食固體食物時，
+					引入全蛋餵食。所以您可放心在寶寶吃的食物泥和粥裏加入雞蛋了！</p>
+				
 					<p>專家不再推薦等到寶寶滿12個月時，才引進常見引起過敏的食物。而實際上，研究表明盡早開始餵食全蛋能有效降低嬰兒對雞蛋產生過敏的風險。</p>
 
 					<div class="babys_title_sm_2">給寶寶餵食雞蛋的更多重要理由</div>
@@ -140,7 +140,7 @@
 						<b>小貼士:</b> 時間緊張？除了自製蕃薯泥，您還可以使用樽裝或壓縮袋裝的蕃薯泥。
 					</p>
 
-					<div class="col-xs-12 col-sm-6" style='margin-bottom: 50px;'>
+					<div class="col-xs-12 col-sm-6" style='margin-bottom: 80px;'>
 						<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/BE8Vmb6SYMg?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="640" height="360" frameborder="0" allowfullscreen></iframe></div>
 					</div>
 					<div class="col-sm-6"><br><br></div>

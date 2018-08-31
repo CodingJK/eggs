@@ -11,6 +11,7 @@
   }
 
   #recipes .header .title{
+     font-family: 'Noto Sans TC';
         color: white;
       font-size: 80px;
       line-height: 80px;
@@ -19,6 +20,7 @@
   }
 
     #recipes .header .header_artical .sub_title {
+       font-family: 'Noto Sans TC';
     margin: auto;
     
     color: white;
@@ -40,6 +42,7 @@
     }
 
     .header .title {
+       font-family: 'Noto Sans TC';
       text-align: center;
           color: white;
           font-size: 40px;
@@ -48,6 +51,7 @@
           margin: 40px 0; 
     }
     .header_artical .recipes_artical{
+       font-family: 'Noto Sans TC';
       font-size: 20px;
       line-height: 28px;
 
@@ -58,12 +62,14 @@
       margin: auto;
     }
     #title_com {
+        font-family: 'Noto Sans TC';
         font-size: 32px;
         font-weight: bold;
         margin: 10px 32px 32px 32px;
         text-align: center; }
 
     .name{
+        font-family: 'Noto Sans TC';
         text-align: center;
         color: black;
         font-size: 20.4px;
@@ -82,6 +88,7 @@
       padding-bottom: 50px; 
     }
     #ViewAll {
+         font-family: 'Noto Sans TC';
         font-size: 20px;
         font-weight: bold;
         line-height: 20px;
@@ -143,12 +150,14 @@
 
     
     #title_com {
+        font-family: 'Noto Sans TC';
         font-size: 32px;
         font-weight: bold;
         margin: 10px 32px 32px 32px;
         text-align: center; }
 
     .name{
+        font-family: 'Noto Sans TC';
         text-align: center;
         color: black;
         font-size: 20.4px;
@@ -167,6 +176,7 @@
       padding-bottom: 50px; 
     }
     #ViewAll {
+         font-family: 'Noto Sans TC';
         font-size: 20px;
         font-weight: bold;
         line-height: 20px;
@@ -202,12 +212,14 @@
 
     
     #title_com {
+         font-family: 'Noto Sans TC';
         font-size: 32px;
         font-weight: bold;
         margin: 10px 32px 32px 32px;
         text-align: center; }
 
     .name{
+         font-family: 'Noto Sans TC';
         text-align: center;
         color: black;
         font-size: 20.4px;
@@ -226,6 +238,7 @@
       padding-bottom: 50px; 
     }
     #ViewAll {
+         font-family: 'Noto Sans TC';
         font-size: 20px;
         font-weight: bold;
         line-height: 20px;

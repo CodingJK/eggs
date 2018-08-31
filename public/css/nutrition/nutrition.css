@@ -26,16 +26,17 @@ img {
   }
 
   .nutrition_header .nutrition_header_artical .nutrition_title {
+   font-family: 'Noto Sans TC';
     color: white;
     font-size: 24px;
     
   }
 
   .nutrition_header .nutrition_header_artical .nutrition_sub_title {
-   
+   font-family: 'Noto Sans TC';
     color: white;
     font-size: 18px;
-    font-family: Open Sans, Tahoma, sans-serif;
+    /*font-family: Open Sans, Tahoma, sans-serif;*/
   }
 
   .nutrition_content .egg_nutrition_page {
@@ -56,6 +57,8 @@ img {
     line-height: 32px;
     padding-top: 30px;
     color: #fd7170;
+    font-weight:bold;
+    font-family: 'Noto Sans TC';
   }
 
   .nutrition_content p {
@@ -63,7 +66,8 @@ img {
     color: black;
     font-size: 16px;
     line-height: 20.4px;
-    font-family: Open Sans, Tahoma, sans-serif;
+    /*font-family: Open Sans, Tahoma, sans-serif;*/
+   font-family: 'Noto Sans TC';
   }
 
   .nutrition_content span {
@@ -75,22 +79,26 @@ img {
     text-align: center;
     font-size: 32px;
     line-height: 32px;
+    font-weight:bold;font-family: 'Noto Sans TC';
   }
 
   .nutrition_content .nutrition_title_sm {
     font-size: 24px;
     line-height: 24px;
+    font-weight:bold;font-family: 'Noto Sans TC';
   }
 
   .nutrition_content .nutrition_title_sm_1 {
     font-size: 24px;
     line-height: 24px;
+    font-weight:bold;font-family: 'Noto Sans TC';
   }
 
   .nutrition_content .nutrition_title_sm_2 {
     font-size: 18px;
     line-height: 18px;
     padding: 30px;
+    font-weight:bold;font-family: 'Noto Sans TC';
   }
 
   .nutrition_content .eggs_nutrition {
@@ -111,6 +119,7 @@ img {
     padding: 10px 20px;
     color: #fd7170;
     background-color: white;
+    font-weight:bold;font-family: 'Noto Sans TC';
   }
 
   .nutrition_content .Featured:hover {
@@ -128,13 +137,15 @@ img {
     color: black;
     font-size: 18px;
     line-height: 22.4px;
-    font-family: Open Sans, Tahoma, sans-serif;
+    /*font-family: Open Sans, Tahoma, sans-serif;*/
+    font-weight:bold;font-family: 'Noto Sans TC';
   }
 
   .nutrition_content .table {
     margin-top: 30px;
     font-size: 18px;
     border-color: #fbbb27;
+    font-weight:bold;font-family: 'Noto Sans TC';
   }
 
   .nutrition_content .table thead {
@@ -151,7 +162,8 @@ img {
   }
 
   .nutrition_content .table td {
-    font-family: Open Sans, Tahoma, sans-serif;
+   /* font-family: Open Sans, Tahoma, sans-serif;*/
+   font-weight:bold;font-family: 'Noto Sans TC';
     border-color: #fbbb27;
     padding: 10px 10px;
   }
@@ -182,6 +194,7 @@ img {
     color: white;
     font-size: 80px;
     line-height: 80px;
+    font-weight:bold;font-family: 'Noto Sans TC';
   }
 
   .nutrition_header .nutrition_header_artical .nutrition_sub_title {
@@ -189,7 +202,8 @@ img {
     color: white;
     font-size: 26px;
     line-height: 36.4px;
-    font-family: Open Sans, Tahoma, sans-serif;
+   /* font-family: Open Sans, Tahoma, sans-serif;*/
+   font-family: 'Noto Sans TC';
   }
 
   .nutrition_content .egg_nutrition_page {
@@ -209,6 +223,7 @@ img {
     line-height: 64px;
     padding-top: 60px;
     color: #fd7170;
+    font-weight:bold;font-family: 'Noto Sans TC';
   }
 
   .nutrition_content p {
@@ -216,7 +231,8 @@ img {
     color: black;
     font-size: 18px;
     line-height: 32px;
-    font-family: Open Sans, Tahoma, sans-serif;
+   /* font-family: Open Sans, Tahoma, sans-serif;*/
+   font-family: 'Noto Sans TC';
   }
 
   .nutrition_content span {
@@ -227,21 +243,25 @@ img {
   .nutrition_content .nutrition_subtitle {
     font-size: 32px;
     line-height: 32px;
+    font-weight:bold;font-family: 'Noto Sans TC';
   }
 
   .nutrition_content .nutrition_title_sm {
     font-size: 48px;
     line-height: 48px;
+    font-weight:bold;font-family: 'Noto Sans TC';
   }
 
   .nutrition_content .nutrition_title_sm_1 {
     font-size: 48px;
     line-height: 48px;
+    font-weight:bold;font-family: 'Noto Sans TC';
   }
 
   .nutrition_content .nutrition_title_sm_2 {
     font-size: 36px;
     line-height: 36px;
+    font-weight:bold;font-family: 'Noto Sans TC';
   }
 
   .nutrition_content .eggs_nutrition {
@@ -266,6 +286,7 @@ img {
     padding: 10px 20px;
     background-color: white;
     color: #fd7170;
+    font-weight:bold;font-family: 'Noto Sans TC';
   }
 
   .nutrition_content .Featured:hover {
@@ -283,13 +304,15 @@ img {
     color: black;
     font-size: 18px;
     line-height: 22.4px;
-    font-family: Open Sans, Tahoma, sans-serif;
+    /*font-family: Open Sans, Tahoma, sans-serif;*/
+    font-weight:bold;font-family: 'Noto Sans TC';
   }
 
   .nutrition_content .table {
     margin-top: 30px;
     font-size: 18px;
     border-color: #fbbb27;
+    font-weight:bold;font-family: 'Noto Sans TC';
   }
 
   .nutrition_content .table thead {
@@ -306,7 +329,8 @@ img {
   }
 
   .nutrition_content .table td {
-    font-family: Open Sans, Tahoma, sans-serif;
+    font-weight:bold;font-family: 'Noto Sans TC';
+   /* font-family: Open Sans, Tahoma, sans-serif;*/
     border-color: #fbbb27;
     padding: 10px 10px;
   }
@@ -320,7 +344,8 @@ img {
     color: black;
     font-size: 18px;
     line-height: 22.4px;
-    font-family: Open Sans, Tahoma, sans-serif;
+   /* font-family: Open Sans, Tahoma, sans-serif;*/
+   font-family: 'Noto Sans TC';
   }
 
   .nutrition_content .nutrition_words .worlds a {

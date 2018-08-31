@@ -21,7 +21,7 @@
 		
 		<div class='container-fuild '>
 			
-			<div class='eggs101_subtitle text-center'>雞蛋簡介</div>
+			<div class='eggs101_subtitle text-center' style="font-size: 48px;">雞蛋簡介</div>
 
 
 
@@ -91,7 +91,7 @@
 
 			<div class="col-xs-12 col-md-8 col-md-offset-2 ">
 				<div class="col-md-10 col-md-offset-1 eggs101_img" style='margin-top:-25px;'>
-					<h3>以下是加拿大用於雞蛋分類的重量標準：</h3>
+					<h3 style="font-family: Noto Sans TC;">以下是加拿大用於雞蛋分類的重量標準：</h3>
 					<ul class='eggs101_details' >
 						<li>特小(Peewee) – 少於42克</li>
 
@@ -111,7 +111,7 @@
 
 			<div class="col-xs-12 col-md-8 col-md-offset-2 ">
 				<div class="col-md-10 col-md-offset-1 eggs101_img" style='margin-top:-80px;'>
-					<h3>雞蛋的計量方式：</h3>
+					<h3 style="font-family: Noto Sans TC;">雞蛋的計量方式：</h3>
 					<ul class='eggs101_details'>
 						<li>1隻大蛋=3茶匙(45毫升)</li>
 			
@@ -139,18 +139,18 @@
 				<div class="col-md-10 col-md-offset-1 eggs101_body_subtitle_2">如何存放雞蛋</div>
 				<div class="col-md-1"></div>
 				<div class="col-md-10 col-md-offset-1" style='padding-left:0'>
-					<h3>經常存放於蛋盒內</h3>
+					<h3 style="font-family: Noto Sans TC;">經常存放於蛋盒內</h3>
 				</div>
 				<div class="col-md-1"></div>
 
 				<div class="col-md-10 col-md-offset-1 eggs101_body" >蛋盒能保護雞蛋，還能防止它們經蛋殼上數千個小氣孔吸收雪櫃中其他食物的強烈氣味。而且，蛋盒上印有的「最佳食用日期」可提醒您留心新鮮度。除此之外，雞蛋較大的一端應保持朝上放置，如同最初包裝在盒內一樣。這樣能令蛋黃一直處於中心位置。</div>
 				<div class="col-md-1"></div>
 			</div>
-			<div class="col-xs-12 col-md-8 col-md-offset-2 " style='margin-top:40px;'>
+			<div class="col-xs-12 col-md-8 col-md-offset-2 " style='margin-top:40px; margin-bottom: 60px;'>
 				<div class="col-md-10 col-md-offset-1 eggs101_body_subtitle_2">食品科學</div>
 				<div class="col-md-1"></div>
 				<div class="col-md-10 col-md-offset-1" style='padding-left:0'>
-					<h3>雞蛋是廚房中不可或缺的食材</h3>
+					<h3 style="font-family: Noto Sans TC;">雞蛋是廚房中不可或缺的食材</h3>
 				</div>
 				<div class="col-md-1"></div>
 				
