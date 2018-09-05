@@ -61,9 +61,9 @@
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
 					<li class='recipe_worlds'> 份量: 4位用</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>準備時間: 20 分鐘</li>
+					<li class='recipe_worlds'>準備時間: 20分鐘</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹調時間: 30 分鐘</li>
+					<li class='recipe_worlds'>烹調時間: 30分鐘</li>
 				</ul>
 			</div>
 
@@ -243,35 +243,35 @@
         	</tr>
         	<tr>
         		<td><b>脂肪</b></td>
-        		<td class='text-right'>1 g</td>
+        		<td class='text-right'>1克</td>
         	</tr>
         	<tr>
         		<td><b>飽和脂肪</b></td>
-        		<td class='text-right'>0.1 g</td>
+        		<td class='text-right'>0.1克</td>
         	</tr>
         	<tr>
         		<td><b>反式脂肪</b>  </td>
-        		<td class='text-right'>0 g</td>
+        		<td class='text-right'>0克</td>
         	</tr>
         	<tr>
         		<td><b>鈉</b></td>
-        		<td class='text-right'>1020 mg</td>
+        		<td class='text-right'>1020毫克</td>
         	</tr>
         	<tr>
         		<td><b>糖</b>  </td>
-        		<td class='text-right'>2 mg  </td>
+        		<td class='text-right'>2毫克</td>
         	</tr>
         	<tr>
         		<td><b>蛋白質</b>  </td>
-        		<td class='text-right'>18 g</td>
+        		<td class='text-right'>18克</td>
         	</tr>
         	<tr>
         		<td><b>纖維</b>  </td>
-        		<td class='text-right'>1 g</td>
+        		<td class='text-right'>1克</td>
         	</tr>
         	<tr>
         		<td><b>碳水化合物</b>  </td>
-        		<td class='text-right'>5 g</td>
+        		<td class='text-right'>5克</td>
         	</tr>
         	
         </table>

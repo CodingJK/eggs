@@ -120,20 +120,20 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用大鍋燒滾2升水，放入雞骨和豬骨煮5分鐘，撈出瀝乾水分</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">用大鍋燒滾2升水，放入雞骨和豬骨煮5分鐘，撈出瀝乾水分。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用同一個鍋重新裝2升水，放入上個步驟的雞骨和豬骨，加薑、白胡椒粒，加蓋用中火煲90分鐘，再換大火滾30分鐘，成500毫升濃湯。使用湯隔隔渣濾得清湯，備用
+						<div class="col-xs-10 col-xs-offset-1 step_body">用同一個鍋重新裝2升水，放入上個步驟的雞骨和豬骨，加薑、白胡椒粒，加蓋用中火煲90分鐘，再換大火滾30分鐘，成500毫升濃湯。使用湯隔隔渣濾得清湯，備用。
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">分開蛋白和蛋黃入2個碗中
+						<div class="col-xs-10 col-xs-offset-1 step_body">分開蛋白和蛋黃入2個碗中。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -141,7 +141,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">分別攪勻蛋白和蛋黃
+						<div class="col-xs-10 col-xs-offset-1 step_body">分別攪勻蛋白和蛋黃。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -149,7 +149,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在8隻中式湯匙內搽上生油
+						<div class="col-xs-10 col-xs-offset-1 step_body">在8隻中式湯匙內搽上生油。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -157,7 +157,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 6</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">往4隻搽好油的湯匙注入蛋白，另外4隻注入蛋黃
+						<div class="col-xs-10 col-xs-offset-1 step_body">往4隻搽好油的湯匙注入蛋白，另外4隻注入蛋黃。
 </div>
 						<hr class='hr1'>
 					</div>

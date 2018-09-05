@@ -116,11 +116,11 @@
 	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
-	                	<span>時令蔬菜切片（蘆筍、粟米、青瓜、蘿蔔、瑞士甜菜、甜豌豆）</span>
+	                	<span>時令蔬菜切片(蘆筍、粟米、青瓜、蘿蔔、瑞士甜菜、甜豌豆)</span>
 	                	<span>青檸(汁)</span>
 	                	<span>麻油</span>
 	                	<span>烘煎芝麻</span>
-	                	<span>泡菜（商店購買或自製均可）</span>
+	                	<span>泡菜(商店購買或自製均可)</span>
 	                	<span>紅蔥頭(切片)</span>
 	                	
 	                </div>

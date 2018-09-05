@@ -234,7 +234,7 @@
         	</tr>
         	<tr>
         		<td><b>糖</b>  </td>
-        		<td class='text-right'>0 mg  </td>
+        		<td class='text-right'>0克</td>
         	</tr>
         	<tr>
         		<td><b>蛋白質</b>  </td>

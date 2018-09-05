@@ -109,7 +109,7 @@
 	                	<span>多用途麵粉</span>
 	                	<span>發酵粉</span>
 	                	<span>鹽</span>
-	                	<span>牛奶（1%脂肪）</span>
+	                	<span>牛奶(1%脂肪)</span>
 	                	<span>野生新鮮或急凍藍莓</span>
 	                	
 	                </div>

@@ -61,7 +61,7 @@
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
 					<li class='recipe_worlds'>份量: 4位用</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>準備時間: 35-40 分鐘</li>
+					<li class='recipe_worlds'>準備時間: 35-40分鐘</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
 					<li class='recipe_worlds'>烹調時間: 準備瑤柱60分鐘+烹煮30分鐘</li>
 				</ul>
