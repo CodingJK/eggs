@@ -26,7 +26,7 @@
 					
 					<div class='complete'> 
 						
-						<div id='title_com' style="font-size:48px;margin-top:60px;margin-bottom: 60px; ">全部中文食譜</div>
+						<div id='title_com' style="margin-top:60px;margin-bottom: 60px; ">全部中文食譜</div>
 						
 						<div class='row'>
                    <div class='col-sm-6 col-lg-4'>

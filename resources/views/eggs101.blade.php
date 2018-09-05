@@ -21,7 +21,7 @@
 		
 		<div class='container-fuild '>
 			
-			<div class='eggs101_subtitle text-center' style="font-size: 48px;">雞蛋簡介</div>
+			<div class='eggs101_subtitle text-center'>雞蛋簡介</div>
 
 
 

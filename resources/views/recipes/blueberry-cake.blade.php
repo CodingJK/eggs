@@ -105,7 +105,7 @@
 	                	<span>軟化牛油</span>
 	                	<span>砂糖</span>
 	                	<span>雞蛋</span>
-	                	<span>呍呢拿</span>
+	                	<span>香草</span>
 	                	<span>多用途麵粉</span>
 	                	<span>發酵粉</span>
 	                	<span>鹽</span>
@@ -139,7 +139,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步驟 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在大碗中用電動攪拌機攪勻牛油和砂糖。加入雞蛋和呍呢拿，混合拌勻。
+						<div class="col-xs-10 col-xs-offset-1 step_body">在大碗中用電動攪拌機攪勻牛油和砂糖。加入雞蛋和香草，混合拌勻。
 						</div>
 							<hr class='hr1'>
 					</div>
