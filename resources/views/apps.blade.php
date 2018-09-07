@@ -29,7 +29,7 @@
 
 	    	<div class='timer'>
 
-	    		<div class='timer_title' style='font-family: Noto Sans TC;color:#333; '>
+	    		<div class='timer_title' style='font-weight:bold;font-family: Noto Sans TC;color:#333; '>
 	    			煮蛋計時App
 	    		</div>
 
@@ -37,7 +37,7 @@
 	    			<img src='/images/apps/image-apps-eggtimer.png' />
 	    		</div>
 
-	    		<div class='timer_title' style='font-weight:bold;font-family: Noto Sans TC; margin-top:20px;'>
+	    		<div class='timer_title' style='font-family: Noto Sans TC; margin-top:20px;'>
 	    			每次下廚，都可打造完美黃金雞蛋。立即下載App。
 	    		</div>
 

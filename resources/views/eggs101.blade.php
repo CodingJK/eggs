@@ -45,7 +45,7 @@
 			</div>
 
 			<div class='col-xs-12 eggs_img'>
-				<img style="width:56%;" src='/images/eggs101/eggs-white.jpg' class="img-responsive center-block"/>
+				<img  src='/images/eggs101/eggs-white.jpg' class="img-responsive center-block"/>
 			</div>
 			
 		</div>

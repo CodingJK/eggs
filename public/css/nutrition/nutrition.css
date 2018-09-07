@@ -75,6 +75,8 @@ img {
    font-family: 'Noto Sans TC';
   }
 
+
+
   .nutrition_content span {
     display: block;
     padding-top: 50px;
@@ -112,6 +114,10 @@ img {
 
   .nutrition_content .eggs_nutrition div {
     padding: 30px 0;
+  }
+
+   .nutrition_content .eggs_nutrition div img {
+    width:500px;
   }
 
   .nutrition_content .left-panel {
@@ -279,6 +285,10 @@ img {
 
   .nutrition_content .eggs_nutrition p {
     padding: 10px 0;
+  }
+
+   .nutrition_content .eggs_nutrition div img {
+    width:768px;
   }
 
   .nutrition_content .left-panel {

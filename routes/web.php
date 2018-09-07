@@ -23,6 +23,10 @@ Route::get('/Nutrition','EggsController@nutrition');
 
 Route::get('/Eggforbabies','EggsController@eggforbabies');
 
+Route::get('/test','UploadController@upload');
+
+
+
 
 
 
