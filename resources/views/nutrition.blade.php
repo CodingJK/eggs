@@ -56,27 +56,27 @@
 				<table class="table table-bordered " >
 					<tbody>
 						<tr class='light_yellow_tr'>
-							<td><b>熱量</b></td>
+							<td>熱量</td>
 							<td>70 卡 / 292.88 千焦</td>
 						</tr>
 						<tr>
-							<td><b>脂肪</b></td>
+							<td>脂肪</td>
 							<td>5 克</td>
 						</tr>
 						<tr class='light_yellow_tr'>
-							<td><b>膽固醇</b></td>
+							<td>膽固醇</td>
 							<td>195 毫克</td>
 						</tr>
 						<tr>
-							<td><b>鈉</b></td>
+							<td>鈉</td>
 							<td>65 毫克</td>
 						</tr>
 						<tr class='light_yellow_tr'>
-							<td><b>碳水化合物</b></td>
+							<td>碳水化合物</td>
 							<td>1 克</td>
 						</tr>
 						<tr>
-							<td><b>蛋白質</b></td>
+							<td>蛋白質</td>
 							<td>6 克 </td>
 						</tr>
 					</tbody>
@@ -155,41 +155,32 @@
 
 					<div class='worlds'>
 						
-						Omega-3 是一種多元不飽和脂肪(即有益脂肪)，有助保護您的心臟。
+						Omega-3 是一種多元不飽和脂肪(即有益脂肪)，有助保護您的心臟。這些脂肪對人體健康是必需的，但由於人體不能自行製造，因此必須從食物中攝取，例如三文魚、某些種類的食用油和果仁，以及含有Omega-3的雞蛋。
 						
 					</div>
-					<div class="worlds">
-						這些脂肪對人體健康是必需的，但由於人體不能自行製造，因此必須從食物中攝取，例如三文魚、某些種類的食用油和果仁，以及含有Omega-3的雞蛋。
-					</div>
+					
 
 					
 					<br>
 					<div class="nutrition_title_sm_2" style="margin-top: 30px;">膽固醇</div>
 					<div class='worlds'><b>您可食用的雞蛋份量可能比您想象中多！</b></div>
 					<div class='worlds'>
-						如果您不吃雞蛋是因為擔心它會成為膽固醇的來源及導致冠心病，現在是時候重新考慮了。
+						如果您不吃雞蛋是因為擔心它會成為膽固醇的來源及導致冠心病，現在是時候重新考慮了。最新的研究顯示，健康的成年人每天可進食1隻雞蛋，而不會增加心臟疾病的風險。
 					</div>
-					<div class='worlds'>
-					最新的研究顯示，健康的成年人每天可進食1隻雞蛋，而不會增加心臟疾病的風險。
-				</div>
+					
 					<div class='worlds'>
 						根據美國心臟協會(American Heart Association)，蛋黃中的葉黃素也可預防早期心臟疾病的發展。
 					</div>
 					
 					<div class='worlds'>
-						欲知更多有助您了解及管理膽固醇的資料，請瀏覽: <a href="eggfarmers.ca" target='_blank'>aneggadayisok.ca</a>.
+						欲知更多有助您了解及管理膽固醇的資料，請瀏覽: <a href="eggfarmers.ca" target='_blank'>aneggadayisok.ca</a>。
 					</div>
 					<br>
 					<div class="nutrition_title_sm_2" style="margin-top: 30px;">雞蛋過敏</div>
 					<div class='worlds'>
-						對雞蛋過敏在成人當中十分罕見，最常見於2至7歲的兒童。研究顯示，大多數兒童往往在幾年內就不再對雞蛋過敏，然而，嚴重的雞蛋過敏可能是終生性的。
+						對雞蛋過敏在成人當中十分罕見，最常見於2至7歲的兒童。研究顯示，大多數兒童往往在幾年內就不再對雞蛋過敏，然而，嚴重的雞蛋過敏可能是終生性的。雞蛋過敏是由其中的一種蛋白質引起，該蛋白質可觸發免疫系統產生一種不正常反應。雞蛋含有兩個致敏部分：蛋黃及蛋白。過敏反應根據個人情況及蛋的進食量而有所不同，可以是輕微亦可能足以致命。
 					</div>
-					<div class="worlds">
-						雞蛋過敏是由其中的一種蛋白質引起，該蛋白質可觸發免疫系統產生一種不正常反應。
-					</div>
-					<div class="worlds">
-						雞蛋含有兩個致敏部分：蛋黃及蛋白。過敏反應根據個人情況及蛋的進食量而有所不同，可以是輕微亦可能足以致命。
-					</div>
+					
 				</div>
 			</div>
 			

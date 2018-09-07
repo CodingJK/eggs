@@ -93,7 +93,7 @@
                 <a href='/Apps' class='apps_link' style='font-weight:bold;font-family: Noto Sans TC;'>應用程序</a>
                
                  
-               <a href='http://www.eggsaregood.ca/SC/' class='lang' style='margin-left:auto; font-family: Noto Sans SC, sans-serif !important;'><b> 简体中文 </b></a>
+               <a href='http://testsc.eggsaregood.ca/' class='lang' style='margin-left:auto; font-family: Noto Sans SC, sans-serif !important;'><b> 简体中文 </b></a>
                 <a href='https://www.eggs.ca/' class='lang'><b> English </b></a>
                <a href='http://www.lesoeufs.ca/' class='lang' style='margin-right:-100px;'><b> French </b></a>
             </div>
@@ -110,7 +110,7 @@
             <a href='/Nutrition' class='nutrition_link' style='font-weight:bold;font-family: Noto Sans TC;'>營養價值</a>
             <a href='/Eggforbabies' class='eggforbabies_link' style='font-weight:bold;font-family: Noto Sans TC,sans-serif !important;'>寶寶與雞蛋</a>
             <a href='/Apps' class='apps_link' style='font-weight:bold;font-family: Noto Sans TC;'>應用程序</a>
-            <a href='http://www.eggsaregood.ca/SC/' class='lang' style='margin-left:auto;font-family:Noto Sans SC;'><b> 简体中文 </b></a>
+            <a href='http://testsc.eggsaregood.ca/' class='lang' style='margin-left:auto;font-family:Noto Sans SC;'><b> 简体中文 </b></a>
                 <a href='https://www.eggs.ca/' class='lang'><b> English </b></a>
                  <a href='http://www.lesoeufs.ca/' class='lang' style='margin-right:-100px;'><b> French </b></a>
           </div>

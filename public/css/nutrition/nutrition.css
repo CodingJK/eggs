@@ -7,6 +7,7 @@ img {
     width: 1300px;
     margin: auto;
   }
+
 }
 
 @media screen and (max-width: 767px) {
@@ -149,7 +150,7 @@ img {
     margin-top: 30px;
     font-size: 18px;
     border-color: #fbbb27;
-    font-weight:bold;font-family: 'Noto Sans TC';
+    font-family: 'Noto Sans TC';
   }
 
   .nutrition_content .table thead {
@@ -167,7 +168,7 @@ img {
 
   .nutrition_content .table td {
    /* font-family: Open Sans, Tahoma, sans-serif;*/
-   font-weight:bold;font-family: 'Noto Sans TC';
+  font-family: 'Noto Sans TC';
     border-color: #fbbb27;
     padding: 10px 10px;
   }
@@ -316,7 +317,7 @@ img {
     margin-top: 30px;
     font-size: 18px;
     border-color: #fbbb27;
-    font-weight:bold;font-family: 'Noto Sans TC';
+    font-family: 'Noto Sans TC';
   }
 
   .nutrition_content .table thead {
@@ -333,7 +334,7 @@ img {
   }
 
   .nutrition_content .table td {
-    font-weight:bold;font-family: 'Noto Sans TC';
+    font-family: 'Noto Sans TC';
    /* font-family: Open Sans, Tahoma, sans-serif;*/
     border-color: #fbbb27;
     padding: 10px 10px;
@@ -347,7 +348,8 @@ img {
     padding: 10px 0px;
     color: black;
     font-size: 18px;
-    line-height: 22.4px;
+    line-height: 32px;
+
    /* font-family: Open Sans, Tahoma, sans-serif;*/
    font-family: 'Noto Sans TC';
   }

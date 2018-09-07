@@ -72,22 +72,29 @@
 				<div class="col-md-1"></div>
 			</div>
 			<div class="col-md-auto"></div>
-			
-			<div class="col-xs-12 col-md-8 col-md-offset-2 ">
-				<div class="col-md-10 col-md-offset-1 eggs101_body">您可能留意到超市的雞蛋有多種大小可供選擇，由特小到特大不等。在加拿大，所有A級雞蛋都按重量分類，而非大小或形狀，因此有時同一個盒中的蛋可能看上去大小不一，但它們的重量總在相似範圍內。</div>
-			</div>
-			<div class="col-md-auto"></div>
-
 			<div class="col-xs-12 col-md-8 col-md-offset-2 ">
 				<div class="col-md-10 col-md-offset-1 eggs101_img">
 					<img src="./images/eggs101/egg-sizes2.jpg" alt="">
 				</div>
 				<div class="col-md-1"> </div>
 			</div>
-				
-			<div class="col-md-auto">
-				
+			<div class="col-md-auto"></div>
+			
+			<div class="col-xs-12 col-md-8 col-md-offset-2 ">
+				<div class="col-md-10 col-md-offset-1 eggs101_body">您可能留意到超市的雞蛋有多種大小可供選擇，由特小到特大不等。在加拿大，所有A級雞蛋都按重量分類，而非大小或形狀，因此有時同一個盒中的蛋可能看上去大小不一，但它們的重量總在相似範圍內。</div>
 			</div>
+			<div class="col-md-auto"></div>
+
+			<!-- <div class="col-xs-12 col-md-8 col-md-offset-2 ">
+				<div class="col-md-10 col-md-offset-1 eggs101_img">
+					<img src="./images/eggs101/egg-sizes2.jpg" alt="">
+				</div>
+				<div class="col-md-1"> </div>
+			</div> -->
+				
+			<!-- <div class="col-md-auto">
+				
+			</div> -->
 
 			<div class="col-xs-12 col-md-8 col-md-offset-2 ">
 				<div class="col-md-10 col-md-offset-1 eggs101_img" style='margin-top:-25px;'>
