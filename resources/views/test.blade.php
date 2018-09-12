@@ -130,10 +130,14 @@
                     </form>
              <div class="form-group row" style="margin-top: 20px;">
                     <div class='col-xs-3 col-xs-offset-6'>
-                        <button class="btn btn-primary btn-block" type='reset'>Reset</button>
+                        <button class="btn btn-primary btn-block" type='reset'>
+                            <a href='/test' style="color:white;text-decoration: none;">Reset</a>
+                        </button>
                     </div>
                     <div class='col-xs-3'>
-                        <button class="btn btn-success btn-block" type='submit'>Create</button>
+                        <button class="btn btn-success btn-block" type='submit'>
+                            <a href='/testsaved' style="color:white;text-decoration: none;">Create</a>
+                        </button>
                     </div>
             </div>
         </div>
@@ -157,7 +161,7 @@
             Dropzone.autoDiscover = false;
 
             var myDropzone = new Dropzone("#myDropzone", {
-            url: "/file/post",
+            url: "/testsaved",
             addRemoveLinks: true,
             method: 'post',
             filesizeBase: 1024,
@@ -172,7 +176,16 @@
             dictFallbackMessage:"浏览器不受支持",
             dictFileTooBig:"文件过大上传文件最大支持.",
             init: function() {
-                alert("here!");
+               
+                this.on('error', function(file, errorMessage) {
+
+                 
+                    alert("here!");
+                    var errorDisplay = document.querySelectorAll('[data-dz-errormessage]');
+                    errorDisplay[errorDisplay.length - 1].innerHTML = 'Error 404: The upload page was not found on the server';
+                  
+                });
+              
                 if (file.accepted) {
                     alert("send!")
                 }

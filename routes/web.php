@@ -25,7 +25,7 @@ Route::get('/Eggforbabies','EggsController@eggforbabies');
 
 Route::get('/test','UploadController@upload');
 
-
+Route::get('/campaign','CampaignController@campaign');
 
 
 
