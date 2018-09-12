@@ -61,6 +61,18 @@
 								</a>
 							</div>
 							<div class='col-sm-6 col-lg-4'>
+								<a href="/stuffed-french-toast-with-strawberries-and-banana">
+									<img class='recipes_img' src='/images/recipes/Stuffed-French-Toast_S.jpg' />
+									<div class='name'>士多啤梨香蕉夾心西多士</div>
+								</a>
+							</div>
+							<div class='col-sm-6 col-lg-4'>
+								<a href="/cloud-eggs">
+									<img class='recipes_img' src='/images/recipes/Cloud-Eggs-CMS_S.jpg' />
+									<div class='name'>夢幻雲朵蛋</div>
+								</a>
+							</div>
+							<div class='col-sm-6 col-lg-4'>
 								<a href="/egg-and-veggie-salad-rolls-with-sweet-heat-dipping-sauce">
 									<img class='recipes_img' src='/images/recipes/Egg-and-Veggie-Salad-Rolls-with-Sweet-Heat-Dipping-Sauce-small_r.jpg' />
 									<div class='name'>越式雞蛋生菜沙律卷配甜辣醬</div>
@@ -158,6 +170,13 @@
 								</a>
 							</div>
 							<div class='col-sm-6 col-lg-4'>
+								<a href="/zesty-eggplant-frittata">
+									<img class='recipes_img' src='/images/recipes/Zesty-Eggplant-Frittata_S.jpg' />
+									<div class='name ' >茄子意大利蛋餅</div>
+									
+								</a>
+							</div>
+							<div class='col-sm-6 col-lg-4'>
 								<a href="/maple-walnut-tarts">
 														<img class='recipes_img' src='/images/recipes/Maple-Walnut-Tarts-small_r.jpg' />
 														<div class='name ' >楓糖核桃撻</div>
@@ -181,9 +200,22 @@
 														<div class='name ' >提拉米蘇千層蛋糕</div>
 													</a>
 							</div>
+							<div class='col-sm-6 col-lg-4'>
+								<a href="/cafe-pot-au-creme">
+														<img class='recipes_img' src='/images/recipes/Cafe-Chocolate-Pot-au-Creme-CMS_S.jpg' />
+														<div class='name ' >法式朱古力咖啡杯</div>
+													</a>
+							</div>
+							<div class='col-sm-6 col-lg-4'>
+								<a href="/fatal-attraction">
+														<img class='recipes_img' src='/images/recipes/Fatal-Attractions-01-S.jpg' />
+														<div class='name ' >朱古力雪山曲奇</div>
+													</a>
+							</div>
 
 							
 						</div>
+
 
 						
 

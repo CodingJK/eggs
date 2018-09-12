@@ -153,8 +153,9 @@
 
     <script>
        
-            alert("here!");
+           
             Dropzone.autoDiscover = false;
+
             var myDropzone = new Dropzone("#myDropzone", {
             url: "/file/post",
             addRemoveLinks: true,
@@ -171,6 +172,7 @@
             dictFallbackMessage:"浏览器不受支持",
             dictFileTooBig:"文件过大上传文件最大支持.",
             init: function() {
+                alert("here!");
                 if (file.accepted) {
                     alert("send!")
                 }
