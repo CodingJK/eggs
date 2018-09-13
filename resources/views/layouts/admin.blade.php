@@ -56,8 +56,6 @@
         }
 
         .footer {
-            position: absolute;
-            bottom: 0;
             width: 100%;
             height: 60px;
             /* Set the fixed height of the footer here */
@@ -127,7 +125,7 @@
 
 
 
-    <div class=" text-center footer">
+    <div class="text-center footer navbar-fixed-bottom">
         &copy; 2018. All rights reserved.
     </div>
 

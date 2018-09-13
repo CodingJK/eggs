@@ -1,5 +1,4 @@
 <?php
-
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
@@ -64,7 +63,19 @@ class CampaignController extends Controller
     }
 
     public function allCandidates(){
-        $candidates = Candidate::paginate(18);
+        $candidates = Candidate::orderBy('display','desc')->paginate(15);
         return view('campaign.allCandidates',compact('candidates'));
+    }
+
+    public function show($id){
+        $candidate = Candidate::find($id);
+
+        if ($candidate) {
+            $candidate->display = !$candidate->display;
+            $candidate->save();
+        }else{
+            return 1;
+        }
+        return response()->json(['candidate'=>$candidate],200);  
     }
 }

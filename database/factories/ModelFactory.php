@@ -16,12 +16,7 @@ $factory->define(App\Candidate::class, function (Faker\Generator $faker) {
     return [
         'firstname' => $faker->firstname,
         'lastname' => $faker->lastname,
-        'phone' => $faker->phoneNumber,
-        'city' => $faker->city,
-        'address' =>$faker->streetAddress,
-        'province' =>$faker->state,
-        'country' =>$faker->country,
-        'postalcode' => $faker->postcode,
+        'phone' => $faker->tollFreePhoneNumber,
         'email' => $faker->unique()->safeEmail,
         
     ];

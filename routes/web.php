@@ -1,4 +1,9 @@
 <?php
+Auth::routes();
+
+Route::get('newUser',function(){
+    return view('auth.newUser');
+});
 
 /*
 |--------------------------------------------------------------------------
@@ -33,6 +38,7 @@ Route::get('/test','UploadController@upload');
 Route::get('English-Muffin-Bacon-Tomato-Fried-Egg', function () {
         return view('recipes.English-Muffin-Bacon-Tomato-Fried-Egg');
     });
+
 
 Route::get('grandmaIndian', function () {
         return view('recipes.grandmaIndian');
@@ -252,7 +258,6 @@ Route::get('Duo-Egg-Pearl', function () {
     
 
     // campaign admin panel
-    Route::get('/login','CampaignController@admin');
 
     Route::get('allCandidates','CampaignController@allCandidates');
 
@@ -267,6 +272,10 @@ Route::get('Duo-Egg-Pearl', function () {
 
 
 
-Auth::routes();
+
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+
+// change show or not show status
+Route::any('/show/{id}','CampaignController@show');
