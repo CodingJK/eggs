@@ -173,7 +173,7 @@
 					</div>
 					
 					<div class='worlds'>
-						欲知更多有助您了解及管理膽固醇的資料，請瀏覽: <a href="eggfarmers.ca" target='_blank'>aneggadayisok.ca</a>。
+						欲知更多有助您了解及管理膽固醇的資料，請瀏覽: <a href="https://www.eggs.ca/" target='_blank'>aneggadayisok.ca</a>。
 					</div>
 					<br>
 					<div class="nutrition_title_sm_2" style="margin-top: 30px;">雞蛋過敏</div>

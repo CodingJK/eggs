@@ -181,6 +181,13 @@
 									
 								</a>
 							</div>
+							<div class='col-sm-6 col-lg-4'>
+								<a href="/zesty-eggplant-frittata">
+									<img class='recipes_img' src='/images/recipes/Zesty-Eggplant-Frittata_S.jpg' />
+									<div class='name ' >茄子意大利蛋餅</div>
+									
+								</a>
+							</div>
 							
 							
 							

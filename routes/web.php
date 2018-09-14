@@ -30,6 +30,10 @@ Route::get('/Eggforbabies','EggsController@eggforbabies');
 
 Route::get('/test','UploadController@upload');
 
+Route::get('/campaign','CampaignController@campaign');
+
+
+
 
 
 
@@ -253,6 +257,21 @@ Route::get('Duo-Egg-Pearl', function () {
     });
    Route::get('newest', function () {
         return view('recipes.newest');
+    });
+   Route::get('stuffed-french-toast-with-strawberries-and-banana', function () {
+        return view('recipes.stuffed-french-toast-with-strawberries-and-banana');
+    });
+   Route::get('cloud-eggs', function () {
+        return view('recipes.cloud-eggs');
+    });
+   Route::get('zesty-eggplant-frittata', function () {
+        return view('recipes.zesty-eggplant-frittata');
+    });
+   Route::get('cafe-pot-au-creme', function () {
+        return view('recipes.cafe-pot-au-creme');
+    });
+    Route::get('fatal-attraction', function () {
+        return view('recipes.fatal-attraction');
     });
    
     
