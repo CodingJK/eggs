@@ -1,68 +1,89 @@
 <?php
-
+ 
 namespace App\Http\Controllers;
+ 
+use App\upload;
+use App\Candidate;
 use Illuminate\Http\Request;
-use App\images;
 use Illuminate\Support\Facades\Response;
-use Codingo\Dropzoner;
-
+use Intervention\Image\Facades\Image;
+ 
 class UploadController extends Controller
 {
-
-	private $photos_path;
  
-    public function __construct()
+    private $photos_path;
+ 
+    /**
+     * Display all of the images.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function index()
     {
-        $this->photos_path = public_path('/images');
+        $photos = Upload::all();
+        return view('show', compact('photos'));
     }
-
-    
-    public function upload(){
-
-    	return view('test');
+ 
+    /**
+     * Show the form for creating uploading new images.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function create()
+    {
+        return view('test');
     }
-
+ 
     /**
      * Saving images uploaded through XHR Request.
      *
      * @param  \Illuminate\Http\Request $request
      * @return \Illuminate\Http\Response
      */
-    public function store(Request $request)
-    {
-        $photos = $request->file('file');
- 
-        if (!is_array($photos)) {
-            $photos = [$photos];
+    public function newCandidate(Request $request){
+        $this->validate($request,[
+            'firstname' => 'required|max:50',
+            'lastname' =>  'required|max:50',
+            'phone' => 'required|max:15',
+            // 'city' => 'required|max:50',
+            // 'address' => 'required|max:50',
+            // 'province' => 'required|max:50',
+            // 'country' => 'required|max:50',
+            // 'postalcode' =>  'required|max:8',
+            'email' => 'required|max:50|unique:candidates',
+            // 'title' => 'required|max:50',
+            // 'images' => 'required|image',
+            // 'description' => 'required',
+        ]);
+            
+        $uploads = new upload();
+
+        $uploads->firstname = $request->firstname;
+         $uploads->lastname = $request->lastname;
+        $uploads->phone = $request->phone;
+        // $candidate->city = $request->city;
+        // $candidate->address = $request->address;
+        // $candidate->province = $request->province;
+        // $candidate->country = $request->country;
+        // $candidate->postalcode = $request->postalcode;
+         $uploads->email = $request->email;
+
+         $uploads->save();
+
+        if ($request->hasFile('images')) {
+            echo "images";
+            $image = $request->file('file');
+            $fileName = $image->getClientOriginalName();
+            $image->storeAs('public/upload',$request->firstname.'-'.$request->lastname.$fileName);
+            // $uploads = new uploads();
+            $uploads->$resized_name = $image;
+            $uploads->save();
+        }else{
+            
         }
- 
-        if (!is_dir($this->photos_path)) {
-            mkdir($this->photos_path, 0777);
-        }
- 
-        for ($i = 0; $i < count($photos); $i++) {
-            $photo = $photos[$i];
-            $name = sha1(date('YmdHis') . str_random(30));
-            $save_name = $name . '.' . $photo->getClientOriginalExtension();
-            $resize_name = $name . str_random(2) . '.' . $photo->getClientOriginalExtension();
- 
-            Image::make($photo)
-                ->resize(250, null, function ($constraints) {
-                    $constraints->aspectRatio();
-                })
-                ->save($this->photos_path . '/' . $resize_name);
- 
-            $photo->move($this->photos_path, $save_name);
- 
-            $upload = new Upload();
-            $upload->filename = $save_name;
-            $upload->resized_name = $resize_name;
-            $upload->original_name = basename($photo->getClientOriginalName());
-            $upload->save();
-        }
-        return Response::json([
-            'message' => 'Image saved Successfully'
-        ], 200);
+
+        return redirect()->back()->with('status','Success');
     }
  
+
 }

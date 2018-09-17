@@ -28,7 +28,8 @@ Route::get('/Nutrition','EggsController@nutrition');
 
 Route::get('/Eggforbabies','EggsController@eggforbabies');
 
-Route::get('/test','UploadController@upload');
+Route::get('/test','UploadController@create');
+Route::post('/testsaved','UploadController@newCandidates');
 
 Route::get('/campaign','CampaignController@campaign');
 

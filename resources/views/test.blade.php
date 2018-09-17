@@ -83,7 +83,7 @@
            
             <label>Upload Image</label>
                     <form action="/testsaved" class="dropzone" id="myDropzone" style="margin-top:20px;height: 300px;">
-                        <input type="file" name="file" />
+                        <!-- <input type="file" name="file" /> -->
                     </form>
              <div class="form-group row" style="margin-top: 20px;">
                     <div class='col-xs-3 col-xs-offset-6'>
