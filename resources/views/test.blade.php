@@ -415,6 +415,10 @@ slideshow();
         },
         sending: function(file, xhr, formData) {
             formData.append("filesize", file.size);
+            $('#submit-bn'){
+                e.preventDefault();
+                document.getElementById('personal_info').submit();
+            };
             $.ajax({
                 url: "/savePic",
                 method:'post',
@@ -438,7 +442,7 @@ slideshow();
     
         function OnSubmitFunction(token) {
             
-            document.getElementById('personal_info').submit();
+            //document.getElementById('personal_info').submit();
             check();
             document.getElementById('captcha').submit();
             //alert('personal_info submit!')
