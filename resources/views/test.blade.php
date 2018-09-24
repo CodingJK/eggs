@@ -903,6 +903,13 @@ slideshow();
                 if(file.size < 2){
                     alert("文件太小！");
                 };
+                var accept = $("#read").is(":checked");
+                if(!accept){
+                    alert("請先閱讀條款!")
+                }else{
+                    
+                    document.getElementById('captcha').submit();
+                }
                 myDropzone.processQueue();
                 
             });
@@ -928,8 +935,13 @@ slideshow();
         function OnSubmitFunction(token) {
             
             document.getElementById('personal_info').submit();
-            //check();
-            document.getElementById('captcha').submit();
+            var accept = $("#read").is(":checked");
+            if(!accept){
+                alert("請先閱讀條款!")
+            }else{
+
+                document.getElementById('captcha').submit();
+            }
             //alert('personal_info submit!')
            
         }
