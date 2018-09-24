@@ -311,3 +311,5 @@ Route::get('/home', 'HomeController@index')->name('home');
 
 // change show or not show status
 Route::any('/show/{id}','CampaignController@show');
+
+Route::post('/savePic','UploadController@savePic');

@@ -909,12 +909,11 @@ slideshow();
         },
         sending: function(file, xhr, formData) {
             formData.append("filesize", file.size);
-            formData.append("email",jquery('#name').val());
+           formData.append("email",$('#name').val());
             
         },
         success: function (file, response, e) {
             alert("success!");
-            alert("response");
             var res = JSON.parse(response);
             if (res.error) {
                 $(file.previewTemplate).children('.dz-error-mark').css('opacity', '0.1')
@@ -926,7 +925,7 @@ slideshow();
             
             //document.getElementById('personal_info').submit();
             //check();
-            //document.getElementById('captcha').submit();
+            document.getElementById('captcha').submit();
             //alert('personal_info submit!')
            
         }

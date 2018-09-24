@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
  
 use App\upload;
 use App\Candidate;
+
 use App\photo;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Response;
@@ -45,7 +46,6 @@ class UploadController extends Controller
         ]);
             
         $candidate = new Candidate;
-
         $candidate->firstname = $request->firstname;
         $candidate->lastname = $request->lastname;
         $candidate->phone = $request->phone;
@@ -60,7 +60,7 @@ class UploadController extends Controller
         //     'images' => 'required|image',
         // ]);
         
-        if($request->hasFile('image')){
+        if($request->image){
             $file = $request->image;
             $name = $file->getClientOriginalName();
             $location = public_path('upload');
@@ -73,11 +73,10 @@ class UploadController extends Controller
             $rimg->save('upload/'.$newName.'.jpg');
             $upload = new Upload();
             // $person = Candidate::find(1)->upload_image()->create(['']);
-            $person = Candidata::orderBy('id','desc')->first();
-            dd($person);
+            $person = Candidate::orderBy('id','desc')->first();
             $upload->person_id = $person->id;
-            $upload->original_name = $orignal;
-            $upload->resized_name = $resizepath;
+            $upload->original_name = $name;
+            $upload->resized_name = $newName;
             $upload->save();
         }
         else{
