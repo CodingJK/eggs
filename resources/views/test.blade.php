@@ -415,24 +415,12 @@ slideshow();
         },
         sending: function(file, xhr, formData) {
             formData.append("filesize", file.size);
-            $('#submit-bn'){
-                e.preventDefault();
-                document.getElementById('personal_info').submit();
-            };
-            $.ajax({
-                url: "/savePic",
-                method:'post',
-                data:{
-                    'phone':$('#phone').val(),
-                    'email':$('#email').val()
-                },
-                success: function(data){
-                    alert(data);
-                }
-            })
+            formData.append("email",jquery('#name').val());
+            
         },
         success: function (file, response, e) {
-            alert("success!")
+            alert("success!");
+            alert("response");
             var res = JSON.parse(response);
             if (res.error) {
                 $(file.previewTemplate).children('.dz-error-mark').css('opacity', '0.1')
@@ -443,8 +431,8 @@ slideshow();
         function OnSubmitFunction(token) {
             
             //document.getElementById('personal_info').submit();
-            check();
-            document.getElementById('captcha').submit();
+            //check();
+            //document.getElementById('captcha').submit();
             //alert('personal_info submit!')
            
         }
