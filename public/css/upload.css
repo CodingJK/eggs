@@ -1,0 +1,501 @@
+.container{
+  width: 1300px;
+}
+
+
+
+@media screen and (min-width: 1300px) {
+
+  .compaign_header1 {
+   /*background-image: url("/images/banner/EFC-contestPageBanner-BG.jpg");*/
+    background-color: #fbbc27;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 200px;
+    padding-bottom: 30px;
+    display: flex;
+    flex-direction: row;
+    min-height: 619px;
+  }
+  
+  .compaign_header1 .left {
+    padding-right: 0px;
+    max-width: 534px;
+    margin-left: 450px;
+    vertical-align: center;
+    display: flex;
+    flex-direction: column;
+
+  }
+ .compaign_header1 .left .header_title{
+    margin-top: -30px;
+    margin-bottom: 15px;
+    font-weight: bold;
+    font-size:60px;
+    color: white;
+ }
+ .compaign_header1 .left .header_sub_title{
+    font-size:32px;
+ }
+ .compaign_header1 .left .header_b{
+  font-size: 32px;
+  font-weight: bold;
+  margin-left: -10px;
+ }
+  .compaign_header1 .right img{
+    vertical-align: center;
+    max-width: 534px;
+    margin-left: 100px;
+  }
+  #slideshow{
+  width: 160px;  
+  height: 600px;
+  margin: 0 auto; /*设置在页面水平居中*/
+  /*overflow: hidden;*/
+  position: relative;  
+}
+#slideshow img{
+  width: 534px;
+  position: absolute; /*图片采取绝对定位，均位于左上角，重叠在一起*/
+  top: 0;
+  left: 5;
+  opacity: 0; /*初始不透明度为0，图片都看不见*/
+  transition: opacity 1s linear; /*--重点--定义一个关于透明度的transition*/
+}
+#slideshow img.active{
+  opacity: 1; /*有active类的图片不透明度为1，即显示图片*/
+}
+.form-group{
+  display:flex;
+  flex-direction: column;
+}
+
+.form-detail{
+  display:flex;
+  flex-direction:row;
+}
+.title {
+        margin-top: -150px;
+        margin-bottom: 50px;
+        margin-left: 100px;
+        font-size: 40px;
+        font-weight: bold; 
+        font-family: Noto Sans TC;
+
+}
+.subtitle{
+  font-size: 27px;
+  font-family: Noto Sans TC;
+  margin-top: -20px;
+  margin-bottom: 50px;
+  margin-left: 100px;
+}
+
+.img-subtitle{
+  font-size: 27px;
+  margin-top: 50px;
+  font-family: Noto Sans TC;
+  margin-bottom: 10px;
+  margin-left: 100px;
+}
+
+.alert .alert-danger{
+    margin-top: -250px;
+}
+                    
+
+label{
+  font-family: Noto Sans TC;
+  font-size: 27px;
+  direction: ltr;
+  margin-left: 100px;
+  text-align: left;
+
+  
+}
+
+.col-form-label{
+  display:inline-block;
+  margin-top: 20px;
+  width:2500px;
+  
+  
+}
+
+input[type="text"]{
+  -web-kit-appearance:none;
+  -moz-appearance: none;
+  padding:0px;
+  
+}
+input[type="email"]{
+  -web-kit-appearance:none;
+  -moz-appearance: none;
+  padding:10px;
+ 
+
+  
+}
+input[type="number"]{
+  -web-kit-appearance:none;
+  -moz-appearance: none;
+  padding:10px;
+  
+}
+
+#firstname{
+  margin-top: 20px;
+  margin-left: 85px;
+  float:left;
+  width:300px;
+}
+
+.fixw{
+ margin-left: 100px;
+ width:600px;
+
+
+}
+.fixl{
+  width:200px;
+}
+#email{
+  margin-top: 20px;
+  margin-left: 85px;
+  float:left;
+  width:300px;
+  
+}
+
+#lastname{
+  margin-top: 20px;
+  margin-left: 85px;
+  float:left;
+  width:300px;
+}
+
+#phone{
+  margin-top: 20px;
+  margin-left: 85px;
+  float:left;
+  width:300px;
+  
+}
+#reading{
+  font-family: Noto Sans TC;
+  font-size: 16px;
+  margin-top: 20px;
+  margin-left: 113px;
+}
+.modal-title #myModalLabel{
+  font-family: Noto Sans TC;
+  font-size: 16px;
+  margin-top: 10px;
+  margin-left: 3px;
+}
+input[type="checkbox"]{
+  font-family: Noto Sans TC;
+  font-size: 16px;
+  margin-top: 20px;
+  margin-left: 116px;
+}
+#myDropzone{
+  height:300px;
+  width: 1100px;
+  margin-left: 100px;
+}
+#submit-bn{
+    background-color: #fbbc27; /* Green */
+    border: none;
+    color: white;
+    font-family: Noto Sans TC;
+    font-weight: bold;
+    padding: 10px 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 105px;
+    
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+   border-radius:25px;-moz-border-radius:25px;
+}
+
+
+.dropzone .dz-preview.dz-image-preview{
+  /*margin-top: -300px;*/
+  margin-left: 450px;
+
+}
+
+footer {
+      background-color: #ffcd32;
+      color: black;
+      clear:both;
+      text-align: center;
+
+}
+footer .footer_link{
+
+        font-weight: bold;
+        font-size: 16px;
+        padding-bottom: 20px; 
+        margin-top: -90px;
+        margin-left: 500px;
+}
+ footer .footer_link li {
+          display: inline;
+          padding-left: 10px;
+          font-family:Noto Sans TC ,sans-serif;
+
+ }
+        footer .footer_link a {
+          color: black;
+          font-family:Noto Sans TC ,sans-serif; 
+        }
+          footer .footer_link a:hover {
+            text-decoration: underline; 
+        }
+      footer .copydiv{
+          margin-top: -50px;
+        margin-left: 400px;
+      }
+      footer #copyright {
+        font-family:Noto Sans TC ,sans-serif;
+        font-weight: 600;
+        font-size: 12.8px;
+        padding-bottom: 20px;
+        color: black;
+        
+ }
+
+  /*.compaign_header2 {
+    background-image: url("/images/nutrition/Eggs_nutrition.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 200px;
+    padding-bottom: 250px;
+    text-align: center;
+    min-height: 619px;
+  }
+
+  .Header1 .header_nutrition_title {
+    color: white;
+    font-size: 60px;
+    line-height: 60px;
+  }
+
+  .Header1 .header_nutrition_sub_title {
+    padding: 10px 50px;
+    color: white;
+    font-size: 22px;
+    line-height: 36.4px;
+    font-family: Open Sans, Tahoma, sans-serif;
+  }
+
+  .compaign_header3 {
+    background-image: url("/images/babys/mom_baby.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 200px;
+    padding-bottom: 250px;
+    text-align: center;
+    min-height: 619px;
+  }
+
+  .Header2 .header_nutrition_title {
+    color: white;
+    font-size: 60px;
+    line-height: 60px;
+  }
+
+  .Header2 .header_nutrition_sub_title {
+    padding: 10px 50px;
+    color: white;
+    font-size: 22px;
+    line-height: 36.4px;
+    
+  }
+}*/
+
+@media screen and (min-width: 850px) and (max-width: 1300px) {
+  .mobile_nav{
+    display: none;
+  }
+  .large_nav{
+    display: none;
+  }
+  .middle_nav{
+    display: block;
+    display: flex;
+   
+  }
+
+  #mid_nav{
+   border-bottom:1px solid #f3f5f6;
+  }
+  
+
+  .links{
+    
+    margin-left: 5%;
+    display: flex;
+    justify-content: space-between;
+    height: 150px;
+    align-items: center;
+    width: 75%;
+   
+  }
+
+  
+
+  #mid_logo{
+    width: 130px;
+    height: 130px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url('/images/logo.png');
+    
+
+  }
+
+  .links a{
+    
+    font-size: 26px;
+    line-height: 30px;
+    padding: 16px 12px;
+    border: 2px solid white;
+    border-radius: 20px;
+    color: black;
+    
+  }
+  .links a:hover {
+    border-color: #fbbb27;
+    color: #fbbb27;
+  }
+
+ .links .lang{
+    color: black;
+   /* border:2px solid black;*/
+    padding: 10px 11px;
+   /* border-radius: 100%;*/
+  }
+
+  .Header11 {
+    background-image: url("/images/banner/EFC-contestPageBanner-BG.jpg");
+    background-position:left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 200px;
+    padding-bottom: 250px;
+    text-align: center;
+    min-height: 619px;
+  }
+
+  .Header1 {
+    background-image: url("/images/nutrition/Eggs_nutrition.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 200px;
+    padding-bottom: 100px;
+    text-align: center;
+    min-height: 619px;
+  }
+
+  .Header1 .header_nutrition_title {
+    color: white;
+    font-size: 60px;
+    line-height: 60px;
+  }
+
+  .Header1 .header_nutrition_sub_title {
+    padding: 10px 50px;
+    color: white;
+    font-size: 22px;
+    line-height: 36.4px;
+    font-family: Open Sans, Tahoma, sans-serif;
+  }
+
+  .Header2 {
+    background-image: url("/images/babys/mom_baby.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 200px;
+    padding-bottom: 100px;
+    text-align: center;
+    min-height: 619px;
+  }
+
+  .Header2 .header_nutrition_title {
+    color: white;
+    font-size: 60px;
+    line-height: 60px;
+  }
+
+  .Header2 .header_nutrition_sub_title {
+    padding: 10px 50px;
+    color: white;
+    font-size: 22px;
+    line-height: 36.4px;
+    font-family: Open Sans, Tahoma, sans-serif;
+  }
+  
+}
+
+@media screen and (max-width: 850px) {
+
+  .large_nav, .middle_nav{
+    display: none;
+  }
+
+  .mobile_nav{
+    display: block;
+  }
+
+  #alert_layer {
+    background-color: white;
+    z-index: 9;
+    padding: 20px;
+    display: none;
+  }
+
+  #alert_layer a {
+    color: black;
+  }
+
+  #alert_layer .alert-link {
+    border: 2px solid white;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 20px;
+    padding: 9.6px 12.8px;
+  }
+
+  #alert_layer .alert-link:hover {
+    border-color: #fbbb27;
+  }
+
+  .mobile_nav{
+    height: 80px;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    width: 100%;
+  }
+
+  .mobile-logo{
+    background-size: contain;
+    background-image: url('/images/logo.png');
+    background-repeat: no-repeat;
+    height: 44.58px;
+    background-position: center;
+  }
+  
+}
+

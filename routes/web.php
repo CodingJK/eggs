@@ -28,11 +28,6 @@ Route::get('/Nutrition','EggsController@nutrition');
 
 Route::get('/Eggforbabies','EggsController@eggforbabies');
 
-Route::get('/test','UploadController@create');
-Route::post('/testsaved','UploadController@newCandidates');
-
-Route::get('/campaign','CampaignController@campaign');
-
 
 
 
@@ -284,11 +279,28 @@ Route::get('Duo-Egg-Pearl', function () {
     // campaign stage 1
     Route::get('/campaign','CampaignController@index');
 
-    Route::post('/newCandidate','CampaignController@newCandidate');
+   // Route::post('/newCandidate','CampaignController@newCandidate');
 
     
-
-
+    Route::get('/test', 'UploadController@drop');
+    Route::post('/newCandidate','UploadController@newCandidate');
+    //recaptcha
+    Route::post('/post', function (\Illuminate\Http\Request $request) {
+        $client = new \GuzzleHttp\Client();
+        $result = $client->post('https://www.google.com/recaptcha/api/siteverify', [
+            'form_params' => [
+                'secret' =>'6LeIxAcTAAAAAGG-vFI1TnRWxMZNFuojJ4WifJWe',
+                // 'secret' => '6LfuF3EUAAAAACf-eeZbvgydmKha1To6PlVmH-dJ',
+                'response' => $request->get('g-recaptcha-response')
+            ]
+        ]);
+        $result = json_decode($result->getBody(), true);
+        if (isset($result['success']) && $result['success']) {
+            return '驗證成功';
+        } else {
+            return '驗證失敗';
+        }
+    });
 
 
 

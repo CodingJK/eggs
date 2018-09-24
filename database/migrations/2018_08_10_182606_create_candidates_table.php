@@ -19,11 +19,11 @@ class CreateCandidatesTable extends Migration
             $table->string('lastname',255);
             $table->string('email',255);
             $table->string('phone',255);
-            $table->string('address',255);
-            $table->string('city',255);
-            $table->string('province',255);
-            $table->string('country',255);
-            $table->string('postalcode',255);
+            // $table->string('address',255);
+            // $table->string('city',255);
+            // $table->string('province',255);
+            // $table->string('country',255);
+            // $table->string('postalcode',255);
             $table->timestamps();
         });
 
