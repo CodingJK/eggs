@@ -128,7 +128,7 @@
             .col-form-label{
               display:inline-block;
               margin-top: 20px;
-              width:2500px;
+              width:100%;
               
               
             }
@@ -398,7 +398,7 @@
             .col-form-label{
               display:inline-block;
               margin-top: 20px;
-              width:2500px;
+              width:100%;
               
               
             }
@@ -772,7 +772,7 @@ slideshow();
 
                                     <div class="dropzone-previews" id="dropzonePreview"></div>
 
-                                    <h4 style="text-align: center;color:#428bca;">拖入圖片 <span class="glyphicon glyphicon-hand-down"></span></h4>
+                                    <h4 style="text-align: center;color:#428bca;">請把圖片拖曳至此 <span class="glyphicon glyphicon-hand-down"></span></h4>
 
                         
                             </form>
@@ -807,7 +807,7 @@ slideshow();
                     </div>
                    
 
-                            <input type="checkbox" name="check" id="read"value="checked" />我已經閱讀條款
+                    <input type="checkbox" name="check" id="read"value="checked" />我已經閱讀條款
                  
                     {{-- <div class="form-group row" style="margin-top: 20px;">
                         
@@ -896,9 +896,13 @@ slideshow();
                 errorDisplay[errorDisplay.length - 1].innerHTML = 'Error 404: The upload page was not found on the server';
             
             });
+
                 $("#submit-bn").click(function (e) {
-               
+                
                 e.preventDefault();
+                if(file.size < 2){
+                    alert("文件太小！");
+                };
                 myDropzone.processQueue();
                 
             });
@@ -909,7 +913,7 @@ slideshow();
         },
         sending: function(file, xhr, formData) {
             formData.append("filesize", file.size);
-           formData.append("email",$('#name').val());
+           //formData.append("email",$('#name').val());
             
         },
         success: function (file, response, e) {
@@ -923,7 +927,7 @@ slideshow();
     
         function OnSubmitFunction(token) {
             
-            //document.getElementById('personal_info').submit();
+            document.getElementById('personal_info').submit();
             //check();
             document.getElementById('captcha').submit();
             //alert('personal_info submit!')
@@ -932,7 +936,7 @@ slideshow();
         
         
         function Check(){  
-            var cbs = document.getElementsById("captcha");  
+            var cbs = document.getElementsById("read");  
             var b = false;  
             if(cbs.checked){  
                 b = true;  
