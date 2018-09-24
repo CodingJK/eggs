@@ -239,6 +239,52 @@
               margin-left: 450px;
 
             }
+            footer {
+                  background-color: #ffcd32;
+                  color: black;
+                  clear:both;
+                  text-align: center;
+                  height:200px;
+
+            }
+            footer .footer_link{
+
+                    font-weight: bold;
+                    font-size: 16px;
+                    padding-bottom: 20px; 
+                    margin-top: 50px;
+                    margin-left: 200px;
+            }
+            #footer1{
+                margin-top: 50px;
+            }
+             footer .footer_link li {
+                      display: inline;
+                      padding-left: 10px;
+                      margin-top: 50px;
+                      font-family:Noto Sans TC ,sans-serif;
+
+             }
+                    footer .footer_link a {
+                      color: black;
+                      margin-top: 50px;
+                      font-family:Noto Sans TC ,sans-serif; 
+                    }
+                      footer .footer_link a:hover {
+                        text-decoration: underline; 
+                    }
+                  footer .copydiv{
+                      margin-top: 50px;
+                    margin-left: 200px;
+                  }
+                  footer #copyright {
+                    font-family:Noto Sans TC ,sans-serif;
+                    font-weight: 600;
+                    font-size: 12.8px;
+                    padding-bottom: 20px;
+                    color: black;
+                    
+             }
         }
         @media screen and (max-width: 850px) {
 
