@@ -16,6 +16,454 @@
             margin-bottom: 80px;
             
         }
+        @media screen and (min-width: 850px) and (max-width: 1300px) {
+            
+            .compaign_header1 {
+                   /*background-image: url("/images/banner/EFC-contestPageBanner-BG.jpg");*/
+                    background-color: #fbbc27;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    padding-top: 200px;
+                    padding-bottom: 50px;
+                    display: flex;
+                    flex-direction: row;
+                    min-height: 250px;
+                  }
+                  
+                  .compaign_header1 .left {
+                    padding-right: 0px;
+                    max-width: 534px;
+                    margin-left: 300px;
+                    vertical-align: center;
+                    display: flex;
+                    flex-direction: column;
+
+                  }
+                 .compaign_header1 .left .header_title{
+                    margin-top: -30px;
+                    margin-bottom: 30px;
+                    font-weight: bold;
+                    font-size:26px;
+                    color: white;
+                    margin-left: 25px;
+                 }
+                 .compaign_header1 .left .header_sub_title{
+                    font-size:20px;
+                 }
+                 .compaign_header1 .left .header_b{
+                  font-size: 20px;
+                  font-weight: bold;
+                  margin-left: -10px;
+                 }
+                  .compaign_header1 .right img{
+                    vertical-align: center;
+                    max-width: 534px;
+                    margin-left: 100px;
+                  }
+                  #slideshow{
+                  width: 50px;  
+                  height: 300px;
+                  margin: 0 auto; /*设置在页面水平居中*/
+                  /*overflow: hidden;*/
+                  position: relative;  
+                }
+                #slideshow img{
+                  width: 300px;
+                  position: absolute; /*图片采取绝对定位，均位于左上角，重叠在一起*/
+                  top: 0;
+                  left: 5;
+                  opacity: 0; /*初始不透明度为0，图片都看不见*/
+                  transition: opacity 1s linear; /*--重点--定义一个关于透明度的transition*/
+                }
+                #slideshow img.active{
+                  opacity: 1; /*有active类的图片不透明度为1，即显示图片*/
+                }
+                .form-group{
+                  display:flex;
+                  flex-direction: column;
+                }
+
+                .form-detail{
+                  display:flex;
+                  flex-direction:row;
+                }
+                .contest-title {
+                        margin-top: -150px;
+                        margin-bottom: 50px;
+                        margin-left: 260px;
+                        font-size: 20px;
+                        font-weight: bold; 
+                        font-family: Noto Sans TC;
+                        word-break:break-all;
+
+                }
+                .contest-subtitle{
+                  width:500px;
+                  font-size: 16px;
+                  font-family: Noto Sans TC;
+                  margin-top: -20px;
+                  margin-bottom: 50px;
+                  margin-left: 260px;
+                  word-break:break-all;
+                }
+                .img-subtitle{
+                     width:500px;
+                  font-size: 16px;
+                  margin-top: 50px;
+                  font-family: Noto Sans TC;
+                  margin-bottom: 10px;
+                  margin-left: 260px;
+                  word-break:break-all;
+                }
+            label{
+              font-family: Noto Sans TC;
+              font-size: 16px;
+              direction: ltr;
+              margin-left: 260px;
+              text-align: left;
+
+              
+            }
+
+            .col-form-label{
+              display:inline-block;
+              margin-top: 20px;
+              width:2500px;
+              
+              
+            }
+
+            input[type="text"]{
+              -web-kit-appearance:none;
+              -moz-appearance: none;
+              padding:0px;
+              
+            }
+            input[type="email"]{
+              -web-kit-appearance:none;
+              -moz-appearance: none;
+              padding:10px;
+             
+
+              
+            }
+            input[type="number"]{
+              -web-kit-appearance:none;
+              -moz-appearance: none;
+              padding:10px;
+              
+            }
+
+            #firstname{
+              margin-top: 20px;
+              margin-left: 85px;
+              float:left;
+              width:300px;
+            }
+
+            .fixw{
+             margin-left: 260px;
+             width:300px;
+
+
+            }
+            .fixl{
+              width:100px;
+            }
+            #email{
+              margin-top: 20px;
+              margin-left: 85px;
+              float:left;
+              width:300px;
+              
+            }
+
+            #lastname{
+              margin-top: 20px;
+              margin-left: 85px;
+              float:left;
+              width:300px;
+            }
+
+            #phone{
+              margin-top: 20px;
+              margin-left: 85px;
+              float:left;
+              width:300px;
+              
+            }
+            #reading{
+              font-family: Noto Sans TC;
+              font-size: 16px;
+              margin-top: 20px;
+              margin-left: 260px;
+            }
+            .modal-title #myModalLabel{
+              font-family: Noto Sans TC;
+              font-size: 16px;
+              margin-top: 10px;
+              margin-left: 3px;
+            }
+            input[type="checkbox"]{
+              font-family: Noto Sans TC;
+              font-size: 16px;
+              margin-top: 20px;
+              margin-left: 260px;
+            }
+            #myDropzone{
+              height:300px;
+              width: 600px;
+              margin-left: 260px;
+            }
+            #submit-bn{
+                background-color: #fbbc27; /* Green */
+                border: none;
+                color: white;
+                font-family: Noto Sans TC;
+                font-weight: bold;
+                padding: 10px 20px;
+                margin-top: 20px;
+                margin-bottom: 20px;
+                margin-left: 260px;
+                
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 16px;
+               border-radius:25px;-moz-border-radius:25px;
+            }
+
+
+            .dropzone .dz-preview.dz-image-preview{
+              /*margin-top: -300px;*/
+              margin-left: 450px;
+
+            }
+        }
+        @media screen and (max-width: 850px) {
+
+            .compaign_header1 {
+                   /*background-image: url("/images/banner/EFC-contestPageBanner-BG.jpg");*/
+                    background-color: #fbbc27;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    padding-top: 200px;
+                    padding-bottom: 0px;
+                    display: flex;
+                    flex-direction: row;
+                    min-height: 250px;
+                  }
+                  
+                  .compaign_header1 .left {
+                    padding-right: 0px;
+                    max-width: 534px;
+                    margin-left: 150px;
+                    vertical-align: center;
+                    display: flex;
+                    flex-direction: column;
+
+                  }
+                 .compaign_header1 .left .header_title{
+                    margin-top: -30px;
+                    margin-bottom: 30px;
+                    font-weight: bold;
+                    font-size:20px;
+                    color: white;
+                    margin-left: 25px;
+                 }
+                 .compaign_header1 .left .header_sub_title{
+                    font-size:16px;
+                 }
+                 .compaign_header1 .left .header_b{
+                  font-size: 16px;
+                  font-weight: bold;
+                  margin-left: -10px;
+                 }
+                  .compaign_header1 .right img{
+                    vertical-align: center;
+                    max-width: 534px;
+                    margin-left: 100px;
+                  }
+                  #slideshow{
+                  width: 50px;  
+                  height: 300px;
+                  margin: 0 auto; /*设置在页面水平居中*/
+                  /*overflow: hidden;*/
+                  position: relative;  
+                }
+                #slideshow img{
+                  width: 250px;
+                  position: absolute; /*图片采取绝对定位，均位于左上角，重叠在一起*/
+                  top: 0;
+                  left: 5;
+                  opacity: 0; /*初始不透明度为0，图片都看不见*/
+                  transition: opacity 1s linear; /*--重点--定义一个关于透明度的transition*/
+                }
+                #slideshow img.active{
+                  opacity: 1; /*有active类的图片不透明度为1，即显示图片*/
+                }
+                .form-group{
+                  display:flex;
+                  flex-direction: column;
+                }
+
+                .form-detail{
+                  display:flex;
+                  flex-direction:row;
+                }
+                .contest-title {
+                        margin-top: -150px;
+                        margin-bottom: 50px;
+                        margin-left: 110px;
+                        font-size: 20px;
+                        font-weight: bold; 
+                        font-family: Noto Sans TC;
+                        word-break:break-all;
+
+                }
+                .contest-subtitle{
+                  width:300px;
+                  font-size: 16px;
+                  font-family: Noto Sans TC;
+                  margin-top: -20px;
+                  margin-bottom: 50px;
+                  margin-left: 110px;
+                  word-break:break-all;
+                }
+                .img-subtitle{
+                     width:300px;
+                  font-size: 16px;
+                  margin-top: 50px;
+                  font-family: Noto Sans TC;
+                  margin-bottom: 10px;
+                  margin-left: 110px;
+                  word-break:break-all;
+                }
+            label{
+              font-family: Noto Sans TC;
+              font-size: 16px;
+              direction: ltr;
+              margin-left: 110px;
+              text-align: left;
+
+              
+            }
+
+            .col-form-label{
+              display:inline-block;
+              margin-top: 20px;
+              width:2500px;
+              
+              
+            }
+
+            input[type="text"]{
+              -web-kit-appearance:none;
+              -moz-appearance: none;
+              padding:0px;
+              
+            }
+            input[type="email"]{
+              -web-kit-appearance:none;
+              -moz-appearance: none;
+              padding:10px;
+             
+
+              
+            }
+            input[type="number"]{
+              -web-kit-appearance:none;
+              -moz-appearance: none;
+              padding:10px;
+              
+            }
+
+            #firstname{
+              margin-top: 20px;
+              margin-left: 85px;
+              float:left;
+              width:300px;
+            }
+
+            .fixw{
+             margin-left: 100px;
+             width:300px;
+
+
+            }
+            .fixl{
+              width:100px;
+            }
+            #email{
+              margin-top: 20px;
+              margin-left: 85px;
+              float:left;
+              width:300px;
+              
+            }
+
+            #lastname{
+              margin-top: 20px;
+              margin-left: 85px;
+              float:left;
+              width:300px;
+            }
+
+            #phone{
+              margin-top: 20px;
+              margin-left: 85px;
+              float:left;
+              width:300px;
+              
+            }
+            #reading{
+              font-family: Noto Sans TC;
+              font-size: 16px;
+              margin-top: 20px;
+              margin-left: 113px;
+            }
+            .modal-title #myModalLabel{
+              font-family: Noto Sans TC;
+              font-size: 16px;
+              margin-top: 10px;
+              margin-left: 3px;
+            }
+            input[type="checkbox"]{
+              font-family: Noto Sans TC;
+              font-size: 16px;
+              margin-top: 20px;
+              margin-left: 116px;
+            }
+            #myDropzone{
+              height:300px;
+              width: 500px;
+              margin-left: 110px;
+            }
+            #submit-bn{
+                background-color: #fbbc27; /* Green */
+                border: none;
+                color: white;
+                font-family: Noto Sans TC;
+                font-weight: bold;
+                padding: 10px 20px;
+                margin-top: 20px;
+                margin-bottom: 20px;
+                margin-left: 105px;
+                
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 16px;
+               border-radius:25px;-moz-border-radius:25px;
+            }
+
+
+            .dropzone .dz-preview.dz-image-preview{
+              /*margin-top: -300px;*/
+              margin-left: 450px;
+
+            }
+        }
         
     </style> 
 
@@ -106,7 +554,7 @@
 
 <body>
     <div id='big_screen'>
-        <div class='row compaign_header1'>
+        <div class='container-fluid compaign_header1'>
             
               <!-- 插入轮播的图片们 -->
               <div class="left">
@@ -207,10 +655,10 @@ slideshow();
                     </ul>
                 </div>
             @endif
-            <div class="title">
+            <div class="contest-title">
                參加「雞蛋大變身」有獎遊戲
             </div>
-            <div class='subtitle'>
+            <div class='contest-subtitle'>
                 請以英文填妥下列表格，然後上載作品照片。作品必須以雞蛋為主要材料之一，
                 並由您所製作。參加者必須為加拿大居民。
             </div>
