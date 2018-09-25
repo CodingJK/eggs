@@ -44,7 +44,7 @@ class UploadController extends Controller
             'phone' => 'required|max:15',
             'email' => 'required|max:50|unique:candidates',
         ]);
-            
+        
         $candidate = new Candidate;
         $candidate->firstname = $request->firstname;
         $candidate->lastname = $request->lastname;
@@ -59,30 +59,36 @@ class UploadController extends Controller
         // $this->validate($request,[
         //     'images' => 'required|image',
         // ]);
+        $this->validate($request,[
+            'firstname' => 'required|max:50',
+            'lastname' =>  'required|max:50',
+            'phone' => 'required|max:15',
+            'email' => 'required|max:50|email',
+            'image'=>'required|image|mimes:jpeg,jpg,png,tif,mbp| max:12000 |min:2000'
+        ]);
+        $file = $request->image;
+        $name = $file->getClientOriginalName();
         
-        if($request->image){
-            $file = $request->image;
-            $name = $file->getClientOriginalName();
-            $location = public_path('upload');
-            $file->move($location, $name);
-            $orignal= $location.'/'.$name;
-            $rimg = Image::make($orignal);
-            $rimg->resize(300,null, function ($constraint) { $constraint->aspectRatio(); }); 
-            $newName = $name.'small';
-            $resizepath='upload/'.$newName.'.jpg';
-            $rimg->save('upload/'.$newName.'.jpg');
-            $upload = new Upload();
-            // $person = Candidate::find(1)->upload_image()->create(['']);
-            $person = Candidate::orderBy('id','desc')->first();
-            $upload->person_id = $person->id;
-            $upload->original_name = $name;
-            $upload->resized_name = $newName;
-            $upload->save();
-        }
-        else{
-            return 123;
-        }
-       //return redirect()->back()->with('status','Success');
+        $candidate = new Candidate;
+        $candidate->firstname = $request->firstname;
+        $candidate->lastname = $request->lastname;
+        $candidate->phone = $request->phone;
+        $candidate->email = $request->email;
+        $candidate->images = $name;
+        $candidate->display = 0;
+        $candidate->save();
+
+        $location = public_path('upload');
+        $file->move($location, $name);
+        $orignal= $location.'/'.$name;
+        $rimg = Image::make($orignal);
+        $rimg->resize(300,null, function ($constraint) { $constraint->aspectRatio(); }); 
+        $newName = $name.'small';
+        $resizepath='upload/'.$newName.'.jpg';
+        $rimg->save('upload/'.$newName.'.jpg');
+        
+        return "YES";
+        
     }
  
 

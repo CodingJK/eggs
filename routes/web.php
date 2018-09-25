@@ -283,6 +283,9 @@ Route::get('Duo-Egg-Pearl', function () {
 
     
     Route::get('/test', 'UploadController@drop');
+
+    // Route::get('/campaign', 'UploadController@campaign');
+    
     Route::post('/newCandidate','UploadController@newCandidate');
     //recaptcha
     Route::post('/post', function (\Illuminate\Http\Request $request) {
@@ -296,9 +299,9 @@ Route::get('Duo-Egg-Pearl', function () {
         ]);
         $result = json_decode($result->getBody(), true);
         if (isset($result['success']) && $result['success']) {
-            return '驗證成功';
+            // return '驗證成功';
         } else {
-            return '驗證失敗';
+            // return '驗證失敗';
         }
     });
 

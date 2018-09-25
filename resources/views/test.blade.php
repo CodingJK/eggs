@@ -599,6 +599,7 @@
 
 
 <body>
+    
     <div id='big_screen'>
         <div class='container-fluid compaign_header1'>
             
@@ -684,23 +685,31 @@ function slideshow() {
 
 slideshow();
 </script>
-   
+    <div class="container">
+    
+    @if (session()->has('status'))
+    <div class="container">
+        <div class="alert alert-success col-xs-8 col-xs-offset-2">
+            {{session()->get('status')}}
+        </div>
+        <div class="col-col-xs-2"></div>
+        @endif @if (count($errors)>0)
+        <div class="alert  col-xs-8 col-xs-offset-2">
+            <ul>
+                @foreach ($errors->all() as $error)
+                <li style='color:red'>{{$error}}</li>
+                @endforeach
+            </ul>
+        </div>
+        <div class="col-xs-2"></div>
+    </div>
+    </div>
+    @endif
     <div class="main container" style="margin-top: 200px;">
+
+        
         <div class='col-xs-12'>
-            @if (session()->has('status'))
-                <div class="alert alert-success">
-                    {{session()->get('status')}}
-                </div>
-            @endif
-            @if (count($errors)>0)
-                <div class="alert alert-danger">
-                    <ul>
-                        @foreach ($errors->all() as $error)
-                            <li>{{$error}}</li> 
-                        @endforeach
-                    </ul>
-                </div>
-            @endif
+           
             <div class="contest-title">
                參加「雞蛋大變身」有獎遊戲
             </div>
@@ -721,7 +730,6 @@ slideshow();
                             <input type="text" class="form-control" id="firstname" name='firstname' value="{{old('firstname')}}" required>
                         </div>
                     </div>
-
                     
                     <div class="col-xs-4 form-detail">
                         <div class='fixl'>
@@ -807,7 +815,7 @@ slideshow();
                     </div>
                    
 
-                    <input type="checkbox" name="check" id="read"value="checked" />我已經閱讀條款
+                    我已經閱讀條款
                  
                     {{-- <div class="form-group row" style="margin-top: 20px;">
                         
@@ -832,9 +840,14 @@ slideshow();
 
 
 
+
+
         </div>
     </div>
+
+    
 </body>
+
 @section('footer')
 <footer class='clear-top'>
     <div class='col-lg-8'>
@@ -863,15 +876,7 @@ slideshow();
     
 </footer>
  @endsection
-
-    
-   
     <!-- <input type="file" name="file" /> -->
-
-
-
-
-
     <script>
        Dropzone.autoDiscover = false;
         var myDropzone = new Dropzone("#myDropzone", {
@@ -894,11 +899,8 @@ slideshow();
                 alert("here!");
                 var errorDisplay = document.querySelectorAll('[data-dz-errormessage]');
                 errorDisplay[errorDisplay.length - 1].innerHTML = 'Error 404: The upload page was not found on the server';
-            
             });
-
                 $("#submit-bn").click(function (e) {
-                
                 e.preventDefault();
                 if(file.size < 2){
                     alert("文件太小！");
@@ -907,7 +909,6 @@ slideshow();
                 if(!accept){
                     alert("請先閱讀條款!")
                 }else{
-                    
                     document.getElementById('captcha').submit();
                 }
                 myDropzone.processQueue();
@@ -925,6 +926,7 @@ slideshow();
         },
         success: function (file, response, e) {
             alert("success!");
+            $('#personal_info').submit();
             var res = JSON.parse(response);
             if (res.error) {
                 $(file.previewTemplate).children('.dz-error-mark').css('opacity', '0.1')
@@ -934,7 +936,7 @@ slideshow();
     
         function OnSubmitFunction(token) {
             
-            document.getElementById('personal_info').submit();
+            
             var accept = $("#read").is(":checked");
             if(!accept){
                 alert("請先閱讀條款!")
@@ -942,8 +944,6 @@ slideshow();
 
                 document.getElementById('captcha').submit();
             }
-            //alert('personal_info submit!')
-           
         }
         
         
@@ -952,9 +952,7 @@ slideshow();
             var b = false;  
             if(cbs.checked){  
                 b = true;  
-
             }  
-             
             if(!b){  
                 alert("請先閱讀條款");  
                 return false;  
