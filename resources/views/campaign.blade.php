@@ -986,7 +986,7 @@
                         service provider for pricing and service plan information and rates before mobile device participation.</span>
                         
                         <ol>
-                            <li>KEY DATES:<br>Egg Transformation The Entry Period for the Egg Transformation Contest (the “Contest”) begins on September 25, 2018 at 12:00:01 a.m. Eastern
+                            <li>KEY DATES:<br>The Entry Period for the Egg Transformation Contest (the “Contest”) begins on September 25, 2018 at 12:00:01 a.m. Eastern
                             Time (“ET”) and ends on October 25, 2018 at 11:59:59 p.m. ET (the “Entry Period”).
                             </li>
                             <li>ELIGIBILITY:<br>Contest is open to residents of Canada who have reached the legal age of majority in their province/territory of residence
