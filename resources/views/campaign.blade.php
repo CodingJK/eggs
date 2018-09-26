@@ -95,7 +95,9 @@
             
             font-family: "Noto Sans TC";
         }
-
+        .btnWord{
+            font-size: 1.6em;
+        }
         @media (min-width:1200px){
             .secondLine{ padding-left: 50px; }
             .navbar{
@@ -132,10 +134,11 @@
                 min-height: 600px;
             }
             .eggHeader{
+                
                 font-weight: bold;
                 font-size:5em;
                 color: white;
-                
+                /* margin-left: -15px; */
             }
             .eggDetails{
                 font-size: 1.6em;
@@ -459,19 +462,19 @@
 
             }
             .title_subheader{
-                font-size: 1.6em;
+                font-size: 1.1em;
                 margin-bottom: 30px;
 
             }
 
             .uploadDetails{
-                font-size: 1.6em;
+                font-size: 1.1em;
                 margin-top: 30px;
             }
 
             
             label{
-                font-size: 1.6em;
+                font-size: 1.1em;
                 font-weight: bolder;
             }
             .box__dragndrop, .box__uploading, .box__success, .box__error { display: none; }
@@ -539,7 +542,7 @@
             .secondLine{
                 
             }
-
+            .btnWord{ font-size: 1.1em; }
             li{
                 list-style: none;
             }
@@ -708,10 +711,10 @@
 
     <div class="container-fluid banner">
         <div class="container">
-            <div class="col-sm-6 left">
+            <div class="col-sm-6 left" style='padding-left:0;'>
                 <div class="eggHeader">
                     「雞蛋大變身」<br>
-                    <span class='secondLine'>有獎遊戲</span>
+                    <span class='secondLine' >有獎遊戲</span>
                 </div>
                 <div class="eggDetails">
                     <span>烹調雞蛋並做成特別造型，<br></span>
@@ -731,7 +734,7 @@
                     <span>(4 張一打雞蛋換領券)<br></span> --}}
                 </div>
             </div>
-            <div class="col-sm-6 right">
+            <div class="col-sm-6 right" style='padding-right:0;'>
                 <div id="slideshow">
                     <img class="active" src="/images/banner/EFC-contest-img-1.png" />
                     <img src="/images/banner/EFC-contest-img-2.png" />
@@ -794,7 +797,7 @@
                 
                 
 
-                <div class="col-xs-12">
+                <div class="col-xs-12" style='padding-left:0'>
                     <div class="uploadDetails" style='padding:0'>
                         照片檔案最小為2MB，最大為12MB。檔案格式必須為JPG、TIF、BMP 或PNG。直或橫的照片均可。
                     </div>
@@ -815,22 +818,21 @@
                     document.getElementById('imgInp').click();
                     }
                 </script>
-                <div class="col-xs-12 form-group">
-                    <div class='container' id="reading">
+                <div class="col-xs-12 form-group" style='padding-left:0'>
                         
-                        <a data-toggle="modal" data-target="#myModal" id='checkRead' style="font-size:1.6em">
-                           閱讀條文及條款
+                    <div class='container' id="reading" style='padding-left:0'>
+                        <a data-toggle="modal" data-target="#myModal" id='checkRead'>
+                           <span class='btnWord'>閱讀條文及條款</span>
                         </a>
                     </div>
                 </div>
-                <div class="col-xs-12 form-group">
-                    <input type="checkbox" name="check" id="read" value="checked"><span style="font-size:1.6em">
-                        同意條文及條款
-                        </span>
+                <div class="col-xs-12 form-group" style='padding-left:0'>
+                    <input type="checkbox" name="check" id="read" value="checked">
+                    <span class='btnWord'>同意條文及條款</span>
                 </div>
                 <script>
                 </script>
-                <div class="container">
+                <div class="container" style='padding-left:0'>
                     <button class="myBtn" type='submit' id='mySubmit'>遞 交</button>
                     
                 </div>
@@ -862,8 +864,7 @@
                                                                                             </button>
                         <h4 class="modal-title" id="myModalLabel" style="display:flex;justify-content:space-between">
                             <div>閱讀條文及條款</div>
-                            <div><a href="./english.pdf" download>Download English Version</a>
-                            <a href="./french.pdf" download style='padding-left:50px;'>Download French Version</a></div>
+                            <div> </div>
                         </h4>
                     </div>
                     <div class="modal-body">
@@ -890,7 +891,7 @@
                             </li>
                             <li>驗證：<br>主辦方可隨時出於任何理由對所有參賽作品、圖片和參賽者進行驗證。根據其唯一及絕對酌情權，主辦方有權出於以下目的要求參賽者證明其身份和/或參賽資格（以主辦方可接受的形式——包括，但不限於，政府簽發的帶照片的身份證件）：（i）為要驗證參賽人士的參賽資格；（ii）為要驗證用於參與
                             （據稱參與）此次比賽的任何參賽作品、圖片和/或任何其他資料的資格和/或合法性；和/或（iii）出於主辦方根據其對比賽規則字面和精神的解讀對本次比賽進行管理時認為必要的任何其他理由，由其根據其唯一及絕對酌情權決定。如果參賽者未能在主辦方規定的時限內提供令主辦方完全滿意的證明，主辦方可根據其唯一及絕對酌情權取消參賽者的參賽資格。本次比賽的時間將由主辦方所使用的官方計時器唯一決定。</li>
-                            <li>7. 提交要求：<br>
+                            <li>提交要求：<br>
                             提交參賽作品即表示您同意該參賽作品（及圖片）遵循本規則中規定的所有條件。免責方將不承擔與以下情形相關的任何責任：（I）您的參賽作品（或其任何部分——包括，但不限於，圖片）的使用；（II）任何比賽相關活動的參與；（III）任何個人資料的使用、收集、存儲和披露；和/或（IV）被宣佈為獲獎者時的任何獎品（包括任何獎品的任何使用或濫用）。
                             如果經查明您未遵守或未完全遵守任何比賽規則，您須保護免責方免受傷害。在比賽結束和/或任何獎品發放後，這一免責和補償應繼續有效。<br>
                             參與此次比賽即意味著各參賽者在此聲明並保證其所提交的圖片：<br>
@@ -899,7 +900,7 @@
                                 <li>不違反任何法律、法規、法令或條例；</li>
                                 <li>不得提及任何可辨識的第三方或包含其肖像，但已取得這些個體許可的情形除外，且如果他們不滿所在轄區的法定成年年齡，則必須取得其父母/法定監護人的許可；</li>
                                 <li>不會導致任何形式的索賠，包括，但不限於，侵權、侵犯隱私或宣傳或侵犯任何第三方的任何權利和/或利益的索賠；</li>
-                                <li>v. 不包含誹謗、商業誹謗、色情或淫穢內容，同時也不包含、描繪、包括、討論或涉及任何以下內容，包括，但不限於：裸體；酒精/毒品消費或吸煙；露骨或生動的性行為或性暗示；粗魯、庸俗或冒犯性的語言和/或符號；對任何民族、種族、性別、 宗教或其他團體的貶損性描述（包括，但不限於，主辦方的任何競爭對手）；認可、寬容和/或討論任何非法、不恰當、有風險或危險行為或行事的內容；某些人的私人資料，包括，但不限於，姓名、電話號碼和地址（無論是實體的還是電子形式）；
+                                <li>不包含誹謗、商業誹謗、色情或淫穢內容，同時也不包含、描繪、包括、討論或涉及任何以下內容，包括，但不限於：裸體；酒精/毒品消費或吸煙；露骨或生動的性行為或性暗示；粗魯、庸俗或冒犯性的語言和/或符號；對任何民族、種族、性別、 宗教或其他團體的貶損性描述（包括，但不限於，主辦方的任何競爭對手）；認可、寬容和/或討論任何非法、不恰當、有風險或危險行為或行事的內容；某些人的私人資料，包括，但不限於，姓名、電話號碼和地址（無論是實體的還是電子形式）；
                                 主辦方產品之外的產品或服務的商業資訊、比較或徵集；除主辦方外的任何可辨識的第三方產品、商標、品牌和/或標誌（例如：未經許可，您的圖片中出現的任何衣物和/或產品均不得包含任何明顯的標誌、商標或其他第三方資料——注意：參賽者已取得許可的所有可辨識的第三方產品、商標、品牌和/或標誌也須進行模糊處理，以使其無法辨認）；違反本規則的行為或其他活動；和/或任何其他被認為或可能會被認為不恰當、不合適或有冒犯性的資料，
                                 完全由主辦方根據其唯一及絕對酌情權決定。</li><br>
                                 主辦方和/或其推廣機構或指定內容監督人（以下簡稱「監督人」）有權對所有圖片進行篩選。監督人將取消由其根據唯一及絕對酌情權認定違反本規則所述條款及條件的圖片的參賽資格。 監督人有權根據其唯一及絕對酌情權在任何時候，出於任何理由要求參賽者修改、編輯和/或重新提交其圖片（或其任何部分）以確保圖片符合本規則或滿足任何其他原因。如果在比賽期間或之後任何時候，需要採取相應的行動以確保比賽根據主辦方對本規則之字面和精神的解讀有條不紊地進行，則主辦方保留自行決定根據具體情況採取其認為必要的任何行動的權利。
@@ -976,8 +977,617 @@
                         <b style='font-size:16px'>簡要規則：</b><br>
                         <b style='font-size:16px'>無需進行任何購買。</b>比賽於2018年10月25日（東部時間晚上11:59:59）結束。開放給達到法定成年年齡的加拿大居民參加。比賽設大獎一名，獎品為 $ 3,000元的支票一張 。二獎10名，獎品為每人52張優惠券，每張均可兌換一打雞蛋，約值零售價 $169.00元；獲獎機率取決於合資格參賽作品的數量和質量。晨鳥獎50名，
                         獎品為每人4張優惠卷，每張均可兌換一打雞蛋，約值零售價 $13元；獲獎機率取決於合資格參賽作品的數量和合資格參賽者完成有效參賽作品的速度。獲選參賽者需要完成技能測試題。有關完整規則，包括參賽、評判和獎品的詳細資料，請瀏覽EggsAreGood.ca/contest。
+                        
+                        <hr>
+                        {{-- english version --}}
 
+                        <span style='font-size:16px; font-weight:bold; text-align:center !important'>THIS CONTEST IS OPEN TO RESIDENTS OF CANADA ONLY<br> NO PURCHASE OR PAYMENT NECESSARY. A PURCHASE OR PAYMENT OF ANY KIND WILL NOT INCREASE OR OTHERWISE IMPACT YOUR CHANCES OF
+                        WINNING.<br> Standard data rates apply to participants who choose to participate in the Contest via a mobile device. Please contact your
+                        service provider for pricing and service plan information and rates before mobile device participation.</span>
+                        
+                        <ol>
+                            <li>KEY DATES:<br>Egg Transformation The Entry Period for the Egg Transformation Contest (the “Contest”) begins on September 25, 2018 at 12:00:01 a.m. Eastern
+                            Time (“ET”) and ends on October 25, 2018 at 11:59:59 p.m. ET (the “Entry Period”).
+                            </li>
+                            <li>ELIGIBILITY:<br>Contest is open to residents of Canada who have reached the legal age of majority in their province/territory of residence
+                            at the time of entry; except employees, representatives or agents (and those with whom such persons are living, whether related
+                            or not) of Canadian Egg Marketing Agency (operating as Egg Farmers of Canada) (the “Sponsor”), its affiliated entities, prize
+                            suppliers, advertising/promotion agencies, and any other individual or entity involved in the development, production, administration,
+                            judging or fulfillment of the Contest (collectively with the Sponsor, the “Contest Parties”).
+                            </li>
+                            <li>AGREEMENT TO BE LEGALLY BOUND BY RULES:<br>By participating in this Contest, you are signifying your agreement that you have read and agree to be legally bound by these
+                            Official Rules and Regulations (the “Rules”).</li>
+                            <li>HOW TO ENTER:<br>To enter, go to EggsAreGood.ca/contest (the “Website”) during the Entry Period and follow the on-screen prompts to complete
+                            the following steps:<br>
+                                <ol type='a'>
+                                    <li>Obtain the Official Contest Entry Form (the “Entry Form”);</li>
+                                    <li>Fully complete the Entry Form with all required information, which includes (i) full name; (ii) email address; and (iii)
+                                    telephone number including area code;</li>
+                                    <li>Upload one unique (1) image (the “Image”) of egg food art you have created that either features (or otherwise demonstrates
+                                    how you would feature) one or more eggs as one of the key ingredients (the “Theme”). IMPORTANT NOTE: There is no need to
+                                    feature actual eggs in the Image and featuring eggs will not increase or otherwise impact your chances of winning in this
+                                    Contest;<br><br>IMPORTANT NOTE: To be eligible, your Image must: (i) be in one of the following formats: JPG, TIF, BMP, PNG; (ii) be a file
+                                    that is a minimum of 2 MB and a maximum of 12 MB in size; and (iii) otherwise comply with these Rules (including, but not
+                                    limited to, the specific Submission Requirements listed below in Rule 7)</li>
+                                    <li>Signify your agreement that you have read and agree to be legally bound by these Rules; and</li>
+                                    <li>Click “SUBMIT”.</li>
+                                </ol><br> To be eligible, your Image must: (i) reflect the Theme; and (ii) be in accordance with these Rules, including, but not limited
+                                to, the specific Submission Requirements listed below in Rule 7 (all as determined by Sponsor in its sole and absolute discretion).
+                                Any Image that does not comply with these Rules (including, but not limited to, the specific Submission Requirements listed
+                                below in Rule 7) (all as determined by Sponsor in its sole and absolute discretion) will be disqualified and will not be
+                                eligible for entry in this Contest.
+                                <br> Upon clicking “SUBMIT”, you will be eligible to earn one (1) Entry (each, an “Entry” and collectively, the “Entries”) in
+                                the Contest. To be eligible, your Entry must be submitted and received in accordance with these Rules during the Entry Period.
+                            </li>
+                            <li>ENTRY LIMIT:<br> <u>There is no limit to the number of Entries per person, but each Image used to enter must be original and unique.</u> If it is
+                            discovered by the Sponsor (using any evidence or other information made available to or otherwise discovered by the Sponsor)
+                            that any person has attempted to: (i) submit the same Image more than one (1) time and/or an Image that is not original to
+                            them; and/or (ii) use multiple names, multiple identities, multiple email addresses, any automated, macro, script, robotic
+                            or other system(s) or program(s) and/or any other means not in keeping with the Sponsor’s interpretation of the letter and
+                            spirit of these Rules to enter or otherwise participate in or to disrupt this Contest; then he/she may be disqualified from
+                            the Contest in the sole and absolute discretion of the Sponsor. The Contest Parties and each of their respective agents,
+                            employees, directors, successors, and assigns (collectively, the “Released Parties”) are not responsible for late, lost,
+                            misdirected, delayed, incomplete or incompatible Entries (all of which are void). An Entry may be rejected if, in the sole
+                            and absolute discretion of the Sponsor: (i) the Entry is not submitted and received in accordance with these Rules during
+                            the Entry Period; and/or (ii) the Image accompanying the Entry is not in compliance with these Rules (including, but not
+                            limited to, the specific Submission Requirements listed below in Rule 7) (all as determined by Sponsor in its sole and absolute
+                            discretion).
+                            </li>
+                            <li>VERIFICATION:<br>All Entries, Images and entrants are subject to verification at any time and for any reason. The Sponsor reserves the right,
+                            in its sole and absolute discretion, to require proof of identity and/or eligibility (in a form acceptable to the Sponsor – including, without limitation,
+                            government issued photo identification): (i) for the purposes of verifying an individual’s eligibility to participate in
+                            this Contest; (ii) for the purposes of verifying the eligibility and/or legitimacy of any Entry, Image(s) and/or any other
+                            information entered (or purportedly entered) for the purposes of this Contest; and/or (iii) for any other reason the Sponsor
+                            deems necessary, in its sole and absolute discretion, for the purposes of administering this Contest in accordance with the
+                            Sponsor’s interpretation of the letter and spirit of these Rules. Failure to provide such proof to the complete satisfaction
+                            of the Sponsor within the timeline specified by the Sponsor may result in disqualification in the sole and absolute discretion
+                            of the Sponsor. The sole determinant of the time for the purposes of this Contest will be the official time-keeping device(s)
+                            used by the Sponsor.
+                            </li>
+                            <li>SUBMISSION REQUIREMENTS:<br> BY SUBMITTING AN ENTRY, YOU AGREE THAT THE ENTRY (AND THE IMAGE) COMPLIES WITH ALL CONDITIONS STATED IN THESE RULES. THE
+                            RELEASED PARTIES WILL BEAR NO LIABILITY WHATSOEVER REGARDING: (I) THE USE OF YOUR ENTRY (OR ANY COMPONENT THEREOF – INCLUDING,
+                            WITHOUT LIMITATION, THE IMAGE); (II) PARTICIPATION IN ANY CONTESTRELATED ACTIVITIES; (III) ANY USE, COLLECTION, STORAGE AND
+                            DISCLOSURE OF ANY PERSONAL INFORMATION; AND/OR (IV) IF DECLARED A WINNER, ANY PRIZES (INCLUDING ANY USE OR MISUSE OF ANY
+                            PRIZES). THE RELEASED PARTIES SHALL BE HELD HARMLESS BY YOU IN THE EVENT IT IS DISCOVERED THAT YOU HAVE DEPARTED FROM OR
+                            NOT OTHERWISE FULLY COMPLIED WITH ANY OF THESE RULES. THIS RELEASE AND INDEMNITY SHALL CONTINUE IN FORCE FOLLOWING THE TERMINATION
+                            OF THE CONTEST AND/OR AWARDING OF ANY PRIZES.
+                                <br> By participating in the Contest, each entrant hereby warrants and represents that any Image he/she submits:
+                                <br>
+                                <ol type="i">
+                                    <li>is/are original to him/her and that the entrant has obtained all necessary rights in and to the Image for the purposes of
+                                    entering such Image in the Contest;</li>
+                                    <li>does not violate any law, statute, ordinance or regulation;</li>
+                                    <li>does not contain any reference to or likeness of any identifiable third parties, unless consent has been obtained from all
+                                    such individuals and their parent/legal guardian if they are under the age of majority in their jurisdiction of residence;</li>
+                                    <li>will not give rise to any claims whatsoever, including, without limitation, claims of infringement, invasion of privacy or
+                                    publicity, or infringe on any rights and/or interests of any third party; and</li>
+                                    <li>is/are not defamatory, trade libelous, pornographic or obscene, and further that it will not contain, depict, include, discuss
+                                    or involve, without limitation, any of the following: nudity; alcohol/drug consumption or smoking; explicit or graphic sexual
+                                    activity, or sexual innuendo; crude, vulgar or offensive language and/or symbols; derogatory characterizations of any ethnic,
+                                    racial, sexual, religious or other groups (including, without limitation, any competitors of Sponsor); content that endorses,
+                                    condones and/or discusses any illegal, inappropriate, risky or dangerous behaviour or conduct; personal information of individuals,
+                                    including, without limitation, names, telephone numbers and addresses (physical or electronic); commercial messages, comparisons
+                                    or solicitations for products or services other than products of Sponsor; any identifiable third party products, trade-marks,
+                                    brands and/or logos, other than those of Sponsor (e.g. any clothing worn and/or products appearing in your Image must not
+                                    contain any visible logos, trade-marks or other third party materials unless the appropriate consents have been obtained
+                                    --- note: all identifiable third party products, trade-marks, brands and/or logos for which consent has not been obtained
+                                    by the entrant must be blurred out so as to be unrecognizable); conduct or other activities in violation of these Rules;
+                                    and/or any other materials that are or could be considered inappropriate, unsuitable or offensive, all as determined by the
+                                    Sponsor in its sole and absolute discretion.
+                                    </li><br> The Sponsor and/or its promotional agency or designated content moderator (the “Reviewer”) reserves the right to screen all
+                                    Images. Any Image that the Reviewer deems, in its sole and absolute discretion, to violate the terms and conditions set forth
+                                    in these Rules is subject to disqualification. The Reviewer reserves the right, in its sole and absolute discretion at any
+                                    time and for any reason, to request an entrant to modify, edit and/or resubmit his or her Image (or any part thereof) in
+                                    order to ensure that the Image complies with these Rules, or for any other reason.<br>If such an action is necessary at any point during or after the Contest, then the Sponsor reserves the right, in its sole
+                                    discretion, to take whatever action it deems necessary based on the circumstances to ensure that the Contest is being conducted
+                                    in accordance with the Sponsor’s interpretation of the letter and spirit of these Rules.
+                                </ol>
+                            </li>
+                            <li>LICENSE:<br> By entering the Contest and submitting an Entry, each entrant: (i) grants to the Sponsor, in perpetuity, a non-exclusive,
+                            royalty-free license to publish, display, reproduce, modify, edit or otherwise use his/her Image (and each component thereof),
+                            in whole or in part, for advertising or promoting the Contest or in connection with the advertising or promotion of eggs
+                            or egg-related products; (ii) waives all moral rights in and to his/her Image in favour of the Sponsor (and anyone authorized
+                            by the Sponsor to use such Image); and (iii) agrees to release and hold harmless the Released Parties from and against any
+                            and all claims, damages, liabilities, costs, and expenses arising from use of his/her Image (or any component thereof), including,
+                            without limitation, any claim based on publicity rights, defamation, invasion of privacy, copyright infringement, trade-mark
+                            infringement or any other intellectual property related or other cause of action whatsoever.
+                                
+                            </li>
+                            <li>THE PRIZES:<br>
+                                <u>Grand Prize:</u>There is one (1) Grand Prize (the “Grand Prize”) available to be won consisting of one (1) cheque for three thousand dollars
+                                ($3,000 CAD) payable in the name of the confirmed winner.<br>Without limiting the generality of the foregoing, the following general conditions apply to the Grand Prize: (i) Grand Prize
+                                must be accepted as awarded and is not transferable or assignable (except as may be specifically permitted by Sponsor in
+                                its sole and absolute discretion); (ii) no substitutions are permitted, except at Sponsor’s option; (iii) Sponsor reserves the right at any time to substitute the Grand
+                                Prize for any reason with a prize of equal or greater value.
+                                <br><u>Secondary Prizes:</u>There are ten (10) Secondary Prizes (each a “Secondary Prize”, collectively “Secondary Prizes”) available to be won, each
+                                consisting fifty two (52) coupons, each redeemable for one (1) dozen eggs, valid until December 2019. Each Secondary Prize
+                                has an approximate retail value (“ARV”) of up to $169.00 CAD. . Each Secondary Prize must be accepted as awarded and is not
+                                transferable, assignable or convertible to cash (except as may be specifically permitted by Sponsor in its sole and absolute
+                                discretion). No substitutions are permitted, except at Sponsor’s option. Sponsor reserves the right, in its sole and absolute
+                                discretion, to substitute any Secondary Prize or a component thereof with a prize of equal or greater retail value, including,
+                                without limitation, but at Sponsor’s sole and absolute discretion, a cash award. All coupons are subject to the terms and
+                                conditions of the issuer.
+                                <br><u>Early Bird Prizes:</u>The first fifty (50) eligible participants to complete an eligible Entry in accordance with these Rules (as determined by
+                                the Sponsor in its sole and absolute discretion) will each be eligible to win an Early Bird Prize (subject to compliance
+                                with these Rules) (“Early Bird Prize”), each consisting of four (4) coupons, each redeemable for one (1) dozen eggs. Each
+                                Early Bird Prize has an ARV of $13.00. Each Early Bird Prize must be accepted as awarded and is not transferable, assignable
+                                or convertible to cash (except as may be specifically permitted by Sponsor in its sole and absolute discretion). No substitutions
+                                are permitted, except at Sponsor’s option. Sponsor reserves the right, in its sole and absolute discretion, to substitute
+                                any Early Bird Prize or a component thereof with a prize of equal or greater retail value, including, without limitation,
+                                but at Sponsor’s sole and absolute discretion, a cash award. All coupons are subject to the terms and conditions of the issuer.
+                                The odds of winning an Early Bird Prize depend on the number of eligible entries submitted and the speed with which eligible
+                                participants complete a valid Entry in accordance with these Rules. There is a limit of one (1) Early Bird Prize per person.
+                                <br> The Grand Prize, Secondary Prizes and Early Bird Prizes will be referred to collectively as “Prizes” and are each a “Prize.”
+                                <br> None of the Released Parties makes any representation or offers any warranty, express or implied, as to the quality or fitness
+                                of any Prize awarded in connection with the Contest. To the fullest extent permitted by applicable law, each confirmed winner
+                                understands and acknowledges that he or she may not seek reimbursement or pursue any legal or equitable remedy from either
+                                the Sponsor or any of the other Released Parties should his/her Prize fail to be fit for its purpose or is in any way unsatisfactory.
+                                For greater certainty and the avoidance of any doubt, by accepting a Prize, each confirmed winner agrees to waive all recourse
+                                against the Sponsor and all of the other Released Parties if his/her Prize or a component thereof does not prove satisfactory,
+                                either in whole or in part. There is a limit of one (1) Secondary or Grand Prize per person and one (1) Early Bird Prize
+                                per person.
+                                <br>
+                        
+                        
+                            </li>
+                            <li>ELIGIBLE SECONDARY AND GRAND PRIZE WINNER SELECTION PROCESS (SPONSOR JUDGING):<br>A panel of judges (the “Contest Judges”) appointed by the Sponsor will judge each eligible Entry on the basis of the following
+                            criteria:<br>
+                                <table class="table table-bordered">
+                                    <thead>
+                                        <th>
+                                            Criteria
+                                        </th>
+                                        <th>
+                                            Scoring
+                                        </th>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1. Overall appearance</td>
+                                            <td>50%</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2. Creativity and originality</td>
+                                            <td>30%</td>
+                                        </tr>
+                                        <tr>
+                                            <td>3. Craftsmanship</td>
+                                            <td>20%</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <u>Judging:</u>Each Entry will be given a score (the “Score”) by the Contest Judges. Odds of being selected as the eligible selected entrant
+                                of a Prize depend on the number and calibre of eligible Entries submitted and received in accordance with these Rules. There
+                                will be eleven (11) eligible selected entrants associated with the top eleven (11) eligible Entries based on Score (as determined
+                                by the Contest Judges, in their sole and absolute discretion). The highest scoring selected entrant will be selected as the
+                                potential winner of the Grand Prize and the next ten (10) highest scoring selected entrants will be potential winners of
+                                a Secondary Prize (subject to compliance with these Rules). In the event of a tie between two or more eligible Entries based
+                                on Score, the eligible selected entrant associated with the eligible Entry – from amongst all such eligible Entries that
+                                are tied – with the highest score on Criteria 1 (followed in the event of a further tie by Criteria 2, then Criteria 3) will
+                                be selected as the eligible selected entrant of a Prize. In the event of an exact tie based on criteria 1, 2 and 3, a new
+                                panel of judges will be appointed by the Sponsor to break the tie in accordance with the preceding procedure. Judging is
+                                scheduled to be completed on or about October 29, 2018 (the “Selection Date”). Eligible Secondary Prize selected entrants
+                                will be announced on October 30, 2018 and the eligible Grand Prize selected entrant will be announced on November 2, 2018.
+                            </li>
+                            <li>ELIGIBLE SECONDARY AND GRAND PRIZE WINNER NOTIFICATION PROCESS:<br> The Sponsor or its designated representative will make a minimum of three (3) attempts to contact each selected entrant within
+                            five (5) business days of their Selection Date. If selected entrant cannot be contacted as outlined above, or if there is
+                            a return of any notification as undeliverable; then he/she may, in the sole and absolute discretion of the Sponsor, be disqualified
+                            (and, if disqualified, will forfeit all rights to the applicable Prize) and the Sponsor reserves the right, in its sole and
+                            absolute discretion and time permitting, to select an alternate eligible selected entrant from among the remaining eligible
+                            Entries in accordance with the applicable procedures outlined in Rule 10 (in which case the foregoing provisions of this
+                            section shall apply to such newly selected entrant).
+                            </li>
+                            <li>ELIGIBLE SECONDARY AND GRAND PRIZE WINNER CONFIRMATION PROCESS:<br> NO ONE IS A WINNER UNLESS AND UNTIL THE SPONSOR OFFICIALLY CONFIRMS HIM/HER AS A WINNER IN ACCORDANCE WITH THESE RULES, EVEN
+                            IF SUCH PERSON IS ANNOUNCED AS A WINNER OR AN ELIGIBLE WINNER. BEFORE BEING DECLARED AS A CONFIRMED PRIZE WINNER, each eligible
+                            selected entrant will be required to: (a) correctly answer a mathematical skilltesting question without mechanical or other
+                            aid (which may, in the sole and absolute discretion of the Sponsor, be administered online, by email or other electronic
+                            means, by telephone, or in the Sponsor’s form of declaration and release); and (b) sign and return within five (5) business
+                            days of notification the Sponsor’s declaration and release form, which (among other things): (i) confirms continuing compliance
+                            with these Rules; (ii) acknowledges acceptance of the applicable Prize (as awarded); and (iii) releases the Released Parties
+                            from any and all liability in connection with this Contest, his/her participation therein and/or the awarding and use/misuse of the applicable Prize or any portion thereof.
+                            If a selected entrant: (a) fails to return the properly executed Contest documents within the specified time; (b) cannot
+                            accept (or is unwilling to accept) the applicable Prize (as awarded) for any reason; (c) fails to fully comply with all requirements
+                            contemplated in these Rules (including, but not limited, the requirement to correctly answer a mathematical skill-testing
+                            question); and/or (d) is determined to be in violation of these Rules (all as determined by the Sponsor in its sole and absolute
+                            discretion); then he/she will be disqualified (and will forfeit all rights to the applicable Prize) and the Sponsor reserves
+                            the right, in its sole and absolute discretion and time permitting, to select an alternate eligible entrant from among the
+                            remaining eligible Entries in accordance with the applicable procedures outlined in Rule 10 (in which case the foregoing
+                            provisions of this section shall apply to such newly selected entrant).
+                                
+                            </li>
+                            <li>
+                                ELIGIBLE EARLY BIRD PRIZE NOTIFICATION AND CONFIRMATION PROCESS<br>BEFORE BEING DECLARED AS A CONFIRMED EARLY BIRD PRIZE WINNER, and within five (5) business days of being one of the first
+                                fifty (50) valid Contest entrants, each eligible Early Bird selected entrant will be sent an email containing a mathematical
+                                skill testing question. Each eligible entrant will be required to reply to the email and correctly answer the mathematical
+                                skill-testing question without mechanical or other aid within three (3) business days of receipt. If a selected entrant:
+                                (a) fails to reply to the email within the specified time; or (b) does not correctly answer a mathematical skill-testing
+                                question; and/or (c) is determined to be in violation of these Rules (all as determined by the Sponsor in its sole and absolute
+                                discretion); then he/she will be disqualified (and will forfeit all rights to the applicable Early Bird Prize) and the Sponsor
+                                reserves the right, in its sole and absolute discretion and time permitting, to select the next eligible entrant from among
+                                the remaining eligible Entries in accordance with the applicable procedures outlined in Rule 9 (in which case the foregoing
+                                provisions of this section shall apply to such newly selected entrant).
+                            </li>
+                            <li>
+                                GENERAL CONDITIONS:<br>This Contest is subject to all applicable federal, provincial/territorial and municipal laws. 
+                                The decisions of the Sponsor
+                                with respect to all aspects of this Contest are final and binding on all entrants without right of appeal. ANYONE DEEMED
+                                BY THE SPONSOR TO BE IN VIOLATION OF THE SPONSOR’S INTERPRETATION OF THE LETTER AND/OR SPIRIT OF THESE RULES FOR ANY REASON
+                                IS SUBJECT TO DISQUALIFICATION IN THE SOLE AND ABSOLUTE DISCRETION OF THE SPONSOR AT ANY TIME.
+                                <br> The Released Parties will not be liable for: (i) any failure of the Website and/or any other website or any platform during
+                                the Contest; (ii) any technical malfunction or other problems of any nature whatsoever, including, without limitation, those
+                                relating to the telephone network or lines, computer on-line systems, servers, access providers, computer equipment or software;
+                                (iii) the failure of any Entry, Image, and/or other information to be received, captured, recorded or otherwise work properly
+                                for any reason whatsoever, including, but not limited to, technical problems or traffic congestion on the internet or at
+                                any website; (iv) any injury or damage to an entrant’s or any other person’s computer or other device related to or resulting
+                                from participating in the Contest; (v) anyone being incorrectly and/or mistakenly identified as a winner or eligible winner;
+                                and/or (vi) any combination of the above.
+                                <br>
+                                The Sponsor reserves the right, subject only to the approval of the Régie des alcools, des courses et des jeux (the “Régie”)
+                                in Quebec, to withdraw, amend or suspend this Contest (or to amend these Rules) in any way, in the event of any cause beyond
+                                the reasonable control of the Sponsor that interferes with the proper conduct of this Contest as contemplated by these Rules,
+                                including, without limitation, any error, problem, computer virus, bugs, tampering, unauthorized intervention, fraud or failure
+                                of any kind whatsoever. Any attempt to undermine the legitimate operation of this Contest in any way (as determined by Sponsor
+                                in its sole and absolute discretion) may be a violation of criminal and civil laws and should such an attempt be made, the
+                                Sponsor reserves the right to seek remedies and damages to the fullest extent permitted by law. The Sponsor reserves the
+                                right, subject only to the approval of the Régie in Quebec, to cancel, amend or suspend this Contest, or to amend these Rules,
+                                in any way without prior notice or obligation, in the event of any accident, printing, administrative, or other error of
+                                any kind, or for any other reason whatsoever.
+                                <br>
+                                By entering this Contest, each entrant expressly consents to the Sponsor, its agents and/or representatives, storing, sharing
+                                and using the personal information submitted for the purpose of administering the Contest and in accordance with Sponsor’s
+                                privacy policy (available at: http://www.eggfarmers.ca/privacy-policy/). This section does not limit any other consent(s)
+                                that an individual may provide the Sponsor or others in relation to the collection, use and/or disclosure of their personal
+                                information.
+                                <br>
+                                The Sponsor reserves the right, subject only to the approval of the Régie in Quebec, to adjust any of the dates, timeframes
+                                and/or other Contest mechanics stipulated in these Rules, to the extent deemed necessary by the Sponsor, for purposes of
+                                verifying compliance by any entrant, Entry, Image(s) and/or other information with these Rules, or as a result of any technical
+                                or other problems, or in light of any other circumstances which, in the opinion of the Sponsor, in its sole and absolute
+                                discretion, affect the proper administration of the Contest as contemplated in these Rules, or for any other reason.
+                                <br>
+                                For Quebec Residents: Any litigation respecting the conduct or organization of a publicity contest may be submitted to the
+                                Régie des alcools, des courses et des jeux for a ruling. Any litigation respecting the awarding of a prize may be submitted
+                                to the board only for the purpose of helping the parties reach a settlement.
+                                <br>
+                                In the event of any discrepancy or inconsistency between the terms and conditions of these English Rules and disclosures
+                                or other statements contained in any Contest-related materials, including, but not limited to, the French version of these
+                                Rules and/or any instructions or interpretations of these Rules given by any representative of the Sponsor, the terms and
+                                conditions of these English Rules shall prevail, govern and control to the fullest extent permitted by law.
+                                <br>
+                                The invalidity or unenforceability of any provision of these Rules shall not affect the validity or enforceability of any
+                                other provision. In the event that any provision is determined to be invalid or otherwise unenforceable or illegal, these
+                                Rules shall otherwise remain in effect and shall be construed in accordance with the terms as if the invalid or illegal provision
+                                were not contained herein.
+                                <br>
+                                To the fullest extent permitted by applicable law, all issues and questions concerning the construction, validity, interpretation
+                                and enforceability of these Rules or the rights and obligations of participants, Sponsor or any of the other the Released
+                                Parties in connection with the Contest will be governed by and construed in accordance with the domestic laws of the Province of Ontario and the federal laws of Canada
+                                applicable therein, without giving effect to any choice of law or conflict of law rules or provisions that would cause the
+                                application of any other jurisdiction’s laws. The parties hereby consent to the exclusive jurisdiction and venue of the courts
+                                located in Ontario in any action to enforce (or otherwise relating to) these Rules or relating to this Contest.
+
+                            </li>
+                        </ol>
+                        <b style='font-size:16px; color:red'>Mini Rules:</b><br>
+                        <b style='font-size:16px; color:red'>NO PURCHASE NECESSARY.</b>Contest closes October 25, 2018 (11:59:59 p.m. ET). Open to residents of Canada who are legal age of majority. One grand
+                        prize consisting of a cheque for $3,000; 10 secondary prizes each consisting of 52 coupons redeemable for a dozen eggs, ARV
+                        $169.00; odds depend on number and quality of eligible entries. 50 early bird prizes each consisting of 4 coupons redeemable
+                        for a dozen eggs, ARV $13.00; odds depend on number of eligible entries and the speed with which eligible entrants complete
+                        a valid entry. Skill-testing question required. Full rules including entry, judging and prize information at EggsAreGood.ca/contest.
                     
+                        <hr> {{-- french version --}}
+                        
+                        <span style='font-size:16px; font-weight:bold; text-align:center !important'>LE PRÉSENT CONCOURS S’ADRESSE UNIQUEMENT AUX RÉSIDENTS DU CANADA<br>AUCUN ACHAT REQUIS NI AUCUN PAIEMENT. UN ACHAT OU UN PAIEMENT, 
+                            DE QUELQUE NATURE QU’IL SOIT, N’AUGMENTERA PAS VOS CHANCES
+                        DE GAGNER ET N’AURA PAS NON PLUS D’INCIDENCE SUR CELLES-CI.<br> Des frais d’utilisation de données standard s’appliquent aux participants qui choisissent de prendre part au concours au
+                        moyen d’un appareil mobile. Veuillez vous renseigner auprès de votre fournisseur de services afin de connaître les prix,
+                        les conditions de service et les tarifs avant de participer au moyen de votre appareil mobile.</span>
+                        
+                        <ol>
+                            <li>DATES IMPORTANTES<br>La période de participation au concours Exposez vos chef-d’oeufs (le « concours ») commence le 25 septembre 2018 à 12 h 01
+                            min 00 s heure de l’Est (« HE ») et se termine le 25 octobre 2018 à 23 h 59 min 59 s HE (la « période de participation »).
+                            </li>
+                            <li>ADMISSIBILITÉ:<br>Le concours s’adresse aux résidents du Canada qui ont atteint l’âge de la majorité dans leur province ou territoire de résidence
+                            au moment de l’inscription; à l’exception des employés, représentants ou mandataires (et des personnes domiciliées avec eux,
+                            qu’elles aient ou non un lien de parenté avec eux) de l’Office canadien de commercialisation des oeufs (exerçant ses activités
+                            sous l’appellation Les producteurs d’oeufs du Canada) (le « commanditaire »), ses filiales, fournisseurs de prix, agences
+                            de publicité ou de promotion et toute entité ou tout individu ayant participé à la conception, à la production, à l’administration,
+                            au jugement ou à l’exécution du concours (collectivement avec le commanditaire, les « parties au concours »).
+                            </li>
+                            <li>ACCEPTATION D’ÊTRE LIÉ PAR LE RÈGLEMENT:<br>En participant au présent concours, vous confirmez que vous avez lu les modalités du présent règlement officiel (le « règlement
+                            ») et que vous acceptez d’être lié par celui-ci.</li>
+                            <li>PARTICIPATION<br>Pour participer, rendez-vous à EggsAreGood.ca/contest (le « site Web ») durant la période de participation et suivez les
+                            instructions à l’écran qui vous guideront dans les étapes suivantes :<br>
+                                <ol type='a'>
+                                    <li>Obtenir le bulletin officiel de participation au concours (le « bulletin de participation »).</li>
+                                    <li>Remplir le bulletin de participation en y inscrivant tous les renseignements requis, ce qui comprend : i) votre nom complet;
+                                    ii) votre adresse de courriel; iii) et votre numéro de téléphone, y compris l’indicatif régional.</li>
+                                    <li>Téléverser une (1) image (l’« image ») unique d’une oeuvre de votre création qui met en vedette (ou autrement démontre comment
+                                    vous mettriez en vedette) au moins un oeuf comme étant un de ses ingrédients clés (le « thème ») REMARQUE IMPORTANTE : Il
+                                    n'est pas nécessaire de présenter de vrais oeufs dans l'image et le fait de présenter de vrais oeufs n'augmentera pas vos
+                                    chances de gagner dans le cadre du présent concours, ni n'aura d'incidence sur celles-ci.
+                                        <br><br>REMARQUE IMPORTANTE : Pour être admissible, votre image doit être : (i) dans un des formats suivants : JPG, TIF, BMP, PNG;
+                                        (ii) un fichier dont la taille fait un minimum de 2 Mb et un maximum de 12 Mb; et (iii) conforme au présent règlement (y
+                                        compris, notamment, aux exigences relatives à la soumission énumérées ci-dessous à la règle 7)</li>
+                                    <li>Confirmer que vous avez lu le présent règlement et que vous acceptez d’être légalement lié par celui-ci.</li>
+                                    <li>Cliquer sur « SOUMETTRE ».</li>
+                                </ol><br> Pour être admissible, votre image doit : (i) respecter le thème; et (ii) être conforme au présent règlement, y compris, notamment,
+                                aux exigences relatives à la soumission énumérées ci-dessous à la règle 7 (le tout, comme le détermine le commanditaire à
+                                son entière et absolue discrétion). Une image qui ne respecte pas le présent règlement (y compris, notamment, les exigences
+                                relatives à la soumission énumérées ci-dessous à la règle 7) (le tout, comme le détermine le commanditaire à son entière
+                                et absolue discrétion) sera disqualifiée et vous ne serez pas admissible à recevoir une participation au présent concours.
+                                <br> En cliquant sur « SOUMETTRE », vous serez admissible à recevoir une (1) participation (chacune, une « participation » et,
+                                collectivement, les « participations ») au concours. Pour être admissible, votre participation doit être soumise et reçue
+                                conformément au présent règlement pendant la période de participation.
+                            </li>
+                            <li>NOMBRE DE PARTICIPATIONS<br> <u>Il n’y a pas de limite de participation par personne, mais chaque image utilisée pour participer au concours doit être originale
+                            et unique.</u> 
+                                commanditaire découvre (à l’aide d’une preuve ou d’un autre renseignement mis à la disposition du commanditaire ou autrement
+                                découvert par le commanditaire) qu’une personne a tenté i) de soumettre la même image plus d’une (1) fois ou une image dont
+                                elle n’est pas l’auteur, ou ii) de s’inscrire ou autrement participer au présent concours ou de nuire à son bon fonctionnement
+                                en utilisant plusieurs noms, identités, adresses de courrier électronique, ou un moyen automatisé, une macro, un script,
+                                une aide robotique, un autre système ou programme, ou une autre façon de déroger de l’interprétation par le commanditaire
+                                de la lettre et de l’esprit du présent règlement, elle pourrait se voir exclue du concours à l’entière et absolue discrétion
+                                du commanditaire. Les parties au concours et chacun de leurs mandataires, employés, dirigeants, successeurs et ayants droit
+                                respectifs (collectivement, les « parties exonérées ») ne sont pas responsables des participations reçues en retard, perdues,
+                                mal acheminées, retardées, incomplètes ou incompatibles (lesquelles seront toutes déclarées nulles). Toute participation pourrait être rejetée à l’entière
+                                et absolue discrétion du commanditaire si : i) le bulletin de participation n’est pas soumis et reçu conformément au présent
+                                règlement pendant la période du concours; ou ii) si l’image qui accompagne la participation n’est pas conforme au présent
+                                règlement (y compris, notamment, aux exigences relatives à la soumission énumérées ci-dessous à la règle 7) (le tout, comme
+                                le détermine le commanditaire à son entière et absolue discrétion).
+                            </li>
+                            <li>VÉRIFICATION:<br>Le commanditaire se réserve le droit, à son entière et absolue discrétion, d’exiger une preuve d’identité ou d’admissibilité
+                            (sous une forme jugée acceptable par le commanditaire, y compris, notamment, une pièce d’identité avec photo émise par le
+                            gouvernement) : i) pour vérifier l’admissibilité d’une personne au présent concours ; ii) pour vérifier l’admissibilité ou
+                            la légitimité d’une participation, d’une image ou de toute autre information inscrites (ou prétendument inscrites) aux fins
+                            du présent concours; et iii) pour tout autre motif lorsque le commanditaire le juge nécessaire, à son entière et absolue
+                            discrétion, et ce, aux fins de l’administration du présent concours conformément à l’interprétation par le commanditaire
+                            de la lettre et de l’esprit du présent règlement. À défaut de fournir une telle preuve à l’entière satisfaction du commanditaire
+                            dans les délais impartis par le commanditaire, le participant pourrait être exclu du concours à l’entière et absolue discrétion
+                            du commanditaire. Les dispositifs de chronométrage officiels du commanditaire constitueront le seul moyen permettant d’attester
+                            l’heure dans le cadre de ce concours.
+                            </li>
+                            <li>EXIGENCES RELATIVES À LA SOUMISSION<br> EN SOUMETTANT UNE PARTICIPATION, VOUS CONFIRMEZ QUE LA PARTICIPATION (ET L’IMAGE) RESPECTE TOUTES LES MODALITÉS DÉFINIES
+                            DANS LE PRÉSENT RÈGLEMENT. LES PARTIES EXONÉRÉES N’ASSUMENT AUCUNE RESPONSABILITÉ QUELLE QU’ELLE SOIT À L’ÉGARD : (I) DE
+                            L’UTILISATION DE VOTRE PARTICIPATION (OU D’UN DE SES ÉLÉMENTS – Y COMPRIS, NOTAMMENT, L’IMAGE); (II) DE TOUTE PARTICIPATION
+                            À TOUTE ACTIVITÉ LIÉE AU CONCOURS; (III) DE L’UTILISATION, LA COLLECTE, LA CONSERVATION ET LA DIVULGATION DE TOUT RENSEIGNEMENT
+                            PERSONNEL; ET (IV) SI VOUS ÊTES DÉCLARÉ GAGNANT, DE TOUT PRIX (Y COMPRIS DE L’UTILISATION OU DU MAUVAIS USAGE D’UN PRIX).
+                            VOUS ACCEPTEZ DE TENIR INDEMNES LES PARTIES EXONÉRÉES SI L’ON DÉCOUVRE ULTÉRIEUREMENT QUE VOUS AVEZ DÉROGÉ AU PRÉSENT RÈGLEMENT
+                            OU QUE VOUS NE VOUS ÊTES PAS ENTIÈREMENT CONFORMÉ À CHAQUE DISPOSITION DU RÈGLEMENT. LA PRÉSENTE EXONÉRATION DE RESPONSABILITÉ
+                            ET INDEMNISATION DEMEURERA EN VIGUEUR APRÈS LA FIN DU CONCOURS ET L’ATTRIBUTION DE TOUT PRIX.
+                             <br> En prenant part au concours, chaque participant déclare et garantit, par les présentes, que chaque image soumise :
+                                <br>
+                                <ol type="i">
+                                    <li>est de son cru et que le participant a obtenu tous les droits requis relativement à l’image l'autorisant à la soumettre dans
+                                    le cadre du concours;</li>
+                                    <li>n’enfreint aucune loi, législation, ordonnance et réglementation;</li>
+                                    <li>ne contient aucune référence ou ressemblance à des tiers identifiables, à moins d’avoir obtenu leur consentement écrit ou
+                                    celui de leur père, leur mère ou leur tuteur légal s’ils sont mineurs dans leur territoire de résidence;</li>
+                                    <li>ne donnera pas lieu à aucune réclamation, y compris, notamment, pour entrave ou atteinte à la vie privée ou aux droits de
+                                    publicité, ne violera aucun droit ou intérêt d’un tiers;</li>
+                                    <li>n’est nullement diffamatoire, commercialement diffamatoire, pornographique ou obscène et, en outre, ne contient, ne décrit,
+                                    n’aborde et ne comprend, sans aucune restriction, rien de ce qui suit : nudité; consommation d’alcool, de drogue ou de tabac;
+                                    activité sexuelle explicite ou graphique, ou insinuation à caractère sexuel; langage grossier, vulgaire ou choquant; représentations
+                                    choquantes de tout groupe ethnique, racial, sexuel, religieux ou autre (notamment tout compétiteur du commanditaire); contenu
+                                    qui approuve, tolère, évoque ou aborde un comportement illégal, inapproprié ou hasardeux; renseignements personnels de quiconque,
+                                    notamment des noms, numéros de téléphone et adresses (physiques et électroniques); messages commerciaux; comparaisons ou
+                                    sollicitations concernant des produits ou services autres que ceux du commanditaire; produit ou marque, marque de commerce
+                                    ou logo d’un tiers (autres que ceux du commanditaire); (p. ex., les vêtements portés par des personnes ou les produits apparaissant
+                                    dans votre image ne doivent pas contenir de logo, marque de commerce ou autre matériel visible appartenant à un tiers, à
+                                    moins d'avoir obtenu le consentement approprié --- remarque : tous les produits, marques de commerce, marques et logos identifiables
+                                    appartenant à un tiers pour lesquels le participant n'a obtenu aucun consentement doivent être brouillés afin qu'ils soient
+                                    méconnaissables); comportement ou activités contrevenant au présent règlement, et tout autre contenu jugé ou pouvant être
+                                    jugé inapproprié, incorrect ou choquant, tel que le détermine le commanditaire à son entière discrétion.
+                                    </li><br> Le commanditaire, son agence de promotion ou son modérateur de contenu désigné (le « vérificateur ») se réserve le droit
+                                    d’examiner toutes les images. Toute image qui selon le vérificateur, et à son entière et absolue discrétion, enfreint les
+                                    modalités décrites dans le présent règlement, peut faire l’objet d’une disqualification. Le vérificateur se réserve le droit,
+                                    à son entière et absolue discrétion, à tout moment et pour quelque motif que ce soit, de demander à un participant de modifier,
+                                    d’adapter ou de soumettre à nouveau son image (ou un de ses éléments) afin de s’assurer que l’image respecte le présent règlement,
+                                    ou pour tout autre motif.<br>Si une telle mesure s’avère nécessaire, à tout moment pendant ou après le concours, le commanditaire se réserve le droit,
+                                    à son entière et absolue discrétion, de prendre toutes les mesures qu’il juge opportunes, selon les circonstances, pour s’assurer
+                                    que le concours se déroule conformément à l’interprétation par le commanditaire de la lettre et de l’esprit du présent règlement.
+                                </ol>
+                            </li>
+                            <li>LICENCE:<br> En participant au concours et en soumettant une participation, chaque participant se trouve à : i) attribuer au commanditaire
+                            et à perpétuité, une licence non exclusive, libre de redevances, lui permettant de publier, d’afficher, de reproduire, de
+                            modifier, d’éditer ou d’utiliser autrement son image (et chacun de ses éléments), en totalité ou en partie, aux fins de promouvoir le concours ou à d’autres fins publicitaires
+                            ou pour tout autre motif; ii) renoncer à tous droits moraux rattachés à son image, et ce, au profit du commanditaire (et
+                            toute personne que le commanditaire autorise à utiliser une telle image); et à iii) consentir à tenir quittes et indemnes
+                            les parties au concours à l’égard de toute réclamation, tout dommage, toute responsabilité, tout frais et toute dépense découlant
+                            de l’utilisation de son image (ou de chacun de ses éléments), y compris, notamment, toute réclamation fondée sur une cause
+                            d’action liée aux droits publicitaires, à la diffamation, à la violation de la vie privée ou du droit d’auteur, à une contrefaçon
+                            de marque de commerce ou à tout autre droit de propriété intellectuelle liée de quelque façon que ce soit à la participation.
+                        
+                            </li>
+                            <li>LES PRIX<br>
+                                <u>Grand prix :</u>Il y a un (1) grand prix (le « grand prix ») à gagner qui consiste en un (1) chèque de trois-mille dollars (3 000 $CA) payable
+                                au nom du gagnant confirmé.<br>Sans restreindre la portée générale de ce qui précède, les conditions générales suivantes s’appliquent au grand prix : (i)
+                                le grand prix doit être accepté tel quel et n’est ni transférable ni cessible (sauf en cas de permission expresse du commanditaire,
+                                à son entière et absolue discrétion); (ii) aucune substitution n’est permise, sauf si le commanditaire opte pour cette possibilité;
+                                (iii) le commanditaire se réserve le droit en tout temps de remplacer le grand prix pour quelque motif que ce soit par un
+                                prix de valeur égale ou supérieure.
+                                <br><u>Prix secondaires:</u>Il y a dix (10) prix secondaires (chacun, un « prix secondaire », collectivement, des « prix secondaires ») à gagner : chacun
+                                consiste en cinquante-deux (52) coupons, chacun échangeable contre une (1) douzaine d’oeufs jusqu’en décembre 2019. Chaque
+                                prix secondaire est d'une valeur au détail approximative (« VDA ») pouvant atteindre 169 $CA. Chaque prix secondaire doit
+                                être accepté tel quel et n’est ni transférable ni cessible et ni convertible en espèces (sauf en cas de permission expresse
+                                du commanditaire, à son entière et absolue discrétion). Aucune substitution n’est permise, sauf si le commanditaire opte
+                                pour cette possibilité. Le commanditaire se réserve le droit, à son entière et absolue discrétion, de remplacer un prix secondaire
+                                ou un de ses éléments, par un prix de valeur égale ou supérieure, y compris, notamment, mais à l’entière et absolue discrétion
+                                du commanditaire, par un prix en espèces. Tous les coupons sont assujettis aux modalités de l’émetteur.
+                                <br><u>Prix aux participants hâtifs :</u>Les cinquante (50) premiers participants admissibles ayant soumis une participation admissible qui respecte le présent règlement
+                                (comme le détermine le commanditaire à son entière et absolue discrétion) pourront chacun gagner un prix aux participants
+                                hâtifs (sous réserve du respect du présent règlement) (« prix aux participants hâtifs ») : chaque prix consiste en quatre
+                                (4) coupons, chacun échangeable contre une (1) douzaine d’oeufs. Chaque prix aux participants hâtifs a une VDA de 13 $CA.
+                                Chaque prix aux participants hâtifs doit être accepté tel quel et n’est ni transférable, ni cessible, ni monnayable (sauf
+                                en cas de permission expresse du commanditaire, à son entière et absolue discrétion). Aucune substitution n’est permise,
+                                sauf si le commanditaire opte pour cette possibilité. Le commanditaire se réserve le droit, à son entière et absolue discrétion,
+                                de remplacer tout prix aux participants hâtifs, ou un de ses éléments, par un prix de valeur au détail égale ou supérieure,
+                                y compris, notamment, mais à l’entière et absolue discrétion du commanditaire, par un prix en espèces. Tous les coupons sont
+                                assujettis aux modalités de l’émetteur. Les chances de gagner un prix aux participants hâtifs dépendent du nombre de participations
+                                admissibles soumises et de la vitesse à laquelle les participants admissibles soumettent une participation valide conformément
+                                au présent règlement. Il y a une limite d’un (1) prix aux participants hâtifs par personne.
+                                <br> Le grand prix, les prix secondaires et les prix aux participants hâtifs seront appelés « prix ».
+                                <br> Aucune des parties exonérées ne fait de déclaration ni n’offre de garantie, expresse ou implicite, quant à la qualité ou
+                                à la pertinence d’un prix remis dans le cadre du concours. Dans la mesure où la loi applicable le permet, chaque gagnant
+                                confirmé comprend et accepte qu’il ne peut pas demander un remboursement ni présenter de recours juridique ou en equity au
+                                commanditaire ou à l’une des autres parties exonérées si son prix n’est pas adapté à sa fonction ou est insatisfaisant de
+                                quelque façon que ce soit. Pour éviter toute ambiguïté, il est entendu qu’en acceptant un prix, chaque gagnant confirmé convient
+                                de renoncer à tout recours contre le commanditaire et contre toutes les autres parties exonérées si son prix ou une partie
+                                du prix n’est pas satisfaisant en totalité ou en partie. Il y a une limite d’un (1) prix secondaire ou grand prix par personne
+                                et d’un (1) prix aux participants hâtifs par personne.
+                                <br>
+                        
+                        
+                            </li>
+                            <li>PROCESSUS DE SÉLECTION DES GAGNANTS ADMISSIBLES D’UN PRIX SECONDAIRE ET DU GRAND PRIX (ÉVALUATION PAR LE COMMANDITAIRE)<br>Un jury (les « juges du concours ») nommé par le commanditaire évaluera chaque participation admissible en fonction des critères
+                            suivants :
+                                <br>
+                                <table class="table table-bordered">
+                                    <thead>
+                                        <th>
+                                            Critères
+                                        </th>
+                                        <th>
+                                            Note
+                                        </th>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1. Apparence générale</td>
+                                            <td>50%</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2. Créativité et originalité</td>
+                                            <td>30%</td>
+                                        </tr>
+                                        <tr>
+                                            <td>3. Savoir-faire</td>
+                                            <td>20%</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <u>Évaluation:</u>Les juges du concours attribueront une note (la « note ») à chaque participation. Les chances d’être retenu comme participant
+                                sélectionné admissible à un prix dépendent du nombre et de la qualité des participations admissibles soumises et reçues conformément
+                                au présent règlement. Il y aura onze (11) participants sélectionnés admissibles associés aux onze (11) meilleures participations
+                                admissibles retenues en fonction de leur note (tel qu’établi par les juges du concours à leur entière et absolue discrétion).
+                                Le participant sélectionné ayant obtenu la meilleure note sera retenu comme le gagnant potentiel du grand prix et les dix
+                                (10) autres participants sélectionnés ayant obtenu les meilleures notes seront les gagnants potentiels d’un prix secondaire
+                                (sous réserve du respect du présent règlement). En cas d’égalité des notes entre deux ou plusieurs participations admissibles,
+                                le participant sélectionné admissible dont la participation admissible — parmi toutes les participations admissibles qui
+                                sont à égalité — aura obtenu la meilleure note au critère 1 (puis, s’il y a égalité au critère 1, au critère 2 et au critère
+                                3) sera retenu comme participant sélectionné admissible à un prix. S’il y a égalité aux critères 1, 2 et 3, un nouveau jury
+                                sera nommé par le commanditaire afin de briser l’égalité, en conformité avec le processus précédent. L’évaluation devrait
+                                prendre fin le 29 octobre 2018 ou autour de cette date (la « date de sélection »). Les participants sélectionnés admissibles
+                                à un prix secondaire seront annoncés le 30 octobre 2018 tandis que le participant sélectionné admissible au grand prix sera
+                                annoncé le 2 novembre 2018.
+                            </li>
+                            <li>PROCESSUS D’AVIS AUX GAGNANTS ADMISSIBLES D’UN PRIX SECONDAIRE ET DU GRAND PRIX<br> Le commanditaire ou son représentant désigné fera au moins trois (3) tentatives pour joindre chaque participant sélectionné
+                            dans les cinq (5) jours ouvrables suivant la date de sélection. Si le participant sélectionné ne peut être joint tel que
+                            décrit ci-dessus ou si un avis est retourné en tant que courrier non distribuable, le participant pourrait, à l’entière et
+                            absolue discrétion du commanditaire, être disqualifié (et, s’il est disqualifié, perdra son droit au prix applicable), et
+                            le commanditaire se réserve le droit, si le temps le permet et à son entière et absolue discrétion, de sélectionner un autre
+                            participant admissible parmi toutes les participations admissibles restantes conformément aux procédures applicables décrites
+                            à la règle 10 (auquel cas les dispositions qui précèdent s’appliqueront au participant nouvellement sélectionné).
+                            </li>
+                            <li>PROCESSUS DE CONFIRMATION DES GAGNANTS ADMISSIBLES D’UN PRIX SECONDAIRE ET DU GRAND PRIX<br> PERSONNE N’EST UN GAGNANT TANT QUE LE COMMANDITAIRE N’A PAS OFFICIELLEMENT CONFIRMÉ CE FAIT CONFORMÉMENT AU PRÉSENT RÈGLEMENT,
+                            MÊME SI ON ANNONCE QUE CETTE PERSONNE EST UN GAGNANT OU UN GAGNANT ADMISSIBLE. AVANT D’ÊTRE DÉCLARÉ GAGNANT CONFIRMÉ DU PRIX,
+                            chaque participant sélectionné devra : a) répondre correctement, dans un délai limité et sans aide mécanique ou autre, à
+                            une question réglementaire d’arithmétique (laquelle peut, à l’entière et absolue discrétion du commanditaire, lui être posée
+                            en ligne, par courriel ou un autre moyen électronique, par téléphone ou dans la formule d’exonération de responsabilité du
+                            commanditaire); et b) signer et retourner, dans les cinq (5) jours ouvrables suivant l’avis, la formule d’exonération de
+                            responsabilité du commanditaire, qui (entre autres choses) : i) confirme la conformité au présent règlement; ii) reconnaît
+                            l’acceptation du prix applicable (tel qu’attribué); et iii) exonère les parties au concours et les parties exonérées de toute
+                            responsabilité à l’égard du présent concours, de sa participation à ce concours ou de l’attribution et de l’utilisation ou
+                            du mauvais usage du prix applicable ou d’une partie dudit prix. Si un participant sélectionné : a) ne retourne pas les documents
+                            du concours dûment signés dans le délai précisé; b) ne peut pas (ou ne veut pas) accepter le prix applicable (tel quel) pour
+                            une raison quelconque; (c) ne satisfait pas entièrement à toutes les exigences prévues par le présent règlement (y compris,
+                            notamment, celle de répondre correctement à une question d’aptitude mathématique); ou (d) est considéré comme contrevenant
+                            au présent règlement (comme le détermine le commanditaire à son entière et absolue discrétion); il pourrait, à l’entière
+                            et absolue discrétion du commanditaire, être disqualifié (et, s’il est disqualifié, perdra son droit au prix applicable),
+                            et le commanditaire se réserve le droit, si le temps le permet et à son entière et absolue discrétion, de sélectionner un
+                            autre participant admissible parmi toutes les participations admissibles restantes conformément aux procédures applicables
+                            décrites à la règle 10 (auquel cas les dispositions qui précèdent s’appliqueront au participant nouvellement sélectionné).
+                        
+                            </li>
+                            <li>
+                                PROCESSUS D’AVIS ET DE CONFIRMATION DES GAGNANTS ADMISSIBLES D’UN PRIX AUX PARTICIPANTS HÂTIFS<br>AVANT D’ÊTRE DÉCLARÉ GAGNANT CONFIRMÉ D’UN PRIX AUX PARTICIPANTS HÂTIFS, et dans les cinq (5) jours ouvrables suivant la
+                                confirmation qu’il est un des cinquante (50) premiers participants valides au concours, chaque participant hâtif sélectionné
+                                admissible recevra un courriel contenant une question d’aptitude mathématique. Chaque participant admissible devra répondre
+                                au courriel et répondre correctement sans aide mécanique ou autre à la question réglementaire d’arithmétique dans les trois
+                                (3) jours ouvrables suivant la réception du courriel. Si un participant sélectionné : a) ne répond pas au courriel dans le
+                                délai précisé; ou b) ne répond pas correctement à une question d’aptitude mathématique); ou (c) est considéré comme contrevenant
+                                au présent règlement (comme le détermine le commanditaire à son entière et absolue discrétion); il sera disqualifié, à l’entière
+                                et absolue discrétion du commanditaire (et perdra son droit au prix aux participants hâtifs applicable), et le commanditaire
+                                se réserve le droit, si le temps le permet et à son entière et absolue discrétion, de sélectionner un autre participant admissible
+                                parmi toutes les participations admissibles restantes conformément aux procédures applicables décrites à la règle 9 (auquel
+                                cas les dispositions qui précèdent s’appliqueront au participant nouvellement sélectionné).
+                            </li>
+                            <li>
+                                CONDITIONS GÉNÉRALES<br>Le concours est assujetti à l’ensemble des lois fédérales, provinciales, territoriales et municipales en vigueur. Les décisions
+                                du commanditaire pour toute question liée au présent concours sont définitives, sans appel et lient tous les participants.
+                                QUICONQUE A, DE L’AVIS DU COMMANDITAIRE, ENFREINT LA LETTRE OU L’ESPRIT DU PRÉSENT RÈGLEMENT, POUR QUELQUE RAISON QUE CE
+                                SOIT, POURRA ÊTRE DISQUALIFIÉ, ET CE, À L’ENTIÈRE ET ABSOLUE DISCRÉTION DU COMMANDITAIRE, ET EN TOUT TEMPS.
+                                <br> Les parties exonérées ne sauraient être tenues responsables : i) de toute défaillance du site Web, ou de tout autre site
+                                Web et plateforme durant le concours ; ii) de tout problème technique ou autre problème de quelque nature que ce soit, incluant
+                                sans s’y restreindre, ceux touchant le réseau ou les lignes téléphoniques, les systèmes informatiques en ligne, les serveurs,
+                                les fournisseurs d’accès, le matériel ou le logiciel; iii) de l’impossibilité de recevoir, de saisir, d’enregistrer ou d’utiliser
+                                adéquatement une participation, une image ou une autre information pour un motif quelconque, y compris, mais sans s’y limiter,
+                                en raison de problèmes techniques ou d’un encombrement sur Internet ou sur un site Web; (iv) de toute panne ou tout dommage
+                                subi par l’ordinateur ou un autre appareil du participant ou de toute autre personne en lien avec la participation au concours,
+                                ou qui en découle; (v) du fait qu’une personne soit nommée par erreur à titre de gagnant ou de gagnant admissible; vi) de
+                                toute combinaison de ce qui précède.
+                                <br> Le commanditaire se réserve le droit, sous réserve uniquement de l’approbation de la Régie des alcools, des courses et des
+                                jeux (la « Régie ») au Québec, d’annuler, de modifier ou de suspendre le présent concours (ou d’en modifier le règlement)
+                                de quelque façon que ce soit, en cas d’événement échappant au contrôle du commanditaire qui nuit au bon déroulement du concours
+                                comme le prévoit le présent règlement, y compris mais sans s’y limiter, en cas d’erreur, de problème, de virus informatique,
+                                de bogue, de sabotage, d’intervention non autorisée, de fraude ou de défectuosité de quelque nature que ce soit. Toute tentative
+                                de nuire au bon déroulement du concours de quelque façon que ce soit (de l’avis du commanditaire et à son entière et absolue
+                                discrétion) peut constituer une infraction aux lois criminelles et civiles et, advenant une telle tentative, le commanditaire
+                                se réserve le droit d’exercer des recours et de réclamer des dommages-intérêts dans toute la mesure permise par la loi. Le
+                                commanditaire, sous réserve uniquement de l’approbation de la Régie au Québec, se réserve le droit d’annuler, de modifier
+                                ou de suspendre le présent concours, ou d’en modifier le présent règlement, de quelque façon que ce soit, sans préavis ni
+                                obligation, en cas d’accident, d’erreur d’impression, administrative ou autre, ou pour tout autre motif.
+                                <br> En participant au présent concours, chaque participant consent expressément à ce que le commanditaire, ses mandataires ou
+                                ses représentants stockent, partagent et utilisent les renseignements personnels fournis aux seules fins d’administration
+                                du concours et conformément à la politique de protection des renseignements personnels du commanditaire (http://www.eggfarmers.ca/privacy-policy/).
+                                La présente section ne limite aucun autre consentement qu’une personne peut donner au commanditaire ou à d’autres relativement
+                                à la collecte, à l’utilisation et à la divulgation de ses renseignements personnels.
+                                <br> Le commanditaire se réserve le droit, sous réserve uniquement de l’approbation de la Régie au Québec, de modifier les dates,
+                                les durées ou d’autres paramètres du concours stipulés dans le présent règlement, dans la mesure jugée nécessaire par le
+                                commanditaire, et ce, dans le but de vérifier la conformité de tout participant, de toute participation, de toute image ou
+                                de toute autre information au présent règlement, ou à la suite de problèmes techniques ou autres, ou à la lumière de toute
+                                autre circonstance qui, de l’avis du commanditaire et à son entière et absolue discrétion, nuit à la bonne administration
+                                du concours comme le prévoit le présent règlement ou pour tout autre motif.
+                                <br>Pour les résidents du Québec : Un différend quant à l’organisation ou à la conduite d’un concours publicitaire peut être
+                                soumis à la Régie des alcools, des courses et des jeux afin qu’il soit tranché. Tout différend quant à l’attribution d’un
+                                prix peut être soumis au conseil uniquement pour aider les parties à parvenir à une entente.
+                                <br>En cas de divergence ou d’incompatibilité entre les modalités de la version anglaise du règlement et les déclarations ou
+                                autres énoncés contenus dans tout autre matériel associé au concours, y compris, notamment, la version française du présent
+                                règlement ou toute directive ou interprétation du présent règlement donné par un représentant du commanditaire, les modalités
+                                de la version anglaise prévaudront dans toute la mesure permise par la loi.
+                                <br>L’invalidité ou l’inexigibilité de toute disposition du présent règlement n’a pas d’effet sur la validité ou la force exécutoire
+                                de toute autre disposition. Si une disposition du présent règlement est déclarée invalide, inapplicable ou illégale, le présent
+                                règlement demeurera en vigueur et devra être interprété conformément aux conditions qui y sont énoncées, comme si la disposition
+                                jugée invalide ou illégale n’en faisait pas partie.
+                                <br> Dans la mesure permise par la loi applicable, tous les problèmes et toutes les questions au sujet de l’élaboration, de la
+                                validité, de l’interprétation et de l’applicabilité du présent règlement, ou des droits et obligations des participants,
+                                du commanditaire ou de toute partie exonérée dans le cadre du concours, seront régis par les lois de la province de l’Ontario
+                                et les lois fédérales canadiennes qui y sont applicables, et seront interprétés conformément à ces lois, sans égard aux règles
+                                ou aux dispositions liées aux principes de compétence législative ou de conflit des lois qui entraîneraient l’application
+                                des lois de tout autre territoire. Les parties acceptent par la présente la compétence exclusive des tribunaux de l’Ontario
+                                et consentent à ce que s’y déroule toute action visant à faire appliquer le présent règlement (ou relative au présent règlement)
+                                ou toute action relative au présent concours.
+                        
+                            </li>
+                        </ol>
+                        <b style='font-size:16px; color:red'>Mini règlement:</b><br>
+                        <b style='font-size:16px; color:red'>NO PURCHASE NECESSARY.</b>AUCUN ACHAT REQUIS. Le concours prend fin le 25 octobre 2018 (à 23 h 59 min 59 s HE). Le concours s’adresse aux résidents
+                        du Canada qui ont atteint l’âge de la majorité. Un grand prix consistant en un chèque de 3 000 $; 10 prix secondaires consistant
+                        chacun en 52 coupons échangeables contre une douzaine d’oeufs, VDA de 169 $; les chances de gagner dépendent du nombre et
+                        de la qualité des participations admissibles. 50 prix aux participants hâtifs consistant chacun en 4 coupons échangeables
+                        contre une douzaine d’oeufs, VDA de 13 $; les chances de gagner dépendent du nombre de participations admissibles et de la
+                        vitesse à laquelle les participants admissibles soumettent une participation valide. Question réglementaire d’arithmétique
+                        obligatoire. Règlement complet, y compris de l’information sur la participation, l’évaluation et les prix, à EggsAreGood.ca/contest.
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">關閉
