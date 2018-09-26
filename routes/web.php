@@ -277,7 +277,7 @@ Route::get('Duo-Egg-Pearl', function () {
     Route::get('allCandidates','CampaignController@allCandidates');
 
     // campaign stage 1
-    Route::get('/campaign','CampaignController@index');
+    Route::get('/contest','CampaignController@index');
 
    // Route::post('/newCandidate','CampaignController@newCandidate');
 
@@ -316,3 +316,7 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::any('/show/{id}','CampaignController@show');
 
 Route::post('/savePic','UploadController@savePic');
+
+Route::get('/thankyou',function(){
+    return view('thankyou');
+});

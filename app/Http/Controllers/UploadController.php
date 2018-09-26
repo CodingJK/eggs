@@ -30,6 +30,7 @@ class UploadController extends Controller
      */
     public function index()
     {
+        
         return view('home');
     }
 
@@ -59,6 +60,13 @@ class UploadController extends Controller
         // $this->validate($request,[
         //     'images' => 'required|image',
         // ]);
+
+        $messages = [
+            'email.required' => 'waner ne ?',
+        ];
+
+        
+
         $this->validate($request,[
             'firstname' => 'required|max:50',
             'lastname' =>  'required|max:50',
@@ -66,28 +74,38 @@ class UploadController extends Controller
             'email' => 'required|max:50|email',
             'image'=>'required|image|mimes:jpeg,jpg,png,tif,mbp| max:12000 |min:2000'
         ]);
+
+        
+
         $file = $request->image;
         $name = $file->getClientOriginalName();
+        $ext = $file->getClientOriginalExtension();
+        
         
         $candidate = new Candidate;
         $candidate->firstname = $request->firstname;
         $candidate->lastname = $request->lastname;
         $candidate->phone = $request->phone;
         $candidate->email = $request->email;
-        $candidate->images = $name;
+        $candidate->images = 'waiting';
         $candidate->display = 0;
         $candidate->save();
 
+        $candidate->images = $candidate->id.'.'.$ext;
+
+        $candidate->save();
+
+        $name = $candidate->id.'.'.$ext;
         $location = public_path('upload');
         $file->move($location, $name);
         $orignal= $location.'/'.$name;
         $rimg = Image::make($orignal);
         $rimg->resize(300,null, function ($constraint) { $constraint->aspectRatio(); }); 
-        $newName = $name.'small';
-        $resizepath='upload/'.$newName.'.jpg';
-        $rimg->save('upload/'.$newName.'.jpg');
+        $newName = $candidate->id.'_small.'.$ext;
         
-        return "YES";
+        $rimg->save('upload/'.$newName);
+        
+        return view('thankyou');
         
     }
  

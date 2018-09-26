@@ -97,7 +97,7 @@
         }
 
         @media (min-width:1200px){
-        
+            .secondLine{ padding-left: 50px; }
             .navbar{
                 height: 120px; 
                 background-color: rgb(251, 187, 39);
@@ -153,7 +153,7 @@
             img.active{ opacity: 1; /*有active类的图片不透明度为1，即显示图片*/ }
             
             .title{
-                margin-bottom:150px;
+                margin-bottom:60px;
             }
             .title_header{
                 font-size: 3em;
@@ -239,6 +239,7 @@
             }
         }
         @media (min-width:1000px) and (max-width:1200px){
+            .secondLine{ padding-left: 20px; }
             .navbar{
                 height: 120px; 
                 background-color: rgb(251, 187, 39);
@@ -294,7 +295,7 @@
             img.active{ opacity: 1; /*有active类的图片不透明度为1，即显示图片*/ }
             
             .title{
-                margin-bottom:150px;
+                margin-bottom:60px;
             }
             .title_header{
                 font-size: 3em;
@@ -382,6 +383,7 @@
 
 
         @media (min-width:800px) and (max-width:1000px){
+            .secondLine{ padding-left: 20px; }
             .navbar{
                 height: 120px; 
                 background-color: rgb(251, 187, 39);
@@ -437,7 +439,7 @@
             img.active{ opacity: 1; /*有active类的图片不透明度为1，即显示图片*/ }
             
             .title{
-                margin-bottom:150px;
+                margin-bottom:60px;
             }
             .title_header{
                 font-size: 3em;
@@ -524,6 +526,9 @@
         }
 
         @media (max-width:800px) {
+            li{
+                list-style: none;
+            }
             .navbar{
                 height: 120px; 
                 background-color: rgb(251, 187, 39);
@@ -572,7 +577,7 @@
             }
 
             #slideshow{  margin:
-            0 auto; /*设置在页面水平居中*/ /*overflow: hidden;*/ position: relative; } #slideshow img{ width: 100%; position: absolute; /*图片采取绝对定位，均位于左上角，重叠在一起*/
+            0 auto; /*设置在页面水平居中*/ /*overflow: hidden;*/ position: relative; } #slideshow img{ width:100%; position: absolute; /*图片采取绝对定位，均位于左上角，重叠在一起*/
             top: 0; left: 5; opacity: 0; /*初始不透明度为0，图片都看不见*/ transition: opacity 1s linear; /*--重点--定义一个关于透明度的transition*/ } #slideshow
             img.active{ opacity: 1; /*有active类的图片不透明度为1，即显示图片*/ }
             
@@ -685,7 +690,7 @@
             <div class="col-sm-6 left">
                 <div class="eggHeader">
                     「雞蛋大變身」<br>
-                    &nbsp;&nbsp;&nbsp;&nbsp;有獎遊戲
+                    <span class='secondLine'>有獎遊戲</span>
                 </div>
                 <div class="eggDetails">
                     <span>烹調雞蛋並做成特別造型，<br></span>
@@ -693,11 +698,16 @@
                     <span>拍下照片，填妥下列表格<br></span>
                     <span>並上載作品照片，即有機會贏取:<br></span>
                     <br>
-                    <span>‧頭獎(1名) : $3,000現金<br></span>
+                    <ul style='font-weight:bold'>
+                        <li>頭獎(1名) : $3,000現金</li>
+                        <li>入圍獎(10名) : 一年免費享用雞蛋<br>(52張一打雞蛋換領券)</li>
+                        <li>首50名參加者: 一個月免費享用雞蛋<br>(4 張一打雞蛋換領券)</li>
+                    </ul>
+                    {{-- <span>‧頭獎(1名) : $3,000現金<br></span>
                     <span>‧入圍獎(10名) : 一年免費享用雞蛋<br></span>
                     <span>(52張一打雞蛋換領券)<br></span>
                     <span>‧首50名參加者: 一個月免費享用雞蛋<br></span>
-                    <span>(4 張一打雞蛋換領券)<br></span>
+                    <span>(4 張一打雞蛋換領券)<br></span> --}}
                 </div>
             </div>
             <div class="col-sm-6 right">
@@ -729,43 +739,44 @@
                 </div>
             @endif
             
-            <label>表格:</label>
+            <label style='margin-bottom:15px;'>表格:<br></label>
             <form method="POST" action="/savePic" id='myForm' enctype="multipart/form-data">
                 <input type="hidden" name="_token" value="{{ csrf_token() }}">
                 <div class='col-xs-12 form-group' style='padding-left:0'>
-                    <label for="firstname" class="col-sm-2" style='padding-left:0'>姓:</label>
+                    <label for="firstname" class="col-sm-2" style='padding-left:0; font-weight:400 !important'>姓:</label>
                     <div class="col-sm-5">
                         <input type="text" class="form-control " id="firstname" name='firstname' value="{{old('firstname')}}" required>
                     </div>
                     <div class="col-sm-5"></div>
                 </div>
                 <div class='col-xs-12 form-group' style='padding-left:0'>
-                    <label for="firstname" class="col-sm-2" style='padding-left:0'>名:</label>
+                    <label for="firstname" class="col-sm-2" style='padding-left:0; font-weight:400 !important'>名:</label>
                     <div class="col-sm-5">
                         <input type="text" class="form-control " id="lastname" name='lastname' value="{{old('lastname')}}" required>  
                     </div>
                     <div class="col-sm-5"></div>
                 </div>
                 <div class='col-xs-12 form-group' style='padding-left:0'>
-                    <label for="firstname" class="col-sm-2" style='padding-left:0'>電郵地址:</label>
-                    <div class="col-sm-5">
-                        <input type="email" class="form-control form-control-sm" id="email" name='email' value="{{old('email')}}" required>
-                    </div>
-                    <div class="col-sm-5"></div>
-                </div>
-                <div class='col-xs-12 form-group' style='padding-left:0'>
-                    <label for="firstname" class="col-sm-2" style='padding-left:0'>電話號碼:</label>
+                    <label for="firstname" class="col-sm-2" style='padding-left:0; font-weight:400 !important'>電話號碼:</label>
                     <div class="col-sm-5">
                         <input type="number" class="form-control form-control-sm" id="phone" name='phone' value="{{old('phone')}}" required>
                     </div>
                     <div class="col-sm-5"> </div>
                 </div>
-                <div class="col-sm-12" style='padding:0'>
-                    <div class="uploadDetails">(照片檔案最小為2MB，最大為12MB。檔案格式必須為JPG、TIF、BMP 或PNG。直或橫的照片均可。)：
+                <div class='col-xs-12 form-group' style='padding-left:0'>
+                    <label for="firstname" class="col-sm-2" style='padding-left:0; font-weight:400 !important'>電郵地址:</label>
+                    <div class="col-sm-5">
+                        <input type="email" class="form-control form-control-sm" id="email" name='email' value="{{old('email')}}" required>
                     </div>
+                    <div class="col-sm-5"> </div>
                 </div>
+                
+                
 
                 <div class="col-xs-12">
+                    <div class="uploadDetails" style='padding:0'>
+                        (照片檔案最小為2MB，最大為12MB。檔案格式必須為JPG、TIF、BMP 或PNG。直或橫的照片均可。)：
+                    </div>
                     <div class="form-group row">
                         
                             <input type="file" id="imgInp" name='image' style='opacity:0;' >
@@ -787,7 +798,7 @@
                     <div class='container' id="reading">
                         
                         <a data-toggle="modal" data-target="#myModal" id='checkRead' style="font-size:1.6em">
-                            閱讀條文及條款
+                           閱讀條文及條款
                         </a>
                     </div>
                 </div>
@@ -808,9 +819,10 @@
                 $('#mySubmit').click(function(e){
                     e.preventDefault();
                     if ($('#read').is(":checked")) {
+                        $('#mySubmit').prop('disabled', true);
                         $("#myForm").submit();
                     }else{
-                        alert('请先阅读并接受条款');
+                        alert('请先同意條文及條款');
                     }
                 });
             </script>
