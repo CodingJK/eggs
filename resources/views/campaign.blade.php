@@ -133,21 +133,26 @@
             }
             .eggHeader{
                 font-weight: bold;
-                font-size:4em;
+                font-size:5em;
                 color: white;
                 
             }
             .eggDetails{
                 font-size: 1.6em;
-                
+                margin-top: 40px;
                 margin-left: 50px;
             }
 
-            .left{
-                padding-left: 100px;
+            .headerList{
+                margin-top: 20px;
             }
 
-            #slideshow{  margin:
+            .left{
+                /* padding-left: 100px; */
+            }
+
+            #slideshow{  
+                margin:
             0 auto; /*设置在页面水平居中*/ /*overflow: hidden;*/ position: relative; } #slideshow img{ width: 100%; position: absolute; /*图片采取绝对定位，均位于左上角，重叠在一起*/
             top: 0; left: 5; opacity: 0; /*初始不透明度为0，图片都看不见*/ transition: opacity 1s linear; /*--重点--定义一个关于透明度的transition*/ } #slideshow
             img.active{ opacity: 1; /*有active类的图片不透明度为1，即显示图片*/ }
@@ -156,7 +161,7 @@
                 margin-bottom:60px;
             }
             .title_header{
-                font-size: 3em;
+                font-size: 42px;
                 font-weight: bold;
                 margin-top: 30px;
                 margin-bottom: 30px;
@@ -224,10 +229,10 @@
             #buttonid{
                 border:2px solid rgba(0,0,0,0.3);border-radius:25px;
                 height: 200px;
-                font-size: 5em;
+                font-size: 3em;
                 display: flex;
                 justify-content: center;
-            
+                color: gray;
                 align-items: center;
                 cursor: pointer;
 
@@ -239,7 +244,7 @@
             }
         }
         @media (min-width:1000px) and (max-width:1200px){
-            .secondLine{ padding-left: 20px; }
+            .secondLine{ padding-left: 40px; }
             .navbar{
                 height: 120px; 
                 background-color: rgb(251, 187, 39);
@@ -275,18 +280,21 @@
             }
             .eggHeader{
                 font-weight: bold;
-                font-size:2em;
+                font-size:4em;
                 color: white;
+                
                 
             }
             .eggDetails{
                 font-size: 1.6em;
-                
-                margin-left: 20px;
+                margin-top: 40px;
+                margin-left: 40px;
             }
 
+            .headerList{ margin-top: 20px; }
+
             .left{
-                padding-left: 50px;
+                /* padding-left: 50px; */
             }
 
             #slideshow{  margin:
@@ -366,10 +374,10 @@
             #buttonid{
                 border:2px solid rgba(0,0,0,0.3);border-radius:25px;
                 height: 200px;
-                font-size: 5em;
+                font-size: 3em;
                 display: flex;
                 justify-content: center;
-            
+                color: gray;
                 align-items: center;
                 cursor: pointer;
 
@@ -383,7 +391,7 @@
 
 
         @media (min-width:800px) and (max-width:1000px){
-            .secondLine{ padding-left: 20px; }
+            .secondLine{ padding-left: 30px; }
             .navbar{
                 height: 120px; 
                 background-color: rgb(251, 187, 39);
@@ -415,20 +423,22 @@
             .banner{
                 background-color: rgb(251, 187, 39);
                 margin-top:120px;
-                min-height: 600px;
+                min-height: 400px;
             }
             .eggHeader{
                 font-weight: bold;
-                font-size:2.5em;
+                font-size:3em;
                 color: white;
                 
             }
             .eggDetails{
-                font-size: 1.6em;
-                
-                margin-left: 20px;
+                font-size: 1.1em;
+                margin-top:30px;
+                margin-left: 30px;
             }
-
+            .headerList{
+                margin-top: 20px;
+            }
             .left{
                 
             }
@@ -442,7 +452,7 @@
                 margin-bottom:60px;
             }
             .title_header{
-                font-size: 3em;
+                font-size: 2em;
                 font-weight: bold;
                 margin-top: 30px;
                 margin-bottom: 30px;
@@ -510,10 +520,10 @@
             #buttonid{
                 border:2px solid rgba(0,0,0,0.3);border-radius:25px;
                 height: 200px;
-                font-size: 5em;
+                font-size: 3em;
                 display: flex;
                 justify-content: center;
-            
+                color: gray;
                 align-items: center;
                 cursor: pointer;
 
@@ -526,6 +536,10 @@
         }
 
         @media (max-width:800px) {
+            .secondLine{
+                
+            }
+
             li{
                 list-style: none;
             }
@@ -559,21 +573,28 @@
             .banner{
                 background-color: rgb(251, 187, 39);
                 margin-top:120px;
-                min-height: 600px;
+                min-height: 700px;
             }
             .eggHeader{
                 font-weight: bold;
-                font-size:1.6em;
+                font-size:2em;
                 color: white;
                 
             }
             .eggDetails{
                 font-size: 1em;
+                margin-top:20px;
+                margin-bottom: 30px;
                 
+            }
+            .headerList{
+                margin-top: 10px;
+                text-align: left;
+                margin-left: 30px;
             }
 
             .left{
-               text-align: center; 
+              text-align: center;
             }
 
             #slideshow{  margin:
@@ -656,7 +677,7 @@
                 font-size: 1em;
                 display: flex;
                 justify-content: center;
-            
+                color: gray;
                 align-items: center;
                 cursor: pointer;
 
@@ -697,8 +718,8 @@
                     <span>例如動物、人物、物件或風景等，<br></span>
                     <span>拍下照片，填妥下列表格<br></span>
                     <span>並上載作品照片，即有機會贏取:<br></span>
-                    <br>
-                    <ul style='font-weight:bold'>
+                    
+                    <ul style='font-weight:bold' class='headerList'>
                         <li>頭獎(1名) : $3,000現金</li>
                         <li>入圍獎(10名) : 一年免費享用雞蛋<br>(52張一打雞蛋換領券)</li>
                         <li>首50名參加者: 一個月免費享用雞蛋<br>(4 張一打雞蛋換領券)</li>
@@ -712,9 +733,9 @@
             </div>
             <div class="col-sm-6 right">
                 <div id="slideshow">
-                    <img class="active" src="/images/banner/EFC-contest-img-1.jpg" />
-                    <img src="/images/banner/EFC-contest-img-2.jpg" />
-                    <img src="/images/banner/EFC-contest-img-3.jpg" />
+                    <img class="active" src="/images/banner/EFC-contest-img-1.png" />
+                    <img src="/images/banner/EFC-contest-img-2.png" />
+                    <img src="/images/banner/EFC-contest-img-3.png" />
                 </div>
             </div>
         </div>
@@ -775,7 +796,7 @@
 
                 <div class="col-xs-12">
                     <div class="uploadDetails" style='padding:0'>
-                        (照片檔案最小為2MB，最大為12MB。檔案格式必須為JPG、TIF、BMP 或PNG。直或橫的照片均可。)：
+                        照片檔案最小為2MB，最大為12MB。檔案格式必須為JPG、TIF、BMP 或PNG。直或橫的照片均可。
                     </div>
                     <div class="form-group row">
                         
