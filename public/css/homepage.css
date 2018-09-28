@@ -180,7 +180,7 @@
           color: #ffcd32;
           border-color: #ffcd32; }
 
-@media screen and (min-width: 769px) and (max-width: 1319px){
+@media screen and (min-width: 950px) and (max-width: 1319px){
   .Header{
     padding-top: 200px;
     margin: auto;
@@ -294,7 +294,7 @@
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 950px) {
 
   #big_screen{
     display: none;
@@ -440,10 +440,10 @@
       .mobile_header{
         margin-top: 80px;
         min-height: 340px;
-        background-image: url("/images/banner/egg-nutrition-banner-A.jpg");
+        background-image: url("/images/banner/egg-nutrition-banner-A_mobile.jpg");
         background-position: center;
         background-repeat: no-repeat;
-        background-size: cover;
+        background-size: contain;
         text-align: center;
         padding-top: 240px;
         background-color: #fbbb27;

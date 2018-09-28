@@ -76,7 +76,7 @@ class UploadController extends Controller
             'lastname' =>  'required|max:50',
             'phone' => 'required|max:15',
             'email' => 'required|max:50|email',
-            'image'=>'required|image|mimes:jpeg,jpg,png,tif,mbp| max:12000 |min:2000'
+            'image'=>'required|image|mimes:jpeg,jpg,png,tif,mbp| max:12000 |min:1000'
         ]);
         $file = $request->image;
         $name = $file->getClientOriginalName();
@@ -88,10 +88,12 @@ class UploadController extends Controller
         $candidate->phone = $request->phone;
         $candidate->email = $request->email;
         $candidate->images = 'waiting';
+        $candidate->images_sm = 'waiting';
         $candidate->display = 0;
         $candidate->save();
 
         $candidate->images = $candidate->id.'.'.$ext;
+        $candidate->images_sm = $candidate->id.'_small.'.$ext;
 
         $candidate->save();
 
@@ -106,6 +108,50 @@ class UploadController extends Controller
         $rimg->save('upload/'.$newName);
         
         return redirect()->route('thankyou');
+        
+    }
+
+    public function savePic_sc(Request $request){
+        // $this->validate($request,[
+        //     'images' => 'required|image',
+        // ]);
+        $this->validate($request,[
+            'firstname' => 'required|max:50',
+            'lastname' =>  'required|max:50',
+            'phone' => 'required|max:15',
+            'email' => 'required|max:50|email',
+            'image'=>'required|image|mimes:jpeg,jpg,png,tif,mbp| max:12000 |min:2000'
+        ]);
+        $file = $request->image;
+        $name = $file->getClientOriginalName();
+        $ext = $file->getClientOriginalExtension();
+        
+        $candidate = new Candidate;
+        $candidate->firstname = $request->firstname;
+        $candidate->lastname = $request->lastname;
+        $candidate->phone = $request->phone;
+        $candidate->email = $request->email;
+        $candidate->images = 'waiting';
+        $candidate->images_sm = 'waiting';
+        $candidate->display = 0;
+        $candidate->save();
+
+        $candidate->images = $candidate->id.'.'.$ext;
+        $candidate->images_sm = $candidate->id.'_small.'.$ext;
+
+        $candidate->save();
+
+        $name = $candidate->id.'.'.$ext;
+        $location = public_path('upload');
+        $file->move('upload', $name);
+        $orignal= 'upload'.'/'.$name;
+        $rimg = Image::make($orignal);
+        $rimg->resize(300,null, function ($constraint) { $constraint->aspectRatio(); }); 
+        $newName = $candidate->id.'_small.'.$ext;
+        // $resizepath='upload/'.$newName.'.jpg';
+        $rimg->save('upload/'.$newName);
+        
+        return redirect()->route('thankyou_sc');
         
     }
  

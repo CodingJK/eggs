@@ -279,28 +279,32 @@ Route::get('Duo-Egg-Pearl', function () {
     // campaign stage 1
     Route::get('/contest','CampaignController@index');
 
+    Route::get('/sc','CampaignController@sc');
+
+    // Route::get('/sc/contest','CampaignController@index_sc');
+
    // Route::post('/newCandidate','CampaignController@newCandidate');
 
     
     Route::get('/test', 'UploadController@drop');
     Route::post('/newCandidate','UploadController@newCandidate');
     //recaptcha
-    Route::post('/post', function (\Illuminate\Http\Request $request) {
-        $client = new \GuzzleHttp\Client();
-        $result = $client->post('https://www.google.com/recaptcha/api/siteverify', [
-            'form_params' => [
-                'secret' =>'6LeIxAcTAAAAAGG-vFI1TnRWxMZNFuojJ4WifJWe',
-                // 'secret' => '6LfuF3EUAAAAACf-eeZbvgydmKha1To6PlVmH-dJ',
-                'response' => $request->get('g-recaptcha-response')
-            ]
-        ]);
-        $result = json_decode($result->getBody(), true);
-        if (isset($result['success']) && $result['success']) {
-            return '驗證成功';
-        } else {
-            return '驗證失敗';
-        }
-    });
+    // Route::post('/post', function (\Illuminate\Http\Request $request) {
+    //     $client = new \GuzzleHttp\Client();
+    //     $result = $client->post('https://www.google.com/recaptcha/api/siteverify', [
+    //         'form_params' => [
+    //             'secret' =>'6LeIxAcTAAAAAGG-vFI1TnRWxMZNFuojJ4WifJWe',
+    //             // 'secret' => '6LfuF3EUAAAAACf-eeZbvgydmKha1To6PlVmH-dJ',
+    //             'response' => $request->get('g-recaptcha-response')
+    //         ]
+    //     ]);
+    //     $result = json_decode($result->getBody(), true);
+    //     if (isset($result['success']) && $result['success']) {
+    //         return '驗證成功';
+    //     } else {
+    //         return '驗證失敗';
+    //     }
+    // });
 
 
 
@@ -312,11 +316,31 @@ Route::get('/home', 'HomeController@index')->name('home');
 // change show or not show status
 Route::any('/show/{id}','CampaignController@show');
 
-Route::get('/sc', 'CampaignController@sc');
+// secondary prize
+Route::any('/sp/{id}','CampaignController@sp');
+//grand prize
+Route::any('/gp/{id}','CampaignController@gp');
+
+Route::get('/prizeNumber','CampaignController@prizeNumber')->middleware('auth');
+
+Route::get('/grand','CampaignController@grandPrize')->middleware('auth');
+
+Route::get('/changeGP','CampaignController@changeGP')->middleware('auth');
+
+Route::get('/secondary','CampaignController@secondaryPrize')->middleware('auth');
+
+Route::get('/earlyBird','CampaignController@earlyBird')->middleware('auth');
 
 //save pic
 Route::post('/savePic','UploadController@savePic');
+Route::post('/savePic_sc','UploadController@savePic_sc');
 
 Route::get('/thankyou',function(){
     return view('thankyou');
 })->name('thankyou');
+
+
+
+// Route::bind('/sc/thankyou', function(){
+//         return view('thankyou_sc');
+// 	})->name('thankyou_sc');

@@ -53,13 +53,12 @@
     <link rel="stylesheet" href="{{url('/css/nutrition/nutrition.css')}}">
   
     <link rel="stylesheet" href="<?php echo asset('vendor/dropzoner/dropzone/dropzone.min.css'); ?>">
-    <link rel="stylesheet"href="{{url('/css/upload.css')}}"> 
 
     
     <style>
      
       @import url('https://fonts.googleapis.com/earlyaccess/notosanstc.css');
-      @import url(http://fonts.googleapis.com/earlyaccess/notosanssc.css);
+      @import url('https://fonts.googleapis.com/earlyaccess/notosanssc.css');
     </style>
   
     {{-- jquery --}}
@@ -101,9 +100,9 @@
                 <a href='/Apps' class='apps_link' id="page2" style='font-weight:bold;font-family: Noto Sans TC;'>應用程序</a>
                
                  
-               <a href='http://eggsaregood.ca/sc' class='lang' id="language1" style='margin-left:auto; font-family: Noto Sans SC, sans-serif !important;'><b> 简体中文 </b></a>
+               <a href='https://sc.eggsaregood.ca' class='lang' id="language1" style='margin-left:auto; font-family: Noto Sans SC, sans-serif !important;'><b> 简体中文 </b></a>
                 <a href='https://www.eggs.ca/' class='lang' id="language2"><b> English </b></a>
-               <a href='http://www.lesoeufs.ca/' class='lang' style='margin-right:-100px;'><b> French </b></a>
+               <a href='https://www.lesoeufs.ca/' class='lang' style='margin-right:-100px;'><b> French </b></a>
             </div>
         </div>
         {{-- middle nav --}}
@@ -118,9 +117,9 @@
             <a href='/Nutrition' class='nutrition_link' style='font-weight:bold;font-family: Noto Sans TC;'>營養價值</a>
             <a href='/Eggforbabies' class='eggforbabies_link' style='font-weight:bold;font-family: Noto Sans TC,sans-serif !important;'>寶寶與雞蛋</a>
             <a href='/Apps' class='apps_link' style='font-weight:bold;font-family: Noto Sans TC;'>應用程序</a>
-            <a href='http://eggsaregood.ca/sc' class='lang' style='margin-left:auto;font-family:Noto Sans SC;'><b> 简体中文 </b></a>
-                <a href='http://eggsaregood.ca/sc' class='lang'><b> English </b></a>
-                 <a href='http://www.lesoeufs.ca/' class='lang' style='margin-right:-100px;'><b> French </b></a>
+            <a href='https://sc.eggsaregood.ca' class='lang' style='margin-left:auto;font-family:Noto Sans SC;'><b> 简体中文 </b></a>
+                <a href='https://eggsaregood.ca' class='lang'><b> English </b></a>
+                 <a href='https://www.lesoeufs.ca/' class='lang' style='margin-right:-100px;'><b> French </b></a>
           </div>
         </div>
         {{-- mobile navigation --}}
@@ -141,6 +140,9 @@
               <div class="col-xs-12 text-center alert-link"><a href="/Eggforbabies" style='font-weight:bold;font-family: Noto Sans TC;'>寶寶與雞蛋</a></div>
               
               <div class="col-xs-12 text-center alert-link"><a href="/Apps" style='font-weight:bold;font-family: Noto Sans TC;'>應用程序</a></div>
+              <div class="col-xs-12 text-center alert-link"><a href="https://sc.eggsaregood.ca" style='font-weight:bold;font-family: Noto Sans SC;'>简体中文</a></div>
+              <div class="col-xs-12 text-center alert-link"><a href="https://www.eggs.ca/" style='font-weight:bold;font-family: Noto Sans SC;'>English</a></div>
+              <div class="col-xs-12 text-center alert-link"><a href="https://www.lesoeufs.ca/" style='font-weight:bold;font-family: Noto Sans SC;'>French</a></div>
               <div class="col-xs-12 text-center "></div>
             </div>
             <script>
@@ -194,19 +196,19 @@
       
       <div class=' footer_link'>
         <li class='first_link'>
-          <a href='http://www.eggfarmers.ca/' id="footer0"style='font-weight:bold;font-family: Noto Sans TC;'>Eggfarmers.ca</a>
+          <a href='https://www.eggfarmers.ca/' id="footer0"style='font-weight:bold;font-family: Noto Sans TC;'>Eggfarmers.ca</a>
         </li>
         <li >
-          <a href='http://www.eggs.ca/resources' id="footer1"style='font-weight:bold;font-family: Noto Sans TC;'>其他資源(英文)</a>
+          <a href='https://www.eggs.ca/resources' id="footer1"style='font-weight:bold;font-family: Noto Sans TC;'>其他資源(英文)</a>
         </li>
         <li >
-          <a href='http://www.eggs.ca/community' id="footer2"style='font-weight:bold;font-family: Noto Sans TC;'>社區消息(英文)</a>
+          <a href='https://www.eggs.ca/community' id="footer2"style='font-weight:bold;font-family: Noto Sans TC;'>社區消息(英文)</a>
         </li>
         <li >
-          <a href='http://www.eggs.ca/about-us' id="footer3"style='font-weight:bold;font-family: Noto Sans TC;'>關於我們(英文)</a>
+          <a href='https://www.eggs.ca/about-us' id="footer3"style='font-weight:bold;font-family: Noto Sans TC;'>關於我們(英文)</a>
         </li>
         <li >
-          <a href='http://www.eggs.ca/contactus' id="footer4" style='font-weight:bold;font-family: Noto Sans TC;'>聯絡我們(英文)</a>
+          <a href='https://www.eggs.ca/contactus' id="footer4" style='font-weight:bold;font-family: Noto Sans TC;'>聯絡我們(英文)</a>
         </li>
         
       </div>
@@ -216,10 +218,10 @@
     
     <ul class='privacy' >
       <li class='left'>
-        <a href='http://www.eggs.ca/privacypolicy/'>Privacy Policy</a>
+        <a href='https://www.eggs.ca/privacypolicy/'>Privacy Policy</a>
       </li>
       <li class='right'>
-        <a href='http://www.eggs.ca/termsandconditions/'>Terms & Conditions</a>
+        <a href='https://www.eggs.ca/termsandconditions/'>Terms & Conditions</a>
       </li>
       
     </ul>
@@ -255,26 +257,26 @@
       
       <div class=' footer_link'>
         <li class='first_link'>
-          <a href='http://www.eggfarmers.ca/' style='font-weight:bold;font-family: Noto Sans TC;'>Eggfarmers.ca</a>
+          <a href='https://www.eggfarmers.ca/' style='font-weight:bold;font-family: Noto Sans TC;'>Eggfarmers.ca</a>
         </li>
         <li >
-          <a href='http://www.eggs.ca/resources' style='font-weight:bold;font-family: Noto Sans TC;'>其他資源(英文)</a>
+          <a href='https://www.eggs.ca/resources' style='font-weight:bold;font-family: Noto Sans TC;'>其他資源(英文)</a>
         </li>
         <li >
-          <a href='http://www.eggs.ca/community' style='font-weight:bold;font-family: Noto Sans TC;'>社區消息(英文)</a>
+          <a href='https://www.eggs.ca/community' style='font-weight:bold;font-family: Noto Sans TC;'>社區消息(英文)</a>
         </li>
         <li >
-          <a href='http://www.eggs.ca/about-us' style='font-weight:bold;font-family: Noto Sans TC;'>關於我們(英文)</a>
+          <a href='https://www.eggs.ca/about-us' style='font-weight:bold;font-family: Noto Sans TC;'>關於我們(英文)</a>
         </li>
         <li >
-          <a href='http://www.eggs.ca/contactus' style='font-weight:bold;font-family: Noto Sans TC;'>聯絡我們(英文)</a>
+          <a href='https://www.eggs.ca/contactus' style='font-weight:bold;font-family: Noto Sans TC;'>聯絡我們(英文)</a>
         </li>
         
       </div>
       <div id='copyright'>
         <span>© 2018 Egg Farmers of Canada. All rights reserved </span>
-        <a href='http://www.eggs.ca/privacypolicy/'>Privacy Policy</a>
-        <a href='http://www.eggs.ca/termsandconditions/'>Terms & Conditions</a>
+        <a href='https://www.eggs.ca/privacypolicy/'>Privacy Policy</a>
+        <a href='https://www.eggs.ca/termsandconditions/'>Terms & Conditions</a>
       </div>
       
       
@@ -322,19 +324,19 @@
     <div class='col-sm-8'>
       <div class=' footer_link'>
         <li class='first_link'>
-          <a href='http://www.eggfarmers.ca/'>Eggfarmers.ca</a>
+          <a href='https://www.eggfarmers.ca/'>Eggfarmers.ca</a>
         </li>
         <li >
-          <a href='http://www.eggs.ca/resources' style='font-weight:bold;font-family: Noto Sans TC;'>其他資源(英文)</a>
+          <a href='https://www.eggs.ca/resources' style='font-weight:bold;font-family: Noto Sans TC;'>其他資源(英文)</a>
         </li>
         <li >
-          <a href='http://www.eggs.ca/community' style='font-weight:bold;font-family: Noto Sans TC;'>社區消息(英文)</a>
+          <a href='https://www.eggs.ca/community' style='font-weight:bold;font-family: Noto Sans TC;'>社區消息(英文)</a>
         </li>
         <li >
-          <a href='http://www.eggs.ca/about-us' style='font-weight:bold;font-family: Noto Sans TC;'>關於我們(英文)</a>
+          <a href='https://www.eggs.ca/about-us' style='font-weight:bold;font-family: Noto Sans TC;'>關於我們(英文)</a>
         </li>
         <li >
-          <a href='http://www.eggs.ca/contactus' style='font-weight:bold;font-family: Noto Sans TC;'>聯絡我們(英文)</a>
+          <a href='https://www.eggs.ca/contactus' style='font-weight:bold;font-family: Noto Sans TC;'>聯絡我們(英文)</a>
         </li>
         
       </div>
@@ -349,8 +351,8 @@
         
       </div>
       <div class='col-sm-6' id='policy'>
-        <a href='http://www.eggs.ca/privacypolicy/'>Privacy Policy</a>
-        <a href='http://www.eggs.ca/termsandconditions/'>Terms & Conditions</a>
+        <a href='https://www.eggs.ca/privacypolicy/'>Privacy Policy</a>
+        <a href='https://www.eggs.ca/termsandconditions/'>Terms & Conditions</a>
       </div>
     </div>
     
@@ -395,19 +397,19 @@
       <div class='col-lg-8'>
         <div class=' footer_link'>
           <li class='first_link'>
-            <a href='http://www.eggfarmers.ca/'>Eggfarmers.ca</a>
+            <a href='https://www.eggfarmers.ca/'>Eggfarmers.ca</a>
           </li>
           <li >
-            <a href='http://www.eggs.ca/resources' id="footer1"style='font-weight:bold;font-family: Noto Sans TC;'>其他資源(英文)</a>
+            <a href='https://www.eggs.ca/resources' id="footer1"style='font-weight:bold;font-family: Noto Sans TC;'>其他資源(英文)</a>
           </li>
           <li >
-            <a href='http://www.eggs.ca/community'id="footer2" style='font-weight:bold;font-family: Noto Sans TC;'>社區消息(英文)</a>
+            <a href='https://www.eggs.ca/community'id="footer2" style='font-weight:bold;font-family: Noto Sans TC;'>社區消息(英文)</a>
           </li>
           <li >
-            <a href='http://www.eggs.ca/about-us' id="footer3"style='font-weight:bold;font-family: Noto Sans TC;'>關於我們(英文)</a>
+            <a href='https://www.eggs.ca/about-us' id="footer3"style='font-weight:bold;font-family: Noto Sans TC;'>關於我們(英文)</a>
           </li>
           <li >
-            <a href='http://www.eggs.ca/contactus' id="footer4"style='font-weight:bold;font-family: Noto Sans TC;'>聯絡我們(英文)</a>
+            <a href='https://www.eggs.ca/contactus' id="footer4"style='font-weight:bold;font-family: Noto Sans TC;'>聯絡我們(英文)</a>
           </li>
           
         </div>
@@ -422,8 +424,8 @@
           
         </div>
         <div class='col-lg-6' id='policy'>
-          <a href='http://www.eggs.ca/privacypolicy/'>Privacy Policy</a>
-          <a href='http://www.eggs.ca/termsandconditions/'>Terms & Conditions</a>
+          <a href='https://www.eggs.ca/privacypolicy/'>Privacy Policy</a>
+          <a href='https://www.eggs.ca/termsandconditions/'>Terms & Conditions</a>
         </div>
       </div>
     </div>

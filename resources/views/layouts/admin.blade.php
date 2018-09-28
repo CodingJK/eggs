@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Eggs Campaign</title>
+    <title>Eggs Contest</title>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     </script>
@@ -23,8 +23,9 @@
 
     <style>
         @import url('https://fonts.googleapis.com/earlyaccess/notosanstc.css');
+        @import url('https://fonts.googleapis.com/earlyaccess/notosanssc.css');
         * {
-            font-family: 'Noto Sans TC', sans-serif !important;
+            font-family: 'Noto Sans TC','Noto Sans SC', sans-serif !important;
         }
 
         body {}
@@ -88,11 +89,18 @@
 <body>
     <div class=" text-center header">
         <div class="logo">
-            This is Logo
+            Eggs Contest Admin System
         </div>
+        @if (AUth::user())
+            <div class='myLinks'>
+                <a href='/grand' style='padding-right:10px; padding-left:10px;' class='nav-link'>Grand Prize</a>
+                <a href='/secondary' style='padding-right:10px; padding-left:10px;' class='nav-link'>Secondary Prize</a>
+                <a href='/earlyBird' style='padding-right:10px; padding-left:10px;' class='nav-link'>Early Bird</a>            
+            </div>
+        @endif
         <div class="logout">
             @if (AUth::user()) 
-                Hello, {{Auth::user()->name}}
+                Hello, Adminstrator
                 <a href="{{ route('logout') }}" onclick="event.preventDefault();
                                                     document.getElementById('logout-form').submit();">
                                                                                             Logout

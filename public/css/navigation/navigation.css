@@ -69,9 +69,19 @@
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 200px;
-    padding-bottom: 465.5px;
     text-align: center;
-    min-height: 619px;
+    height: 619px;
+  }
+
+  .Header12 {
+    background-image: url("/images/banner/EFC-contestBanner-TC.jpg");
+    background-color: #fbbc27;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-top: 200px;
+    text-align: center;
+    height: 619px;
   }
 
   .Header1 {
@@ -80,7 +90,6 @@
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 200px;
-    padding-bottom: 250px;
     text-align: center;
     min-height: 619px;
   }
@@ -105,7 +114,6 @@
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 200px;
-    padding-bottom: 250px;
     text-align: center;
     min-height: 619px;
   }
@@ -125,7 +133,7 @@
   }
 }
 
-@media screen and (min-width: 850px) and (max-width: 1300px) {
+@media screen and (min-width: 950px) and (max-width: 1300px) {
   .mobile_nav{
     display: none;
   }
@@ -140,6 +148,7 @@
 
   #mid_nav{
    border-bottom:1px solid #f3f5f6;
+   
   }
   
 
@@ -169,7 +178,7 @@
 
   .links a{
     
-    font-size: 26px;
+    font-size: 18px;
     line-height: 30px;
     padding: 16px 12px;
     border: 2px solid white;
@@ -195,9 +204,18 @@
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 200px;
-    padding-bottom: 250px;
     text-align: center;
-    min-height: 619px;
+    height: 619px;
+  }
+
+  .Header12 {
+    background-image: url("/images/banner/EFC-contestBanner-TC_sm.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 200px;
+    text-align: center;
+    height: 619px;
   }
 
   .Header1 {
@@ -206,9 +224,8 @@
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 200px;
-    padding-bottom: 100px;
     text-align: center;
-    min-height: 619px;
+    height: 619px;
   }
 
   .Header1 .header_nutrition_title {
@@ -231,9 +248,8 @@
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 200px;
-    padding-bottom: 100px;
     text-align: center;
-    min-height: 619px;
+    height: 619px;
   }
 
   .Header2 .header_nutrition_title {
@@ -252,7 +268,7 @@
   
 }
 
-@media screen and (max-width: 850px) {
+@media screen and (max-width: 950px) {
 
   .large_nav, .middle_nav{
     display: none;

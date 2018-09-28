@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Eggs Campaign</title>
+    <title>Eggs Contest</title>
     
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     
@@ -86,8 +86,8 @@
 
         
     </script>
-    
-    
+   
+
     <style>
         @import url('https://fonts.googleapis.com/earlyaccess/notosanstc.css'); 
         @import url('https://fonts.googleapis.com/earlyaccess/notosanssc.css');
@@ -563,7 +563,7 @@
                 border-radius: 10px;
                 border: 2px solid rgb(251, 187, 39);
                 color: black;
-                padding: 10px 10px;
+                padding: 10px 5px;
                 text-decoration: none;
                 font-size: 12px;
             
@@ -593,7 +593,7 @@
             .headerList{
                 margin-top: 10px;
                 text-align: left;
-                margin-left: 30px;
+                
             }
 
             .left{
@@ -702,7 +702,7 @@
                 </div>
                 <div class='links'>
                     <a href="https://www.eggsaregood.ca">主頁</a>
-                    <a href="https://sc.eggsaregood.ca" style='font-family: "Noto Sans SC", sans-serif !important; '>简体中文</a>
+                    <a href="https://sc.eggsaregood.ca/contest" style='font-family: "Noto Sans SC", sans-serif !important; '>简体中文</a>
                 </div>
             </div>
             <!--/.nav-collapse -->
@@ -736,7 +736,8 @@
             </div>
             <div class="col-sm-6 right" style='padding-right:0;'>
                 <div id="slideshow">
-                    <img class="active" src="/images/banner/EFC-contest-img-1.png" />
+                	<img class="active" src="/images/banner/img.png" />
+                    <img src="/images/banner/EFC-contest-img-1.png" />
                     <img src="/images/banner/EFC-contest-img-2.png" />
                     <img src="/images/banner/EFC-contest-img-3.png" />
                 </div>
@@ -864,11 +865,11 @@
                                                                                             </button>
                         <h4 class="modal-title" id="myModalLabel" style="display:flex;justify-content:space-between">
                             <div>閱讀條文及條款</div>
-                            <div> </div>
+                            <div>English and French rules and regulation follow the Chinese&nbsp;&nbsp; &nbsp;</div>
                         </h4>
                     </div>
                     <div class="modal-body">
-                        <span style='font-size:16px; font-weight:bold; text-align:center !important'>僅加拿大居民可參與本次比賽<br> 參加本次比賽無需進行任何購買或支付。任何購買或支付行為均不會提高或影響您贏得比賽的機會。<br> 通過流動設備參與本次比賽的參賽者需要支付標準數據傳輸費用。請在通過流動設備參與本次比賽之前，聯絡您的服務供應商以瞭解具體的價格及服務計劃資料和收費。）</span>
+                        <span style='font-size:16px; font-weight:bold; text-align:center !important'>僅加拿大居民可參與本次比賽<br> 參加本次比賽無需進行任何購買或支付。任何購買或支付行為均不會提高或影響您贏得比賽的機會。<br> 通過流動設備參與本次比賽的參賽者需要支付標準數據傳輸費用。請在通過流動設備參與本次比賽之前，聯絡您的服務供應商以瞭解具體的價格及服務計劃資料和收費。</span>
                         
                         <ol>
                             <li>重要日期：<br>本Egg Transformation Contest（以下簡稱「比賽」）的參賽期從東部時間（以下簡稱「ET」）2018年9月25日淩晨12：00：01開始，到東部時間2018年10月25日晚上11：59：59結束（以下簡稱 「參賽期」））</li>

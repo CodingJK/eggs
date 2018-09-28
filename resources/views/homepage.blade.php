@@ -69,6 +69,15 @@
             </div>
             
             <div class="item">
+                <a href="/contest">
+                    <div class='row Header12'>
+                        <div class='header_nutrition_title'></div>
+                        <div class='header_nutrition_sub_title'></div>
+                    </div>
+                </a>
+            </div>
+
+            <div class="item">
                 <a href="/Nutrition">
                 <div class='row Header1'>
                     <div class='header_nutrition_title'  style="font-family: Noto Sans TC;">營養價值</div>
@@ -88,6 +97,8 @@
                     </div>
                 </a>
             </div>
+
+            
           </div>
         </div>
         <script>
@@ -182,11 +193,10 @@
 
 
     <div id='mobile_only'>
+        <a href="/Recipes"  style="font-family: Noto Sans TC;">
         <div class='mobile_header'>
-            <div class='getTheRecipe_1 text-center'>
-                <a href="/Recipes" id='getTheRecipe_1' style="font-family: Noto Sans TC;"> 瀏覽食譜 </a>
-            </div>
-        </div>
+            
+        </div></a>
         <div class='FeaturedRecipe_parent clear-both'>
             <div class='FeaturedRecipe'>
                 <div class='title' style="font-family: Noto Sans TC;">精選食譜<br><br></div>
