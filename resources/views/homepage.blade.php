@@ -60,6 +60,15 @@
         <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
           <div class="carousel-inner" role="listbox">
             <div class="item active">
+                <a href="/contest">
+                    <div class='row Header12'>
+                        <div class='header_nutrition_title'></div>
+                        <div class='header_nutrition_sub_title'></div>
+                    </div>
+                </a>
+            </div>
+
+            <div class="item ">
                 <a href="/Recipes">
                     <div class='row Header11'>
                         <div class='header_nutrition_title'></div>
@@ -68,14 +77,7 @@
                 </a>
             </div>
             
-            <div class="item">
-                <a href="/contest">
-                    <div class='row Header12'>
-                        <div class='header_nutrition_title'></div>
-                        <div class='header_nutrition_sub_title'></div>
-                    </div>
-                </a>
-            </div>
+            
 
             <div class="item">
                 <a href="/Nutrition">

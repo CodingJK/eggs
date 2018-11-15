@@ -99,6 +99,21 @@
             font-size: 1.6em;
         }
         @media (min-width:1200px){
+            .date{
+                height: 150px; width: 150px;
+                background-color: white;
+                text-align: center;
+                font-weight: 800;
+                padding: 35px 0 0 0;
+                font-size: 20px;
+                vertical-align: middle;
+                vertical-align: center;
+                border-radius: 100%;
+                color: black;
+                position: absolute;
+                top: 25%;
+                left: 40%;
+            }
             .secondLine{ padding-left: 50px; }
             .navbar{
                 height: 120px; 
@@ -247,6 +262,21 @@
             }
         }
         @media (min-width:1000px) and (max-width:1200px){
+            .date{
+                height: 150px; width: 150px;
+                background-color: white;
+                text-align: center;
+                font-weight: 800;
+                padding: 35px 0 0 0;
+                font-size: 20px;
+                vertical-align: middle;
+                vertical-align: center;
+                border-radius: 100%;
+                color: black;
+                position: absolute;
+                top: 25%;
+                left: 35%;
+            }
             .secondLine{ padding-left: 40px; }
             .navbar{
                 height: 120px; 
@@ -394,6 +424,21 @@
 
 
         @media (min-width:800px) and (max-width:1000px){
+            .date{
+                height: 100px; width: 100px;
+                background-color: white;
+                text-align: center;
+                font-weight: 800;
+                padding: 25px 0 0 0;
+                font-size: 12px;
+                vertical-align: middle;
+                vertical-align: center;
+                border-radius: 100%;
+                color: black;
+                position: absolute;
+                top: 23%;
+                left: 35%;
+            }
             .secondLine{ padding-left: 30px; }
             .navbar{
                 height: 120px; 
@@ -539,6 +584,21 @@
         }
 
         @media (max-width:800px) {
+            .date{
+                height: 100px; width: 100px;
+                background-color: white;
+                text-align: center;
+                font-weight: 800;
+                padding: 25px 0 0 0;
+                font-size: 12px;
+                vertical-align: middle;
+                vertical-align: center;
+                border-radius: 100%;
+                color: black;
+                position: absolute;
+                top: 20%;
+                left: 70%;
+            }
             .secondLine{
                 
             }
@@ -744,7 +804,10 @@
             </div>
         </div>
     </div>
-
+    <div class='date'>
+        10月25日<br> 截至,
+        <br> 趕快參加！
+    </div>
     <div class="container-fluid title">
         <div class="container">
             <div class="title_header">
@@ -977,7 +1040,10 @@
                         </ol>
                         <b style='font-size:16px'>簡要規則：</b><br>
                         <b style='font-size:16px'>無需進行任何購買。</b>比賽於2018年10月25日（東部時間晚上11:59:59）結束。開放給達到法定成年年齡的加拿大居民參加。比賽設大獎一名，獎品為 $ 3,000元的支票一張 。二獎10名，獎品為每人52張優惠券，每張均可兌換一打雞蛋，約值零售價 $169.00元；獲獎機率取決於合資格參賽作品的數量和質量。晨鳥獎50名，
-                        獎品為每人4張優惠卷，每張均可兌換一打雞蛋，約值零售價 $13元；獲獎機率取決於合資格參賽作品的數量和合資格參賽者完成有效參賽作品的速度。獲選參賽者需要完成技能測試題。有關完整規則，包括參賽、評判和獎品的詳細資料，請瀏覽EggsAreGood.ca/contest。
+                        獎品為每人4張優惠卷，每張均可兌換一打雞蛋，約值零售價 $13元；獲獎機率取決於合資格參賽作品的數量和合資格參賽者完成有效參賽作品的速度。獲選參賽者需要完成技能測試題。有關完整規則，包括參賽、評判和獎品的詳細資料，請瀏覽EggsAreGood.ca/contest。<br>
+
+                        本中文條款與條件乃翻譯，僅作參考之用，最終一切以下文的英文條款與條件為準。
+
                         
                         <hr>
                         {{-- english version --}}

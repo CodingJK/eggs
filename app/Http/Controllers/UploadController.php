@@ -97,6 +97,12 @@ class UploadController extends Controller
 
         $candidate->save();
 
+        try{
+             Mail::to("$candidate->email")->send(new eggs($candidate));
+        }catch(Excention $e){
+
+        }
+
         $name = $candidate->id.'.'.$ext;
         $location = public_path('upload');
         $file->move('upload', $name);

@@ -5,6 +5,7 @@ Route::get('newUser',function(){
     return view('auth.newUser');
 });
 
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -339,7 +340,11 @@ Route::get('/thankyou',function(){
     return view('thankyou');
 })->name('thankyou');
 
+Route::get('/over','CampaignController@over');
 
+Route::get('/test','CampaignController@test');
+
+Route::get('/testEmail','CampaignController@testEmail');
 
 // Route::bind('/sc/thankyou', function(){
 //         return view('thankyou_sc');

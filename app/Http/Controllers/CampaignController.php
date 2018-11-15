@@ -3,6 +3,8 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Candidate;
+use Mail;
+use App\Mail\Eggs;
 
 class CampaignController extends Controller
 {
@@ -40,6 +42,11 @@ class CampaignController extends Controller
         $candidate->email = $request->email;
 
         $candidate->save();
+        try{
+             Mail::to("$candidate->email")->send(new eggs($candidate));
+        }catch(Excention $e){
+
+        }
 
         if ($request->hasFile('images')) {
             $image = $request->file('images');
@@ -173,5 +180,23 @@ class CampaignController extends Controller
     public function earlyBird(){
         $candidates = Candidate::where('display',false)->take(50)->paginate(10);
         return view('campaign.earlyBird',compact('candidates'));
+    }
+
+    public function test(){
+        // $candidate = Candidate::all();
+
+        // foreach ($candidate as $i) {
+        //     Mail::to("$i->email")->send(new eggs($i));
+        // }
+        
+    }
+
+    public function testEmail(){
+        // $candidate = Candidate::find(1);
+        // return view('email.eggs',compact('candidate'));
+    }
+
+    public function over(){
+        return view('/over');
     }
 }
